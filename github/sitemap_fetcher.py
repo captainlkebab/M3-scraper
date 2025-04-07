@@ -123,9 +123,12 @@ class SitemapFetcher:
             filtered_urls = self.filter_urls(xml_content, source)
             
             # Save URLs to file
-            output_path = Path(__file__).parent / "refurbed_urls.txt"
+            # Create Sitemaps directory if it doesn't exist
+            sitemaps_dir = Path(__file__).parent / "Sitemaps"
+            sitemaps_dir.mkdir(parents=True, exist_ok=True)
+            
+            output_path = sitemaps_dir / f"{source.lower()}_urls.txt"
             try:
-                output_path.parent.mkdir(parents=True, exist_ok=True)
                 with open(output_path, 'w', encoding='utf-8') as f:
                     for url in filtered_urls:
                         f.write(f"{url}\n")

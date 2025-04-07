@@ -285,30 +285,35 @@ class RefurbedScraper:
 if __name__ == "__main__":
     scraper = RefurbedScraper()
     
-    # Create Refurbed/Scraped directory if it doesn't exist
+    # Create Scraped directory if it doesn't exist
     output_dir = Path(__file__).parent / "Scraped"
     output_dir.mkdir(parents=True, exist_ok=True)
     
-    # Run on all URLs
-    urls_file = Path(__file__).parent / "refurbed_urls.txt"
-    print(f"Starting to scrape first 100 URLs from: {urls_file}")
+    # Run on all URLs - updated to use Sitemaps folder
+    urls_file = Path(__file__).parent / "Sitemaps" / "refurbed_urls.txt"
+    print(f"Starting to scrape URLs from: {urls_file}")
     
-    with open(urls_file, 'r') as f:
-        urls = [line.strip() for line in f if line.strip()]
-    
-    total_urls = len(urls)
-    results = []
-    for i, url in enumerate(urls, 1):
-        logging.info(f"Scraping {i}/{total_urls}: {url}")
-        product_info = scraper.extract_product_info(url)
-        if product_info:
-            results.append(product_info)
-        time.sleep(1)
+    try:
+        with open(urls_file, 'r') as f:
+            urls = [line.strip() for line in f if line.strip()]
+        
+        total_urls = len(urls)
+        results = []
+        for i, url in enumerate(urls, 1):
+            logging.info(f"Scraping {i}/{total_urls}: {url}")
+            product_info = scraper.extract_product_info(url)
+            if product_info:
+                results.append(product_info)
+            time.sleep(1)
 
-    # Save both JSON and structured files
-    json_output_file = output_dir / f"Refurbed_{datetime.now().strftime('%y%m%d')}.json"
-    with open(json_output_file, 'w', encoding='utf-8') as f:
-        json.dump(results, f, ensure_ascii=False, indent=2)
-    
-    scraper.save_to_structured_files(results, output_dir)
-    logging.info(f"Scraping completed. Saved {len(results)} in {json_output_file}")
+        # Save both JSON and structured files
+        json_output_file = output_dir / f"Refurbed_{datetime.now().strftime('%y%m%d')}.json"
+        with open(json_output_file, 'w', encoding='utf-8') as f:
+            json.dump(results, f, ensure_ascii=False, indent=2)
+        
+        scraper.save_to_structured_files(results, output_dir)
+        logging.info(f"Scraping completed. Saved {len(results)} products in {json_output_file}")
+    except FileNotFoundError:
+        logging.error(f"URL file not found: {urls_file}. Make sure the sitemap_fetcher has been run first.")
+    except Exception as e:
+        logging.error(f"Error during scraping process: {str(e)}")
