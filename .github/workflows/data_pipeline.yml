@@ -1,5 +1,8 @@
 name: Data Pipeline
 
+permissions:
+  contents: write
+
 on:
   schedule:
     # Run once a week on Sunday at 3 PM UTC
