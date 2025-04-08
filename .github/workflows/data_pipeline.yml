@@ -65,6 +65,8 @@ jobs:
       run: |
         git config --global user.name 'captainlkebab'
         git config --global user.email 'samilmail00@gmail.com'
-        git pull --rebase origin main
+        git stash --include-untracked
+        git pull origin main
+        git stash pop || true 
         git add .
         git diff --quiet && git diff --staged --quiet || (git commit -m "Update data from pipeline run" && git push origin main)
