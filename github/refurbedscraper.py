@@ -230,7 +230,7 @@ class RefurbedScraper:
             logging.error(f"Error in scrape_urls_from_file: {str(e)}")
 
     def save_to_structured_files(self, results: list, output_dir: Path):
-        timestamp = datetime.now().strftime("%d%m%y")
+        timestamp = datetime.now().strftime("%y%m%d")
         
         # Create products file
         products_file = output_dir / f"refurbed_{timestamp}_products.csv"

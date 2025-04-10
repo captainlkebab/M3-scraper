@@ -42,11 +42,17 @@ class SitemapFetcher:
         self.setup_logging()
 
     def setup_logging(self):
+        # Create logs directory if it doesn't exist
+        log_dir = Path(__file__).parent / "logs"
+        log_dir.mkdir(parents=True, exist_ok=True)
+
+        # Set up logging with file in logs directory
+        log_file = log_dir / "sitemap_fetcher.log"
         logging.basicConfig(
             level=logging.INFO,
             format='%(asctime)s - %(levelname)s - %(message)s',
             handlers=[
-                logging.FileHandler('refurbed_sitemap.log'),
+                logging.FileHandler(log_file),
                 logging.StreamHandler()
             ]
         )
