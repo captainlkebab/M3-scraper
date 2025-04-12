@@ -8,6 +8,7 @@ class SitemapFetcher:
     def __init__(self):
         self.sitemaps = {
             'Refurbed': "https://www.refurbed.de/sitemap-marketplace.xml",
+            'Backmarket': "https://www.backmarket.de/sitemap_1.xml"
             
         }
         self.headers = {
@@ -37,7 +38,9 @@ class SitemapFetcher:
             'fitbit', 'airpods', 'headphone', 'earbuds', 'speaker', 'homepod',
             'echo', 'alexa', 'google-home', 'nest', 'router', 'modem', 'printer',
             'scanner', 'keyboard', 'mouse', 'trackpad', 'webcam', 'camera', 'lens',
-            'charger', 'adapter', 'cable', 'case', 'cover', 'screen-protector','docking'
+            'charger', 'adapter', 'cable', 'case', 'cover', 'screen-protector','docking',
+            'hulle', 'tonleiste', 'steckdose', 'staubsauger','beamer', 'fernseher','bezug',
+            'blu-ray','konsole'
         ]
         self.setup_logging()
 
@@ -128,8 +131,10 @@ class SitemapFetcher:
             # Filter URLs
             filtered_urls = self.filter_urls(xml_content, source)
             
+            # Sort URLs alphabetically
+            filtered_urls.sort()
+            
             # Save URLs to file
-            # Create Sitemaps directory if it doesn't exist
             sitemaps_dir = Path(__file__).parent / "Sitemaps"
             sitemaps_dir.mkdir(parents=True, exist_ok=True)
             

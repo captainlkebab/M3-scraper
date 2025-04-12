@@ -1,0 +1,3177 @@
+{
+    "hits": [
+        {
+            "listingID": 4233410,
+            "reviewRating": {
+                "count": 10,
+                "average": 4.64
+            },
+            "category_1": "",
+            "category_2": "",
+            "category_3": "Laptop",
+            "cat_id": 9,
+            "id": "9fb0222a-9397-43f1-912a-89ab697e9698",
+            "image1": "https://d2e6ccujb3mkqf.cloudfront.net/9fb0222a-9397-43f1-912a-89ab697e9698-1_9c4c4997-1ef2-4bb4-a907-ce540252886d.jpg",
+            "brand": "99 Lenovo",
+            "color": "Schwarz",
+            "model": "999 ThinkPad T480S",
+            "title": "Lenovo ThinkPad T480S 14\" Core i5 1.7 GHz - SSD 256 GB - 16GB QWERTZ - Deutsch",
+            "price_new": 999.0,
+            "brand_clean": "lenovo",
+            "model_clean": "thinkpad t480s",
+            "price_new_with_currency": "999,00 €",
+            "sim_lock": "99 Ohne Vertrag",
+            "title_model": "Lenovo ThinkPad T480S 14\" Core i5 1.7 GHz - SSD 256 GB - 16GB QWERTZ - Deutsch",
+            "sub_title_elements": [],
+            "variant_fields": {},
+            "backmarketID": 2423517,
+            "backbox_grade_value": 10,
+            "backbox_grade_label": "Hervorragend",
+            "currency": "EUR",
+            "price": 345.6,
+            "price_with_currency": "345,60 €",
+            "special_offer_type": 0,
+            "list_view": {},
+            "link_grade_v2": {
+                "type": "internal",
+                "name": "product",
+                "pattern": "/:locale/p/:slugV2/:uuid",
+                "params": {
+                    "id": "2423517",
+                    "slug": "lenovo-thinkpad-t480s-14-core-i5-17-ghz-ssd-256-gb-16gb-qwertz-deutsch-gebraucht",
+                    "slugV2": "lenovo-thinkpad-t480s-14-core-i5-17-ghz-ssd-256-gb-16gb-qwertz-deutsch",
+                    "uuid": "9fb0222a-9397-43f1-912a-89ab697e9698",
+                    "locale": "de-de"
+                },
+                "query": {},
+                "hash": {
+                    "l": "10"
+                },
+                "href": "https://www.backmarket.de/de-de/p/lenovo-thinkpad-t480s-14-core-i5-17-ghz-ssd-256-gb-16gb-qwertz-deutsch/9fb0222a-9397-43f1-912a-89ab697e9698#l=10"
+            },
+            "merchant_id": 5693,
+            "stockRaw": 62,
+            "warranty": 12,
+            "referencePrice": {
+                "amount": "999.00",
+                "currency": "EUR"
+            },
+            "objectID": "9fb0222a-9397-43f1-912a-89ab697e9698_10_0",
+            "_highlightResult": {
+                "category_3": {
+                    "value": "Laptop",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "brand": {
+                    "value": "99 Lenovo",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "title": {
+                    "value": "Lenovo ThinkPad T480S 14\" Core i5 1.7 GHz - SSD 256 GB - 16GB QWERTZ - Deutsch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "listingID": 5334835,
+            "reviewRating": {
+                "count": 3,
+                "average": 4.6
+            },
+            "category_1": "",
+            "category_2": "",
+            "category_3": "Laptop",
+            "cat_id": 9,
+            "id": "501f35a5-a9ad-4948-b46d-cda4c42f1300",
+            "image1": "https://d2e6ccujb3mkqf.cloudfront.net/501f35a5-a9ad-4948-b46d-cda4c42f1300-1_00ccb6e1-f9d0-4035-9c00-79c4538e6b7f.jpg",
+            "brand": "99 Lenovo",
+            "color": "Schwarz",
+            "model": "999 ThinkPad X390",
+            "title": "Lenovo ThinkPad X390 13\" Core i5 1.6 GHz - SSD 256 GB - 16GB QWERTZ - Deutsch",
+            "price_new": 1000.0,
+            "brand_clean": "lenovo",
+            "model_clean": "thinkpad x390",
+            "price_new_with_currency": "1.000,00 €",
+            "sim_lock": "99 Ohne Vertrag",
+            "title_model": "Lenovo ThinkPad X390 13\" Core i5 1.6 GHz - SSD 256 GB - 16GB QWERTZ - Deutsch",
+            "sub_title_elements": [],
+            "variant_fields": {},
+            "backmarketID": 3630111,
+            "backbox_grade_value": 11,
+            "backbox_grade_label": "Sehr gut",
+            "currency": "EUR",
+            "price": 277.0,
+            "price_with_currency": "277,00 €",
+            "special_offer_type": 0,
+            "list_view": {},
+            "link_grade_v2": {
+                "type": "internal",
+                "name": "product",
+                "pattern": "/:locale/p/:slugV2/:uuid",
+                "params": {
+                    "id": "3630111",
+                    "slug": "lenovo-thinkpad-x390-13-core-i5-16-ghz-ssd-256-gb-16gb-qwertz-deutsch-gebraucht",
+                    "slugV2": "lenovo-thinkpad-x390-13-core-i5-16-ghz-ssd-256-gb-16gb-qwertz-deutsch",
+                    "uuid": "501f35a5-a9ad-4948-b46d-cda4c42f1300",
+                    "locale": "de-de"
+                },
+                "query": {},
+                "hash": {
+                    "l": "11"
+                },
+                "href": "https://www.backmarket.de/de-de/p/lenovo-thinkpad-x390-13-core-i5-16-ghz-ssd-256-gb-16gb-qwertz-deutsch/501f35a5-a9ad-4948-b46d-cda4c42f1300#l=11"
+            },
+            "merchant_id": 5693,
+            "stockRaw": 37,
+            "warranty": 12,
+            "referencePrice": {
+                "amount": "1000.00",
+                "currency": "EUR"
+            },
+            "objectID": "501f35a5-a9ad-4948-b46d-cda4c42f1300_11_0",
+            "_highlightResult": {
+                "category_3": {
+                    "value": "Laptop",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "brand": {
+                    "value": "99 Lenovo",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "title": {
+                    "value": "Lenovo ThinkPad X390 13\" Core i5 1.6 GHz - SSD 256 GB - 16GB QWERTZ - Deutsch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "listingID": 4675366,
+            "reviewRating": {
+                "count": 1,
+                "average": 4.4
+            },
+            "category_1": "",
+            "category_2": "",
+            "category_3": "Laptop",
+            "cat_id": 9,
+            "id": "0353c45e-9dfb-43dd-a6b8-7d10be03fd6f",
+            "image1": "https://d2e6ccujb3mkqf.cloudfront.net/0353c45e-9dfb-43dd-a6b8-7d10be03fd6f-1_489fd7a3-b4cb-464f-8d55-d9d177f6ef55.jpg",
+            "brand": "99 HP",
+            "color": "Grau",
+            "model": "999 ProBook 440 G8",
+            "title": "HP ProBook 440 G8 14\" Core i3 3 GHz - SSD 256 GB - 8GB QWERTZ - Deutsch",
+            "price_new": 1030.0,
+            "brand_clean": "hp",
+            "model_clean": "probook 440 g8",
+            "price_new_with_currency": "1.030,00 €",
+            "sim_lock": "99 Ohne Vertrag",
+            "title_model": "HP ProBook 440 G8 14\" Core i3 3 GHz - SSD 256 GB - 8GB QWERTZ - Deutsch",
+            "sub_title_elements": [],
+            "variant_fields": {},
+            "backmarketID": 5118641,
+            "backbox_grade_value": 11,
+            "backbox_grade_label": "Sehr gut",
+            "currency": "EUR",
+            "price": 256.99,
+            "price_with_currency": "256,99 €",
+            "special_offer_type": 0,
+            "list_view": {},
+            "link_grade_v2": {
+                "type": "internal",
+                "name": "product",
+                "pattern": "/:locale/p/:slugV2/:uuid",
+                "params": {
+                    "id": "5118641",
+                    "slug": "hp-probook-440-g8-14-core-i3-3-ghz-ssd-256-gb-8gb-qwertz-deutsch-gebraucht",
+                    "slugV2": "hp-probook-440-g8-14-core-i3-3-ghz-ssd-256-gb-8gb-qwertz-deutsch",
+                    "uuid": "0353c45e-9dfb-43dd-a6b8-7d10be03fd6f",
+                    "locale": "de-de"
+                },
+                "query": {},
+                "hash": {
+                    "l": "11"
+                },
+                "href": "https://www.backmarket.de/de-de/p/hp-probook-440-g8-14-core-i3-3-ghz-ssd-256-gb-8gb-qwertz-deutsch/0353c45e-9dfb-43dd-a6b8-7d10be03fd6f#l=11"
+            },
+            "merchant_id": 5443,
+            "stockRaw": 10,
+            "warranty": 12,
+            "referencePrice": {
+                "amount": "1030.00",
+                "currency": "EUR"
+            },
+            "objectID": "0353c45e-9dfb-43dd-a6b8-7d10be03fd6f_11_0",
+            "_highlightResult": {
+                "category_3": {
+                    "value": "Laptop",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "brand": {
+                    "value": "99 HP",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "title": {
+                    "value": "HP ProBook 440 G8 14\" Core i3 3 GHz - SSD 256 GB - 8GB QWERTZ - Deutsch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "listingID": 4960861,
+            "reviewRating": {
+                "count": 4,
+                "average": 4.2
+            },
+            "category_1": "",
+            "category_2": "",
+            "category_3": "Notebooks & Ultrabooks",
+            "cat_id": 11,
+            "id": "622fbc68-db7b-4b01-a965-2efc2baa40ec",
+            "image1": "https://d2e6ccujb3mkqf.cloudfront.net/622fbc68-db7b-4b01-a965-2efc2baa40ec-1_c4afb59f-0277-42b6-9b70-de401860f951.jpg",
+            "brand": "99 HP",
+            "color": "Silber",
+            "model": "999 EliteBook 840 G7",
+            "title": "Hp EliteBook 840 G7 14\" Core i5 1.7 GHz - SSD 256 GB - 16GB QWERTZ - Deutsch",
+            "price_new": 1499.0,
+            "brand_clean": "hp",
+            "model_clean": "elitebook 840 g7",
+            "price_new_with_currency": "1.499,00 €",
+            "sim_lock": "99 Ohne Vertrag",
+            "title_model": "Hp EliteBook 840 G7 14\" Core i5 1.7 GHz - SSD 256 GB - 16GB QWERTZ - Deutsch",
+            "sub_title_elements": [],
+            "variant_fields": {},
+            "backmarketID": 795534,
+            "backbox_grade_value": 11,
+            "backbox_grade_label": "Sehr gut",
+            "currency": "EUR",
+            "price": 279.0,
+            "price_with_currency": "279,00 €",
+            "special_offer_type": 0,
+            "list_view": {},
+            "link_grade_v2": {
+                "type": "internal",
+                "name": "product",
+                "pattern": "/:locale/p/:slugV2/:uuid",
+                "params": {
+                    "id": "795534",
+                    "slug": "hp-elitebook-840-g7-14-core-i5-ghz-ssd-256-gb-16gb-gebraucht",
+                    "slugV2": "hp-elitebook-840-g7-14-core-i5-ghz-ssd-256-gb-16gb",
+                    "uuid": "622fbc68-db7b-4b01-a965-2efc2baa40ec",
+                    "locale": "de-de"
+                },
+                "query": {},
+                "hash": {
+                    "l": "11"
+                },
+                "href": "https://www.backmarket.de/de-de/p/hp-elitebook-840-g7-14-core-i5-ghz-ssd-256-gb-16gb/622fbc68-db7b-4b01-a965-2efc2baa40ec#l=11"
+            },
+            "merchant_id": 17207,
+            "stockRaw": 10,
+            "warranty": 12,
+            "referencePrice": {
+                "amount": "1499.00",
+                "currency": "EUR"
+            },
+            "objectID": "622fbc68-db7b-4b01-a965-2efc2baa40ec_11_0",
+            "_highlightResult": {
+                "category_3": {
+                    "value": "Notebooks & Ultrabooks",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "brand": {
+                    "value": "99 HP",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "title": {
+                    "value": "Hp EliteBook 840 G7 14\" Core i5 1.7 GHz - SSD 256 GB - 16GB QWERTZ - Deutsch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "listingID": 3734501,
+            "reviewRating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "category_1": "",
+            "category_2": "",
+            "category_3": "Notebooks & Ultrabooks",
+            "cat_id": 11,
+            "id": "4744b5aa-63f8-4212-bf57-4b3adbc7e02f",
+            "image1": "https://d2e6ccujb3mkqf.cloudfront.net/4744b5aa-63f8-4212-bf57-4b3adbc7e02f-1_6ed3fd0a-07d7-48dc-a1fd-d9d0b8b12560.jpg",
+            "brand": "99 HP",
+            "color": "Grau",
+            "model": "999 EliteBook 830 G6",
+            "title": "Hp EliteBook 830 G6 13\" Core i5 1.6 GHz - SSD 512 GB - 8GB QWERTY - Englisch",
+            "price_new": 1718.78,
+            "brand_clean": "hp",
+            "model_clean": "elitebook 830 g6",
+            "price_new_with_currency": "1.718,78 €",
+            "sim_lock": "99 Ohne Vertrag",
+            "title_model": "Hp EliteBook 830 G6 13\" Core i5 1.6 GHz - SSD 512 GB - 8GB QWERTY - Englisch",
+            "sub_title_elements": [],
+            "variant_fields": {},
+            "backmarketID": 2912963,
+            "backbox_grade_value": 10,
+            "backbox_grade_label": "Hervorragend",
+            "currency": "EUR",
+            "price": 293.45,
+            "price_with_currency": "293,45 €",
+            "special_offer_type": 0,
+            "list_view": {},
+            "link_grade_v2": {
+                "type": "internal",
+                "name": "product",
+                "pattern": "/:locale/p/:slugV2/:uuid",
+                "params": {
+                    "id": "2912963",
+                    "slug": "hp-elitebook-830-g6-13-core-i5-16-ghz-ssd-512-gb-8gb-qwerty-englisch-gebraucht",
+                    "slugV2": "hp-elitebook-830-g6-13-core-i5-16-ghz-ssd-512-gb-8gb-qwerty-englisch",
+                    "uuid": "4744b5aa-63f8-4212-bf57-4b3adbc7e02f",
+                    "locale": "de-de"
+                },
+                "query": {},
+                "hash": {
+                    "l": "10"
+                },
+                "href": "https://www.backmarket.de/de-de/p/hp-elitebook-830-g6-13-core-i5-16-ghz-ssd-512-gb-8gb-qwerty-englisch/4744b5aa-63f8-4212-bf57-4b3adbc7e02f#l=10"
+            },
+            "merchant_id": 8279,
+            "stockRaw": 32,
+            "warranty": 12,
+            "referencePrice": {
+                "amount": "1718.78",
+                "currency": "EUR"
+            },
+            "objectID": "4744b5aa-63f8-4212-bf57-4b3adbc7e02f_10_0",
+            "_highlightResult": {
+                "category_3": {
+                    "value": "Notebooks & Ultrabooks",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "brand": {
+                    "value": "99 HP",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "title": {
+                    "value": "Hp EliteBook 830 G6 13\" Core i5 1.6 GHz - SSD 512 GB - 8GB QWERTY - Englisch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "listingID": 5009234,
+            "reviewRating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "category_1": "",
+            "category_2": "",
+            "category_3": "Laptop",
+            "cat_id": 9,
+            "id": "b0310507-0b12-4df9-b45e-cddb35054670",
+            "image1": "https://d2e6ccujb3mkqf.cloudfront.net/b0310507-0b12-4df9-b45e-cddb35054670-1_7682b66d-01b5-4e67-b5ba-32c4cdfb63fc.jpg",
+            "brand": "99 HP",
+            "color": "Silber",
+            "model": "999 EliteBook 840 G7",
+            "title": "HP EliteBook 840 G7 14\" Core i5 1.7 GHz - SSD 512 GB - 16GB QWERTZ - Deutsch",
+            "price_new": 887.0,
+            "brand_clean": "hp",
+            "model_clean": "elitebook 840 g7",
+            "price_new_with_currency": "887,00 €",
+            "sim_lock": "99 Ohne Vertrag",
+            "title_model": "HP EliteBook 840 G7 14\" Core i5 1.7 GHz - SSD 512 GB - 16GB QWERTZ - Deutsch",
+            "sub_title_elements": [],
+            "variant_fields": {},
+            "backmarketID": 5295841,
+            "backbox_grade_value": 11,
+            "backbox_grade_label": "Sehr gut",
+            "currency": "EUR",
+            "price": 369.0,
+            "price_with_currency": "369,00 €",
+            "special_offer_type": 0,
+            "list_view": {},
+            "link_grade_v2": {
+                "type": "internal",
+                "name": "product",
+                "pattern": "/:locale/p/:slugV2/:uuid",
+                "params": {
+                    "id": "5295841",
+                    "slug": "hp-elitebook-840-g7-14-core-i5-17-ghz-ssd-512-gb-16gb-qwertz-deutsch-gebraucht",
+                    "slugV2": "hp-elitebook-840-g7-14-core-i5-17-ghz-ssd-512-gb-16gb-qwertz-deutsch",
+                    "uuid": "b0310507-0b12-4df9-b45e-cddb35054670",
+                    "locale": "de-de"
+                },
+                "query": {},
+                "hash": {
+                    "l": "11"
+                },
+                "href": "https://www.backmarket.de/de-de/p/hp-elitebook-840-g7-14-core-i5-17-ghz-ssd-512-gb-16gb-qwertz-deutsch/b0310507-0b12-4df9-b45e-cddb35054670#l=11"
+            },
+            "merchant_id": 17207,
+            "stockRaw": 2,
+            "warranty": 12,
+            "referencePrice": {
+                "amount": "887.00",
+                "currency": "EUR"
+            },
+            "objectID": "b0310507-0b12-4df9-b45e-cddb35054670_11_0",
+            "_highlightResult": {
+                "category_3": {
+                    "value": "Laptop",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "brand": {
+                    "value": "99 HP",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "title": {
+                    "value": "HP EliteBook 840 G7 14\" Core i5 1.7 GHz - SSD 512 GB - 16GB QWERTZ - Deutsch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "listingID": 5009722,
+            "reviewRating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "category_1": "",
+            "category_2": "",
+            "category_3": "Laptop",
+            "cat_id": 9,
+            "id": "cdffdb1c-4d12-4cfe-aebf-f3da5462d74b",
+            "image1": "https://d2e6ccujb3mkqf.cloudfront.net/cdffdb1c-4d12-4cfe-aebf-f3da5462d74b-1_b1e4a1ea-7836-4b1e-af94-686f2fb05e17.jpg",
+            "brand": "99 HP",
+            "color": "Silber",
+            "model": "999 EliteBook 850 G7",
+            "title": "HP EliteBook 850 G7 15\" Core i5 1.7 GHz - SSD 512 GB - 16GB QWERTZ - Deutsch",
+            "price_new": 918.0,
+            "brand_clean": "hp",
+            "model_clean": "elitebook 850 g7",
+            "price_new_with_currency": "918,00 €",
+            "sim_lock": "99 Ohne Vertrag",
+            "title_model": "HP EliteBook 850 G7 15\" Core i5 1.7 GHz - SSD 512 GB - 16GB QWERTZ - Deutsch",
+            "sub_title_elements": [],
+            "variant_fields": {},
+            "backmarketID": 2499344,
+            "backbox_grade_value": 10,
+            "backbox_grade_label": "Hervorragend",
+            "currency": "EUR",
+            "price": 435.0,
+            "price_with_currency": "435,00 €",
+            "special_offer_type": 0,
+            "list_view": {},
+            "link_grade_v2": {
+                "type": "internal",
+                "name": "product",
+                "pattern": "/:locale/p/:slugV2/:uuid",
+                "params": {
+                    "id": "2499344",
+                    "slug": "hp-elitebook-850-g7-15-core-i5-17-ghz-ssd-512-gb-16gb-qwertz-deutsch-gebraucht",
+                    "slugV2": "hp-elitebook-850-g7-15-core-i5-17-ghz-ssd-512-gb-16gb-qwertz-deutsch",
+                    "uuid": "cdffdb1c-4d12-4cfe-aebf-f3da5462d74b",
+                    "locale": "de-de"
+                },
+                "query": {},
+                "hash": {
+                    "l": "10"
+                },
+                "href": "https://www.backmarket.de/de-de/p/hp-elitebook-850-g7-15-core-i5-17-ghz-ssd-512-gb-16gb-qwertz-deutsch/cdffdb1c-4d12-4cfe-aebf-f3da5462d74b#l=10"
+            },
+            "merchant_id": 17207,
+            "stockRaw": 2,
+            "warranty": 12,
+            "referencePrice": {
+                "amount": "918.00",
+                "currency": "EUR"
+            },
+            "objectID": "cdffdb1c-4d12-4cfe-aebf-f3da5462d74b_10_0",
+            "_highlightResult": {
+                "category_3": {
+                    "value": "Laptop",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "brand": {
+                    "value": "99 HP",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "title": {
+                    "value": "HP EliteBook 850 G7 15\" Core i5 1.7 GHz - SSD 512 GB - 16GB QWERTZ - Deutsch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "listingID": 4310848,
+            "reviewRating": {
+                "count": 21,
+                "average": 4.64
+            },
+            "category_1": "",
+            "category_2": "",
+            "category_3": "Laptop",
+            "cat_id": 9,
+            "id": "d73c6837-930b-4a86-984e-bb7dc14e1bdc",
+            "image1": "https://d2e6ccujb3mkqf.cloudfront.net/d73c6837-930b-4a86-984e-bb7dc14e1bdc-1_d4eb041f-f01c-41dc-9403-ad835e02d95c.jpg",
+            "brand": "99 Lenovo",
+            "color": "Schwarz",
+            "model": "999 ThinkPad T590",
+            "title": "Lenovo ThinkPad T590 15\" Core i5 1.6 GHz - SSD 512 GB - 16GB QWERTZ - Deutsch",
+            "price_new": 1449.0,
+            "brand_clean": "lenovo",
+            "model_clean": "thinkpad t590",
+            "price_new_with_currency": "1.449,00 €",
+            "sim_lock": "99 Ohne Vertrag",
+            "title_model": "Lenovo ThinkPad T590 15\" Core i5 1.6 GHz - SSD 512 GB - 16GB QWERTZ - Deutsch",
+            "sub_title_elements": [],
+            "variant_fields": {},
+            "backmarketID": 1914306,
+            "backbox_grade_value": 11,
+            "backbox_grade_label": "Sehr gut",
+            "currency": "EUR",
+            "price": 440.0,
+            "price_with_currency": "440,00 €",
+            "special_offer_type": 0,
+            "list_view": {},
+            "link_grade_v2": {
+                "type": "internal",
+                "name": "product",
+                "pattern": "/:locale/p/:slugV2/:uuid",
+                "params": {
+                    "id": "1914306",
+                    "slug": "lenovo-thinkpad-t590-15-core-i5-16-ghz-ssd-512-gb-16gb-qwertz-deutsch-gebraucht",
+                    "slugV2": "lenovo-thinkpad-t590-15-core-i5-16-ghz-ssd-512-gb-16gb-qwertz-deutsch",
+                    "uuid": "d73c6837-930b-4a86-984e-bb7dc14e1bdc",
+                    "locale": "de-de"
+                },
+                "query": {},
+                "hash": {
+                    "l": "11"
+                },
+                "href": "https://www.backmarket.de/de-de/p/lenovo-thinkpad-t590-15-core-i5-16-ghz-ssd-512-gb-16gb-qwertz-deutsch/d73c6837-930b-4a86-984e-bb7dc14e1bdc#l=11"
+            },
+            "merchant_id": 5693,
+            "stockRaw": 49,
+            "warranty": 12,
+            "referencePrice": {
+                "amount": "1449.00",
+                "currency": "EUR"
+            },
+            "objectID": "d73c6837-930b-4a86-984e-bb7dc14e1bdc_11_0",
+            "_highlightResult": {
+                "category_3": {
+                    "value": "Laptop",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "brand": {
+                    "value": "99 Lenovo",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "title": {
+                    "value": "Lenovo ThinkPad T590 15\" Core i5 1.6 GHz - SSD 512 GB - 16GB QWERTZ - Deutsch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "listingID": 4055001,
+            "reviewRating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "category_1": "",
+            "category_2": "",
+            "category_3": "Notebooks & Ultrabooks",
+            "cat_id": 11,
+            "id": "498d695f-c08a-4b5b-a397-353d8e92f501",
+            "image1": "https://d2e6ccujb3mkqf.cloudfront.net/498d695f-c08a-4b5b-a397-353d8e92f501-1_a9ed76e3-0249-4d89-a2fd-05a2121aba3a.jpg",
+            "brand": "99 Lenovo",
+            "color": "Schwarz",
+            "model": "999 ThinkPad X250",
+            "title": "Lenovo ThinkPad X250 12\" Core i5 2.2 GHz - SSD 120 GB - 8GB QWERTZ - Deutsch",
+            "price_new": 645.0,
+            "brand_clean": "lenovo",
+            "model_clean": "thinkpad x250",
+            "price_new_with_currency": "645,00 €",
+            "sim_lock": "99 Ohne Vertrag",
+            "title_model": "Lenovo ThinkPad X250 12\" Core i5 2.2 GHz - SSD 120 GB - 8GB QWERTZ - Deutsch",
+            "sub_title_elements": [],
+            "variant_fields": {},
+            "backmarketID": 506401,
+            "backbox_grade_value": 11,
+            "backbox_grade_label": "Sehr gut",
+            "currency": "EUR",
+            "price": 147.96,
+            "price_with_currency": "147,96 €",
+            "special_offer_type": 0,
+            "list_view": {},
+            "link_grade_v2": {
+                "type": "internal",
+                "name": "product",
+                "pattern": "/:locale/p/:slugV2/:uuid",
+                "params": {
+                    "id": "506401",
+                    "slug": "lenovo-thinkpad-x250-12-core-i5-22-ghz-ssd-120-gb-8gb-qwertz-deutsch-gebraucht",
+                    "slugV2": "lenovo-thinkpad-x250-12-core-i5-22-ghz-ssd-120-gb-8gb-qwertz-deutsch",
+                    "uuid": "498d695f-c08a-4b5b-a397-353d8e92f501",
+                    "locale": "de-de"
+                },
+                "query": {},
+                "hash": {
+                    "l": "11"
+                },
+                "href": "https://www.backmarket.de/de-de/p/lenovo-thinkpad-x250-12-core-i5-22-ghz-ssd-120-gb-8gb-qwertz-deutsch/498d695f-c08a-4b5b-a397-353d8e92f501#l=11"
+            },
+            "merchant_id": 17342,
+            "stockRaw": 1,
+            "warranty": 12,
+            "referencePrice": {
+                "amount": "645.00",
+                "currency": "EUR"
+            },
+            "objectID": "498d695f-c08a-4b5b-a397-353d8e92f501_11_0",
+            "_highlightResult": {
+                "category_3": {
+                    "value": "Notebooks & Ultrabooks",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "brand": {
+                    "value": "99 Lenovo",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "title": {
+                    "value": "Lenovo ThinkPad X250 12\" Core i5 2.2 GHz - SSD 120 GB - 8GB QWERTZ - Deutsch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "listingID": 5335934,
+            "reviewRating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "category_1": "",
+            "category_2": "",
+            "category_3": "Notebooks & Ultrabooks",
+            "cat_id": 11,
+            "id": "b1c0deef-dac9-497b-8228-b15fe47ef123",
+            "image1": "https://d2e6ccujb3mkqf.cloudfront.net/b1c0deef-dac9-497b-8228-b15fe47ef123-1_cc9becf6-ad6c-4185-8a49-79cc21c1bd87.jpg",
+            "brand": "99 Dell",
+            "color": "Schwarz",
+            "model": "999 Latitude 5290",
+            "title": "Dell Latitude 5290 12\" Core i5 2.6 GHz - SSD 128 GB - 8GB AZERTY - Französisch",
+            "price_new": 829.0,
+            "brand_clean": "dell",
+            "model_clean": "latitude 5290",
+            "price_new_with_currency": "829,00 €",
+            "sim_lock": "99 Ohne Vertrag",
+            "title_model": "Dell Latitude 5290 12\" Core i5 2.6 GHz - SSD 128 GB - 8GB AZERTY - Französisch",
+            "sub_title_elements": [],
+            "variant_fields": {},
+            "backmarketID": 432251,
+            "backbox_grade_value": 11,
+            "backbox_grade_label": "Sehr gut",
+            "currency": "EUR",
+            "price": 160.0,
+            "price_with_currency": "160,00 €",
+            "special_offer_type": 0,
+            "list_view": {},
+            "link_grade_v2": {
+                "type": "internal",
+                "name": "product",
+                "pattern": "/:locale/p/:slugV2/:uuid",
+                "params": {
+                    "id": "432251",
+                    "slug": "dell-latitude-5290-12-core-i5-26-ghz-ssd-128-gb-8gb-azerty-franzosisch-gebraucht",
+                    "slugV2": "dell-latitude-5290-12-core-i5-26-ghz-ssd-128-gb-8gb-azerty-franzosisch",
+                    "uuid": "b1c0deef-dac9-497b-8228-b15fe47ef123",
+                    "locale": "de-de"
+                },
+                "query": {},
+                "hash": {
+                    "l": "11"
+                },
+                "href": "https://www.backmarket.de/de-de/p/dell-latitude-5290-12-core-i5-26-ghz-ssd-128-gb-8gb-azerty-franzosisch/b1c0deef-dac9-497b-8228-b15fe47ef123#l=11"
+            },
+            "merchant_id": 5287,
+            "stockRaw": 6,
+            "warranty": 12,
+            "referencePrice": {
+                "amount": "829.00",
+                "currency": "EUR"
+            },
+            "objectID": "b1c0deef-dac9-497b-8228-b15fe47ef123_11_0",
+            "_highlightResult": {
+                "category_3": {
+                    "value": "Notebooks & Ultrabooks",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "brand": {
+                    "value": "99 Dell",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "title": {
+                    "value": "Dell Latitude 5290 12\" Core i5 2.6 GHz - SSD 128 GB - 8GB AZERTY - Französisch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "listingID": 4054978,
+            "reviewRating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "category_1": "",
+            "category_2": "",
+            "category_3": "Notebooks & Ultrabooks",
+            "cat_id": 11,
+            "id": "e95e552d-4de1-4731-8b00-0e6a4130564e",
+            "image1": "https://d2e6ccujb3mkqf.cloudfront.net/e95e552d-4de1-4731-8b00-0e6a4130564e-1_745a4b44-691a-4692-9f9e-764b570d82c3.jpg",
+            "brand": "99 Lenovo",
+            "color": "Schwarz",
+            "model": "999 ThinkPad X250",
+            "title": "Lenovo ThinkPad X250 12\" Core i5 2.2 GHz - SSD 512 GB - 8GB QWERTZ - Deutsch",
+            "price_new": 645.0,
+            "brand_clean": "lenovo",
+            "model_clean": "thinkpad x250",
+            "price_new_with_currency": "645,00 €",
+            "sim_lock": "99 Ohne Vertrag",
+            "title_model": "Lenovo ThinkPad X250 12\" Core i5 2.2 GHz - SSD 512 GB - 8GB QWERTZ - Deutsch",
+            "sub_title_elements": [],
+            "variant_fields": {},
+            "backmarketID": 506404,
+            "backbox_grade_value": 11,
+            "backbox_grade_label": "Sehr gut",
+            "currency": "EUR",
+            "price": 160.92,
+            "price_with_currency": "160,92 €",
+            "special_offer_type": 0,
+            "list_view": {},
+            "link_grade_v2": {
+                "type": "internal",
+                "name": "product",
+                "pattern": "/:locale/p/:slugV2/:uuid",
+                "params": {
+                    "id": "506404",
+                    "slug": "lenovo-thinkpad-x250-12-core-i5-22-ghz-ssd-512-gb-8gb-qwertz-deutsch-gebraucht",
+                    "slugV2": "lenovo-thinkpad-x250-12-core-i5-22-ghz-ssd-512-gb-8gb-qwertz-deutsch",
+                    "uuid": "e95e552d-4de1-4731-8b00-0e6a4130564e",
+                    "locale": "de-de"
+                },
+                "query": {},
+                "hash": {
+                    "l": "11"
+                },
+                "href": "https://www.backmarket.de/de-de/p/lenovo-thinkpad-x250-12-core-i5-22-ghz-ssd-512-gb-8gb-qwertz-deutsch/e95e552d-4de1-4731-8b00-0e6a4130564e#l=11"
+            },
+            "merchant_id": 17342,
+            "stockRaw": 1,
+            "warranty": 12,
+            "referencePrice": {
+                "amount": "645.00",
+                "currency": "EUR"
+            },
+            "objectID": "e95e552d-4de1-4731-8b00-0e6a4130564e_11_0",
+            "_highlightResult": {
+                "category_3": {
+                    "value": "Notebooks & Ultrabooks",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "brand": {
+                    "value": "99 Lenovo",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "title": {
+                    "value": "Lenovo ThinkPad X250 12\" Core i5 2.2 GHz - SSD 512 GB - 8GB QWERTZ - Deutsch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "listingID": 4016203,
+            "reviewRating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "category_1": "",
+            "category_2": "",
+            "category_3": "Notebooks & Ultrabooks",
+            "cat_id": 11,
+            "id": "72fbf4cd-56ff-404a-a825-fd938865d4ad",
+            "image1": "https://d2e6ccujb3mkqf.cloudfront.net/72fbf4cd-56ff-404a-a825-fd938865d4ad-1_f5b19ee6-4742-41b2-a234-37583c4549bf.jpg",
+            "brand": "99 Dell",
+            "color": "Schwarz",
+            "model": "999 Latitude E5470",
+            "title": "Dell Latitude E5470 14\" Core i5 2.3 GHz - SSD 256 GB - 8GB QWERTZ - Deutsch",
+            "price_new": 1116.0,
+            "brand_clean": "dell",
+            "model_clean": "latitude e5470",
+            "price_new_with_currency": "1.116,00 €",
+            "sim_lock": "99 Ohne Vertrag",
+            "title_model": "Dell Latitude E5470 14\" Core i5 2.3 GHz - SSD 256 GB - 8GB QWERTZ - Deutsch",
+            "sub_title_elements": [],
+            "variant_fields": {},
+            "backmarketID": 612948,
+            "backbox_grade_value": 11,
+            "backbox_grade_label": "Sehr gut",
+            "currency": "EUR",
+            "price": 185.0,
+            "price_with_currency": "185,00 €",
+            "special_offer_type": 0,
+            "list_view": {},
+            "link_grade_v2": {
+                "type": "internal",
+                "name": "product",
+                "pattern": "/:locale/p/:slugV2/:uuid",
+                "params": {
+                    "id": "612948",
+                    "slug": "dell-latitude-e5470-14-core-i5-ghz-ssd-256-gb-8gb-gebraucht",
+                    "slugV2": "dell-latitude-e5470-14-core-i5-ghz-ssd-256-gb-8gb",
+                    "uuid": "72fbf4cd-56ff-404a-a825-fd938865d4ad",
+                    "locale": "de-de"
+                },
+                "query": {},
+                "hash": {
+                    "l": "11"
+                },
+                "href": "https://www.backmarket.de/de-de/p/dell-latitude-e5470-14-core-i5-ghz-ssd-256-gb-8gb/72fbf4cd-56ff-404a-a825-fd938865d4ad#l=11"
+            },
+            "merchant_id": 6212,
+            "stockRaw": 95,
+            "warranty": 12,
+            "referencePrice": {
+                "amount": "1116.00",
+                "currency": "EUR"
+            },
+            "objectID": "72fbf4cd-56ff-404a-a825-fd938865d4ad_11_0",
+            "_highlightResult": {
+                "category_3": {
+                    "value": "Notebooks & Ultrabooks",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "brand": {
+                    "value": "99 Dell",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "title": {
+                    "value": "Dell Latitude E5470 14\" Core i5 2.3 GHz - SSD 256 GB - 8GB QWERTZ - Deutsch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "listingID": 4129612,
+            "reviewRating": {
+                "count": 4,
+                "average": 4.6
+            },
+            "category_1": "",
+            "category_2": "",
+            "category_3": "Notebooks & Ultrabooks",
+            "cat_id": 11,
+            "id": "7f3dd234-2618-4696-893e-69ead3600bb6",
+            "image1": "https://d2e6ccujb3mkqf.cloudfront.net/7f3dd234-2618-4696-893e-69ead3600bb6-1_40b8a793-4531-4337-b6fe-46df2f9a12d2.jpg",
+            "brand": "99 HP",
+            "color": "Schwarz/Grau",
+            "model": "999 EliteBook 820 G3",
+            "title": "Hp EliteBook 820 G3 12\" Core i5 2.4 GHz - SSD 256 GB - 8GB AZERTY - Französisch",
+            "price_new": 779.4,
+            "brand_clean": "hp",
+            "model_clean": "elitebook 820 g3",
+            "price_new_with_currency": "779,40 €",
+            "sim_lock": "99 Ohne Vertrag",
+            "title_model": "Hp EliteBook 820 G3 12\" Core i5 2.4 GHz - SSD 256 GB - 8GB AZERTY - Französisch",
+            "sub_title_elements": [],
+            "variant_fields": {},
+            "backmarketID": 733788,
+            "backbox_grade_value": 10,
+            "backbox_grade_label": "Hervorragend",
+            "currency": "EUR",
+            "price": 185.76,
+            "price_with_currency": "185,76 €",
+            "special_offer_type": 0,
+            "list_view": {},
+            "link_grade_v2": {
+                "type": "internal",
+                "name": "product",
+                "pattern": "/:locale/p/:slugV2/:uuid",
+                "params": {
+                    "id": "733788",
+                    "slug": "hp-elitebook-820-g3-12-core-i5-24-ghz-ssd-256-gb-8gb-azerty-franzosisch-gebraucht",
+                    "slugV2": "hp-elitebook-820-g3-12-core-i5-24-ghz-ssd-256-gb-8gb-azerty-franzosisch",
+                    "uuid": "7f3dd234-2618-4696-893e-69ead3600bb6",
+                    "locale": "de-de"
+                },
+                "query": {},
+                "hash": {
+                    "l": "10"
+                },
+                "href": "https://www.backmarket.de/de-de/p/hp-elitebook-820-g3-12-core-i5-24-ghz-ssd-256-gb-8gb-azerty-franzosisch/7f3dd234-2618-4696-893e-69ead3600bb6#l=10"
+            },
+            "merchant_id": 5693,
+            "stockRaw": 41,
+            "warranty": 12,
+            "referencePrice": {
+                "amount": "779.40",
+                "currency": "EUR"
+            },
+            "objectID": "7f3dd234-2618-4696-893e-69ead3600bb6_10_0",
+            "_highlightResult": {
+                "category_3": {
+                    "value": "Notebooks & Ultrabooks",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "brand": {
+                    "value": "99 HP",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "title": {
+                    "value": "Hp EliteBook 820 G3 12\" Core i5 2.4 GHz - SSD 256 GB - 8GB AZERTY - Französisch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "listingID": 4051136,
+            "reviewRating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "category_1": "",
+            "category_2": "",
+            "category_3": "Notebooks & Ultrabooks",
+            "cat_id": 11,
+            "id": "6531c93c-9136-4a22-9735-7e84284067d6",
+            "image1": "https://d2e6ccujb3mkqf.cloudfront.net/6531c93c-9136-4a22-9735-7e84284067d6-1_3f39ac97-dbfe-4f63-b8fc-fad31026a7f9.jpg",
+            "brand": "99 Lenovo",
+            "color": "Schwarz",
+            "model": "999 ThinkPad X260",
+            "title": "Lenovo ThinkPad X260 12\" Core i5 2.4 GHz - SSD 256 GB - 16GB QWERTZ - Deutsch",
+            "price_new": 499.99,
+            "brand_clean": "lenovo",
+            "model_clean": "thinkpad x260",
+            "price_new_with_currency": "499,99 €",
+            "sim_lock": "99 Ohne Vertrag",
+            "title_model": "Lenovo ThinkPad X260 12\" Core i5 2.4 GHz - SSD 256 GB - 16GB QWERTZ - Deutsch",
+            "sub_title_elements": [],
+            "variant_fields": {},
+            "backmarketID": 771889,
+            "backbox_grade_value": 11,
+            "backbox_grade_label": "Sehr gut",
+            "currency": "EUR",
+            "price": 189.0,
+            "price_with_currency": "189,00 €",
+            "special_offer_type": 0,
+            "list_view": {},
+            "link_grade_v2": {
+                "type": "internal",
+                "name": "product",
+                "pattern": "/:locale/p/:slugV2/:uuid",
+                "params": {
+                    "id": "771889",
+                    "slug": "lenovo-thinkpad-x260-12-core-i5-24-ghz-ssd-250-gb-16gb-qwertz-deutsch-gebraucht",
+                    "slugV2": "lenovo-thinkpad-x260-12-core-i5-24-ghz-ssd-250-gb-16gb-qwertz-deutsch",
+                    "uuid": "6531c93c-9136-4a22-9735-7e84284067d6",
+                    "locale": "de-de"
+                },
+                "query": {},
+                "hash": {
+                    "l": "11"
+                },
+                "href": "https://www.backmarket.de/de-de/p/lenovo-thinkpad-x260-12-core-i5-24-ghz-ssd-250-gb-16gb-qwertz-deutsch/6531c93c-9136-4a22-9735-7e84284067d6#l=11"
+            },
+            "merchant_id": 17342,
+            "stockRaw": 1,
+            "warranty": 12,
+            "referencePrice": {
+                "amount": "499.99",
+                "currency": "EUR"
+            },
+            "objectID": "6531c93c-9136-4a22-9735-7e84284067d6_11_0",
+            "_highlightResult": {
+                "category_3": {
+                    "value": "Notebooks & Ultrabooks",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "brand": {
+                    "value": "99 Lenovo",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "title": {
+                    "value": "Lenovo ThinkPad X260 12\" Core i5 2.4 GHz - SSD 256 GB - 16GB QWERTZ - Deutsch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "listingID": 3826053,
+            "reviewRating": {
+                "count": 9,
+                "average": 4.33
+            },
+            "category_1": "",
+            "category_2": "",
+            "category_3": "Notebooks & Ultrabooks",
+            "cat_id": 11,
+            "id": "3e816693-e1e5-4e3e-a9e4-a6843ae369d0",
+            "image1": "https://d2e6ccujb3mkqf.cloudfront.net/3e816693-e1e5-4e3e-a9e4-a6843ae369d0-1_890132f7-a6f7-47be-86f7-bb61b07209a1.jpg",
+            "brand": "99 Lenovo",
+            "color": "Schwarz",
+            "model": "999 ThinkPad X280",
+            "title": "Lenovo ThinkPad X280 12\" Core i5 1.7 GHz - SSD 256 GB - 8GB AZERTY - Französisch",
+            "price_new": 1072.5,
+            "brand_clean": "lenovo",
+            "model_clean": "thinkpad x280",
+            "price_new_with_currency": "1.072,50 €",
+            "sim_lock": "99 Ohne Vertrag",
+            "title_model": "Lenovo ThinkPad X280 12\" Core i5 1.7 GHz - SSD 256 GB - 8GB AZERTY - Französisch",
+            "sub_title_elements": [],
+            "variant_fields": {},
+            "backmarketID": 759266,
+            "backbox_grade_value": 11,
+            "backbox_grade_label": "Sehr gut",
+            "currency": "EUR",
+            "price": 189.0,
+            "price_with_currency": "189,00 €",
+            "special_offer_type": 0,
+            "list_view": {},
+            "link_grade_v2": {
+                "type": "internal",
+                "name": "product",
+                "pattern": "/:locale/p/:slugV2/:uuid",
+                "params": {
+                    "id": "759266",
+                    "slug": "lenovo-thinkpad-x280-12-core-i5-17-ghz-ssd-256-gb-8gb-azerty-franzosisch-gebraucht",
+                    "slugV2": "lenovo-thinkpad-x280-12-core-i5-17-ghz-ssd-256-gb-8gb-azerty-franzosisch",
+                    "uuid": "3e816693-e1e5-4e3e-a9e4-a6843ae369d0",
+                    "locale": "de-de"
+                },
+                "query": {},
+                "hash": {
+                    "l": "11"
+                },
+                "href": "https://www.backmarket.de/de-de/p/lenovo-thinkpad-x280-12-core-i5-17-ghz-ssd-256-gb-8gb-azerty-franzosisch/3e816693-e1e5-4e3e-a9e4-a6843ae369d0#l=11"
+            },
+            "merchant_id": 256,
+            "stockRaw": 4,
+            "warranty": 12,
+            "referencePrice": {
+                "amount": "1072.50",
+                "currency": "EUR"
+            },
+            "objectID": "3e816693-e1e5-4e3e-a9e4-a6843ae369d0_11_0",
+            "_highlightResult": {
+                "category_3": {
+                    "value": "Notebooks & Ultrabooks",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "brand": {
+                    "value": "99 Lenovo",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "title": {
+                    "value": "Lenovo ThinkPad X280 12\" Core i5 1.7 GHz - SSD 256 GB - 8GB AZERTY - Französisch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "listingID": 4048097,
+            "reviewRating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "category_1": "",
+            "category_2": "",
+            "category_3": "Notebooks & Ultrabooks",
+            "cat_id": 11,
+            "id": "05fefd21-9416-4701-ba6c-1cea534cf1a1",
+            "image1": "https://d2e6ccujb3mkqf.cloudfront.net/05fefd21-9416-4701-ba6c-1cea534cf1a1-1_74b5d5dd-9fd1-4093-92a6-b78987d3bb04.jpg",
+            "brand": "99 Lenovo",
+            "color": "Schwarz",
+            "model": "999 ThinkPad X260",
+            "title": "Lenovo ThinkPad X260 12\" Core i5 2.4 GHz - SSD 240 GB - 16GB QWERTZ - Deutsch",
+            "price_new": 1499.0,
+            "brand_clean": "lenovo",
+            "model_clean": "thinkpad x260",
+            "price_new_with_currency": "1.499,00 €",
+            "sim_lock": "99 Ohne Vertrag",
+            "title_model": "Lenovo ThinkPad X260 12\" Core i5 2.4 GHz - SSD 240 GB - 16GB QWERTZ - Deutsch",
+            "sub_title_elements": [],
+            "variant_fields": {},
+            "backmarketID": 884965,
+            "backbox_grade_value": 11,
+            "backbox_grade_label": "Sehr gut",
+            "currency": "EUR",
+            "price": 189.0,
+            "price_with_currency": "189,00 €",
+            "special_offer_type": 0,
+            "list_view": {},
+            "link_grade_v2": {
+                "type": "internal",
+                "name": "product",
+                "pattern": "/:locale/p/:slugV2/:uuid",
+                "params": {
+                    "id": "884965",
+                    "slug": "lenovo-thinkpad-x260-12-core-i5-24-ghz-ssd-240-gb-16gb-qwertz-deutsch-gebraucht",
+                    "slugV2": "lenovo-thinkpad-x260-12-core-i5-24-ghz-ssd-240-gb-16gb-qwertz-deutsch",
+                    "uuid": "05fefd21-9416-4701-ba6c-1cea534cf1a1",
+                    "locale": "de-de"
+                },
+                "query": {},
+                "hash": {
+                    "l": "11"
+                },
+                "href": "https://www.backmarket.de/de-de/p/lenovo-thinkpad-x260-12-core-i5-24-ghz-ssd-240-gb-16gb-qwertz-deutsch/05fefd21-9416-4701-ba6c-1cea534cf1a1#l=11"
+            },
+            "merchant_id": 17342,
+            "stockRaw": 1,
+            "warranty": 12,
+            "referencePrice": {
+                "amount": "1499.00",
+                "currency": "EUR"
+            },
+            "objectID": "05fefd21-9416-4701-ba6c-1cea534cf1a1_11_0",
+            "_highlightResult": {
+                "category_3": {
+                    "value": "Notebooks & Ultrabooks",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "brand": {
+                    "value": "99 Lenovo",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "title": {
+                    "value": "Lenovo ThinkPad X260 12\" Core i5 2.4 GHz - SSD 240 GB - 16GB QWERTZ - Deutsch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "listingID": 4055201,
+            "reviewRating": {
+                "count": 9,
+                "average": 3.64
+            },
+            "category_1": "",
+            "category_2": "",
+            "category_3": "Laptop",
+            "cat_id": 9,
+            "id": "ee8225eb-addc-465e-861a-6e07493fd704",
+            "image1": "https://d2e6ccujb3mkqf.cloudfront.net/ee8225eb-addc-465e-861a-6e07493fd704-1_688890b6-ca2f-43c8-a3f8-c22bde59c8d4.jpg",
+            "brand": "99 HP",
+            "color": "Schwarz/Grau",
+            "model": "999 EliteBook 840 G2",
+            "title": "HP EliteBook 840 G2 14\" Core i5 2.3 GHz - SSD 256 GB - 8GB QWERTZ - Deutsch",
+            "price_new": 546.0,
+            "brand_clean": "hp",
+            "model_clean": "elitebook 840 g2",
+            "price_new_with_currency": "546,00 €",
+            "sim_lock": "99 Ohne Vertrag",
+            "title_model": "HP EliteBook 840 G2 14\" Core i5 2.3 GHz - SSD 256 GB - 8GB QWERTZ - Deutsch",
+            "sub_title_elements": [],
+            "variant_fields": {},
+            "backmarketID": 1563602,
+            "backbox_grade_value": 11,
+            "backbox_grade_label": "Sehr gut",
+            "currency": "EUR",
+            "price": 191.16,
+            "price_with_currency": "191,16 €",
+            "special_offer_type": 0,
+            "list_view": {},
+            "link_grade_v2": {
+                "type": "internal",
+                "name": "product",
+                "pattern": "/:locale/p/:slugV2/:uuid",
+                "params": {
+                    "id": "1563602",
+                    "slug": "hp-elitebook-840-g2-14-core-i5-5300u-23-ghz-ssd-250-gb-8gb-qwertz-deutsch-gebraucht",
+                    "slugV2": "hp-elitebook-840-g2-14-core-i5-5300u-23-ghz-ssd-250-gb-8gb-qwertz-deutsch",
+                    "uuid": "ee8225eb-addc-465e-861a-6e07493fd704",
+                    "locale": "de-de"
+                },
+                "query": {},
+                "hash": {
+                    "l": "11"
+                },
+                "href": "https://www.backmarket.de/de-de/p/hp-elitebook-840-g2-14-core-i5-5300u-23-ghz-ssd-250-gb-8gb-qwertz-deutsch/ee8225eb-addc-465e-861a-6e07493fd704#l=11"
+            },
+            "merchant_id": 17342,
+            "stockRaw": 3,
+            "warranty": 12,
+            "referencePrice": {
+                "amount": "546.00",
+                "currency": "EUR"
+            },
+            "objectID": "ee8225eb-addc-465e-861a-6e07493fd704_11_0",
+            "_highlightResult": {
+                "category_3": {
+                    "value": "Laptop",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "brand": {
+                    "value": "99 HP",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "title": {
+                    "value": "HP EliteBook 840 G2 14\" Core i5 2.3 GHz - SSD 256 GB - 8GB QWERTZ - Deutsch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "listingID": 2952194,
+            "reviewRating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "category_1": "",
+            "category_2": "",
+            "category_3": "Laptop",
+            "cat_id": 9,
+            "id": "c39f1796-2c33-4d66-8993-730bca355bda",
+            "image1": "https://d2e6ccujb3mkqf.cloudfront.net/c39f1796-2c33-4d66-8993-730bca355bda-1_94a715ea-65bb-4dde-81fa-796c9589d4dd.jpg",
+            "brand": "99 HP",
+            "color": "Schwarz/Grau",
+            "model": "999 EliteBook 840 G1",
+            "title": "HP EliteBook 840 G1 14\" Core i5 1.9 GHz - SSD 120 GB - 8GB QWERTY - Englisch",
+            "price_new": 649.99,
+            "brand_clean": "hp",
+            "model_clean": "elitebook 840 g1",
+            "price_new_with_currency": "649,99 €",
+            "sim_lock": "99 Ohne Vertrag",
+            "title_model": "HP EliteBook 840 G1 14\" Core i5 1.9 GHz - SSD 120 GB - 8GB QWERTY - Englisch",
+            "sub_title_elements": [],
+            "variant_fields": {},
+            "backmarketID": 681663,
+            "backbox_grade_value": 11,
+            "backbox_grade_label": "Sehr gut",
+            "currency": "EUR",
+            "price": 198.0,
+            "price_with_currency": "198,00 €",
+            "special_offer_type": 0,
+            "list_view": {},
+            "link_grade_v2": {
+                "type": "internal",
+                "name": "product",
+                "pattern": "/:locale/p/:slugV2/:uuid",
+                "params": {
+                    "id": "681663",
+                    "slug": "hp-elitebook-840-g1-4eme-ghz-ssd-120-gb-8gb-gebraucht",
+                    "slugV2": "hp-elitebook-840-g1-4eme-ghz-ssd-120-gb-8gb",
+                    "uuid": "c39f1796-2c33-4d66-8993-730bca355bda",
+                    "locale": "de-de"
+                },
+                "query": {},
+                "hash": {
+                    "l": "11"
+                },
+                "href": "https://www.backmarket.de/de-de/p/hp-elitebook-840-g1-4eme-ghz-ssd-120-gb-8gb/c39f1796-2c33-4d66-8993-730bca355bda#l=11"
+            },
+            "merchant_id": 5693,
+            "stockRaw": 2,
+            "warranty": 12,
+            "objectID": "c39f1796-2c33-4d66-8993-730bca355bda_11_0",
+            "_highlightResult": {
+                "category_3": {
+                    "value": "Laptop",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "brand": {
+                    "value": "99 HP",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "title": {
+                    "value": "HP EliteBook 840 G1 14\" Core i5 1.9 GHz - SSD 120 GB - 8GB QWERTY - Englisch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "listingID": 3911218,
+            "reviewRating": {
+                "count": 5,
+                "average": 4.68
+            },
+            "category_1": "",
+            "category_2": "",
+            "category_3": "Notebooks & Ultrabooks",
+            "cat_id": 11,
+            "id": "abd63317-256f-4f7c-801e-ecd3d158c2a8",
+            "image1": "https://d2e6ccujb3mkqf.cloudfront.net/abd63317-256f-4f7c-801e-ecd3d158c2a8-1_8c049d4e-61ae-49f8-867f-e87de778393d.jpg",
+            "brand": "99 HP",
+            "color": "Grau",
+            "model": "999 EliteBook 820 G3",
+            "title": "Hp EliteBook 820 G3 12\" Core i5 2.4 GHz - SSD 256 GB - 8GB QWERTZ - Deutsch",
+            "price_new": 700.0,
+            "brand_clean": "hp",
+            "model_clean": "elitebook 820 g3",
+            "price_new_with_currency": "700,00 €",
+            "sim_lock": "99 Ohne Vertrag",
+            "title_model": "Hp EliteBook 820 G3 12\" Core i5 2.4 GHz - SSD 256 GB - 8GB QWERTZ - Deutsch",
+            "sub_title_elements": [],
+            "variant_fields": {},
+            "backmarketID": 630793,
+            "backbox_grade_value": 10,
+            "backbox_grade_label": "Hervorragend",
+            "currency": "EUR",
+            "price": 199.0,
+            "price_with_currency": "199,00 €",
+            "special_offer_type": 0,
+            "list_view": {},
+            "link_grade_v2": {
+                "type": "internal",
+                "name": "product",
+                "pattern": "/:locale/p/:slugV2/:uuid",
+                "params": {
+                    "id": "630793",
+                    "slug": "hp-elitebook-820-g3-12-core-i5-6300u-24ghz-ghz-ssd-256-gb-8gb-gebraucht",
+                    "slugV2": "hp-elitebook-820-g3-12-core-i5-6300u-24ghz-ghz-ssd-256-gb-8gb",
+                    "uuid": "abd63317-256f-4f7c-801e-ecd3d158c2a8",
+                    "locale": "de-de"
+                },
+                "query": {},
+                "hash": {
+                    "l": "10"
+                },
+                "href": "https://www.backmarket.de/de-de/p/hp-elitebook-820-g3-12-core-i5-6300u-24ghz-ghz-ssd-256-gb-8gb/abd63317-256f-4f7c-801e-ecd3d158c2a8#l=10"
+            },
+            "merchant_id": 17207,
+            "stockRaw": 2,
+            "warranty": 12,
+            "referencePrice": {
+                "amount": "700.00",
+                "currency": "EUR"
+            },
+            "objectID": "abd63317-256f-4f7c-801e-ecd3d158c2a8_10_0",
+            "_highlightResult": {
+                "category_3": {
+                    "value": "Notebooks & Ultrabooks",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "brand": {
+                    "value": "99 HP",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "title": {
+                    "value": "Hp EliteBook 820 G3 12\" Core i5 2.4 GHz - SSD 256 GB - 8GB QWERTZ - Deutsch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "listingID": 4506364,
+            "reviewRating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "category_1": "",
+            "category_2": "",
+            "category_3": "Notebooks & Ultrabooks",
+            "cat_id": 11,
+            "id": "9d83d2e3-3042-4fa4-8734-319f36393402",
+            "image1": "https://d2e6ccujb3mkqf.cloudfront.net/9d83d2e3-3042-4fa4-8734-319f36393402-1_fb3f566f-565c-4cfd-bc2d-c3b1f4988481.jpg",
+            "brand": "99 Dell",
+            "color": "Schwarz",
+            "model": "999 Latitude 7390",
+            "title": "Dell Latitude 7390 13\" Core i5 1.7 GHz - SSD 256 GB - 16GB QWERTY - Englisch",
+            "price_new": 836.0,
+            "brand_clean": "dell",
+            "model_clean": "latitude 7390",
+            "price_new_with_currency": "836,00 €",
+            "sim_lock": "99 Ohne Vertrag",
+            "title_model": "Dell Latitude 7390 13\" Core i5 1.7 GHz - SSD 256 GB - 16GB QWERTY - Englisch",
+            "sub_title_elements": [],
+            "variant_fields": {},
+            "backmarketID": 641643,
+            "backbox_grade_value": 11,
+            "backbox_grade_label": "Sehr gut",
+            "currency": "EUR",
+            "price": 199.0,
+            "price_with_currency": "199,00 €",
+            "special_offer_type": 0,
+            "list_view": {},
+            "link_grade_v2": {
+                "type": "internal",
+                "name": "product",
+                "pattern": "/:locale/p/:slugV2/:uuid",
+                "params": {
+                    "id": "641643",
+                    "slug": "dell-latitude-7390-13-i5-8350u-ghz-ssd-256-gb-16gb-gebraucht",
+                    "slugV2": "dell-latitude-7390-13-i5-8350u-ghz-ssd-256-gb-16gb",
+                    "uuid": "9d83d2e3-3042-4fa4-8734-319f36393402",
+                    "locale": "de-de"
+                },
+                "query": {},
+                "hash": {
+                    "l": "11"
+                },
+                "href": "https://www.backmarket.de/de-de/p/dell-latitude-7390-13-i5-8350u-ghz-ssd-256-gb-16gb/9d83d2e3-3042-4fa4-8734-319f36393402#l=11"
+            },
+            "merchant_id": 7669,
+            "stockRaw": 2,
+            "warranty": 12,
+            "referencePrice": {
+                "amount": "836.00",
+                "currency": "EUR"
+            },
+            "objectID": "9d83d2e3-3042-4fa4-8734-319f36393402_11_0",
+            "_highlightResult": {
+                "category_3": {
+                    "value": "Notebooks & Ultrabooks",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "brand": {
+                    "value": "99 Dell",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "title": {
+                    "value": "Dell Latitude 7390 13\" Core i5 1.7 GHz - SSD 256 GB - 16GB QWERTY - Englisch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "listingID": 3803134,
+            "reviewRating": {
+                "count": 42,
+                "average": 4.38
+            },
+            "category_1": "",
+            "category_2": "",
+            "category_3": "Laptop",
+            "cat_id": 9,
+            "id": "4ec09968-cf08-49a8-b1e1-0e8eadd3e9cc",
+            "image1": "https://d2e6ccujb3mkqf.cloudfront.net/4ec09968-cf08-49a8-b1e1-0e8eadd3e9cc-1_b318b212-5d7d-471b-bbe0-9224c9c280ac.jpg",
+            "brand": "99 HP",
+            "color": "Grau",
+            "model": "999 EliteBook 840 G3",
+            "title": "HP EliteBook 840 G3 14\" Core i5 2.4 GHz - SSD 256 GB - 8GB QWERTZ - Deutsch",
+            "price_new": 1672.0,
+            "brand_clean": "hp",
+            "model_clean": "elitebook 840 g3",
+            "price_new_with_currency": "1.672,00 €",
+            "sim_lock": "99 Ohne Vertrag",
+            "title_model": "HP EliteBook 840 G3 14\" Core i5 2.4 GHz - SSD 256 GB - 8GB QWERTZ - Deutsch",
+            "sub_title_elements": [],
+            "variant_fields": {},
+            "backmarketID": 393228,
+            "backbox_grade_value": 10,
+            "backbox_grade_label": "Hervorragend",
+            "currency": "EUR",
+            "price": 199.8,
+            "price_with_currency": "199,80 €",
+            "special_offer_type": 0,
+            "list_view": {},
+            "link_grade_v2": {
+                "type": "internal",
+                "name": "product",
+                "pattern": "/:locale/p/:slugV2/:uuid",
+                "params": {
+                    "id": "393228",
+                    "slug": "hp-elitebook-840-g3-14-core-i5-24-ghz-ssd-256-gb-8gb-qwertz-deutsch-gebraucht",
+                    "slugV2": "hp-elitebook-840-g3-14-core-i5-24-ghz-ssd-256-gb-8gb-qwertz-deutsch",
+                    "uuid": "4ec09968-cf08-49a8-b1e1-0e8eadd3e9cc",
+                    "locale": "de-de"
+                },
+                "query": {},
+                "hash": {
+                    "l": "10"
+                },
+                "href": "https://www.backmarket.de/de-de/p/hp-elitebook-840-g3-14-core-i5-24-ghz-ssd-256-gb-8gb-qwertz-deutsch/4ec09968-cf08-49a8-b1e1-0e8eadd3e9cc#l=10"
+            },
+            "merchant_id": 17207,
+            "stockRaw": 1,
+            "warranty": 12,
+            "referencePrice": {
+                "amount": "1672.00",
+                "currency": "EUR"
+            },
+            "objectID": "4ec09968-cf08-49a8-b1e1-0e8eadd3e9cc_10_0",
+            "_highlightResult": {
+                "category_3": {
+                    "value": "Laptop",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "brand": {
+                    "value": "99 HP",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "title": {
+                    "value": "HP EliteBook 840 G3 14\" Core i5 2.4 GHz - SSD 256 GB - 8GB QWERTZ - Deutsch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "listingID": 2040610,
+            "reviewRating": {
+                "count": 1,
+                "average": 5.0
+            },
+            "category_1": "",
+            "category_2": "",
+            "category_3": "Laptop",
+            "cat_id": 9,
+            "id": "37d0073d-890e-4a6b-961d-f94993eef5b8",
+            "image1": "https://d2e6ccujb3mkqf.cloudfront.net/37d0073d-890e-4a6b-961d-f94993eef5b8-1_837c38a0-bcf8-48a8-b18b-dd85957bb3a0.jpg",
+            "brand": "99 Lenovo",
+            "color": "Schwarz",
+            "model": "999 ThinkPad T460",
+            "title": "Lenovo ThinkPad T460 14\" Core i5 2.4 GHz - SSD 256 GB - 8GB QWERTZ - Deutsch",
+            "price_new": 799.0,
+            "brand_clean": "lenovo",
+            "model_clean": "thinkpad t460",
+            "price_new_with_currency": "799,00 €",
+            "sim_lock": "99 Ohne Vertrag",
+            "title_model": "Lenovo ThinkPad T460 14\" Core i5 2.4 GHz - SSD 256 GB - 8GB QWERTZ - Deutsch",
+            "sub_title_elements": [],
+            "variant_fields": {},
+            "backmarketID": 412347,
+            "backbox_grade_value": 11,
+            "backbox_grade_label": "Sehr gut",
+            "currency": "EUR",
+            "price": 204.35,
+            "price_with_currency": "204,35 €",
+            "special_offer_type": 0,
+            "list_view": {},
+            "link_grade_v2": {
+                "type": "internal",
+                "name": "product",
+                "pattern": "/:locale/p/:slugV2/:uuid",
+                "params": {
+                    "id": "412347",
+                    "slug": "lenovo-thinkpad-t460-14-core-i5-24-ghz-ssd-256-gb-8gb-qwertz-deutsch-gebraucht",
+                    "slugV2": "lenovo-thinkpad-t460-14-core-i5-24-ghz-ssd-256-gb-8gb-qwertz-deutsch",
+                    "uuid": "37d0073d-890e-4a6b-961d-f94993eef5b8",
+                    "locale": "de-de"
+                },
+                "query": {},
+                "hash": {
+                    "l": "11"
+                },
+                "href": "https://www.backmarket.de/de-de/p/lenovo-thinkpad-t460-14-core-i5-24-ghz-ssd-256-gb-8gb-qwertz-deutsch/37d0073d-890e-4a6b-961d-f94993eef5b8#l=11"
+            },
+            "merchant_id": 7177,
+            "stockRaw": 1,
+            "warranty": 12,
+            "referencePrice": {
+                "amount": "799.00",
+                "currency": "EUR"
+            },
+            "objectID": "37d0073d-890e-4a6b-961d-f94993eef5b8_11_0",
+            "_highlightResult": {
+                "category_3": {
+                    "value": "Laptop",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "brand": {
+                    "value": "99 Lenovo",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "title": {
+                    "value": "Lenovo ThinkPad T460 14\" Core i5 2.4 GHz - SSD 256 GB - 8GB QWERTZ - Deutsch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "listingID": 1937527,
+            "reviewRating": {
+                "count": 2,
+                "average": 2.8
+            },
+            "category_1": "",
+            "category_2": "",
+            "category_3": "Laptop",
+            "cat_id": 9,
+            "id": "2777fd2d-1b4d-4767-b1f0-e03b3d24eb30",
+            "image1": "https://d2e6ccujb3mkqf.cloudfront.net/2777fd2d-1b4d-4767-b1f0-e03b3d24eb30-1_7929ff77-4483-47bc-bb8c-38c367f0e442.jpg",
+            "brand": "99 Lenovo",
+            "color": "Schwarz",
+            "model": "999 ThinkPad T470",
+            "title": "Lenovo ThinkPad T470 14\" Core i5 2.6 GHz - SSD 256 GB - 8GB QWERTZ - Deutsch",
+            "price_new": 1549.0,
+            "brand_clean": "lenovo",
+            "model_clean": "thinkpad t470",
+            "price_new_with_currency": "1.549,00 €",
+            "sim_lock": "99 Ohne Vertrag",
+            "title_model": "Lenovo ThinkPad T470 14\" Core i5 2.6 GHz - SSD 256 GB - 8GB QWERTZ - Deutsch",
+            "sub_title_elements": [],
+            "variant_fields": {},
+            "backmarketID": 693969,
+            "backbox_grade_value": 11,
+            "backbox_grade_label": "Sehr gut",
+            "currency": "EUR",
+            "price": 204.35,
+            "price_with_currency": "204,35 €",
+            "special_offer_type": 0,
+            "list_view": {},
+            "link_grade_v2": {
+                "type": "internal",
+                "name": "product",
+                "pattern": "/:locale/p/:slugV2/:uuid",
+                "params": {
+                    "id": "693969",
+                    "slug": "lenovo-thinkpad-t470-14-core-i5-26-ghz-ssd-256-gb-8gb-qwertz-deutsch-gebraucht",
+                    "slugV2": "lenovo-thinkpad-t470-14-core-i5-26-ghz-ssd-256-gb-8gb-qwertz-deutsch",
+                    "uuid": "2777fd2d-1b4d-4767-b1f0-e03b3d24eb30",
+                    "locale": "de-de"
+                },
+                "query": {},
+                "hash": {
+                    "l": "11"
+                },
+                "href": "https://www.backmarket.de/de-de/p/lenovo-thinkpad-t470-14-core-i5-26-ghz-ssd-256-gb-8gb-qwertz-deutsch/2777fd2d-1b4d-4767-b1f0-e03b3d24eb30#l=11"
+            },
+            "merchant_id": 7177,
+            "stockRaw": 1,
+            "warranty": 12,
+            "referencePrice": {
+                "amount": "1549.00",
+                "currency": "EUR"
+            },
+            "objectID": "2777fd2d-1b4d-4767-b1f0-e03b3d24eb30_11_0",
+            "_highlightResult": {
+                "category_3": {
+                    "value": "Laptop",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "brand": {
+                    "value": "99 Lenovo",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "title": {
+                    "value": "Lenovo ThinkPad T470 14\" Core i5 2.6 GHz - SSD 256 GB - 8GB QWERTZ - Deutsch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "listingID": 4037609,
+            "reviewRating": {
+                "count": 1,
+                "average": 4.8
+            },
+            "category_1": "",
+            "category_2": "",
+            "category_3": "Laptop",
+            "cat_id": 9,
+            "id": "bc4d9089-2bdd-4fb2-9eda-7e0932271fe2",
+            "image1": "https://d2e6ccujb3mkqf.cloudfront.net/bc4d9089-2bdd-4fb2-9eda-7e0932271fe2-1_e33d4a98-0883-460b-8525-b24769a620b9.jpg",
+            "brand": "99 Dell",
+            "color": "Schwarz",
+            "model": "999 Latitude 5480",
+            "title": "Dell Latitude 5480 14\" Core i5 2.4 GHz - SSD 256 GB - 16GB QWERTZ - Deutsch",
+            "price_new": 985.0,
+            "brand_clean": "dell",
+            "model_clean": "latitude 5480",
+            "price_new_with_currency": "985,00 €",
+            "sim_lock": "99 Ohne Vertrag",
+            "title_model": "Dell Latitude 5480 14\" Core i5 2.4 GHz - SSD 256 GB - 16GB QWERTZ - Deutsch",
+            "sub_title_elements": [],
+            "variant_fields": {},
+            "backmarketID": 2004456,
+            "backbox_grade_value": 11,
+            "backbox_grade_label": "Sehr gut",
+            "currency": "EUR",
+            "price": 205.2,
+            "price_with_currency": "205,20 €",
+            "special_offer_type": 0,
+            "list_view": {},
+            "link_grade_v2": {
+                "type": "internal",
+                "name": "product",
+                "pattern": "/:locale/p/:slugV2/:uuid",
+                "params": {
+                    "id": "2004456",
+                    "slug": "dell-latitude-5480-14-core-i5-24-ghz-ssd-256-gb-16gb-qwertz-deutsch-gebraucht",
+                    "slugV2": "dell-latitude-5480-14-core-i5-24-ghz-ssd-256-gb-16gb-qwertz-deutsch",
+                    "uuid": "bc4d9089-2bdd-4fb2-9eda-7e0932271fe2",
+                    "locale": "de-de"
+                },
+                "query": {},
+                "hash": {
+                    "l": "11"
+                },
+                "href": "https://www.backmarket.de/de-de/p/dell-latitude-5480-14-core-i5-24-ghz-ssd-256-gb-16gb-qwertz-deutsch/bc4d9089-2bdd-4fb2-9eda-7e0932271fe2#l=11"
+            },
+            "merchant_id": 17342,
+            "stockRaw": 1,
+            "warranty": 12,
+            "referencePrice": {
+                "amount": "985.00",
+                "currency": "EUR"
+            },
+            "objectID": "bc4d9089-2bdd-4fb2-9eda-7e0932271fe2_11_0",
+            "_highlightResult": {
+                "category_3": {
+                    "value": "Laptop",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "brand": {
+                    "value": "99 Dell",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "title": {
+                    "value": "Dell Latitude 5480 14\" Core i5 2.4 GHz - SSD 256 GB - 16GB QWERTZ - Deutsch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "listingID": 4016276,
+            "reviewRating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "category_1": "",
+            "category_2": "",
+            "category_3": "Laptop",
+            "cat_id": 9,
+            "id": "e77fc7d6-647a-404d-b531-3ba12a569750",
+            "image1": "https://d2e6ccujb3mkqf.cloudfront.net/e77fc7d6-647a-404d-b531-3ba12a569750-1_01325178-59d8-4bfb-9aaa-5d7b25da1c33.jpg",
+            "brand": "99 Dell",
+            "color": "Schwarz",
+            "model": "999 Latitude E5470",
+            "title": "Dell Latitude E5470 14\" Core i5 2.3 GHz - SSD 256 GB - 8GB QWERTZ - Deutsch",
+            "price_new": 956.0,
+            "brand_clean": "dell",
+            "model_clean": "latitude e5470",
+            "price_new_with_currency": "956,00 €",
+            "sim_lock": "99 Ohne Vertrag",
+            "title_model": "Dell Latitude E5470 14\" Core i5 2.3 GHz - SSD 256 GB - 8GB QWERTZ - Deutsch",
+            "sub_title_elements": [],
+            "variant_fields": {},
+            "backmarketID": 631387,
+            "backbox_grade_value": 11,
+            "backbox_grade_label": "Sehr gut",
+            "list_view": {},
+            "currency": "EUR",
+            "link_grade_v2": {
+                "type": "internal",
+                "name": "product",
+                "pattern": "/:locale/p/:slugV2/:uuid",
+                "params": {
+                    "id": "631387",
+                    "slug": "dell-latitude-e5470-14-core-i5-ghz-ssd-256-gb-8gb-gebraucht",
+                    "slugV2": "dell-latitude-e5470-14-core-i5-ghz-ssd-256-gb-8gb",
+                    "uuid": "e77fc7d6-647a-404d-b531-3ba12a569750",
+                    "locale": "de-de"
+                },
+                "query": {},
+                "hash": {
+                    "l": "11"
+                },
+                "href": "https://www.backmarket.de/de-de/p/dell-latitude-e5470-14-core-i5-ghz-ssd-256-gb-8gb/e77fc7d6-647a-404d-b531-3ba12a569750#l=11"
+            },
+            "merchant_id": 6212,
+            "price": 207.0,
+            "price_with_currency": "207,00 €",
+            "special_offer_type": 0,
+            "stockRaw": 98,
+            "warranty": 12,
+            "referencePrice": {
+                "amount": "956.00",
+                "currency": "EUR"
+            },
+            "objectID": "e77fc7d6-647a-404d-b531-3ba12a569750_11_0",
+            "_highlightResult": {
+                "category_3": {
+                    "value": "Laptop",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "brand": {
+                    "value": "99 Dell",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "title": {
+                    "value": "Dell Latitude E5470 14\" Core i5 2.3 GHz - SSD 256 GB - 8GB QWERTZ - Deutsch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "listingID": 2281962,
+            "reviewRating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "category_1": "",
+            "category_2": "",
+            "category_3": "Laptop",
+            "cat_id": 9,
+            "id": "335147bc-5600-4fd7-a607-b3b180579829",
+            "image1": "https://d2e6ccujb3mkqf.cloudfront.net/335147bc-5600-4fd7-a607-b3b180579829-1_827700e1-2a05-407e-b215-da82dc697bb0.jpg",
+            "brand": "99 HP",
+            "color": "Schwarz/Grau",
+            "model": "999 ProBook 640 G1",
+            "title": "HP ProBook 640 G1 14\" Core i3 2.4 GHz - SSD 256 GB - 8GB QWERTZ - Deutsch",
+            "price_new": 650.0,
+            "brand_clean": "hp",
+            "model_clean": "probook 640 g1",
+            "price_new_with_currency": "650,00 €",
+            "sim_lock": "99 Ohne Vertrag",
+            "title_model": "HP ProBook 640 G1 14\" Core i3 2.4 GHz - SSD 256 GB - 8GB QWERTZ - Deutsch",
+            "sub_title_elements": [],
+            "variant_fields": {},
+            "backmarketID": 546315,
+            "backbox_grade_value": 11,
+            "backbox_grade_label": "Sehr gut",
+            "currency": "EUR",
+            "price": 207.36,
+            "price_with_currency": "207,36 €",
+            "special_offer_type": 0,
+            "list_view": {},
+            "link_grade_v2": {
+                "type": "internal",
+                "name": "product",
+                "pattern": "/:locale/p/:slugV2/:uuid",
+                "params": {
+                    "id": "546315",
+                    "slug": "hp-probook-640-g1-14-core-i3-24-ghz-ssd-256-gb-8gb-qwertz-deutsch-gebraucht",
+                    "slugV2": "hp-probook-640-g1-14-core-i3-24-ghz-ssd-256-gb-8gb-qwertz-deutsch",
+                    "uuid": "335147bc-5600-4fd7-a607-b3b180579829",
+                    "locale": "de-de"
+                },
+                "query": {},
+                "hash": {
+                    "l": "11"
+                },
+                "href": "https://www.backmarket.de/de-de/p/hp-probook-640-g1-14-core-i3-24-ghz-ssd-256-gb-8gb-qwertz-deutsch/335147bc-5600-4fd7-a607-b3b180579829#l=11"
+            },
+            "merchant_id": 6212,
+            "stockRaw": 5,
+            "warranty": 12,
+            "referencePrice": {
+                "amount": "650.00",
+                "currency": "EUR"
+            },
+            "objectID": "335147bc-5600-4fd7-a607-b3b180579829_11_0",
+            "_highlightResult": {
+                "category_3": {
+                    "value": "Laptop",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "brand": {
+                    "value": "99 HP",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "title": {
+                    "value": "HP ProBook 640 G1 14\" Core i3 2.4 GHz - SSD 256 GB - 8GB QWERTZ - Deutsch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "listingID": 2856430,
+            "reviewRating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "category_1": "",
+            "category_2": "",
+            "category_3": "Notebooks & Ultrabooks",
+            "cat_id": 11,
+            "id": "95794541-76ef-413f-917b-5a9ad66cc15a",
+            "image1": "https://d2e6ccujb3mkqf.cloudfront.net/95794541-76ef-413f-917b-5a9ad66cc15a-1_4ad26fee-ca0f-4fba-acca-513fe3635ec0.jpg",
+            "brand": "99 HP",
+            "color": "Schwarz/Grau",
+            "model": "999 EliteBook 840 G2",
+            "title": "Hp EliteBook 840 G2 14\" Core i5 2.3 GHz - SSD 128 GB - 8GB AZERTY - Französisch",
+            "price_new": 750.0,
+            "brand_clean": "hp",
+            "model_clean": "elitebook 840 g2",
+            "price_new_with_currency": "750,00 €",
+            "sim_lock": "99 Ohne Vertrag",
+            "title_model": "Hp EliteBook 840 G2 14\" Core i5 2.3 GHz - SSD 128 GB - 8GB AZERTY - Französisch",
+            "sub_title_elements": [],
+            "variant_fields": {},
+            "backmarketID": 692801,
+            "backbox_grade_value": 11,
+            "backbox_grade_label": "Sehr gut",
+            "currency": "EUR",
+            "price": 209.0,
+            "price_with_currency": "209,00 €",
+            "special_offer_type": 0,
+            "list_view": {},
+            "link_grade_v2": {
+                "type": "internal",
+                "name": "product",
+                "pattern": "/:locale/p/:slugV2/:uuid",
+                "params": {
+                    "id": "692801",
+                    "slug": "hp-elitebook-840-g2-i5-8go-128go-ssd-14-intel-core-i5-ghz-ssd-128-gb-8gb-gebraucht",
+                    "slugV2": "hp-elitebook-840-g2-i5-8go-128go-ssd-14-intel-core-i5-ghz-ssd-128-gb-8gb",
+                    "uuid": "95794541-76ef-413f-917b-5a9ad66cc15a",
+                    "locale": "de-de"
+                },
+                "query": {},
+                "hash": {
+                    "l": "11"
+                },
+                "href": "https://www.backmarket.de/de-de/p/hp-elitebook-840-g2-i5-8go-128go-ssd-14-intel-core-i5-ghz-ssd-128-gb-8gb/95794541-76ef-413f-917b-5a9ad66cc15a#l=11"
+            },
+            "merchant_id": 5693,
+            "stockRaw": 2,
+            "warranty": 12,
+            "referencePrice": {
+                "amount": "750.00",
+                "currency": "EUR"
+            },
+            "objectID": "95794541-76ef-413f-917b-5a9ad66cc15a_11_0",
+            "_highlightResult": {
+                "category_3": {
+                    "value": "Notebooks & Ultrabooks",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "brand": {
+                    "value": "99 HP",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "title": {
+                    "value": "Hp EliteBook 840 G2 14\" Core i5 2.3 GHz - SSD 128 GB - 8GB AZERTY - Französisch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "listingID": 4051197,
+            "reviewRating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "category_1": "",
+            "category_2": "",
+            "category_3": "Notebooks & Ultrabooks",
+            "cat_id": 11,
+            "id": "4618653f-d434-4383-a900-97412437a96c",
+            "image1": "https://d2e6ccujb3mkqf.cloudfront.net/4618653f-d434-4383-a900-97412437a96c-1_d9d4ed83-bed7-4893-b416-4b2fbff89a03.jpg",
+            "brand": "99 Lenovo",
+            "color": "Schwarz",
+            "model": "999 ThinkPad X260",
+            "title": "Lenovo ThinkPad X260 12\" Core i5 2.4 GHz - SSD 512 GB - 16GB QWERTZ - Deutsch",
+            "price_new": 839.99,
+            "brand_clean": "lenovo",
+            "model_clean": "thinkpad x260",
+            "price_new_with_currency": "839,99 €",
+            "sim_lock": "99 Ohne Vertrag",
+            "title_model": "Lenovo ThinkPad X260 12\" Core i5 2.4 GHz - SSD 512 GB - 16GB QWERTZ - Deutsch",
+            "sub_title_elements": [],
+            "variant_fields": {},
+            "backmarketID": 669792,
+            "backbox_grade_value": 11,
+            "backbox_grade_label": "Sehr gut",
+            "currency": "EUR",
+            "price": 209.0,
+            "price_with_currency": "209,00 €",
+            "special_offer_type": 0,
+            "list_view": {},
+            "link_grade_v2": {
+                "type": "internal",
+                "name": "product",
+                "pattern": "/:locale/p/:slugV2/:uuid",
+                "params": {
+                    "id": "669792",
+                    "slug": "lenovo-thinkpad-x260-12-core-i5-24-ghz-ssd-500-gb-16gb-qwertz-deutsch-gebraucht",
+                    "slugV2": "lenovo-thinkpad-x260-12-core-i5-24-ghz-ssd-500-gb-16gb-qwertz-deutsch",
+                    "uuid": "4618653f-d434-4383-a900-97412437a96c",
+                    "locale": "de-de"
+                },
+                "query": {},
+                "hash": {
+                    "l": "11"
+                },
+                "href": "https://www.backmarket.de/de-de/p/lenovo-thinkpad-x260-12-core-i5-24-ghz-ssd-500-gb-16gb-qwertz-deutsch/4618653f-d434-4383-a900-97412437a96c#l=11"
+            },
+            "merchant_id": 17342,
+            "stockRaw": 1,
+            "warranty": 12,
+            "referencePrice": {
+                "amount": "839.99",
+                "currency": "EUR"
+            },
+            "objectID": "4618653f-d434-4383-a900-97412437a96c_11_0",
+            "_highlightResult": {
+                "category_3": {
+                    "value": "Notebooks & Ultrabooks",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "brand": {
+                    "value": "99 Lenovo",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "title": {
+                    "value": "Lenovo ThinkPad X260 12\" Core i5 2.4 GHz - SSD 512 GB - 16GB QWERTZ - Deutsch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "listingID": 4049696,
+            "reviewRating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "category_1": "",
+            "category_2": "",
+            "category_3": "Notebooks & Ultrabooks",
+            "cat_id": 11,
+            "id": "27c3cb57-1b72-4a1f-b507-f579e6229234",
+            "image1": "https://d2e6ccujb3mkqf.cloudfront.net/27c3cb57-1b72-4a1f-b507-f579e6229234-1_bf117d3d-5dc4-4802-95fb-71b20a8016ea.jpg",
+            "brand": "99 Lenovo",
+            "color": "Schwarz",
+            "model": "999 ThinkPad X260",
+            "title": "Lenovo ThinkPad X260 12\" Core i5 2.4 GHz - SSD 512 GB - 16GB QWERTZ - Deutsch",
+            "price_new": 499.99,
+            "brand_clean": "lenovo",
+            "model_clean": "thinkpad x260",
+            "price_new_with_currency": "499,99 €",
+            "sim_lock": "99 Ohne Vertrag",
+            "title_model": "Lenovo ThinkPad X260 12\" Core i5 2.4 GHz - SSD 512 GB - 16GB QWERTZ - Deutsch",
+            "sub_title_elements": [],
+            "variant_fields": {},
+            "backmarketID": 771891,
+            "backbox_grade_value": 11,
+            "backbox_grade_label": "Sehr gut",
+            "currency": "EUR",
+            "price": 209.0,
+            "price_with_currency": "209,00 €",
+            "special_offer_type": 0,
+            "list_view": {},
+            "link_grade_v2": {
+                "type": "internal",
+                "name": "product",
+                "pattern": "/:locale/p/:slugV2/:uuid",
+                "params": {
+                    "id": "771891",
+                    "slug": "lenovo-thinkpad-x260-12-core-i5-24-ghz-ssd-500-gb-16gb-qwertz-deutsch-gebraucht",
+                    "slugV2": "lenovo-thinkpad-x260-12-core-i5-24-ghz-ssd-500-gb-16gb-qwertz-deutsch",
+                    "uuid": "27c3cb57-1b72-4a1f-b507-f579e6229234",
+                    "locale": "de-de"
+                },
+                "query": {},
+                "hash": {
+                    "l": "11"
+                },
+                "href": "https://www.backmarket.de/de-de/p/lenovo-thinkpad-x260-12-core-i5-24-ghz-ssd-500-gb-16gb-qwertz-deutsch/27c3cb57-1b72-4a1f-b507-f579e6229234#l=11"
+            },
+            "merchant_id": 17342,
+            "stockRaw": 1,
+            "warranty": 12,
+            "referencePrice": {
+                "amount": "499.99",
+                "currency": "EUR"
+            },
+            "objectID": "27c3cb57-1b72-4a1f-b507-f579e6229234_11_0",
+            "_highlightResult": {
+                "category_3": {
+                    "value": "Notebooks & Ultrabooks",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "brand": {
+                    "value": "99 Lenovo",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "title": {
+                    "value": "Lenovo ThinkPad X260 12\" Core i5 2.4 GHz - SSD 512 GB - 16GB QWERTZ - Deutsch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "listingID": 3307544,
+            "reviewRating": {
+                "count": 3,
+                "average": 4.93
+            },
+            "category_1": "",
+            "category_2": "",
+            "category_3": "Notebooks & Ultrabooks",
+            "cat_id": 11,
+            "id": "cc69ece5-ae21-411a-9324-7ad90ec0d3ad",
+            "image1": "https://d2e6ccujb3mkqf.cloudfront.net/cc69ece5-ae21-411a-9324-7ad90ec0d3ad-1_ebed023e-dd97-44d1-9e1e-44c41be2fced.jpg",
+            "brand": "99 HP",
+            "color": "Schwarz/Grau",
+            "model": "999 EliteBook 840 G2",
+            "title": "Hp EliteBook 840 G2 14\" Core i5 2.3 GHz - SSD 180 GB - 8GB AZERTY - Französisch",
+            "price_new": 1250.0,
+            "brand_clean": "hp",
+            "model_clean": "elitebook 840 g2",
+            "price_new_with_currency": "1.250,00 €",
+            "sim_lock": "99 Ohne Vertrag",
+            "title_model": "Hp EliteBook 840 G2 14\" Core i5 2.3 GHz - SSD 180 GB - 8GB AZERTY - Französisch",
+            "sub_title_elements": [],
+            "variant_fields": {},
+            "backmarketID": 457067,
+            "backbox_grade_value": 11,
+            "backbox_grade_label": "Sehr gut",
+            "currency": "EUR",
+            "price": 211.68,
+            "price_with_currency": "211,68 €",
+            "special_offer_type": 0,
+            "list_view": {},
+            "link_grade_v2": {
+                "type": "internal",
+                "name": "product",
+                "pattern": "/:locale/p/:slugV2/:uuid",
+                "params": {
+                    "id": "457067",
+                    "slug": "hp-elitebook-840-g2-14-core-i5-23-ghz-ssd-180-gb-8gb-azerty-franzosisch-gebraucht",
+                    "slugV2": "hp-elitebook-840-g2-14-core-i5-23-ghz-ssd-180-gb-8gb-azerty-franzosisch",
+                    "uuid": "cc69ece5-ae21-411a-9324-7ad90ec0d3ad",
+                    "locale": "de-de"
+                },
+                "query": {},
+                "hash": {
+                    "l": "11"
+                },
+                "href": "https://www.backmarket.de/de-de/p/hp-elitebook-840-g2-14-core-i5-23-ghz-ssd-180-gb-8gb-azerty-franzosisch/cc69ece5-ae21-411a-9324-7ad90ec0d3ad#l=11"
+            },
+            "merchant_id": 5693,
+            "stockRaw": 2,
+            "warranty": 12,
+            "referencePrice": {
+                "amount": "1250.00",
+                "currency": "EUR"
+            },
+            "objectID": "cc69ece5-ae21-411a-9324-7ad90ec0d3ad_11_0",
+            "_highlightResult": {
+                "category_3": {
+                    "value": "Notebooks & Ultrabooks",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "brand": {
+                    "value": "99 HP",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "title": {
+                    "value": "Hp EliteBook 840 G2 14\" Core i5 2.3 GHz - SSD 180 GB - 8GB AZERTY - Französisch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        },
+        {
+            "listingID": 3974037,
+            "reviewRating": {
+                "count": 0,
+                "average": 0.0
+            },
+            "category_1": "",
+            "category_2": "",
+            "category_3": "Laptop",
+            "cat_id": 9,
+            "id": "ef42fbc2-9a32-47f6-b0bf-af32a049b40c",
+            "image1": "https://d2e6ccujb3mkqf.cloudfront.net/ef42fbc2-9a32-47f6-b0bf-af32a049b40c-1_cfc24fff-5cce-4d6e-a5bb-0fc6c9859c8e.jpg",
+            "brand": "99 HP",
+            "color": "Anthrazit",
+            "model": "999 ProBook 640 G4",
+            "title": "HP ProBook 640 G4 14\" Core i5 1.7 GHz - SSD 256 GB - 8GB QWERTZ - Deutsch",
+            "price_new": 1700.0,
+            "brand_clean": "hp",
+            "model_clean": "probook 640 g4",
+            "price_new_with_currency": "1.700,00 €",
+            "sim_lock": "99 Ohne Vertrag",
+            "title_model": "HP ProBook 640 G4 14\" Core i5 1.7 GHz - SSD 256 GB - 8GB QWERTZ - Deutsch",
+            "sub_title_elements": [],
+            "variant_fields": {},
+            "backmarketID": 3635684,
+            "backbox_grade_value": 11,
+            "backbox_grade_label": "Sehr gut",
+            "currency": "EUR",
+            "price": 214.85,
+            "price_with_currency": "214,85 €",
+            "special_offer_type": 0,
+            "list_view": {},
+            "link_grade_v2": {
+                "type": "internal",
+                "name": "product",
+                "pattern": "/:locale/p/:slugV2/:uuid",
+                "params": {
+                    "id": "3635684",
+                    "slug": "hp-probook-640-g4-14-core-i5-17-ghz-ssd-256-gb-8gb-qwertz-deutsch-gebraucht",
+                    "slugV2": "hp-probook-640-g4-14-core-i5-17-ghz-ssd-256-gb-8gb-qwertz-deutsch",
+                    "uuid": "ef42fbc2-9a32-47f6-b0bf-af32a049b40c",
+                    "locale": "de-de"
+                },
+                "query": {},
+                "hash": {
+                    "l": "11"
+                },
+                "href": "https://www.backmarket.de/de-de/p/hp-probook-640-g4-14-core-i5-17-ghz-ssd-256-gb-8gb-qwertz-deutsch/ef42fbc2-9a32-47f6-b0bf-af32a049b40c#l=11"
+            },
+            "merchant_id": 7177,
+            "stockRaw": 1,
+            "warranty": 12,
+            "referencePrice": {
+                "amount": "1700.00",
+                "currency": "EUR"
+            },
+            "objectID": "ef42fbc2-9a32-47f6-b0bf-af32a049b40c_11_0",
+            "_highlightResult": {
+                "category_3": {
+                    "value": "Laptop",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "brand": {
+                    "value": "99 HP",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                },
+                "title": {
+                    "value": "HP ProBook 640 G4 14\" Core i5 1.7 GHz - SSD 256 GB - 8GB QWERTZ - Deutsch",
+                    "matchLevel": "none",
+                    "matchedWords": []
+                }
+            }
+        }
+    ],
+    "nbHits": 3668,
+    "page": 0,
+    "nbPages": 33,
+    "hitsPerPage": 31,
+    "facets": {
+        "os": {
+            "Windows": 3547,
+            "Ohne OS": 54,
+            "Linux": 43,
+            "Andere": 24
+        },
+        "brand": {
+            "99 HP": 1966,
+            "99 Dell": 894,
+            "99 Lenovo": 672,
+            "99 Microsoft": 117,
+            "99 Fujitsu": 10,
+            "99 Getac": 2,
+            "99 Simpletek": 2,
+            "99 HP ProBook 440 G8": 1,
+            "99 MSI": 1,
+            "99 Panasonic": 1,
+            "99 Terra": 1,
+            "99 Toshiba": 1
+        },
+        "model": {
+            "999 EliteBook 840 G5": 407,
+            "999 EliteBook 840 G6": 305,
+            "999 ProBook 650 G5": 294,
+            "999 Latitude 5410": 234,
+            "999 Latitude 5320": 185,
+            "999 EliteBook 830 G6": 150,
+            "999 Latitude 5480": 132,
+            "999 ThinkPad T480S": 119,
+            "999 EliteBook 850 G3": 105,
+            "999 ProBook 440 G5": 104,
+            "999 Surface Laptop 3": 101,
+            "999 ThinkPad T470": 82,
+            "999 ThinkPad T490": 81,
+            "999 Latitude 5400": 76,
+            "999 EliteBook 830 G5": 75,
+            "999 EliteBook 820 G3": 71,
+            "999 ThinkPad X260": 56,
+            "999 EliteBook 840 G3": 52,
+            "999 Latitude 5490": 51,
+            "999 ThinkPad T580": 43,
+            "999 ThinkPad X390": 39,
+            "999 EliteBook 850 G5": 32,
+            "999 ThinkPad T490S": 29,
+            "999 EliteBook 850 G6": 28,
+            "999 ProBook 440 G8": 28,
+            "999 Precision 5540": 26,
+            "999 EliteBook 830 G7": 25,
+            "999 EliteBook 840 G7": 24,
+            "999 Latitude 7390": 23,
+            "999 ThinkPad T470S": 23,
+            "999 Zbook Firefly 14 G8": 23,
+            "999 EliteBook 850 G7": 22,
+            "999 ThinkPad T480": 22,
+            "999 EliteBook 840 G2": 21,
+            "999 ThinkPad T570": 20,
+            "999 Latitude 7490": 19,
+            "999 ThinkPad T14 G1": 17,
+            "999 EliteBook 830 G8": 16,
+            "999 ZBOOK FURY 15 G7": 15,
+            "999 Elitebook 840 G8": 13,
+            "999 ProBook 650 G8": 13,
+            "999 EliteBook X360 1040 G8": 11,
+            "999 ProBook 650 G4": 11,
+            "999 Surface Laptop 3 1872": 11,
+            "999 ThinkPad X395": 11,
+            "999 ZBook 15 G3": 11,
+            "999 EliteBook 840 G5 Touch": 10,
+            "999 Latitude 5310": 10,
+            "999 Latitude 5510": 10,
+            "999 Latitude 7480": 10,
+            "999 ThinkPad T590": 10,
+            "999 840 G6": 9,
+            "999 Latitude 3420": 9,
+            "999 EliteBook 745 G5": 8,
+            "999 Latitude 7280": 8,
+            "999 Precision 7530": 8,
+            "999 EliteBook 850 G8": 7,
+            "999 Latitude 7320": 7,
+            "999 Latitude 7410": 7,
+            "999 ProBook 640 G2": 7,
+            "999 ProBook 650 G2": 7,
+            "999 ThinkPad L390": 7,
+            "999 ThinkPad T430": 7,
+            "999 ThinkPad X1 Carbon G10": 7,
+            "999 LATITUDE 5420": 6,
+            "999 Latitude 5590": 6,
+            "999 Latitude 7400": 6,
+            "999 ThinkPad X280": 6,
+            "999 EliteBook 650 G5": 5,
+            "999 Elitebook X360 1040 G7": 5,
+            "999 Latitude 7420": 5,
+            "999 Precision 7550": 5,
+            "999 ThinkPad L480": 5,
+            "999 ThinkPad T14s G1": 5,
+            "999 ThinkPad T460": 5,
+            "999 ThinkPad T460S": 5,
+            "999 ThinkPad X13 G1": 5,
+            "999 Latitude 5300": 4,
+            "999 Latitude 5521": 4,
+            "999 Latitude E5470": 4,
+            "999 ThinkPad L14 G1": 4,
+            "999 ThinkPad L590": 4,
+            "999 HP EliteBook 840 G5": 3,
+            "999 Latitude 7290": 3,
+            "999 Latitude E7470": 3,
+            "999 LifeBook U749": 3,
+            "999 Precision 7730": 3,
+            "999 ProBook 640 G4": 3,
+            "999 Surface Laptop 4": 3,
+            "999 ThinkPad P52S": 3,
+            "999 ThinkPad T14S G2": 3,
+            "999 ThinkPad T560": 3,
+            "999 ThinkPad X1 Carbon G8": 3,
+            "999 ThinkPad X250": 3,
+            "999 XPS 13 9380": 3,
+            "999 ZBook 17 G3": 3,
+            "999 EliteBook 840 G6 Touch": 2,
+            "999 EliteBook 855 G7": 2,
+            "999 EliteBook X360 830 G6": 2,
+            "999 HP EliteBook 840 G6": 2,
+            "999 K120": 2,
+            "999 Latitude 3510": 2,
+            "999 Latitude E5480": 2,
+            "999 Latitude E7270": 2,
+            "999 Latitude E7480": 2,
+            "999 LifeBook U748": 2,
+            "999 ProBook 440 G6": 2,
+            "999 ProBook 640 G5": 2,
+            "999 Surface Laptop 3 1868": 2,
+            "999 ThinkPad L13": 2,
+            "999 ThinkPad P52": 2,
+            "999 ThinkPad P53": 2,
+            "999 ThinkPad T14 Gen 1": 2,
+            "999 ThinkPad T14s": 2,
+            "999 ThinkPad T15 G1": 2,
+            "999 ThinkPad X1 Carbon G6": 2,
+            "999 ThinkPad X1 Carbon G7": 2,
+            "999 ThinkPad Yoga 260": 2,
+            "999 ZBook Firefly 14 G7": 2,
+            "999 5320": 1,
+            "999 650 G5": 1,
+            "999 7490": 1,
+            "999 Alienware M15 R4": 1,
+            "999 Dell Latitude 5410": 1,
+            "999 Dell Latitude 7490": 1,
+            "999 Elite Dragonfly G3": 1,
+            "999 EliteBook 640 G9": 1,
+            "999 EliteBook 650 G9": 1,
+            "999 EliteBook 655 G10": 1,
+            "999 EliteBook 725 G4": 1,
+            "999 EliteBook 735 G5": 1,
+            "999 EliteBook 745 G6": 1,
+            "999 EliteBook 820 G4": 1,
+            "999 EliteBook 835 G8": 1,
+            "999 EliteBook 840 G1": 1,
+            "999 EliteBook 840 G10": 1,
+            "999 EliteBook 840 G4": 1,
+            "999 EliteBook 850 G4": 1,
+            "999 EliteBook 865 G9": 1,
+            "999 EliteBook Folio 1040 G3": 1,
+            "999 EliteBook X360 1040 G6": 1,
+            "999 EliteBook x360 830 G7": 1,
+            "999 HP EliteBook 840 G8": 1,
+            "999 HP EliteBook 850 G3": 1,
+            "999 Inspiron 3501": 1,
+            "999 Katana 15 B12VFK-210FR": 1,
+            "999 Latitude 3410": 1,
+            "999 Latitude 3490": 1,
+            "999 Latitude 3570": 1,
+            "999 Latitude 5290": 1,
+            "999 Latitude 5420 Rugged": 1,
+            "999 Latitude 5495": 1,
+            "999 Latitude 5520": 1,
+            "999 Latitude 7300": 1,
+            "999 Latitude 7310": 1,
+            "999 Latitude 7470": 1,
+            "999 Legion 5 pro 16IAH7H": 1,
+            "999 Lenovo ThinkPad T490": 1,
+            "999 Lenovo ThinkPad T590": 1,
+            "999 LifeBook A544": 1,
+            "999 LifeBook E736": 1,
+            "999 LifeBook E746": 1,
+            "999 LifeBook U7311": 1,
+            "999 Lifebook E5411": 1,
+            "999 Mobile 1517": 1,
+            "999 Precision 5520": 1,
+            "999 Precision M4800": 1,
+            "999 ProBook 440 G10": 1,
+            "999 ProBook 440 G7": 1,
+            "999 ProBook 445 G10": 1,
+            "999 ProBook 450 G2": 1,
+            "999 ProBook 450 G3": 1,
+            "999 ProBook 640 G1": 1,
+            "999 ProBook 850 G3": 1,
+            "999 Tecra A50": 1,
+            "999 ThinkPad E14 G2": 1,
+            "999 ThinkPad E470": 1,
+            "999 ThinkPad E480": 1,
+            "999 ThinkPad E490": 1,
+            "999 ThinkPad L13 G2": 1,
+            "999 ThinkPad L14 G2": 1,
+            "999 ThinkPad L14 G3": 1,
+            "999 ThinkPad L14 Gen 1": 1,
+            "999 ThinkPad L490": 1,
+            "999 ThinkPad L580": 1,
+            "999 ThinkPad P14s G2": 1,
+            "999 ThinkPad P51S": 1,
+            "999 ThinkPad T14 Gen1": 1,
+            "999 ThinkPad T14 Gen2": 1,
+            "999 ThinkPad T14s Gen 1": 1,
+            "999 ThinkPad T15 G2": 1,
+            "999 ThinkPad T450S": 1,
+            "999 ThinkPad T550": 1,
+            "999 ThinkPad X1 Carbon": 1,
+            "999 ThinkPad X1 Carbon 7th": 1,
+            "999 ThinkPad X1 Carbon G4": 1,
+            "999 ThinkPad X1 Yoga Gen 5": 1,
+            "999 ThinkPad X13 G3": 1,
+            "999 ThinkPad X13 G4": 1,
+            "999 ThinkPad X13 Gen 1": 1
+        },
+        "price": {
+            "495.72": 176,
+            "460.0": 155,
+            "404.0": 152,
+            "549.72": 149,
+            "489.0": 112,
+            "459.0": 106,
+            "339.0": 105,
+            "409.0": 96,
+            "559.0": 91,
+            "429.0": 90,
+            "669.0": 82,
+            "454.0": 72,
+            "282.95": 71,
+            "395.0": 64,
+            "247.32": 62,
+            "335.0": 62,
+            "399.0": 55,
+            "479.0": 53,
+            "464.4": 52,
+            "269.0": 41,
+            "439.0": 40,
+            "293.45": 32,
+            "279.72": 30,
+            "387.72": 30,
+            "329.0": 27,
+            "349.0": 25,
+            "434.0": 24,
+            "499.0": 24,
+            "325.0": 23,
+            "719.0": 23,
+            "424.0": 20,
+            "449.0": 19,
+            "442.8": 18,
+            "320.75": 17,
+            "379.0": 17,
+            "469.0": 17,
+            "299.0": 16,
+            "303.95": 14,
+            "369.0": 14,
+            "420.35": 14,
+            "529.0": 14,
+            "309.0": 13,
+            "409.32": 13,
+            "419.0": 13,
+            "484.92": 13,
+            "509.0": 13,
+            "279.0": 12,
+            "354.0": 12,
+            "539.0": 12,
+            "259.0": 11,
+            "319.0": 11,
+            "389.0": 11,
+            "282.42": 10,
+            "350.0": 10,
+            "355.32": 10,
+            "444.0": 10,
+            "475.0": 10,
+            "289.0": 9,
+            "359.0": 9,
+            "398.45": 9,
+            "418.0": 9,
+            "258.12": 8,
+            "310.25": 8,
+            "322.92": 8,
+            "365.0": 8,
+            "387.95": 8,
+            "410.0": 8,
+            "440.0": 8,
+            "832.0": 8,
+            "869.0": 8,
+            "600.0": 7,
+            "799.0": 7,
+            "296.0": 6,
+            "344.52": 6,
+            "385.0": 6,
+            "398.0": 6,
+            "428.0": 6,
+            "430.0": 6,
+            "484.0": 6,
+            "249.0": 5,
+            "272.45": 5,
+            "290.52": 5,
+            "300.0": 5,
+            "305.0": 5,
+            "330.0": 5,
+            "351.0": 5,
+            "357.99": 5,
+            "380.99": 5,
+            "386.0": 5,
+            "392.0": 5,
+            "396.0": 5,
+            "398.52": 5,
+            "403.0": 5,
+            "411.48": 5,
+            "415.8": 5,
+            "429.95": 5,
+            "450.0": 5,
+            "482.45": 5,
+            "492.95": 5,
+            "989.0": 5,
+            "214.92": 4,
+            "225.72": 4,
+            "263.52": 4,
+            "270.0": 4,
+            "313.2": 4,
+            "332.0": 4,
+            "334.0": 4,
+            "355.0": 4,
+            "360.0": 4,
+            "370.0": 4,
+            "375.0": 4,
+            "378.0": 4,
+            "380.0": 4,
+            "380.16": 4,
+            "382.0": 4,
+            "394.0": 4,
+            "401.0": 4,
+            "406.99": 4,
+            "414.0": 4,
+            "416.0": 4,
+            "420.0": 4,
+            "421.0": 4,
+            "432.0": 4,
+            "435.0": 4,
+            "463.32": 4,
+            "519.0": 4,
+            "549.0": 4,
+            "650.99": 4,
+            "1144.0": 3,
+            "189.0": 3,
+            "209.0": 3,
+            "219.0": 3,
+            "239.0": 3,
+            "248.4": 3,
+            "264.77": 3,
+            "268.92": 3,
+            "271.99": 3,
+            "279.99": 3,
+            "287.0": 3,
+            "288.0": 3,
+            "289.25": 3,
+            "295.0": 3,
+            "299.75": 3,
+            "307.86": 3,
+            "308.0": 3,
+            "310.0": 3,
+            "315.0": 3,
+            "323.62": 3,
+            "342.0": 3,
+            "343.63": 3,
+            "345.0": 3,
+            "349.92": 3,
+            "351.35": 3,
+            "356.4": 3,
+            "356.45": 3,
+            "363.0": 3,
+            "369.29": 3,
+            "374.0": 3,
+            "375.84": 3,
+            "376.92": 3,
+            "377.0": 3,
+            "391.0": 3,
+            "394.2": 3,
+            "400.0": 3,
+            "407.0": 3,
+            "408.95": 3,
+            "410.4": 3,
+            "415.0": 3,
+            "416.88": 3,
+            "422.0": 3,
+            "447.0": 3,
+            "455.0": 3,
+            "486.0": 3,
+            "507.0": 3,
+            "514.0": 3,
+            "523.0": 3,
+            "524.0": 3,
+            "534.95": 3,
+            "555.0": 3,
+            "576.95": 3,
+            "577.0": 3,
+            "599.0": 3,
+            "628.0": 3,
+            "630.0": 3,
+            "651.0": 3,
+            "692.45": 3,
+            "699.0": 3,
+            "759.0": 3,
+            "789.0": 3,
+            "839.0": 3,
+            "879.0": 3,
+            "919.0": 3,
+            "1080.0": 2,
+            "1105.0": 2,
+            "1140.0": 2,
+            "199.0": 2,
+            "204.35": 2,
+            "217.0": 2,
+            "219.95": 2,
+            "229.0": 2
+        },
+        "serie": {
+            "EliteBook": 1416,
+            "Latitude": 838,
+            "ThinkPad": 666,
+            "ProBook": 464,
+            "Surface": 116,
+            "ZBook": 58,
+            "Precision": 44,
+            "Other": 19,
+            "LifeBook": 10,
+            "XPS": 3,
+            "G5": 2,
+            "Alienware": 1,
+            "G1": 1,
+            "G3": 1,
+            "G6": 1,
+            "Inspiron": 1,
+            "Legion": 1,
+            "Phantom": 1,
+            "Tecra": 1,
+            "ToughBook": 1
+        },
+        "memory": {
+            "3 Von 6 bis 8 GB": 1751,
+            "4 Von 8,1 bis 16 GB": 1554,
+            "5 16 GB und mehr": 328,
+            "2 Von 4 bis 5,9 GB": 35
+        },
+        "storage": {
+            "2 Von 130,1 bis 260 GB": 2192,
+            "3 Von 260,1 bis 999 GB": 921,
+            "4 Von 1 bis 1,9 TB": 360,
+            "1 Bis zu 130 GB": 172,
+            "5 2 TB und mehr": 23
+        },
+        "screen_size": {
+            "3 Von 13 bis 14,9\"": 2762,
+            "4 Von 15 bis 16,9\"": 745,
+            "2 Von 11 bis 12,9\"": 154,
+            "5 Von 17 bis 20,9\"": 6,
+            "1 Bis zu 10,9\"": 1
+        },
+        "graphic_card": {
+            "Intel UHD Graphics 620": 1186,
+            "Intel UHD Graphics": 642,
+            "Intel HD Graphics 520": 496,
+            "Intel Iris Xe Graphics": 294,
+            "Intel HD Graphics 620": 272,
+            "Intel HD Graphics": 180,
+            "Intel UHD Graphics 630": 172,
+            "Intel Iris Plus Graphics": 92,
+            "NVIDIA Quadro T1000": 37,
+            "Intel HD Graphics 5500": 27,
+            "UHD Graphics 620": 19,
+            "AMD Radeon 550X": 18,
+            "UHD Graphics": 17,
+            "Intel Iris Xe": 13,
+            "AMD Radeon Graphics": 9,
+            "AMD Radeon Vega 8 Graphics": 9,
+            "Intel HD Graphics 4600": 9,
+            "Intel HD Graphics 4000": 8,
+            "Intel UHD 620 Graphics": 8,
+            "NVIDIA Quadro P2000": 8,
+            "INTEL": 7,
+            "Intel UHD Graphics for 8th Generation Intel Processors": 7,
+            "NVIDIA GeForce MX150": 7,
+            "NVIDIA Quadro M2000M": 7,
+            "Intel Iris X": 6,
+            "Intel HD Graphics 530": 5,
+            "Intel UHD Graphics 320": 5,
+            "AMD Radeon 500 Graphics": 4,
+            "AMD Radeon Vega": 4,
+            "Intel HD Graphics 630": 4,
+            "Intel UHD": 4,
+            "NVIDIA Quadro T2000": 4,
+            "‎Intel UHD Graphics 620": 4,
+            "Integrated Graphics": 3,
+            "Intel Graphics UHD": 3,
+            "Intel Iris Plus Graphics 640": 3,
+            "Intel Iris Plus Graphics G7": 3,
+            "Intel Iris Xe Grafik": 3,
+            "NVIDIA Quadro M3000M": 3,
+            "Radeon Vega 8 Graphics": 3,
+            "AMD Radeon RX Vega 8": 2,
+            "HD Graphics 620": 2,
+            "Intel HD Graphics 4400": 2,
+            "Intel Iris Plus G7": 2,
+            "Intel Iris Plus Graphics 520": 2,
+            "Intel Iris Xe Graphics G7": 2,
+            "Intel UHD 620": 2,
+            "Intel UHD Graphics 600": 2,
+            "Intel UHD-Grafik 620": 2,
+            "Intel iris Plus": 2,
+            "NVIDIA Quadro 2000M": 2,
+            "NVIDIA Quadro M1000M": 2,
+            "NVIDIA Quadro P1000": 2,
+            "NVIDIA Quadro P500": 2,
+            "Radeon Vega Mobile Series": 2,
+            "AMD Radeon 540X": 1,
+            "AMD Radeon 550X Graphics": 1,
+            "AMD Radeon 660M": 1,
+            "AMD Radeon 680M": 1,
+            "AMD Radeon R5 Graphics": 1,
+            "AMD Radeon Vega 6": 1,
+            "AMD Radeon Vega 6 Graphics": 1,
+            "AMD Radeon Vega 8": 1,
+            "Inte UHD Graphics 620": 1,
+            "Intel HD Ghrapics 520": 1,
+            "Intel HD Graphics 540": 1,
+            "Intel HD Graphique 5500": 1,
+            "Intel Iris Xe Graphics eligible": 1,
+            "Intel UHD Graphics 62": 1,
+            "Intel UHD Graphics 750": 1,
+            "Intel UHD Graphics G4": 1,
+            "Intel UHD Graphics for 10th Gen Intel Processors": 1,
+            "Intel UHD Graphics for 10th Generation Intel Processors": 1,
+            "Intel(R) Iris(R) Xe Graphics": 1,
+            "Intel® UHD Graphics": 1,
+            "Iris Plus Graphics 640": 1,
+            "Iris Plus Graphics G7": 1,
+            "NVIDIA GeForce RTX 3070 TI": 1,
+            "NVIDIA GeForce RTX 4060": 1,
+            "NVIDIA GeForce T400": 1,
+            "NVIDIA Quadro M1200": 1,
+            "NVIDIA Quadro M520": 1,
+            "NVIDIA Quadro P3200": 1,
+            "NVIDIA Quadro P3200 Graphics": 1,
+            "Noir": 1,
+            "Nvidia GeForce MX130": 1,
+            "Nvidia GeForce RTX 3070": 1,
+            "UHD Graphics 630": 1
+        },
+        "storage_type": {
+            "SSD": 3532,
+            "HDD": 124,
+            "HDD + SSD": 12
+        },
+        "backbox_grade": {
+            "10 Hervorragend": 2472,
+            "11 Sehr gut": 1196
+        },
+        "processor_type": {
+            "Core i5": 3003,
+            "Core i7": 577,
+            "Core i3": 37,
+            "Ryzen 5 PRO": 15,
+            "Core i9": 9,
+            "Ryzen 5": 8,
+            "Ryzen 3 PRO": 7,
+            "Xeon E": 5,
+            "Ryzen 7 PRO": 3,
+            "Ryzen 3": 2,
+            "A10": 1,
+            "Core Ultra": 1
+        },
+        "shipping_delay": {
+            "2 3 Tage": 3601,
+            "1 2 Tage": 518,
+            "3 Mehr als 3 Tage": 67
+        },
+        "payment_methods": {
+            "0  Kreditkarte": 3668,
+            "2  PayPal": 3668,
+            "99 Klarna": 3667
+        },
+        "price_ranges.lg-1": {
+            "1": 2829,
+            "2": 569,
+            "0": 145,
+            "3": 100,
+            "4": 15,
+            "5": 4,
+            "6": 2,
+            "7": 2,
+            "10": 1,
+            "9": 1
+        },
+        "price_ranges.lg-2": {
+            "0": 2974,
+            "1": 669,
+            "2": 19,
+            "3": 4,
+            "4": 1,
+            "5": 1
+        },
+        "price_ranges.lg-3": {
+            "0": 3543,
+            "1": 119,
+            "2": 4,
+            "3": 2
+        },
+        "price_ranges.md-1": {
+            "9": 869,
+            "8": 692,
+            "7": 464,
+            "6": 450,
+            "5": 354,
+            "10": 254,
+            "11": 132,
+            "4": 132,
+            "13": 107,
+            "12": 43,
+            "19": 38,
+            "14": 33,
+            "16": 26,
+            "17": 26,
+            "15": 21,
+            "18": 14,
+            "3": 12,
+            "2": 1
+        },
+        "price_ranges.md-2": {
+            "3": 1867,
+            "2": 962,
+            "4": 406,
+            "5": 163,
+            "1": 145,
+            "6": 62,
+            "7": 38,
+            "9": 8,
+            "8": 7,
+            "10": 2,
+            "11": 2,
+            "15": 2,
+            "12": 1,
+            "13": 1,
+            "18": 1,
+            "19": 1
+        },
+        "price_ranges.sm-1": {
+            "19": 3668
+        },
+        "price_ranges.sm-2": {
+            "19": 1124,
+            "18": 439,
+            "16": 414,
+            "13": 313,
+            "15": 306,
+            "17": 278,
+            "11": 246,
+            "14": 158,
+            "12": 137,
+            "10": 108,
+            "9": 107,
+            "8": 25,
+            "7": 10,
+            "6": 2,
+            "5": 1
+        },
+        "year_date_release": {
+            "80 2019": 1118,
+            "81 2018": 694,
+            "82 2017": 616,
+            "79 2020": 446,
+            "84 2015": 262,
+            "78 2021": 249,
+            "83 2016": 200,
+            "77 2022": 41,
+            "85 2014": 18,
+            "76 2023": 6,
+            "86 2013": 5,
+            "94 2005": 5,
+            "89 2010": 4,
+            "87 2012": 2
+        },
+        "price_ranges.md-1b": {
+            "5": 998,
+            "6": 925,
+            "4": 608,
+            "3": 461,
+            "7": 330,
+            "8": 138,
+            "11": 45,
+            "9": 45,
+            "2": 37,
+            "10": 28,
+            "12": 16,
+            "13": 13,
+            "19": 8,
+            "15": 7,
+            "14": 5,
+            "1": 1,
+            "16": 1,
+            "17": 1,
+            "18": 1
+        },
+        "price_ranges.md-1c": {
+            "4": 1561,
+            "3": 914,
+            "2": 486,
+            "5": 386,
+            "6": 150,
+            "7": 54,
+            "8": 52,
+            "9": 27,
+            "1": 13,
+            "11": 9,
+            "10": 5,
+            "19": 4,
+            "13": 2,
+            "14": 2,
+            "12": 1,
+            "15": 1,
+            "17": 1
+        },
+        "keyboard_type_language_for_filtering": {
+            "99 AZERTY - Französisch": 961,
+            "00 QWERTZ - Deutsch": 762,
+            "99 QWERTY - Englisch": 749,
+            "99 QWERTY - Spanisch": 439,
+            "99 QWERTY - Italienisch": 230,
+            "99 QWERTY - Schwedisch": 140,
+            "99 QWERTY - Portugiesisch": 86,
+            "99 AZERTY - Belgisch": 83,
+            "99 QWERTY - Niederländisch": 43,
+            "99 QWERTY - Dänisch": 41,
+            "99 QWERTY - Griechisch": 33,
+            "99 QWERTY - Nordisch": 27,
+            "99 QWERTY - Norwegisch": 24,
+            "99 QWERTY - Skandinavisch": 20,
+            "01 QWERTZ - Schweizerisch": 19,
+            "99 QWERTY - Finnisch": 7,
+            "99 AZERTY - Englisch": 2,
+            "01 QWERTZ - Slowenisch": 1,
+            "99 Ohne Tastatur": 1
+        }
+    },
+    "facets_stats": {
+        "price": {
+            "min": 147.96,
+            "max": 2624,
+            "avg": 440.414,
+            "sum": 1.61544e+06
+        },
+        "price_ranges.lg-1": {
+            "min": 0,
+            "max": 10,
+            "avg": 1,
+            "sum": 4392
+        },
+        "price_ranges.lg-2": {
+            "min": 0,
+            "max": 5,
+            "avg": 0,
+            "sum": 728
+        },
+        "price_ranges.lg-3": {
+            "min": 0,
+            "max": 3,
+            "avg": 0,
+            "sum": 133
+        },
+        "price_ranges.md-1": {
+            "min": 2,
+            "max": 19,
+            "avg": 8,
+            "sum": 30149
+        },
+        "price_ranges.md-2": {
+            "min": 1,
+            "max": 19,
+            "avg": 3,
+            "sum": 11009
+        },
+        "price_ranges.sm-1": {
+            "min": 19,
+            "max": 19,
+            "avg": 19,
+            "sum": 69692
+        },
+        "price_ranges.sm-2": {
+            "min": 5,
+            "max": 19,
+            "avg": 15,
+            "sum": 58159
+        },
+        "price_ranges.md-1b": {
+            "min": 1,
+            "max": 19,
+            "avg": 5,
+            "sum": 19763
+        },
+        "price_ranges.md-1c": {
+            "min": 1,
+            "max": 19,
+            "avg": 3,
+            "sum": 14161
+        }
+    },
+    "exhaustiveFacetsCount": false,
+    "exhaustiveNbHits": true,
+    "exhaustiveTypo": true,
+    "exhaustive": {
+        "facetsCount": false,
+        "nbHits": true,
+        "typo": true
+    },
+    "query": "",
+    "params": "distinct=1&clickAnalytics=true&filters=%28cat_id%3A%2211%22+OR+cat_id%3A%229%22+OR+cat_id%3A%22109%22%29+AND+%28is_good_deal%3A%22true%22%29&facets=%5B%22price%22%2C%22page%22%2C%22q%22%2C%22sort%22%2C%22brand%22%2C%22model%22%2C%22keyboard_type_language_for_filtering%22%2C%22screen_size%22%2C%22year_date_release%22%2C%22memory%22%2C%22backbox_grade%22%2C%22brand%22%2C%22processor_type%22%2C%22storage_type%22%2C%22os%22%2C%22storage%22%2C%22serie%22%2C%22graphic_card%22%2C%22payment_methods%22%2C%22shipping_delay%22%2C%22price_ranges.sm-1%22%2C%22price_ranges.sm-2%22%2C%22price_ranges.md-1%22%2C%22price_ranges.md-1b%22%2C%22price_ranges.md-1c%22%2C%22price_ranges.md-2%22%2C%22price_ranges.lg-1%22%2C%22price_ranges.lg-2%22%2C%22price_ranges.lg-3%22%5D&page=0&hitsPerPage=31&attributesToRetrieve=backbox_grade_label%2Cbackbox_grade_value%2CbackmarketID%2Cbrand%2Cbrand_clean%2Ccamera_score%2Ccat_id%2Ccategory_1%2Ccategory_2%2Ccategory_3%2Ccollection_ai%2Ccolor%2Cconnector%2Ccurrency%2Cface_id%2Cglobal_score%2Chdmi_output%2Cid%2Cimage1%2Cipad_connector%2Clife_expectancy_score%2Clink%2Clink_grade_v2%2Clist_view%2ClistingID%2Cmerchant_id%2Cmodel%2Cmodel_clean%2Cmultimedia_score%2CobjectID%2Cperformances_score%2Cprice%2Cprice_new%2Cprice_new_with_currency%2Cprice_with_currency%2CreferencePrice%2CreviewRating%2Cscreen_quality_score%2Csim_lock%2Cspecial_offer_type%2CstockRaw%2Csub_title_elements%2Ctitle%2Ctitle_model%2Ctouch_bar%2Ctouch_id%2Cvariant_fields%2Cwarranty&restrictIndices=prod_%2A",
+    "queryID": "3b15a647a14b51c2601b96dffebd9b7f",
+    "processingTimeMS": 8,
+    "processingTimingsMS": {
+        "_request": {
+            "roundTrip": 33
+        },
+        "afterFetch": {
+            "format": {
+                "total": 1
+            },
+            "merge": {
+                "distinct": 1,
+                "total": 1
+            },
+            "total": 2
+        },
+        "fetch": {
+            "faceting": 1,
+            "scanning": 2,
+            "total": 4
+        },
+        "total": 8
+    },
+    "serverTimeMS": 12
+}

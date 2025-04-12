@@ -54,12 +54,9 @@ jobs:
       run: |
         python github/db_uploader.py
         
-    # Placeholder for future tasks   
-    - name: Run future task 2
-      if: ${{ github.event.inputs.task == 'future_task_2' || github.event.inputs.task == 'all' }}
-      run: |
-        echo "Future task 2 would run here"
-        # python github/future_task_2.py
+    - name: Generate weekly HTML
+      run: python github/generate_weekly_html.py
+
         
     - name: Commit and push if changes
       run: |

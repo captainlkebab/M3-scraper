@@ -1,0 +1,88 @@
+BackMarket URL Groups Summary (grouped by path after de-de/):
+==================================================
+
+Group 'l': 722 URLs
+Example URLs:
+  https://www.backmarket.de/de-de/l/laptop/630dab14-5051-49b9-bc7b-bb20876d4850
+  https://www.backmarket.de/de-de/l/tablet/5a3cfa21-b588-49b1-b4e9-2636bec68ada
+  https://www.backmarket.de/de-de/l/zubehor-buro/4c8cd4bd-56f7-4d7c-bc67-51fa9c226eef
+
+Group 'buyback': 64 URLs
+Example URLs:
+  https://www.backmarket.de/de-de/buyback/home
+  https://www.backmarket.de/de-de/buyback/smartphones/iphone-12-pro
+  https://www.backmarket.de/de-de/buyback/consoles/microsoft-xbox
+
+Group 'e': 11 URLs
+Example URLs:
+  https://www.backmarket.de/de-de/e/good-deals
+  https://www.backmarket.de/de-de/e/tech-impact
+  https://www.backmarket.de/de-de/e/earth-day
+
+Group 'help': 1 URLs
+Example URLs:
+  https://www.backmarket.de/de-de/help
+
+Group 'legal': 2 URLs
+Example URLs:
+  https://www.backmarket.de/de-de/legal/other-information
+  https://www.backmarket.de/de-de/legal/warranty
+
+Group 'gift': 1 URLs
+Example URLs:
+  https://www.backmarket.de/de-de/gift/finder
+
+Group 'price-guide': 152 URLs
+Example URLs:
+  https://www.backmarket.de/de-de/price-guide/iphone-15-pro-max
+  https://www.backmarket.de/de-de/price-guide/iphone-15-pro
+  https://www.backmarket.de/de-de/price-guide/galaxy-a7-2018
+
+Group 'c': 404 URLs
+Example URLs:
+  https://www.backmarket.de/de-de/c/iphone/iphone-12-pro-test
+  https://www.backmarket.de/de-de/c/iphone/iphone-12-pro-max-test
+  https://www.backmarket.de/de-de/c/iphone/iphone-12-pro-max-price
+
+Group 'compare': 224 URLs
+Example URLs:
+  https://www.backmarket.de/de-de/compare/iphone-12-pro/iphone-13
+  https://www.backmarket.de/de-de/compare/iphone-12/iphone-12-mini
+  https://www.backmarket.de/de-de/compare/iphone-12-mini/iphone-12-pro
+
+Group 'r': 982 URLs
+Example URLs:
+  https://www.backmarket.de/de-de/r/l/iphone-12-pro/39e73269-f8fc-481b-8edc-f2389969a5fb
+  https://www.backmarket.de/de-de/r/l/samsung-galaxy-a23/d67ee461-1469-4eba-861c-da99d513e3aa
+  https://www.backmarket.de/de-de/r/l/bose/2d6b5fc6-400f-4bf5-b009-387f8901633c
+
+Group 'p': 12237 URLs
+Example URLs:
+  https://www.backmarket.de/de-de/p/gb/a2a4ca1b-2731-4b3f-9c29-2c0e6ac4084a
+  https://www.backmarket.de/de-de/p/gb/0578ee4f-c5e0-4ac5-9359-9a7244971a67
+  https://www.backmarket.de/de-de/p/samsung-galaxy-s20-ultra-5g-512-gb-schwarz-ohne-vertrag/bfb80e2f-f03b-4f2e-8507-14873d47ac6f
+
+Group 's': 335 URLs
+Example URLs:
+  https://www.backmarket.de/de-de/s/meadia-tech/1cbd6e35-3add-4617-a22e-2b91131c1e69
+  https://www.backmarket.de/de-de/s/phone-revolution-factory/898bd963-2e50-4355-9ea5-fe403acf3592
+  https://www.backmarket.de/de-de/s/prestaphone/a43f0789-dbc2-4f27-8e89-7888fe591d01
+
+Group 'b': 1 URLs
+Example URLs:
+  https://www.backmarket.de/de-de/b/apple-store
+
+Group 'quality': 5 URLs
+Example URLs:
+  https://www.backmarket.de/de-de/quality/smartphones
+  https://www.backmarket.de/de-de/quality/tablets
+  https://www.backmarket.de/de-de/quality/laptops
+
+Group 'student-discount': 1 URLs
+Example URLs:
+  https://www.backmarket.de/de-de/student-discount
+
+Group 'about-us': 1 URLs
+Example URLs:
+  https://www.backmarket.de/de-de/about-us
+

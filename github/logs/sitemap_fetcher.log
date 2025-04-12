@@ -117,3 +117,1102 @@ Exclusion Summary for Refurbed:
 2025-04-10 12:10:14,592 - INFO -   Example: https://www.refurbed.de/p/amazon-echo-dot-gen-4/
 2025-04-10 12:10:14,592 - INFO -   ... and 3 more
 2025-04-10 12:10:14,640 - INFO - Successfully saved 6687 URLs to C:\Users\samil\Documents\PythonScripts\Scraper\M3-scraper\github\Sitemaps\refurbed_urls.txt
+2025-04-10 12:22:25,965 - INFO - Successfully fetched sitemap from https://www.refurbed.de/sitemap-marketplace.xml
+2025-04-10 12:22:27,155 - INFO - Found 6687 relevant product URLs for Refurbed
+2025-04-10 12:22:27,159 - INFO - 
+Exclusion Summary for Refurbed:
+2025-04-10 12:22:27,161 - INFO - gear: 29 URLs
+2025-04-10 12:22:27,168 - INFO -   Example: https://www.refurbed.de/p/samsung-gear-iconx-sm-r150/
+2025-04-10 12:22:27,171 - INFO -   Example: https://www.refurbed.de/p/netgear-wlan-repeater/
+2025-04-10 12:22:27,172 - INFO -   Example: https://www.refurbed.de/p/samsung-gear-fit/
+2025-04-10 12:22:27,173 - INFO -   ... and 26 more
+2025-04-10 12:22:27,173 - INFO - fitbit: 17 URLs
+2025-04-10 12:22:27,173 - INFO -   Example: https://www.refurbed.de/p/fitbit-charge-6/
+2025-04-10 12:22:27,173 - INFO -   Example: https://www.refurbed.de/p/fitbit-versa-4/
+2025-04-10 12:22:27,173 - INFO -   Example: https://www.refurbed.de/p/fitbit-sense/
+2025-04-10 12:22:27,173 - INFO -   ... and 14 more
+2025-04-10 12:22:27,175 - INFO - case: 31 URLs
+2025-04-10 12:22:27,175 - INFO -   Example: https://www.refurbed.de/p/mw-harshell-laptop-case/
+2025-04-10 12:22:27,175 - INFO -   Example: https://www.refurbed.de/p/holdit-recycled-phone-case/
+2025-04-10 12:22:27,175 - INFO -   Example: https://www.refurbed.de/p/imoshion-transparent-phone-case/
+2025-04-10 12:22:27,180 - INFO -   ... and 28 more
+2025-04-10 12:22:27,181 - INFO - watch: 137 URLs
+2025-04-10 12:22:27,182 - INFO -   Example: https://www.refurbed.de/p/apple-watch-series-9-alu-41mm/
+2025-04-10 12:22:27,182 - INFO -   Example: https://www.refurbed.de/p/vodafone-v-kids-watch/
+2025-04-10 12:22:27,185 - INFO -   Example: https://www.refurbed.de/p/oppo-watch-alu-46mm/
+2025-04-10 12:22:27,185 - INFO -   ... and 134 more
+2025-04-10 12:22:27,186 - INFO - keyboard: 40 URLs
+2025-04-10 12:22:27,186 - INFO -   Example: https://www.refurbed.de/p/logitech-g-pro-gaming-keyboard/
+2025-04-10 12:22:27,186 - INFO -   Example: https://www.refurbed.de/p/apple-magic-keyboard/
+2025-04-10 12:22:27,187 - INFO -   Example: https://www.refurbed.de/p/apple-magic-keyboard-numblock/
+2025-04-10 12:22:27,188 - INFO -   ... and 37 more
+2025-04-10 12:22:27,193 - INFO - google-home: 4 URLs
+2025-04-10 12:22:27,195 - INFO -   Example: https://www.refurbed.de/p/google-home/
+2025-04-10 12:22:27,202 - INFO -   Example: https://www.refurbed.de/p/google-home-hub-max/
+2025-04-10 12:22:27,202 - INFO -   Example: https://www.refurbed.de/p/google-home-max/
+2025-04-10 12:22:27,203 - INFO -   ... and 1 more
+2025-04-10 12:22:27,204 - INFO - cover: 25 URLs
+2025-04-10 12:22:27,205 - INFO -   Example: https://www.refurbed.de/p/samsung-galaxy-xcover-7/
+2025-04-10 12:22:27,205 - INFO -   Example: https://www.refurbed.de/p/apple-mackbook-air-13-cover/
+2025-04-10 12:22:27,207 - INFO -   Example: https://www.refurbed.de/p/samsung-ef-dx915-book-cover-kbrd/
+2025-04-10 12:22:27,207 - INFO -   ... and 22 more
+2025-04-10 12:22:27,207 - INFO - mouse: 19 URLs
+2025-04-10 12:22:27,210 - INFO -   Example: https://www.refurbed.de/p/hp-elite-presenter-mouse/
+2025-04-10 12:22:27,210 - INFO -   Example: https://www.refurbed.de/p/microsoft-comfort-mouse-4500/
+2025-04-10 12:22:27,213 - INFO -   Example: https://www.refurbed.de/p/g-lab-kult-radium-mouse/
+2025-04-10 12:22:27,216 - INFO -   ... and 16 more
+2025-04-10 12:22:27,217 - INFO - camera: 10 URLs
+2025-04-10 12:22:27,218 - INFO -   Example: https://www.refurbed.de/p/daewoo-camera-ep501/
+2025-04-10 12:22:27,218 - INFO -   Example: https://www.refurbed.de/p/ion-camocam-wi-fi-action-camera/
+2025-04-10 12:22:27,219 - INFO -   Example: https://www.refurbed.de/p/netatmo-smart-outdoor-camera/
+2025-04-10 12:22:27,223 - INFO -   ... and 7 more
+2025-04-10 12:22:27,223 - INFO - nest: 4 URLs
+2025-04-10 12:22:27,223 - INFO -   Example: https://www.refurbed.de/p/google-nest-cam-outdoor/
+2025-04-10 12:22:27,223 - INFO -   Example: https://www.refurbed.de/p/google-nest-cam-indoor/
+2025-04-10 12:22:27,226 - INFO -   Example: https://www.refurbed.de/p/google-nest-mini/
+2025-04-10 12:22:27,234 - INFO -   ... and 1 more
+2025-04-10 12:22:27,235 - INFO - speaker: 12 URLs
+2025-04-10 12:22:27,241 - INFO -   Example: https://www.refurbed.de/p/xiaomi-mi-portable-bt-speaker/
+2025-04-10 12:22:27,244 - INFO -   Example: https://www.refurbed.de/p/bose-251-speakers/
+2025-04-10 12:22:27,246 - INFO -   Example: https://www.refurbed.de/p/raycon-the-power-boombox-speaker/
+2025-04-10 12:22:27,246 - INFO -   ... and 9 more
+2025-04-10 12:22:27,247 - INFO - headphone: 1 URLs
+2025-04-10 12:22:27,247 - INFO -   Example: https://www.refurbed.de/p/bose-anc-headphones-700/
+2025-04-10 12:22:27,248 - INFO - docking: 31 URLs
+2025-04-10 12:22:27,248 - INFO -   Example: https://www.refurbed.de/p/hp-120w-advanced-docking/
+2025-04-10 12:22:27,249 - INFO -   Example: https://www.refurbed.de/p/hp-hstnn-ix01-dockingstation/
+2025-04-10 12:22:27,250 - INFO -   Example: https://www.refurbed.de/p/dell-docking-station-k07a/
+2025-04-10 12:22:27,250 - INFO -   ... and 28 more
+2025-04-10 12:22:27,250 - INFO - charger: 17 URLs
+2025-04-10 12:22:27,250 - INFO -   Example: https://www.refurbed.de/p/charger-lightning-panzerglass/
+2025-04-10 12:22:27,252 - INFO -   Example: https://www.refurbed.de/p/charger-65w-laptop-sleeve/
+2025-04-10 12:22:27,252 - INFO -   Example: https://www.refurbed.de/p/bundle-charger-20w-usbc-lghtng/
+2025-04-10 12:22:27,255 - INFO -   ... and 14 more
+2025-04-10 12:22:27,255 - INFO - airpods: 14 URLs
+2025-04-10 12:22:27,258 - INFO -   Example: https://www.refurbed.de/p/apple-airpods-pro-2/
+2025-04-10 12:22:27,258 - INFO -   Example: https://www.refurbed.de/p/holdit-recycled-airpodspro-case/
+2025-04-10 12:22:27,258 - INFO -   Example: https://www.refurbed.de/p/apple-airpods-max-2024/
+2025-04-10 12:22:27,258 - INFO -   ... and 11 more
+2025-04-10 12:22:27,258 - INFO - homepod: 3 URLs
+2025-04-10 12:22:27,260 - INFO -   Example: https://www.refurbed.de/p/apple-homepod-mini/
+2025-04-10 12:22:27,261 - INFO -   Example: https://www.refurbed.de/p/apple-homepod-2nd-generation/
+2025-04-10 12:22:27,262 - INFO -   Example: https://www.refurbed.de/p/apple-homepod/
+2025-04-10 12:22:27,262 - INFO - band: 20 URLs
+2025-04-10 12:22:27,263 - INFO -   Example: https://www.refurbed.de/p/huawei-band-3-pro/
+2025-04-10 12:22:27,263 - INFO -   Example: https://www.refurbed.de/p/honor-band-7/
+2025-04-10 12:22:27,263 - INFO -   Example: https://www.refurbed.de/p/xiaomi-mi-band-4/
+2025-04-10 12:22:27,263 - INFO -   ... and 17 more
+2025-04-10 12:22:27,263 - INFO - earbuds: 11 URLs
+2025-04-10 12:22:27,265 - INFO -   Example: https://www.refurbed.de/p/nokia-clarity-earbuds-plus/
+2025-04-10 12:22:27,265 - INFO -   Example: https://www.refurbed.de/p/bose-quietcomfort-earbuds-ii/
+2025-04-10 12:22:27,265 - INFO -   Example: https://www.refurbed.de/p/honor-earbuds-3-pro/
+2025-04-10 12:22:27,267 - INFO -   ... and 8 more
+2025-04-10 12:22:27,268 - INFO - adapter: 14 URLs
+2025-04-10 12:22:27,269 - INFO -   Example: https://www.refurbed.de/p/honor-supercharge-power-adapter/
+2025-04-10 12:22:27,269 - INFO -   Example: https://www.refurbed.de/p/lenovo-usb-ac-adapter-usb-typ-c/
+2025-04-10 12:22:27,269 - INFO -   Example: https://www.refurbed.de/p/otg-adapter-lghtng-3port/
+2025-04-10 12:22:27,271 - INFO -   ... and 11 more
+2025-04-10 12:22:27,271 - INFO - trackpad: 3 URLs
+2025-04-10 12:22:27,271 - INFO -   Example: https://www.refurbed.de/p/apple-magic-trackpad-3/
+2025-04-10 12:22:27,271 - INFO -   Example: https://www.refurbed.de/p/apple-magic-trackpad-2/
+2025-04-10 12:22:27,271 - INFO -   Example: https://www.refurbed.de/p/apple-magic-trackpad/
+2025-04-10 12:22:27,273 - INFO - printer: 1 URLs
+2025-04-10 12:22:27,273 - INFO -   Example: https://www.refurbed.de/p/kodak-photo-printer-dock-450/
+2025-04-10 12:22:27,273 - INFO - cable: 9 URLs
+2025-04-10 12:22:27,275 - INFO -   Example: https://www.refurbed.de/p/bundle-charge-20w-magnetic-cable/
+2025-04-10 12:22:27,276 - INFO -   Example: https://www.refurbed.de/p/dell-0c6y7m-cable/
+2025-04-10 12:22:27,276 - INFO -   Example: https://www.refurbed.de/p/dell-qsfp-direct-attach-cable/
+2025-04-10 12:22:27,277 - INFO -   ... and 6 more
+2025-04-10 12:22:27,277 - INFO - screen-protector: 2 URLs
+2025-04-10 12:22:27,277 - INFO -   Example: https://www.refurbed.de/p/screen-protector-samsung-tablet/
+2025-04-10 12:22:27,277 - INFO -   Example: https://www.refurbed.de/p/screen-protector-ipad/
+2025-04-10 12:22:27,278 - INFO - webcam: 3 URLs
+2025-04-10 12:22:27,279 - INFO -   Example: https://www.refurbed.de/p/xiaomi-imilab-1080p-webcam/
+2025-04-10 12:22:27,279 - INFO -   Example: https://www.refurbed.de/p/lenovo-essential-fhd-webcam/
+2025-04-10 12:22:27,279 - INFO -   Example: https://www.refurbed.de/p/lenovo-500-fhd-webcam/
+2025-04-10 12:22:27,280 - INFO - echo: 6 URLs
+2025-04-10 12:22:27,280 - INFO -   Example: https://www.refurbed.de/p/amazon-echo-show-5-gen-2/
+2025-04-10 12:22:27,281 - INFO -   Example: https://www.refurbed.de/p/amazon-echo-gen-2/
+2025-04-10 12:22:27,281 - INFO -   Example: https://www.refurbed.de/p/amazon-echo-dot-gen-4/
+2025-04-10 12:22:27,281 - INFO -   ... and 3 more
+2025-04-10 12:22:27,365 - INFO - Successfully saved 6687 URLs to C:\Users\samil\Documents\PythonScripts\Scraper\M3-scraper\github\Sitemaps\refurbed_urls.txt
+2025-04-10 12:22:28,243 - INFO - Successfully fetched sitemap from https://www.backmarket.de/sitemap_1.xml
+2025-04-10 12:22:28,456 - INFO - Found 6936 relevant product URLs for Backmarket
+2025-04-10 12:22:28,456 - INFO - 
+Exclusion Summary for Backmarket:
+2025-04-10 12:22:28,456 - INFO - keyboard: 59 URLs
+2025-04-10 12:22:28,456 - INFO -   Example: https://www.backmarket.de/de-de/p/tastatur-qwertz-deutsch-wireless-magic-keyboard-mit-ziffernblock/069119b2-5721-4f0d-a116-9974828fafd1
+2025-04-10 12:22:28,458 - INFO -   Example: https://www.backmarket.de/de-de/p/ipad-magic-keyboard-10911-2020-schwarz-qwertz-deutsch/56aa2b93-c29c-414c-9f92-06c36b3822a2
+2025-04-10 12:22:28,458 - INFO -   Example: https://www.backmarket.de/de-de/p/microsoft-tastatur-qwerty-englisch-us-wireless-mit-hintergrundbeleuchtung-surface-pro-x-8-9-keyboard/f89d72bf-1a2d-4465-a05b-c8ab36477a1b
+2025-04-10 12:22:28,459 - INFO -   ... and 56 more
+2025-04-10 12:22:28,459 - INFO - mouse: 19 URLs
+2025-04-10 12:22:28,459 - INFO -   Example: https://www.backmarket.de/de-de/p/maus-magic-mouse-2/1bd5155c-5e7d-4d38-955c-4b79a8ff0a7a
+2025-04-10 12:22:28,460 - INFO -   Example: https://www.backmarket.de/de-de/p/trust-yvi-silent-wireless-mouse-blue-model-24551-maus-wireless/b2ed4402-7c6b-472d-8fdf-ccbb17fb6ea7
+2025-04-10 12:22:28,463 - INFO -   Example: https://www.backmarket.de/de-de/p/souris-gamer-steelseries-aerox-9-wireless-gaming-mouse-maus-wireless/81a52abb-7048-4a48-b318-22dc46ea7a1e
+2025-04-10 12:22:28,463 - INFO -   ... and 16 more
+2025-04-10 12:22:28,463 - INFO - airpods: 26 URLs
+2025-04-10 12:22:28,465 - INFO -   Example: https://www.backmarket.de/de-de/p/airpods-mit-ladecase-3-generation/e3d83ef6-ca98-456b-bfeb-653f8cfa0ac4
+2025-04-10 12:22:28,465 - INFO -   Example: https://www.backmarket.de/de-de/p/schutzhulle-airpods-pro-thermoplastisches-polyurethan-tpu-transparent/e5e11ab1-e2d4-464a-a1f4-0830bc5e581c
+2025-04-10 12:22:28,466 - INFO -   Example: https://www.backmarket.de/de-de/p/ohrhorer-in-ear-bluetooth-rauschunterdruckung-airpods-pro/7a88eac8-468b-4bfc-b932-d1f5065f25e8
+2025-04-10 12:22:28,466 - INFO -   ... and 23 more
+2025-04-10 12:22:28,466 - INFO - headphone: 7 URLs
+2025-04-10 12:22:28,467 - INFO -   Example: https://www.backmarket.de/de-de/p/kopfhorer-beats-studio3-wireless-headphones-black-matte-schwarz/84f4cf37-9caf-4c7c-a0f6-15d34bf86142
+2025-04-10 12:22:28,467 - INFO -   Example: https://www.backmarket.de/de-de/p/kopfhorer-rauschunterdruckung-bluetooth-mit-mikrophon-bose-headphones-700-schwarz/734d4bd7-065a-4921-a97f-cb9273d209ad
+2025-04-10 12:22:28,468 - INFO -   Example: https://www.backmarket.de/de-de/p/ohrhorer-shop-story-f9-headphone-black/562329a3-215b-4d5d-8757-a580c9ff07f1
+2025-04-10 12:22:28,469 - INFO -   ... and 4 more
+2025-04-10 12:22:28,470 - INFO - earbuds: 6 URLs
+2025-04-10 12:22:28,470 - INFO -   Example: https://www.backmarket.de/de-de/p/ohrhorer-in-ear-bluetooth-rauschunterdruckung-bose-quietcomfort-earbuds/89693db1-c9b4-44d7-8a60-285810d657d3
+2025-04-10 12:22:28,470 - INFO -   Example: https://www.backmarket.de/de-de/p/ohrhorer-in-ear-bluetooth-honor-earbuds-3-pro/6cc34776-912e-41d9-88d7-86229c042733
+2025-04-10 12:22:28,471 - INFO -   Example: https://www.backmarket.de/de-de/p/ohrhorer-in-ear-bluetooth-rauschunterdruckung-bose-quietcomfort-earbuds-ii/9cd13ce5-bd81-40be-878c-8cc654e69954
+2025-04-10 12:22:28,472 - INFO -   ... and 3 more
+2025-04-10 12:22:28,472 - INFO - lens: 13 URLs
+2025-04-10 12:22:28,472 - INFO -   Example: https://www.backmarket.de/de-de/p/kompakt-sony-dsc-hx50-grau-objektivo-sony-lens-g-optical-zoom-24-720-mm-f35-63/613c8fc0-5307-43fe-8241-cb755e29676b
+2025-04-10 12:22:28,473 - INFO -   Example: https://www.backmarket.de/de-de/p/compact-canon-ixus-170-argent-canon-canon-zoom-lens-12x-is-25-300mm-f36-70/ba7896f1-28b0-4da3-a9a0-56962ef2449f
+2025-04-10 12:22:28,474 - INFO -   Example: https://www.backmarket.de/de-de/p/bridge-canon-powershot-sx540-hs-noir-canon-canon-zoom-lens-50x-is-24-1200-mm-f34-65/a664997c-1cf4-49e8-b962-b4a2cfd8b6dd
+2025-04-10 12:22:28,474 - INFO -   ... and 10 more
+2025-04-10 12:22:28,475 - INFO - watch: 436 URLs
+2025-04-10 12:22:28,475 - INFO -   Example: https://www.backmarket.de/de-de/p/uhren-gps-samsung-galaxy-watch3-sm-r850/b1efdf98-19ef-4a2e-9f15-ec38587961da
+2025-04-10 12:22:28,475 - INFO -   Example: https://www.backmarket.de/de-de/p/uhren-gps-samsung-galaxy-watch3-lte/4f751550-707b-4862-a6c2-94363871b80d
+2025-04-10 12:22:28,475 - INFO -   Example: https://www.backmarket.de/de-de/p/beamer-wewatch-v10-8500-helligkeit-wei/eff40038-7450-463b-a65c-6cf88bac1bc5
+2025-04-10 12:22:28,476 - INFO -   ... and 433 more
+2025-04-10 12:22:28,476 - INFO - cable: 28 URLs
+2025-04-10 12:22:28,477 - INFO -   Example: https://www.backmarket.de/de-de/p/simpletek-natec-nzl-0225-metal-security-cable-lobster-key-180cm-in-length-kabel/4657493f-72e8-484b-b578-22bdcfc35238
+2025-04-10 12:22:28,477 - INFO -   Example: https://www.backmarket.de/de-de/p/simpletek-caddy-and-4tb-ssd-disk-with-20cm-usb-a-cable-externe-festplatte-ssd-3-tb-usb-a/1a783cb0-f5b8-4a4f-9d9e-f083a46312ee
+2025-04-10 12:22:28,477 - INFO -   Example: https://www.backmarket.de/de-de/p/simpletek-caddy-and-960gb-ssd-disk-with-20cm-usb-a-cable-externe-festplatte-ssd-960-gb-usb-a/a62b2aac-a403-4d3e-acaf-9f1726fe055b
+2025-04-10 12:22:28,478 - INFO -   ... and 25 more
+2025-04-10 12:22:28,479 - INFO - docking: 140 URLs
+2025-04-10 12:22:28,479 - INFO -   Example: https://www.backmarket.de/de-de/p/hp-hstnn-ix10-docking-station/f1b58ee8-d822-4ad2-9e7b-ffe4c0d07f19
+2025-04-10 12:22:28,479 - INFO -   Example: https://www.backmarket.de/de-de/p/dell-dock-wd19-180w-docking-station/c7e7b457-24be-4ede-b7f7-298d088e15e2
+2025-04-10 12:22:28,481 - INFO -   Example: https://www.backmarket.de/de-de/p/i-tec-c31hdmidpdockpd-docking-station/1c93942b-4d0c-4704-ac27-008b1e3e6780
+2025-04-10 12:22:28,481 - INFO -   ... and 137 more
+2025-04-10 12:22:28,481 - INFO - gear: 12 URLs
+2025-04-10 12:22:28,481 - INFO -   Example: https://www.backmarket.de/de-de/p/konsole-microsoft-xbox-one-s-2-tb-controller-gears-of-war-4-limited-edition/12bb777c-cb1e-4823-b2fb-13441b822a89
+2025-04-10 12:22:28,481 - INFO -   Example: https://www.backmarket.de/de-de/p/razer-mamba-wireless-gears-of-war-5-maus-wireless/f32a1518-5529-4363-a49a-494085351193
+2025-04-10 12:22:28,481 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-bluetooth-lg-ultragear-gp9-schwarz/e53393b4-3e99-4c57-ac02-7154d631e141
+2025-04-10 12:22:28,483 - INFO -   ... and 9 more
+2025-04-10 12:22:28,483 - INFO - webcam: 33 URLs
+2025-04-10 12:22:28,483 - INFO -   Example: https://www.backmarket.de/de-de/p/elgato-10waa9901-webcam/e7262dc0-5995-4494-a8ba-92d648cdc3b9
+2025-04-10 12:22:28,483 - INFO -   Example: https://www.backmarket.de/de-de/p/webcam-logitech-c270/414a1d23-cf50-4c7a-a86d-c961baca74f1
+2025-04-10 12:22:28,484 - INFO -   Example: https://www.backmarket.de/de-de/p/webcam-logitech-hd-pro-c920/c2f922c5-a554-40c1-a384-fd8794a84382
+2025-04-10 12:22:28,486 - INFO -   ... and 30 more
+2025-04-10 12:22:28,488 - INFO - cover: 22 URLs
+2025-04-10 12:22:28,488 - INFO -   Example: https://www.backmarket.de/de-de/p/microsoft-tastatur-qwerty-schwedisch-surface-pro-type-cover-m1725/09d2f54d-6b62-4b20-8a01-a5c284b7aead
+2025-04-10 12:22:28,488 - INFO -   Example: https://www.backmarket.de/de-de/p/microsoft-tastatur-qwerty-portugiesisch-surface-pro-type-cover-m1725/1ed651f9-0cff-4efe-a056-6ddf23e65d2c
+2025-04-10 12:22:28,488 - INFO -   Example: https://www.backmarket.de/de-de/p/microsoft-tastatur-qwerty-english-5us-mit-hintergrundbeleuchtung-surface-pro-type-cover/319e3eb1-54be-4be5-8926-c726a5bbb12f
+2025-04-10 12:22:28,488 - INFO -   ... and 19 more
+2025-04-10 12:22:28,489 - INFO - printer: 4 URLs
+2025-04-10 12:22:28,489 - INFO -   Example: https://www.backmarket.de/de-de/p/hp-laserjet-e57540dn-printer-all-in-one-3gy25ab19/b688b10d-a77d-4492-ad14-49c777481899
+2025-04-10 12:22:28,489 - INFO -   Example: https://www.backmarket.de/de-de/p/brother-hl-l6400dw-a4-mono-laser-printer/8f775e5d-0bc2-42aa-8fff-f19c1e3f1bad
+2025-04-10 12:22:28,489 - INFO -   Example: https://www.backmarket.de/de-de/p/epson-workforce-pro-wf-c5710-a4-colour-multifunction-inkjet-printer-c11cg03401by/28755d9a-60b1-4820-8519-373bb8ef4170
+2025-04-10 12:22:28,489 - INFO -   ... and 1 more
+2025-04-10 12:22:28,489 - INFO - scanner: 37 URLs
+2025-04-10 12:22:28,489 - INFO -   Example: https://www.backmarket.de/de-de/p/canon-scanfront-400-1255c003ab-scanner/20074a6f-751c-4ab7-b147-236db92a1750
+2025-04-10 12:22:28,489 - INFO -   Example: https://www.backmarket.de/de-de/p/canon-dr-2010-scanner/733eeead-c1ec-4786-bab7-3ef583ce98a1
+2025-04-10 12:22:28,491 - INFO -   Example: https://www.backmarket.de/de-de/p/brother-ads-1800w-scanner/da818157-6fe2-4995-a8d7-a20dcf2c1467
+2025-04-10 12:22:28,492 - INFO -   ... and 34 more
+2025-04-10 12:22:28,492 - INFO - trackpad: 5 URLs
+2025-04-10 12:22:28,492 - INFO -   Example: https://www.backmarket.de/de-de/p/spirit-of-gamer-airblade-1300-trackpad/d835f631-f61b-4442-9676-abf22d62a383
+2025-04-10 12:22:28,492 - INFO -   Example: https://www.backmarket.de/de-de/p/magic-trackpad-2-maus-wei/693d25e5-2813-4c80-8675-a955971f1052
+2025-04-10 12:22:28,492 - INFO -   Example: https://www.backmarket.de/de-de/p/macbook-trackpad/26954d64-2d31-408b-a29e-d04b8f3572de
+2025-04-10 12:22:28,492 - INFO -   ... and 2 more
+2025-04-10 12:22:28,492 - INFO - charger: 7 URLs
+2025-04-10 12:22:28,492 - INFO -   Example: https://www.backmarket.de/de-de/p/asus-rog-gaming-charger-dock-auto/5b46b5fe-3a5c-4364-8d48-ba36cf4c21a2
+2025-04-10 12:22:28,492 - INFO -   Example: https://www.backmarket.de/de-de/p/microsoft-charger-for-surface-pro-kabel/4c714ce6-836d-4e78-9125-48f5007095c8
+2025-04-10 12:22:28,492 - INFO -   Example: https://www.backmarket.de/de-de/p/microsoft-charger-for-surface-pro-kabel/1eb70989-1c61-4046-ab16-9b66d445c84d
+2025-04-10 12:22:28,492 - INFO -   ... and 4 more
+2025-04-10 12:22:28,492 - INFO - band: 5 URLs
+2025-04-10 12:22:28,492 - INFO -   Example: https://www.backmarket.de/de-de/p/belkin-n600-dual-band-router/3ba585d4-d9dd-4838-96bf-aacf2fa1ffe2
+2025-04-10 12:22:28,492 - INFO -   Example: https://www.backmarket.de/de-de/p/fitbit-verbundene-armbander-alta-hr-blue-grey-size-s/a401c9b2-56fc-4101-a28e-69ae2027c265
+2025-04-10 12:22:28,495 - INFO -   Example: https://www.backmarket.de/de-de/p/ohrhorer-jabra-engage-45-se-headset-draadloos-hoofdband-kantoorcallcenter-zwart/86888ec1-83e9-4963-8f5b-3504aae76ebf
+2025-04-10 12:22:28,495 - INFO -   ... and 2 more
+2025-04-10 12:22:28,495 - INFO - router: 11 URLs
+2025-04-10 12:22:28,495 - INFO -   Example: https://www.backmarket.de/de-de/p/huawei-b535-232a-router/1a7a838d-be03-4ec6-96f6-0f8b256fad12
+2025-04-10 12:22:28,495 - INFO -   Example: https://www.backmarket.de/de-de/p/huawei-e5785-330-router/2854f567-f312-4a26-987d-dde18f5e60f3
+2025-04-10 12:22:28,495 - INFO -   Example: https://www.backmarket.de/de-de/p/huawei-e5783b-230a-router/b7611eb7-f809-4660-b861-f8363f214a6e
+2025-04-10 12:22:28,497 - INFO -   ... and 8 more
+2025-04-10 12:22:28,498 - INFO - fitbit: 4 URLs
+2025-04-10 12:22:28,498 - INFO -   Example: https://www.backmarket.de/de-de/p/uhren-gps-fitbit-sense/5fdda097-715a-4b3d-9dad-2bfc8378b928
+2025-04-10 12:22:28,499 - INFO -   Example: https://www.backmarket.de/de-de/p/uhren-fitbit-versa/543572ea-e81a-4c3b-936b-76a888de7dbd
+2025-04-10 12:22:28,499 - INFO -   Example: https://www.backmarket.de/de-de/p/uhren-fitbit-versa-2/96d2a7fc-57ce-4371-979d-26387ffba2ce
+2025-04-10 12:22:28,499 - INFO -   ... and 1 more
+2025-04-10 12:22:28,499 - INFO - adapter: 15 URLs
+2025-04-10 12:22:28,500 - INFO -   Example: https://www.backmarket.de/de-de/p/adapter-huawei-e586/b64ca5d4-a5f3-4ba8-a48f-644469bfdaab
+2025-04-10 12:22:28,500 - INFO -   Example: https://www.backmarket.de/de-de/p/adapter-viltrox-jy680a/d07fcf64-605d-4aad-845a-57362be1efcb
+2025-04-10 12:22:28,500 - INFO -   Example: https://www.backmarket.de/de-de/p/thunderbolt-ethernet-gigabit-adapter/c8a14796-e05f-4153-b996-a010b71c3926
+2025-04-10 12:22:28,500 - INFO -   ... and 12 more
+2025-04-10 12:22:28,500 - INFO - homepod: 5 URLs
+2025-04-10 12:22:28,500 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-bluetooth-homepod-mini/cc2efc85-9bb4-4d1b-84f2-4acf7400738f
+2025-04-10 12:22:28,500 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-bluetooth-homepod-mini-gelb/d5273554-a3b5-43c9-a368-eefc79aa23ec
+2025-04-10 12:22:28,500 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-bluetooth-homepod-mini-orange/57163ad3-fe0f-4f22-91d3-5c1c8e374c70
+2025-04-10 12:22:28,503 - INFO -   ... and 2 more
+2025-04-10 12:22:28,503 - INFO - alexa: 2 URLs
+2025-04-10 12:22:28,503 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-danew-he-mini-alexa-schwarz/90e7e3f9-a188-44ae-b7ae-bd9eb6d35eb1
+2025-04-10 12:22:28,504 - INFO -   Example: https://www.backmarket.de/de-de/p/lenovo-smart-tab-m10-fhd-amazon-alexa-2020-101-32gb-wlan-schwarz-kein-sim-slot/6ed21239-3371-4023-9009-d231e0a80dd7
+2025-04-10 12:22:28,504 - INFO - echo: 9 URLs
+2025-04-10 12:22:28,504 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-bluetooth-amazon-echo-dot-5-schwarz/991af776-685d-4c03-8171-adfa207f55e1
+2025-04-10 12:22:28,504 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-amazon-echo-sub-grau/9c6011a9-dede-4e40-ae35-49994de06fc6
+2025-04-10 12:22:28,504 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-bluetooth-amazon-echo-dot-3-wei/f4877348-387d-4850-a34c-f2def65e6586
+2025-04-10 12:22:28,505 - INFO -   ... and 6 more
+2025-04-10 12:22:28,505 - INFO - speaker: 5 URLs
+2025-04-10 12:22:28,505 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-bluetooth-xiaomi-mi-smart-speaker/af168738-59ed-4578-afcd-7637a5d7a369
+2025-04-10 12:22:28,505 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-bluetooth-bose-portable-home-speaker-schwarz/e0f970e2-bd76-4e6c-a883-f8c25ae9c0ab
+2025-04-10 12:22:28,505 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-bluetooth-bose-home-speaker-500-silber/bfa0230c-90f0-4c79-9aff-447ed6006573
+2025-04-10 12:22:28,505 - INFO -   ... and 2 more
+2025-04-10 12:22:28,505 - INFO - camera: 9 URLs
+2025-04-10 12:22:28,505 - INFO -   Example: https://www.backmarket.de/de-de/p/elgato-cam-link-4k-videoaufnahmeadapter-hdmi-camera-connector/0cf956ab-c7d3-4ee4-890b-88cf186f8b03
+2025-04-10 12:22:28,505 - INFO -   Example: https://www.backmarket.de/de-de/p/sony-playstation-vr-v1-camera-v2-vr-helm-virtuelle-realitat/72218555-2e29-45d8-9f02-b5d67558e72b
+2025-04-10 12:22:28,505 - INFO -   Example: https://www.backmarket.de/de-de/p/casque-vr-sony-playstation-vr-vr-worlds-playstation-camera/25ab1f0e-845c-455c-a963-f6ad8407d5f9
+2025-04-10 12:22:28,505 - INFO -   ... and 6 more
+2025-04-10 12:22:28,505 - INFO - nest: 1 URLs
+2025-04-10 12:22:28,505 - INFO -   Example: https://www.backmarket.de/de-de/p/google-nest-cam-interieure-filaire-camcorder/0d100119-683f-4267-aa27-1d974b8b0ae3
+2025-04-10 12:22:28,505 - INFO - case: 2 URLs
+2025-04-10 12:22:28,505 - INFO -   Example: https://www.backmarket.de/de-de/p/leder-case-magsafe-leder/c2ba7784-b776-42c1-af7e-23d129fb842e
+2025-04-10 12:22:28,508 - INFO -   Example: https://www.backmarket.de/de-de/p/silikon-case-iphone-12-mini-magsafe-silikon/1e51add5-bb60-4793-aa1f-037c8ec54e4c
+2025-04-10 12:22:28,528 - INFO - Successfully saved 6936 URLs to C:\Users\samil\Documents\PythonScripts\Scraper\M3-scraper\github\Sitemaps\backmarket_urls.txt
+2025-04-10 12:23:46,135 - INFO - Successfully fetched sitemap from https://www.refurbed.de/sitemap-marketplace.xml
+2025-04-10 12:23:47,319 - INFO - Found 6685 relevant product URLs for Refurbed
+2025-04-10 12:23:47,321 - INFO - 
+Exclusion Summary for Refurbed:
+2025-04-10 12:23:47,321 - INFO - gear: 29 URLs
+2025-04-10 12:23:47,322 - INFO -   Example: https://www.refurbed.de/p/samsung-gear-iconx-sm-r150/
+2025-04-10 12:23:47,322 - INFO -   Example: https://www.refurbed.de/p/netgear-wlan-repeater/
+2025-04-10 12:23:47,322 - INFO -   Example: https://www.refurbed.de/p/samsung-gear-fit/
+2025-04-10 12:23:47,322 - INFO -   ... and 26 more
+2025-04-10 12:23:47,323 - INFO - fitbit: 17 URLs
+2025-04-10 12:23:47,325 - INFO -   Example: https://www.refurbed.de/p/fitbit-charge-6/
+2025-04-10 12:23:47,328 - INFO -   Example: https://www.refurbed.de/p/fitbit-versa-4/
+2025-04-10 12:23:47,328 - INFO -   Example: https://www.refurbed.de/p/fitbit-sense/
+2025-04-10 12:23:47,331 - INFO -   ... and 14 more
+2025-04-10 12:23:47,332 - INFO - case: 31 URLs
+2025-04-10 12:23:47,334 - INFO -   Example: https://www.refurbed.de/p/mw-harshell-laptop-case/
+2025-04-10 12:23:47,337 - INFO -   Example: https://www.refurbed.de/p/holdit-recycled-phone-case/
+2025-04-10 12:23:47,337 - INFO -   Example: https://www.refurbed.de/p/imoshion-transparent-phone-case/
+2025-04-10 12:23:47,340 - INFO -   ... and 28 more
+2025-04-10 12:23:47,341 - INFO - watch: 137 URLs
+2025-04-10 12:23:47,341 - INFO -   Example: https://www.refurbed.de/p/apple-watch-series-9-alu-41mm/
+2025-04-10 12:23:47,343 - INFO -   Example: https://www.refurbed.de/p/vodafone-v-kids-watch/
+2025-04-10 12:23:47,345 - INFO -   Example: https://www.refurbed.de/p/oppo-watch-alu-46mm/
+2025-04-10 12:23:47,345 - INFO -   ... and 134 more
+2025-04-10 12:23:47,345 - INFO - keyboard: 40 URLs
+2025-04-10 12:23:47,348 - INFO -   Example: https://www.refurbed.de/p/logitech-g-pro-gaming-keyboard/
+2025-04-10 12:23:47,348 - INFO -   Example: https://www.refurbed.de/p/apple-magic-keyboard/
+2025-04-10 12:23:47,351 - INFO -   Example: https://www.refurbed.de/p/apple-magic-keyboard-numblock/
+2025-04-10 12:23:47,353 - INFO -   ... and 37 more
+2025-04-10 12:23:47,353 - INFO - google-home: 4 URLs
+2025-04-10 12:23:47,354 - INFO -   Example: https://www.refurbed.de/p/google-home/
+2025-04-10 12:23:47,354 - INFO -   Example: https://www.refurbed.de/p/google-home-hub-max/
+2025-04-10 12:23:47,354 - INFO -   Example: https://www.refurbed.de/p/google-home-max/
+2025-04-10 12:23:47,355 - INFO -   ... and 1 more
+2025-04-10 12:23:47,355 - INFO - cover: 25 URLs
+2025-04-10 12:23:47,355 - INFO -   Example: https://www.refurbed.de/p/samsung-galaxy-xcover-7/
+2025-04-10 12:23:47,357 - INFO -   Example: https://www.refurbed.de/p/apple-mackbook-air-13-cover/
+2025-04-10 12:23:47,357 - INFO -   Example: https://www.refurbed.de/p/samsung-ef-dx915-book-cover-kbrd/
+2025-04-10 12:23:47,359 - INFO -   ... and 22 more
+2025-04-10 12:23:47,367 - INFO - mouse: 19 URLs
+2025-04-10 12:23:47,369 - INFO -   Example: https://www.refurbed.de/p/hp-elite-presenter-mouse/
+2025-04-10 12:23:47,369 - INFO -   Example: https://www.refurbed.de/p/microsoft-comfort-mouse-4500/
+2025-04-10 12:23:47,371 - INFO -   Example: https://www.refurbed.de/p/g-lab-kult-radium-mouse/
+2025-04-10 12:23:47,385 - INFO -   ... and 16 more
+2025-04-10 12:23:47,386 - INFO - camera: 10 URLs
+2025-04-10 12:23:47,387 - INFO -   Example: https://www.refurbed.de/p/daewoo-camera-ep501/
+2025-04-10 12:23:47,387 - INFO -   Example: https://www.refurbed.de/p/ion-camocam-wi-fi-action-camera/
+2025-04-10 12:23:47,387 - INFO -   Example: https://www.refurbed.de/p/netatmo-smart-outdoor-camera/
+2025-04-10 12:23:47,387 - INFO -   ... and 7 more
+2025-04-10 12:23:47,387 - INFO - nest: 4 URLs
+2025-04-10 12:23:47,387 - INFO -   Example: https://www.refurbed.de/p/google-nest-cam-outdoor/
+2025-04-10 12:23:47,387 - INFO -   Example: https://www.refurbed.de/p/google-nest-cam-indoor/
+2025-04-10 12:23:47,387 - INFO -   Example: https://www.refurbed.de/p/google-nest-mini/
+2025-04-10 12:23:47,387 - INFO -   ... and 1 more
+2025-04-10 12:23:47,389 - INFO - hulle: 4 URLs
+2025-04-10 12:23:47,391 - INFO -   Example: https://www.refurbed.de/p/recycelte-silikon-hulle/
+2025-04-10 12:23:47,394 - INFO -   Example: https://www.refurbed.de/p/zwm-plant-based-handyhulle/
+2025-04-10 12:23:47,394 - INFO -   Example: https://www.refurbed.de/p/zwm-ecofriendly-tablet-hulle/
+2025-04-10 12:23:47,394 - INFO -   ... and 1 more
+2025-04-10 12:23:47,394 - INFO - speaker: 12 URLs
+2025-04-10 12:23:47,397 - INFO -   Example: https://www.refurbed.de/p/xiaomi-mi-portable-bt-speaker/
+2025-04-10 12:23:47,400 - INFO -   Example: https://www.refurbed.de/p/bose-251-speakers/
+2025-04-10 12:23:47,400 - INFO -   Example: https://www.refurbed.de/p/raycon-the-power-boombox-speaker/
+2025-04-10 12:23:47,402 - INFO -   ... and 9 more
+2025-04-10 12:23:47,407 - INFO - headphone: 1 URLs
+2025-04-10 12:23:47,408 - INFO -   Example: https://www.refurbed.de/p/bose-anc-headphones-700/
+2025-04-10 12:23:47,410 - INFO - docking: 31 URLs
+2025-04-10 12:23:47,413 - INFO -   Example: https://www.refurbed.de/p/hp-120w-advanced-docking/
+2025-04-10 12:23:47,413 - INFO -   Example: https://www.refurbed.de/p/hp-hstnn-ix01-dockingstation/
+2025-04-10 12:23:47,413 - INFO -   Example: https://www.refurbed.de/p/dell-docking-station-k07a/
+2025-04-10 12:23:47,414 - INFO -   ... and 28 more
+2025-04-10 12:23:47,416 - INFO - charger: 17 URLs
+2025-04-10 12:23:47,430 - INFO -   Example: https://www.refurbed.de/p/charger-lightning-panzerglass/
+2025-04-10 12:23:47,432 - INFO -   Example: https://www.refurbed.de/p/charger-65w-laptop-sleeve/
+2025-04-10 12:23:47,434 - INFO -   Example: https://www.refurbed.de/p/bundle-charger-20w-usbc-lghtng/
+2025-04-10 12:23:47,435 - INFO -   ... and 14 more
+2025-04-10 12:23:47,435 - INFO - airpods: 14 URLs
+2025-04-10 12:23:47,435 - INFO -   Example: https://www.refurbed.de/p/apple-airpods-pro-2/
+2025-04-10 12:23:47,435 - INFO -   Example: https://www.refurbed.de/p/holdit-recycled-airpodspro-case/
+2025-04-10 12:23:47,455 - INFO -   Example: https://www.refurbed.de/p/apple-airpods-max-2024/
+2025-04-10 12:23:47,458 - INFO -   ... and 11 more
+2025-04-10 12:23:47,472 - INFO - homepod: 3 URLs
+2025-04-10 12:23:47,473 - INFO -   Example: https://www.refurbed.de/p/apple-homepod-mini/
+2025-04-10 12:23:47,473 - INFO -   Example: https://www.refurbed.de/p/apple-homepod-2nd-generation/
+2025-04-10 12:23:47,474 - INFO -   Example: https://www.refurbed.de/p/apple-homepod/
+2025-04-10 12:23:47,474 - INFO - band: 20 URLs
+2025-04-10 12:23:47,475 - INFO -   Example: https://www.refurbed.de/p/huawei-band-3-pro/
+2025-04-10 12:23:47,475 - INFO -   Example: https://www.refurbed.de/p/honor-band-7/
+2025-04-10 12:23:47,475 - INFO -   Example: https://www.refurbed.de/p/xiaomi-mi-band-4/
+2025-04-10 12:23:47,476 - INFO -   ... and 17 more
+2025-04-10 12:23:47,479 - INFO - earbuds: 11 URLs
+2025-04-10 12:23:47,481 - INFO -   Example: https://www.refurbed.de/p/nokia-clarity-earbuds-plus/
+2025-04-10 12:23:47,481 - INFO -   Example: https://www.refurbed.de/p/bose-quietcomfort-earbuds-ii/
+2025-04-10 12:23:47,482 - INFO -   Example: https://www.refurbed.de/p/honor-earbuds-3-pro/
+2025-04-10 12:23:47,482 - INFO -   ... and 8 more
+2025-04-10 12:23:47,483 - INFO - adapter: 14 URLs
+2025-04-10 12:23:47,491 - INFO -   Example: https://www.refurbed.de/p/honor-supercharge-power-adapter/
+2025-04-10 12:23:47,491 - INFO -   Example: https://www.refurbed.de/p/lenovo-usb-ac-adapter-usb-typ-c/
+2025-04-10 12:23:47,493 - INFO -   Example: https://www.refurbed.de/p/otg-adapter-lghtng-3port/
+2025-04-10 12:23:47,494 - INFO -   ... and 11 more
+2025-04-10 12:23:47,494 - INFO - trackpad: 3 URLs
+2025-04-10 12:23:47,495 - INFO -   Example: https://www.refurbed.de/p/apple-magic-trackpad-3/
+2025-04-10 12:23:47,495 - INFO -   Example: https://www.refurbed.de/p/apple-magic-trackpad-2/
+2025-04-10 12:23:47,497 - INFO -   Example: https://www.refurbed.de/p/apple-magic-trackpad/
+2025-04-10 12:23:47,497 - INFO - printer: 1 URLs
+2025-04-10 12:23:47,497 - INFO -   Example: https://www.refurbed.de/p/kodak-photo-printer-dock-450/
+2025-04-10 12:23:47,499 - INFO - cable: 9 URLs
+2025-04-10 12:23:47,499 - INFO -   Example: https://www.refurbed.de/p/bundle-charge-20w-magnetic-cable/
+2025-04-10 12:23:47,499 - INFO -   Example: https://www.refurbed.de/p/dell-0c6y7m-cable/
+2025-04-10 12:23:47,499 - INFO -   Example: https://www.refurbed.de/p/dell-qsfp-direct-attach-cable/
+2025-04-10 12:23:47,499 - INFO -   ... and 6 more
+2025-04-10 12:23:47,499 - INFO - screen-protector: 2 URLs
+2025-04-10 12:23:47,501 - INFO -   Example: https://www.refurbed.de/p/screen-protector-samsung-tablet/
+2025-04-10 12:23:47,502 - INFO -   Example: https://www.refurbed.de/p/screen-protector-ipad/
+2025-04-10 12:23:47,506 - INFO - webcam: 3 URLs
+2025-04-10 12:23:47,512 - INFO -   Example: https://www.refurbed.de/p/xiaomi-imilab-1080p-webcam/
+2025-04-10 12:23:47,514 - INFO -   Example: https://www.refurbed.de/p/lenovo-essential-fhd-webcam/
+2025-04-10 12:23:47,517 - INFO -   Example: https://www.refurbed.de/p/lenovo-500-fhd-webcam/
+2025-04-10 12:23:47,517 - INFO - echo: 6 URLs
+2025-04-10 12:23:47,519 - INFO -   Example: https://www.refurbed.de/p/amazon-echo-show-5-gen-2/
+2025-04-10 12:23:47,519 - INFO -   Example: https://www.refurbed.de/p/amazon-echo-gen-2/
+2025-04-10 12:23:47,520 - INFO -   Example: https://www.refurbed.de/p/amazon-echo-dot-gen-4/
+2025-04-10 12:23:47,520 - INFO -   ... and 3 more
+2025-04-10 12:23:47,586 - INFO - Successfully saved 6685 URLs to C:\Users\samil\Documents\PythonScripts\Scraper\M3-scraper\github\Sitemaps\refurbed_urls.txt
+2025-04-10 12:23:48,255 - INFO - Successfully fetched sitemap from https://www.backmarket.de/sitemap_1.xml
+2025-04-10 12:23:48,465 - INFO - Found 6733 relevant product URLs for Backmarket
+2025-04-10 12:23:48,465 - INFO - 
+Exclusion Summary for Backmarket:
+2025-04-10 12:23:48,466 - INFO - keyboard: 59 URLs
+2025-04-10 12:23:48,466 - INFO -   Example: https://www.backmarket.de/de-de/p/tastatur-qwertz-deutsch-wireless-magic-keyboard-mit-ziffernblock/069119b2-5721-4f0d-a116-9974828fafd1
+2025-04-10 12:23:48,466 - INFO -   Example: https://www.backmarket.de/de-de/p/ipad-magic-keyboard-10911-2020-schwarz-qwertz-deutsch/56aa2b93-c29c-414c-9f92-06c36b3822a2
+2025-04-10 12:23:48,466 - INFO -   Example: https://www.backmarket.de/de-de/p/microsoft-tastatur-qwerty-englisch-us-wireless-mit-hintergrundbeleuchtung-surface-pro-x-8-9-keyboard/f89d72bf-1a2d-4465-a05b-c8ab36477a1b
+2025-04-10 12:23:48,466 - INFO -   ... and 56 more
+2025-04-10 12:23:48,466 - INFO - mouse: 19 URLs
+2025-04-10 12:23:48,466 - INFO -   Example: https://www.backmarket.de/de-de/p/maus-magic-mouse-2/1bd5155c-5e7d-4d38-955c-4b79a8ff0a7a
+2025-04-10 12:23:48,466 - INFO -   Example: https://www.backmarket.de/de-de/p/trust-yvi-silent-wireless-mouse-blue-model-24551-maus-wireless/b2ed4402-7c6b-472d-8fdf-ccbb17fb6ea7
+2025-04-10 12:23:48,466 - INFO -   Example: https://www.backmarket.de/de-de/p/souris-gamer-steelseries-aerox-9-wireless-gaming-mouse-maus-wireless/81a52abb-7048-4a48-b318-22dc46ea7a1e
+2025-04-10 12:23:48,466 - INFO -   ... and 16 more
+2025-04-10 12:23:48,466 - INFO - hulle: 210 URLs
+2025-04-10 12:23:48,466 - INFO -   Example: https://www.backmarket.de/de-de/p/hulle-ipad-pro-13-2024-silikon-schwarz/897b70a7-359d-4ea6-a3f2-14902945d917
+2025-04-10 12:23:48,466 - INFO -   Example: https://www.backmarket.de/de-de/p/hulle-ipad-air-11-2024-silikon-schwarz/6306eb05-ee5e-4704-a2a4-27d736496239
+2025-04-10 12:23:48,466 - INFO -   Example: https://www.backmarket.de/de-de/p/hulle-ipad-pro-11-201820202021-ipad-air-4-2020-ipad-air-5-2022-thermoplastisches-polyurethan-tpu-schwarz/b4c592c8-2087-4df3-850a-6433d8f20405
+2025-04-10 12:23:48,466 - INFO -   ... and 207 more
+2025-04-10 12:23:48,466 - INFO - airpods: 26 URLs
+2025-04-10 12:23:48,466 - INFO -   Example: https://www.backmarket.de/de-de/p/airpods-mit-ladecase-3-generation/e3d83ef6-ca98-456b-bfeb-653f8cfa0ac4
+2025-04-10 12:23:48,466 - INFO -   Example: https://www.backmarket.de/de-de/p/schutzhulle-airpods-pro-thermoplastisches-polyurethan-tpu-transparent/e5e11ab1-e2d4-464a-a1f4-0830bc5e581c
+2025-04-10 12:23:48,470 - INFO -   Example: https://www.backmarket.de/de-de/p/ohrhorer-in-ear-bluetooth-rauschunterdruckung-airpods-pro/7a88eac8-468b-4bfc-b932-d1f5065f25e8
+2025-04-10 12:23:48,470 - INFO -   ... and 23 more
+2025-04-10 12:23:48,470 - INFO - headphone: 7 URLs
+2025-04-10 12:23:48,470 - INFO -   Example: https://www.backmarket.de/de-de/p/kopfhorer-beats-studio3-wireless-headphones-black-matte-schwarz/84f4cf37-9caf-4c7c-a0f6-15d34bf86142
+2025-04-10 12:23:48,470 - INFO -   Example: https://www.backmarket.de/de-de/p/kopfhorer-rauschunterdruckung-bluetooth-mit-mikrophon-bose-headphones-700-schwarz/734d4bd7-065a-4921-a97f-cb9273d209ad
+2025-04-10 12:23:48,470 - INFO -   Example: https://www.backmarket.de/de-de/p/ohrhorer-shop-story-f9-headphone-black/562329a3-215b-4d5d-8757-a580c9ff07f1
+2025-04-10 12:23:48,470 - INFO -   ... and 4 more
+2025-04-10 12:23:48,470 - INFO - earbuds: 6 URLs
+2025-04-10 12:23:48,470 - INFO -   Example: https://www.backmarket.de/de-de/p/ohrhorer-in-ear-bluetooth-rauschunterdruckung-bose-quietcomfort-earbuds/89693db1-c9b4-44d7-8a60-285810d657d3
+2025-04-10 12:23:48,470 - INFO -   Example: https://www.backmarket.de/de-de/p/ohrhorer-in-ear-bluetooth-honor-earbuds-3-pro/6cc34776-912e-41d9-88d7-86229c042733
+2025-04-10 12:23:48,470 - INFO -   Example: https://www.backmarket.de/de-de/p/ohrhorer-in-ear-bluetooth-rauschunterdruckung-bose-quietcomfort-earbuds-ii/9cd13ce5-bd81-40be-878c-8cc654e69954
+2025-04-10 12:23:48,470 - INFO -   ... and 3 more
+2025-04-10 12:23:48,470 - INFO - lens: 13 URLs
+2025-04-10 12:23:48,470 - INFO -   Example: https://www.backmarket.de/de-de/p/kompakt-sony-dsc-hx50-grau-objektivo-sony-lens-g-optical-zoom-24-720-mm-f35-63/613c8fc0-5307-43fe-8241-cb755e29676b
+2025-04-10 12:23:48,470 - INFO -   Example: https://www.backmarket.de/de-de/p/compact-canon-ixus-170-argent-canon-canon-zoom-lens-12x-is-25-300mm-f36-70/ba7896f1-28b0-4da3-a9a0-56962ef2449f
+2025-04-10 12:23:48,470 - INFO -   Example: https://www.backmarket.de/de-de/p/bridge-canon-powershot-sx540-hs-noir-canon-canon-zoom-lens-50x-is-24-1200-mm-f34-65/a664997c-1cf4-49e8-b962-b4a2cfd8b6dd
+2025-04-10 12:23:48,474 - INFO -   ... and 10 more
+2025-04-10 12:23:48,474 - INFO - watch: 436 URLs
+2025-04-10 12:23:48,474 - INFO -   Example: https://www.backmarket.de/de-de/p/uhren-gps-samsung-galaxy-watch3-sm-r850/b1efdf98-19ef-4a2e-9f15-ec38587961da
+2025-04-10 12:23:48,474 - INFO -   Example: https://www.backmarket.de/de-de/p/uhren-gps-samsung-galaxy-watch3-lte/4f751550-707b-4862-a6c2-94363871b80d
+2025-04-10 12:23:48,474 - INFO -   Example: https://www.backmarket.de/de-de/p/beamer-wewatch-v10-8500-helligkeit-wei/eff40038-7450-463b-a65c-6cf88bac1bc5
+2025-04-10 12:23:48,474 - INFO -   ... and 433 more
+2025-04-10 12:23:48,474 - INFO - cable: 28 URLs
+2025-04-10 12:23:48,474 - INFO -   Example: https://www.backmarket.de/de-de/p/simpletek-natec-nzl-0225-metal-security-cable-lobster-key-180cm-in-length-kabel/4657493f-72e8-484b-b578-22bdcfc35238
+2025-04-10 12:23:48,474 - INFO -   Example: https://www.backmarket.de/de-de/p/simpletek-caddy-and-4tb-ssd-disk-with-20cm-usb-a-cable-externe-festplatte-ssd-3-tb-usb-a/1a783cb0-f5b8-4a4f-9d9e-f083a46312ee
+2025-04-10 12:23:48,474 - INFO -   Example: https://www.backmarket.de/de-de/p/simpletek-caddy-and-960gb-ssd-disk-with-20cm-usb-a-cable-externe-festplatte-ssd-960-gb-usb-a/a62b2aac-a403-4d3e-acaf-9f1726fe055b
+2025-04-10 12:23:48,474 - INFO -   ... and 25 more
+2025-04-10 12:23:48,474 - INFO - docking: 140 URLs
+2025-04-10 12:23:48,474 - INFO -   Example: https://www.backmarket.de/de-de/p/hp-hstnn-ix10-docking-station/f1b58ee8-d822-4ad2-9e7b-ffe4c0d07f19
+2025-04-10 12:23:48,474 - INFO -   Example: https://www.backmarket.de/de-de/p/dell-dock-wd19-180w-docking-station/c7e7b457-24be-4ede-b7f7-298d088e15e2
+2025-04-10 12:23:48,478 - INFO -   Example: https://www.backmarket.de/de-de/p/i-tec-c31hdmidpdockpd-docking-station/1c93942b-4d0c-4704-ac27-008b1e3e6780
+2025-04-10 12:23:48,478 - INFO -   ... and 137 more
+2025-04-10 12:23:48,478 - INFO - gear: 12 URLs
+2025-04-10 12:23:48,478 - INFO -   Example: https://www.backmarket.de/de-de/p/konsole-microsoft-xbox-one-s-2-tb-controller-gears-of-war-4-limited-edition/12bb777c-cb1e-4823-b2fb-13441b822a89
+2025-04-10 12:23:48,478 - INFO -   Example: https://www.backmarket.de/de-de/p/razer-mamba-wireless-gears-of-war-5-maus-wireless/f32a1518-5529-4363-a49a-494085351193
+2025-04-10 12:23:48,478 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-bluetooth-lg-ultragear-gp9-schwarz/e53393b4-3e99-4c57-ac02-7154d631e141
+2025-04-10 12:23:48,478 - INFO -   ... and 9 more
+2025-04-10 12:23:48,478 - INFO - webcam: 33 URLs
+2025-04-10 12:23:48,478 - INFO -   Example: https://www.backmarket.de/de-de/p/elgato-10waa9901-webcam/e7262dc0-5995-4494-a8ba-92d648cdc3b9
+2025-04-10 12:23:48,478 - INFO -   Example: https://www.backmarket.de/de-de/p/webcam-logitech-c270/414a1d23-cf50-4c7a-a86d-c961baca74f1
+2025-04-10 12:23:48,478 - INFO -   Example: https://www.backmarket.de/de-de/p/webcam-logitech-hd-pro-c920/c2f922c5-a554-40c1-a384-fd8794a84382
+2025-04-10 12:23:48,478 - INFO -   ... and 30 more
+2025-04-10 12:23:48,478 - INFO - cover: 22 URLs
+2025-04-10 12:23:48,478 - INFO -   Example: https://www.backmarket.de/de-de/p/microsoft-tastatur-qwerty-schwedisch-surface-pro-type-cover-m1725/09d2f54d-6b62-4b20-8a01-a5c284b7aead
+2025-04-10 12:23:48,478 - INFO -   Example: https://www.backmarket.de/de-de/p/microsoft-tastatur-qwerty-portugiesisch-surface-pro-type-cover-m1725/1ed651f9-0cff-4efe-a056-6ddf23e65d2c
+2025-04-10 12:23:48,478 - INFO -   Example: https://www.backmarket.de/de-de/p/microsoft-tastatur-qwerty-english-5us-mit-hintergrundbeleuchtung-surface-pro-type-cover/319e3eb1-54be-4be5-8926-c726a5bbb12f
+2025-04-10 12:23:48,478 - INFO -   ... and 19 more
+2025-04-10 12:23:48,478 - INFO - printer: 4 URLs
+2025-04-10 12:23:48,478 - INFO -   Example: https://www.backmarket.de/de-de/p/hp-laserjet-e57540dn-printer-all-in-one-3gy25ab19/b688b10d-a77d-4492-ad14-49c777481899
+2025-04-10 12:23:48,478 - INFO -   Example: https://www.backmarket.de/de-de/p/brother-hl-l6400dw-a4-mono-laser-printer/8f775e5d-0bc2-42aa-8fff-f19c1e3f1bad
+2025-04-10 12:23:48,478 - INFO -   Example: https://www.backmarket.de/de-de/p/epson-workforce-pro-wf-c5710-a4-colour-multifunction-inkjet-printer-c11cg03401by/28755d9a-60b1-4820-8519-373bb8ef4170
+2025-04-10 12:23:48,484 - INFO -   ... and 1 more
+2025-04-10 12:23:48,485 - INFO - scanner: 37 URLs
+2025-04-10 12:23:48,485 - INFO -   Example: https://www.backmarket.de/de-de/p/canon-scanfront-400-1255c003ab-scanner/20074a6f-751c-4ab7-b147-236db92a1750
+2025-04-10 12:23:48,485 - INFO -   Example: https://www.backmarket.de/de-de/p/canon-dr-2010-scanner/733eeead-c1ec-4786-bab7-3ef583ce98a1
+2025-04-10 12:23:48,485 - INFO -   Example: https://www.backmarket.de/de-de/p/brother-ads-1800w-scanner/da818157-6fe2-4995-a8d7-a20dcf2c1467
+2025-04-10 12:23:48,485 - INFO -   ... and 34 more
+2025-04-10 12:23:48,485 - INFO - trackpad: 5 URLs
+2025-04-10 12:23:48,485 - INFO -   Example: https://www.backmarket.de/de-de/p/spirit-of-gamer-airblade-1300-trackpad/d835f631-f61b-4442-9676-abf22d62a383
+2025-04-10 12:23:48,485 - INFO -   Example: https://www.backmarket.de/de-de/p/magic-trackpad-2-maus-wei/693d25e5-2813-4c80-8675-a955971f1052
+2025-04-10 12:23:48,488 - INFO -   Example: https://www.backmarket.de/de-de/p/macbook-trackpad/26954d64-2d31-408b-a29e-d04b8f3572de
+2025-04-10 12:23:48,488 - INFO -   ... and 2 more
+2025-04-10 12:23:48,488 - INFO - charger: 7 URLs
+2025-04-10 12:23:48,488 - INFO -   Example: https://www.backmarket.de/de-de/p/asus-rog-gaming-charger-dock-auto/5b46b5fe-3a5c-4364-8d48-ba36cf4c21a2
+2025-04-10 12:23:48,488 - INFO -   Example: https://www.backmarket.de/de-de/p/microsoft-charger-for-surface-pro-kabel/4c714ce6-836d-4e78-9125-48f5007095c8
+2025-04-10 12:23:48,488 - INFO -   Example: https://www.backmarket.de/de-de/p/microsoft-charger-for-surface-pro-kabel/1eb70989-1c61-4046-ab16-9b66d445c84d
+2025-04-10 12:23:48,490 - INFO -   ... and 4 more
+2025-04-10 12:23:48,490 - INFO - band: 5 URLs
+2025-04-10 12:23:48,490 - INFO -   Example: https://www.backmarket.de/de-de/p/belkin-n600-dual-band-router/3ba585d4-d9dd-4838-96bf-aacf2fa1ffe2
+2025-04-10 12:23:48,490 - INFO -   Example: https://www.backmarket.de/de-de/p/fitbit-verbundene-armbander-alta-hr-blue-grey-size-s/a401c9b2-56fc-4101-a28e-69ae2027c265
+2025-04-10 12:23:48,490 - INFO -   Example: https://www.backmarket.de/de-de/p/ohrhorer-jabra-engage-45-se-headset-draadloos-hoofdband-kantoorcallcenter-zwart/86888ec1-83e9-4963-8f5b-3504aae76ebf
+2025-04-10 12:23:48,490 - INFO -   ... and 2 more
+2025-04-10 12:23:48,490 - INFO - router: 11 URLs
+2025-04-10 12:23:48,490 - INFO -   Example: https://www.backmarket.de/de-de/p/huawei-b535-232a-router/1a7a838d-be03-4ec6-96f6-0f8b256fad12
+2025-04-10 12:23:48,490 - INFO -   Example: https://www.backmarket.de/de-de/p/huawei-e5785-330-router/2854f567-f312-4a26-987d-dde18f5e60f3
+2025-04-10 12:23:48,490 - INFO -   Example: https://www.backmarket.de/de-de/p/huawei-e5783b-230a-router/b7611eb7-f809-4660-b861-f8363f214a6e
+2025-04-10 12:23:48,490 - INFO -   ... and 8 more
+2025-04-10 12:23:48,490 - INFO - fitbit: 4 URLs
+2025-04-10 12:23:48,490 - INFO -   Example: https://www.backmarket.de/de-de/p/uhren-gps-fitbit-sense/5fdda097-715a-4b3d-9dad-2bfc8378b928
+2025-04-10 12:23:48,490 - INFO -   Example: https://www.backmarket.de/de-de/p/uhren-fitbit-versa/543572ea-e81a-4c3b-936b-76a888de7dbd
+2025-04-10 12:23:48,490 - INFO -   Example: https://www.backmarket.de/de-de/p/uhren-fitbit-versa-2/96d2a7fc-57ce-4371-979d-26387ffba2ce
+2025-04-10 12:23:48,495 - INFO -   ... and 1 more
+2025-04-10 12:23:48,495 - INFO - adapter: 15 URLs
+2025-04-10 12:23:48,496 - INFO -   Example: https://www.backmarket.de/de-de/p/adapter-huawei-e586/b64ca5d4-a5f3-4ba8-a48f-644469bfdaab
+2025-04-10 12:23:48,496 - INFO -   Example: https://www.backmarket.de/de-de/p/adapter-viltrox-jy680a/d07fcf64-605d-4aad-845a-57362be1efcb
+2025-04-10 12:23:48,496 - INFO -   Example: https://www.backmarket.de/de-de/p/thunderbolt-ethernet-gigabit-adapter/c8a14796-e05f-4153-b996-a010b71c3926
+2025-04-10 12:23:48,496 - INFO -   ... and 12 more
+2025-04-10 12:23:48,496 - INFO - homepod: 5 URLs
+2025-04-10 12:23:48,497 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-bluetooth-homepod-mini/cc2efc85-9bb4-4d1b-84f2-4acf7400738f
+2025-04-10 12:23:48,497 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-bluetooth-homepod-mini-gelb/d5273554-a3b5-43c9-a368-eefc79aa23ec
+2025-04-10 12:23:48,497 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-bluetooth-homepod-mini-orange/57163ad3-fe0f-4f22-91d3-5c1c8e374c70
+2025-04-10 12:23:48,497 - INFO -   ... and 2 more
+2025-04-10 12:23:48,497 - INFO - alexa: 2 URLs
+2025-04-10 12:23:48,498 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-danew-he-mini-alexa-schwarz/90e7e3f9-a188-44ae-b7ae-bd9eb6d35eb1
+2025-04-10 12:23:48,498 - INFO -   Example: https://www.backmarket.de/de-de/p/lenovo-smart-tab-m10-fhd-amazon-alexa-2020-101-32gb-wlan-schwarz-kein-sim-slot/6ed21239-3371-4023-9009-d231e0a80dd7
+2025-04-10 12:23:48,498 - INFO - echo: 9 URLs
+2025-04-10 12:23:48,498 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-bluetooth-amazon-echo-dot-5-schwarz/991af776-685d-4c03-8171-adfa207f55e1
+2025-04-10 12:23:48,498 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-amazon-echo-sub-grau/9c6011a9-dede-4e40-ae35-49994de06fc6
+2025-04-10 12:23:48,498 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-bluetooth-amazon-echo-dot-3-wei/f4877348-387d-4850-a34c-f2def65e6586
+2025-04-10 12:23:48,498 - INFO -   ... and 6 more
+2025-04-10 12:23:48,498 - INFO - speaker: 5 URLs
+2025-04-10 12:23:48,498 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-bluetooth-xiaomi-mi-smart-speaker/af168738-59ed-4578-afcd-7637a5d7a369
+2025-04-10 12:23:48,498 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-bluetooth-bose-portable-home-speaker-schwarz/e0f970e2-bd76-4e6c-a883-f8c25ae9c0ab
+2025-04-10 12:23:48,498 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-bluetooth-bose-home-speaker-500-silber/bfa0230c-90f0-4c79-9aff-447ed6006573
+2025-04-10 12:23:48,498 - INFO -   ... and 2 more
+2025-04-10 12:23:48,502 - INFO - camera: 9 URLs
+2025-04-10 12:23:48,502 - INFO -   Example: https://www.backmarket.de/de-de/p/elgato-cam-link-4k-videoaufnahmeadapter-hdmi-camera-connector/0cf956ab-c7d3-4ee4-890b-88cf186f8b03
+2025-04-10 12:23:48,502 - INFO -   Example: https://www.backmarket.de/de-de/p/sony-playstation-vr-v1-camera-v2-vr-helm-virtuelle-realitat/72218555-2e29-45d8-9f02-b5d67558e72b
+2025-04-10 12:23:48,502 - INFO -   Example: https://www.backmarket.de/de-de/p/casque-vr-sony-playstation-vr-vr-worlds-playstation-camera/25ab1f0e-845c-455c-a963-f6ad8407d5f9
+2025-04-10 12:23:48,502 - INFO -   ... and 6 more
+2025-04-10 12:23:48,502 - INFO - nest: 1 URLs
+2025-04-10 12:23:48,502 - INFO -   Example: https://www.backmarket.de/de-de/p/google-nest-cam-interieure-filaire-camcorder/0d100119-683f-4267-aa27-1d974b8b0ae3
+2025-04-10 12:23:48,502 - INFO - case: 2 URLs
+2025-04-10 12:23:48,502 - INFO -   Example: https://www.backmarket.de/de-de/p/leder-case-magsafe-leder/c2ba7784-b776-42c1-af7e-23d129fb842e
+2025-04-10 12:23:48,504 - INFO -   Example: https://www.backmarket.de/de-de/p/silikon-case-iphone-12-mini-magsafe-silikon/1e51add5-bb60-4793-aa1f-037c8ec54e4c
+2025-04-10 12:23:48,526 - INFO - Successfully saved 6733 URLs to C:\Users\samil\Documents\PythonScripts\Scraper\M3-scraper\github\Sitemaps\backmarket_urls.txt
+2025-04-10 13:47:39,943 - INFO - Successfully fetched sitemap from https://www.refurbed.de/sitemap-marketplace.xml
+2025-04-10 13:47:40,833 - INFO - Found 6685 relevant product URLs for Refurbed
+2025-04-10 13:47:40,833 - INFO - 
+Exclusion Summary for Refurbed:
+2025-04-10 13:47:40,833 - INFO - gear: 29 URLs
+2025-04-10 13:47:40,833 - INFO -   Example: https://www.refurbed.de/p/samsung-gear-iconx-sm-r150/
+2025-04-10 13:47:40,833 - INFO -   Example: https://www.refurbed.de/p/netgear-wlan-repeater/
+2025-04-10 13:47:40,833 - INFO -   Example: https://www.refurbed.de/p/samsung-gear-fit/
+2025-04-10 13:47:40,833 - INFO -   ... and 26 more
+2025-04-10 13:47:40,833 - INFO - fitbit: 17 URLs
+2025-04-10 13:47:40,833 - INFO -   Example: https://www.refurbed.de/p/fitbit-charge-6/
+2025-04-10 13:47:40,833 - INFO -   Example: https://www.refurbed.de/p/fitbit-versa-4/
+2025-04-10 13:47:40,843 - INFO -   Example: https://www.refurbed.de/p/fitbit-sense/
+2025-04-10 13:47:40,843 - INFO -   ... and 14 more
+2025-04-10 13:47:40,843 - INFO - case: 31 URLs
+2025-04-10 13:47:40,843 - INFO -   Example: https://www.refurbed.de/p/mw-harshell-laptop-case/
+2025-04-10 13:47:40,843 - INFO -   Example: https://www.refurbed.de/p/holdit-recycled-phone-case/
+2025-04-10 13:47:40,843 - INFO -   Example: https://www.refurbed.de/p/imoshion-transparent-phone-case/
+2025-04-10 13:47:40,843 - INFO -   ... and 28 more
+2025-04-10 13:47:40,843 - INFO - watch: 137 URLs
+2025-04-10 13:47:40,843 - INFO -   Example: https://www.refurbed.de/p/apple-watch-series-9-alu-41mm/
+2025-04-10 13:47:40,843 - INFO -   Example: https://www.refurbed.de/p/vodafone-v-kids-watch/
+2025-04-10 13:47:40,843 - INFO -   Example: https://www.refurbed.de/p/oppo-watch-alu-46mm/
+2025-04-10 13:47:40,843 - INFO -   ... and 134 more
+2025-04-10 13:47:40,843 - INFO - keyboard: 40 URLs
+2025-04-10 13:47:40,843 - INFO -   Example: https://www.refurbed.de/p/logitech-g-pro-gaming-keyboard/
+2025-04-10 13:47:40,843 - INFO -   Example: https://www.refurbed.de/p/apple-magic-keyboard/
+2025-04-10 13:47:40,843 - INFO -   Example: https://www.refurbed.de/p/apple-magic-keyboard-numblock/
+2025-04-10 13:47:40,843 - INFO -   ... and 37 more
+2025-04-10 13:47:40,846 - INFO - google-home: 4 URLs
+2025-04-10 13:47:40,846 - INFO -   Example: https://www.refurbed.de/p/google-home/
+2025-04-10 13:47:40,846 - INFO -   Example: https://www.refurbed.de/p/google-home-hub-max/
+2025-04-10 13:47:40,846 - INFO -   Example: https://www.refurbed.de/p/google-home-max/
+2025-04-10 13:47:40,846 - INFO -   ... and 1 more
+2025-04-10 13:47:40,846 - INFO - cover: 25 URLs
+2025-04-10 13:47:40,846 - INFO -   Example: https://www.refurbed.de/p/samsung-galaxy-xcover-7/
+2025-04-10 13:47:40,846 - INFO -   Example: https://www.refurbed.de/p/apple-mackbook-air-13-cover/
+2025-04-10 13:47:40,846 - INFO -   Example: https://www.refurbed.de/p/samsung-ef-dx915-book-cover-kbrd/
+2025-04-10 13:47:40,846 - INFO -   ... and 22 more
+2025-04-10 13:47:40,846 - INFO - mouse: 19 URLs
+2025-04-10 13:47:40,846 - INFO -   Example: https://www.refurbed.de/p/hp-elite-presenter-mouse/
+2025-04-10 13:47:40,846 - INFO -   Example: https://www.refurbed.de/p/microsoft-comfort-mouse-4500/
+2025-04-10 13:47:40,846 - INFO -   Example: https://www.refurbed.de/p/g-lab-kult-radium-mouse/
+2025-04-10 13:47:40,846 - INFO -   ... and 16 more
+2025-04-10 13:47:40,848 - INFO - camera: 10 URLs
+2025-04-10 13:47:40,848 - INFO -   Example: https://www.refurbed.de/p/daewoo-camera-ep501/
+2025-04-10 13:47:40,848 - INFO -   Example: https://www.refurbed.de/p/ion-camocam-wi-fi-action-camera/
+2025-04-10 13:47:40,848 - INFO -   Example: https://www.refurbed.de/p/netatmo-smart-outdoor-camera/
+2025-04-10 13:47:40,848 - INFO -   ... and 7 more
+2025-04-10 13:47:40,848 - INFO - nest: 4 URLs
+2025-04-10 13:47:40,848 - INFO -   Example: https://www.refurbed.de/p/google-nest-cam-outdoor/
+2025-04-10 13:47:40,848 - INFO -   Example: https://www.refurbed.de/p/google-nest-cam-indoor/
+2025-04-10 13:47:40,848 - INFO -   Example: https://www.refurbed.de/p/google-nest-mini/
+2025-04-10 13:47:40,848 - INFO -   ... and 1 more
+2025-04-10 13:47:40,849 - INFO - hulle: 4 URLs
+2025-04-10 13:47:40,849 - INFO -   Example: https://www.refurbed.de/p/recycelte-silikon-hulle/
+2025-04-10 13:47:40,849 - INFO -   Example: https://www.refurbed.de/p/zwm-plant-based-handyhulle/
+2025-04-10 13:47:40,849 - INFO -   Example: https://www.refurbed.de/p/zwm-ecofriendly-tablet-hulle/
+2025-04-10 13:47:40,849 - INFO -   ... and 1 more
+2025-04-10 13:47:40,849 - INFO - speaker: 12 URLs
+2025-04-10 13:47:40,849 - INFO -   Example: https://www.refurbed.de/p/xiaomi-mi-portable-bt-speaker/
+2025-04-10 13:47:40,849 - INFO -   Example: https://www.refurbed.de/p/bose-251-speakers/
+2025-04-10 13:47:40,849 - INFO -   Example: https://www.refurbed.de/p/raycon-the-power-boombox-speaker/
+2025-04-10 13:47:40,849 - INFO -   ... and 9 more
+2025-04-10 13:47:40,849 - INFO - headphone: 1 URLs
+2025-04-10 13:47:40,849 - INFO -   Example: https://www.refurbed.de/p/bose-anc-headphones-700/
+2025-04-10 13:47:40,849 - INFO - docking: 31 URLs
+2025-04-10 13:47:40,850 - INFO -   Example: https://www.refurbed.de/p/hp-120w-advanced-docking/
+2025-04-10 13:47:40,850 - INFO -   Example: https://www.refurbed.de/p/hp-hstnn-ix01-dockingstation/
+2025-04-10 13:47:40,850 - INFO -   Example: https://www.refurbed.de/p/dell-docking-station-k07a/
+2025-04-10 13:47:40,850 - INFO -   ... and 28 more
+2025-04-10 13:47:40,850 - INFO - charger: 17 URLs
+2025-04-10 13:47:40,851 - INFO -   Example: https://www.refurbed.de/p/charger-lightning-panzerglass/
+2025-04-10 13:47:40,851 - INFO -   Example: https://www.refurbed.de/p/charger-65w-laptop-sleeve/
+2025-04-10 13:47:40,853 - INFO -   Example: https://www.refurbed.de/p/bundle-charger-20w-usbc-lghtng/
+2025-04-10 13:47:40,853 - INFO -   ... and 14 more
+2025-04-10 13:47:40,853 - INFO - airpods: 14 URLs
+2025-04-10 13:47:40,853 - INFO -   Example: https://www.refurbed.de/p/apple-airpods-pro-2/
+2025-04-10 13:47:40,853 - INFO -   Example: https://www.refurbed.de/p/holdit-recycled-airpodspro-case/
+2025-04-10 13:47:40,853 - INFO -   Example: https://www.refurbed.de/p/apple-airpods-max-2024/
+2025-04-10 13:47:40,853 - INFO -   ... and 11 more
+2025-04-10 13:47:40,853 - INFO - homepod: 3 URLs
+2025-04-10 13:47:40,853 - INFO -   Example: https://www.refurbed.de/p/apple-homepod-mini/
+2025-04-10 13:47:40,853 - INFO -   Example: https://www.refurbed.de/p/apple-homepod-2nd-generation/
+2025-04-10 13:47:40,854 - INFO -   Example: https://www.refurbed.de/p/apple-homepod/
+2025-04-10 13:47:40,854 - INFO - band: 20 URLs
+2025-04-10 13:47:40,854 - INFO -   Example: https://www.refurbed.de/p/huawei-band-3-pro/
+2025-04-10 13:47:40,854 - INFO -   Example: https://www.refurbed.de/p/honor-band-7/
+2025-04-10 13:47:40,854 - INFO -   Example: https://www.refurbed.de/p/xiaomi-mi-band-4/
+2025-04-10 13:47:40,854 - INFO -   ... and 17 more
+2025-04-10 13:47:40,854 - INFO - staubsauger: 2 URLs
+2025-04-10 13:47:40,854 - INFO -   Example: https://www.refurbed.de/p/roborock-s5-staubsaugerroboter-m/
+2025-04-10 13:47:40,854 - INFO -   Example: https://www.refurbed.de/p/roborock-s6-staubsaugerrowifu/
+2025-04-10 13:47:40,854 - INFO - earbuds: 11 URLs
+2025-04-10 13:47:40,854 - INFO -   Example: https://www.refurbed.de/p/nokia-clarity-earbuds-plus/
+2025-04-10 13:47:40,854 - INFO -   Example: https://www.refurbed.de/p/bose-quietcomfort-earbuds-ii/
+2025-04-10 13:47:40,855 - INFO -   Example: https://www.refurbed.de/p/honor-earbuds-3-pro/
+2025-04-10 13:47:40,855 - INFO -   ... and 8 more
+2025-04-10 13:47:40,855 - INFO - adapter: 14 URLs
+2025-04-10 13:47:40,855 - INFO -   Example: https://www.refurbed.de/p/honor-supercharge-power-adapter/
+2025-04-10 13:47:40,855 - INFO -   Example: https://www.refurbed.de/p/lenovo-usb-ac-adapter-usb-typ-c/
+2025-04-10 13:47:40,855 - INFO -   Example: https://www.refurbed.de/p/otg-adapter-lghtng-3port/
+2025-04-10 13:47:40,855 - INFO -   ... and 11 more
+2025-04-10 13:47:40,855 - INFO - trackpad: 3 URLs
+2025-04-10 13:47:40,855 - INFO -   Example: https://www.refurbed.de/p/apple-magic-trackpad-3/
+2025-04-10 13:47:40,855 - INFO -   Example: https://www.refurbed.de/p/apple-magic-trackpad-2/
+2025-04-10 13:47:40,856 - INFO -   Example: https://www.refurbed.de/p/apple-magic-trackpad/
+2025-04-10 13:47:40,856 - INFO - printer: 1 URLs
+2025-04-10 13:47:40,856 - INFO -   Example: https://www.refurbed.de/p/kodak-photo-printer-dock-450/
+2025-04-10 13:47:40,856 - INFO - cable: 9 URLs
+2025-04-10 13:47:40,856 - INFO -   Example: https://www.refurbed.de/p/bundle-charge-20w-magnetic-cable/
+2025-04-10 13:47:40,857 - INFO -   Example: https://www.refurbed.de/p/dell-0c6y7m-cable/
+2025-04-10 13:47:40,857 - INFO -   Example: https://www.refurbed.de/p/dell-qsfp-direct-attach-cable/
+2025-04-10 13:47:40,857 - INFO -   ... and 6 more
+2025-04-10 13:47:40,857 - INFO - screen-protector: 2 URLs
+2025-04-10 13:47:40,858 - INFO -   Example: https://www.refurbed.de/p/screen-protector-samsung-tablet/
+2025-04-10 13:47:40,858 - INFO -   Example: https://www.refurbed.de/p/screen-protector-ipad/
+2025-04-10 13:47:40,858 - INFO - webcam: 3 URLs
+2025-04-10 13:47:40,858 - INFO -   Example: https://www.refurbed.de/p/xiaomi-imilab-1080p-webcam/
+2025-04-10 13:47:40,858 - INFO -   Example: https://www.refurbed.de/p/lenovo-essential-fhd-webcam/
+2025-04-10 13:47:40,859 - INFO -   Example: https://www.refurbed.de/p/lenovo-500-fhd-webcam/
+2025-04-10 13:47:40,859 - INFO - echo: 6 URLs
+2025-04-10 13:47:40,859 - INFO -   Example: https://www.refurbed.de/p/amazon-echo-show-5-gen-2/
+2025-04-10 13:47:40,859 - INFO -   Example: https://www.refurbed.de/p/amazon-echo-gen-2/
+2025-04-10 13:47:40,859 - INFO -   Example: https://www.refurbed.de/p/amazon-echo-dot-gen-4/
+2025-04-10 13:47:40,859 - INFO -   ... and 3 more
+2025-04-10 13:47:40,887 - INFO - Successfully saved 6685 URLs to C:\Users\samil\Documents\PythonScripts\Scraper\M3-scraper\github\Sitemaps\refurbed_urls.txt
+2025-04-10 13:47:41,663 - INFO - Successfully fetched sitemap from https://www.backmarket.de/sitemap_1.xml
+2025-04-10 13:47:41,839 - INFO - Found 6686 relevant product URLs for Backmarket
+2025-04-10 13:47:41,845 - INFO - 
+Exclusion Summary for Backmarket:
+2025-04-10 13:47:41,845 - INFO - keyboard: 59 URLs
+2025-04-10 13:47:41,845 - INFO -   Example: https://www.backmarket.de/de-de/p/tastatur-qwertz-deutsch-wireless-magic-keyboard-mit-ziffernblock/069119b2-5721-4f0d-a116-9974828fafd1
+2025-04-10 13:47:41,845 - INFO -   Example: https://www.backmarket.de/de-de/p/ipad-magic-keyboard-10911-2020-schwarz-qwertz-deutsch/56aa2b93-c29c-414c-9f92-06c36b3822a2
+2025-04-10 13:47:41,845 - INFO -   Example: https://www.backmarket.de/de-de/p/microsoft-tastatur-qwerty-englisch-us-wireless-mit-hintergrundbeleuchtung-surface-pro-x-8-9-keyboard/f89d72bf-1a2d-4465-a05b-c8ab36477a1b
+2025-04-10 13:47:41,845 - INFO -   ... and 56 more
+2025-04-10 13:47:41,845 - INFO - mouse: 19 URLs
+2025-04-10 13:47:41,845 - INFO -   Example: https://www.backmarket.de/de-de/p/maus-magic-mouse-2/1bd5155c-5e7d-4d38-955c-4b79a8ff0a7a
+2025-04-10 13:47:41,845 - INFO -   Example: https://www.backmarket.de/de-de/p/trust-yvi-silent-wireless-mouse-blue-model-24551-maus-wireless/b2ed4402-7c6b-472d-8fdf-ccbb17fb6ea7
+2025-04-10 13:47:41,845 - INFO -   Example: https://www.backmarket.de/de-de/p/souris-gamer-steelseries-aerox-9-wireless-gaming-mouse-maus-wireless/81a52abb-7048-4a48-b318-22dc46ea7a1e
+2025-04-10 13:47:41,845 - INFO -   ... and 16 more
+2025-04-10 13:47:41,845 - INFO - hulle: 210 URLs
+2025-04-10 13:47:41,845 - INFO -   Example: https://www.backmarket.de/de-de/p/hulle-ipad-pro-13-2024-silikon-schwarz/897b70a7-359d-4ea6-a3f2-14902945d917
+2025-04-10 13:47:41,845 - INFO -   Example: https://www.backmarket.de/de-de/p/hulle-ipad-air-11-2024-silikon-schwarz/6306eb05-ee5e-4704-a2a4-27d736496239
+2025-04-10 13:47:41,845 - INFO -   Example: https://www.backmarket.de/de-de/p/hulle-ipad-pro-11-201820202021-ipad-air-4-2020-ipad-air-5-2022-thermoplastisches-polyurethan-tpu-schwarz/b4c592c8-2087-4df3-850a-6433d8f20405
+2025-04-10 13:47:41,845 - INFO -   ... and 207 more
+2025-04-10 13:47:41,845 - INFO - airpods: 26 URLs
+2025-04-10 13:47:41,845 - INFO -   Example: https://www.backmarket.de/de-de/p/airpods-mit-ladecase-3-generation/e3d83ef6-ca98-456b-bfeb-653f8cfa0ac4
+2025-04-10 13:47:41,845 - INFO -   Example: https://www.backmarket.de/de-de/p/schutzhulle-airpods-pro-thermoplastisches-polyurethan-tpu-transparent/e5e11ab1-e2d4-464a-a1f4-0830bc5e581c
+2025-04-10 13:47:41,845 - INFO -   Example: https://www.backmarket.de/de-de/p/ohrhorer-in-ear-bluetooth-rauschunterdruckung-airpods-pro/7a88eac8-468b-4bfc-b932-d1f5065f25e8
+2025-04-10 13:47:41,845 - INFO -   ... and 23 more
+2025-04-10 13:47:41,845 - INFO - headphone: 7 URLs
+2025-04-10 13:47:41,845 - INFO -   Example: https://www.backmarket.de/de-de/p/kopfhorer-beats-studio3-wireless-headphones-black-matte-schwarz/84f4cf37-9caf-4c7c-a0f6-15d34bf86142
+2025-04-10 13:47:41,845 - INFO -   Example: https://www.backmarket.de/de-de/p/kopfhorer-rauschunterdruckung-bluetooth-mit-mikrophon-bose-headphones-700-schwarz/734d4bd7-065a-4921-a97f-cb9273d209ad
+2025-04-10 13:47:41,851 - INFO -   Example: https://www.backmarket.de/de-de/p/ohrhorer-shop-story-f9-headphone-black/562329a3-215b-4d5d-8757-a580c9ff07f1
+2025-04-10 13:47:41,851 - INFO -   ... and 4 more
+2025-04-10 13:47:41,851 - INFO - earbuds: 6 URLs
+2025-04-10 13:47:41,851 - INFO -   Example: https://www.backmarket.de/de-de/p/ohrhorer-in-ear-bluetooth-rauschunterdruckung-bose-quietcomfort-earbuds/89693db1-c9b4-44d7-8a60-285810d657d3
+2025-04-10 13:47:41,852 - INFO -   Example: https://www.backmarket.de/de-de/p/ohrhorer-in-ear-bluetooth-honor-earbuds-3-pro/6cc34776-912e-41d9-88d7-86229c042733
+2025-04-10 13:47:41,852 - INFO -   Example: https://www.backmarket.de/de-de/p/ohrhorer-in-ear-bluetooth-rauschunterdruckung-bose-quietcomfort-earbuds-ii/9cd13ce5-bd81-40be-878c-8cc654e69954
+2025-04-10 13:47:41,853 - INFO -   ... and 3 more
+2025-04-10 13:47:41,853 - INFO - tonleiste: 41 URLs
+2025-04-10 13:47:41,853 - INFO -   Example: https://www.backmarket.de/de-de/p/tonleiste-bose-solo-15-schwarz/3cefbdbd-88b5-4cc0-b1f3-78168ebe76af
+2025-04-10 13:47:41,854 - INFO -   Example: https://www.backmarket.de/de-de/p/tonleiste-lg-sk10y-schwarz/0de842f4-86f3-43b3-9e96-49efe1b6078a
+2025-04-10 13:47:41,854 - INFO -   Example: https://www.backmarket.de/de-de/p/tonleiste-sonos-playbar-schwarz/89b69c01-e408-43a1-808c-48ab5df18bdc
+2025-04-10 13:47:41,854 - INFO -   ... and 38 more
+2025-04-10 13:47:41,855 - INFO - staubsauger: 90 URLs
+2025-04-10 13:47:41,855 - INFO -   Example: https://www.backmarket.de/de-de/p/roboterstaubsauger-irobot-roomba-s9-s955840/9638c710-5798-4924-ad0e-e8bbe667f934
+2025-04-10 13:47:41,855 - INFO -   Example: https://www.backmarket.de/de-de/p/roboterstaubsauger-irobot-roomba-j7-j755840/ffc7239a-5116-4dfa-a0e3-ca8c5503e53f
+2025-04-10 13:47:41,855 - INFO -   Example: https://www.backmarket.de/de-de/p/roboterstaubsauger-irobot-roomba-969/f8e9e1b4-da22-41e0-a5af-0e08c463b72e
+2025-04-10 13:47:41,856 - INFO -   ... and 87 more
+2025-04-10 13:47:41,856 - INFO - lens: 13 URLs
+2025-04-10 13:47:41,856 - INFO -   Example: https://www.backmarket.de/de-de/p/kompakt-sony-dsc-hx50-grau-objektivo-sony-lens-g-optical-zoom-24-720-mm-f35-63/613c8fc0-5307-43fe-8241-cb755e29676b
+2025-04-10 13:47:41,856 - INFO -   Example: https://www.backmarket.de/de-de/p/compact-canon-ixus-170-argent-canon-canon-zoom-lens-12x-is-25-300mm-f36-70/ba7896f1-28b0-4da3-a9a0-56962ef2449f
+2025-04-10 13:47:41,856 - INFO -   Example: https://www.backmarket.de/de-de/p/bridge-canon-powershot-sx540-hs-noir-canon-canon-zoom-lens-50x-is-24-1200-mm-f34-65/a664997c-1cf4-49e8-b962-b4a2cfd8b6dd
+2025-04-10 13:47:41,857 - INFO -   ... and 10 more
+2025-04-10 13:47:41,857 - INFO - watch: 436 URLs
+2025-04-10 13:47:41,858 - INFO -   Example: https://www.backmarket.de/de-de/p/uhren-gps-samsung-galaxy-watch3-sm-r850/b1efdf98-19ef-4a2e-9f15-ec38587961da
+2025-04-10 13:47:41,858 - INFO -   Example: https://www.backmarket.de/de-de/p/uhren-gps-samsung-galaxy-watch3-lte/4f751550-707b-4862-a6c2-94363871b80d
+2025-04-10 13:47:41,858 - INFO -   Example: https://www.backmarket.de/de-de/p/beamer-wewatch-v10-8500-helligkeit-wei/eff40038-7450-463b-a65c-6cf88bac1bc5
+2025-04-10 13:47:41,858 - INFO -   ... and 433 more
+2025-04-10 13:47:41,858 - INFO - beamer: 48 URLs
+2025-04-10 13:47:41,858 - INFO -   Example: https://www.backmarket.de/de-de/p/beamer-optoma-uhd35x-3600-helligkeit-wei/65ae73b7-60b6-4ed2-8fa3-0e976498527d
+2025-04-10 13:47:41,859 - INFO -   Example: https://www.backmarket.de/de-de/p/beamer-simpletek-4169-without-remote-18000-helligkeit-wei/a511eaf8-813a-4b6f-b9c5-c5891535110a
+2025-04-10 13:47:41,859 - INFO -   Example: https://www.backmarket.de/de-de/p/beamer-hisense-120l9g-a12-3000-helligkeit-schwarz/dbfa1df0-5ade-4910-a85f-801753c1114e
+2025-04-10 13:47:41,859 - INFO -   ... and 45 more
+2025-04-10 13:47:41,859 - INFO - cable: 28 URLs
+2025-04-10 13:47:41,859 - INFO -   Example: https://www.backmarket.de/de-de/p/simpletek-natec-nzl-0225-metal-security-cable-lobster-key-180cm-in-length-kabel/4657493f-72e8-484b-b578-22bdcfc35238
+2025-04-10 13:47:41,859 - INFO -   Example: https://www.backmarket.de/de-de/p/simpletek-caddy-and-4tb-ssd-disk-with-20cm-usb-a-cable-externe-festplatte-ssd-3-tb-usb-a/1a783cb0-f5b8-4a4f-9d9e-f083a46312ee
+2025-04-10 13:47:41,859 - INFO -   Example: https://www.backmarket.de/de-de/p/simpletek-caddy-and-960gb-ssd-disk-with-20cm-usb-a-cable-externe-festplatte-ssd-960-gb-usb-a/a62b2aac-a403-4d3e-acaf-9f1726fe055b
+2025-04-10 13:47:41,859 - INFO -   ... and 25 more
+2025-04-10 13:47:41,859 - INFO - docking: 140 URLs
+2025-04-10 13:47:41,859 - INFO -   Example: https://www.backmarket.de/de-de/p/hp-hstnn-ix10-docking-station/f1b58ee8-d822-4ad2-9e7b-ffe4c0d07f19
+2025-04-10 13:47:41,859 - INFO -   Example: https://www.backmarket.de/de-de/p/dell-dock-wd19-180w-docking-station/c7e7b457-24be-4ede-b7f7-298d088e15e2
+2025-04-10 13:47:41,859 - INFO -   Example: https://www.backmarket.de/de-de/p/i-tec-c31hdmidpdockpd-docking-station/1c93942b-4d0c-4704-ac27-008b1e3e6780
+2025-04-10 13:47:41,861 - INFO -   ... and 137 more
+2025-04-10 13:47:41,861 - INFO - gear: 12 URLs
+2025-04-10 13:47:41,861 - INFO -   Example: https://www.backmarket.de/de-de/p/konsole-microsoft-xbox-one-s-2-tb-controller-gears-of-war-4-limited-edition/12bb777c-cb1e-4823-b2fb-13441b822a89
+2025-04-10 13:47:41,861 - INFO -   Example: https://www.backmarket.de/de-de/p/razer-mamba-wireless-gears-of-war-5-maus-wireless/f32a1518-5529-4363-a49a-494085351193
+2025-04-10 13:47:41,861 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-bluetooth-lg-ultragear-gp9-schwarz/e53393b4-3e99-4c57-ac02-7154d631e141
+2025-04-10 13:47:41,863 - INFO -   ... and 9 more
+2025-04-10 13:47:41,863 - INFO - fernseher: 30 URLs
+2025-04-10 13:47:41,863 - INFO -   Example: https://www.backmarket.de/de-de/p/smart-fernseher-lg-led-ultra-hd-4k-109-cm-43up751/c78be53e-6802-4c8d-bff9-fa5e9590afc1
+2025-04-10 13:47:41,863 - INFO -   Example: https://www.backmarket.de/de-de/p/fernseher-lg-non-4k-140-cm-oled55a1/7f701651-672b-4344-88b2-d9b8606994cc
+2025-04-10 13:47:41,864 - INFO -   Example: https://www.backmarket.de/de-de/p/smart-fernseher-lg-led-ultra-hd-4k-109-cm-43uq80006lb/ffd8c804-4f05-4f36-8842-b0be5919d688
+2025-04-10 13:47:41,864 - INFO -   ... and 27 more
+2025-04-10 13:47:41,864 - INFO - webcam: 33 URLs
+2025-04-10 13:47:41,864 - INFO -   Example: https://www.backmarket.de/de-de/p/elgato-10waa9901-webcam/e7262dc0-5995-4494-a8ba-92d648cdc3b9
+2025-04-10 13:47:41,864 - INFO -   Example: https://www.backmarket.de/de-de/p/webcam-logitech-c270/414a1d23-cf50-4c7a-a86d-c961baca74f1
+2025-04-10 13:47:41,865 - INFO -   Example: https://www.backmarket.de/de-de/p/webcam-logitech-hd-pro-c920/c2f922c5-a554-40c1-a384-fd8794a84382
+2025-04-10 13:47:41,866 - INFO -   ... and 30 more
+2025-04-10 13:47:41,866 - INFO - cover: 22 URLs
+2025-04-10 13:47:41,866 - INFO -   Example: https://www.backmarket.de/de-de/p/microsoft-tastatur-qwerty-schwedisch-surface-pro-type-cover-m1725/09d2f54d-6b62-4b20-8a01-a5c284b7aead
+2025-04-10 13:47:41,866 - INFO -   Example: https://www.backmarket.de/de-de/p/microsoft-tastatur-qwerty-portugiesisch-surface-pro-type-cover-m1725/1ed651f9-0cff-4efe-a056-6ddf23e65d2c
+2025-04-10 13:47:41,866 - INFO -   Example: https://www.backmarket.de/de-de/p/microsoft-tastatur-qwerty-english-5us-mit-hintergrundbeleuchtung-surface-pro-type-cover/319e3eb1-54be-4be5-8926-c726a5bbb12f
+2025-04-10 13:47:41,867 - INFO -   ... and 19 more
+2025-04-10 13:47:41,867 - INFO - printer: 4 URLs
+2025-04-10 13:47:41,867 - INFO -   Example: https://www.backmarket.de/de-de/p/hp-laserjet-e57540dn-printer-all-in-one-3gy25ab19/b688b10d-a77d-4492-ad14-49c777481899
+2025-04-10 13:47:41,867 - INFO -   Example: https://www.backmarket.de/de-de/p/brother-hl-l6400dw-a4-mono-laser-printer/8f775e5d-0bc2-42aa-8fff-f19c1e3f1bad
+2025-04-10 13:47:41,867 - INFO -   Example: https://www.backmarket.de/de-de/p/epson-workforce-pro-wf-c5710-a4-colour-multifunction-inkjet-printer-c11cg03401by/28755d9a-60b1-4820-8519-373bb8ef4170
+2025-04-10 13:47:41,868 - INFO -   ... and 1 more
+2025-04-10 13:47:41,868 - INFO - scanner: 37 URLs
+2025-04-10 13:47:41,868 - INFO -   Example: https://www.backmarket.de/de-de/p/canon-scanfront-400-1255c003ab-scanner/20074a6f-751c-4ab7-b147-236db92a1750
+2025-04-10 13:47:41,868 - INFO -   Example: https://www.backmarket.de/de-de/p/canon-dr-2010-scanner/733eeead-c1ec-4786-bab7-3ef583ce98a1
+2025-04-10 13:47:41,868 - INFO -   Example: https://www.backmarket.de/de-de/p/brother-ads-1800w-scanner/da818157-6fe2-4995-a8d7-a20dcf2c1467
+2025-04-10 13:47:41,868 - INFO -   ... and 34 more
+2025-04-10 13:47:41,869 - INFO - trackpad: 5 URLs
+2025-04-10 13:47:41,869 - INFO -   Example: https://www.backmarket.de/de-de/p/spirit-of-gamer-airblade-1300-trackpad/d835f631-f61b-4442-9676-abf22d62a383
+2025-04-10 13:47:41,869 - INFO -   Example: https://www.backmarket.de/de-de/p/magic-trackpad-2-maus-wei/693d25e5-2813-4c80-8675-a955971f1052
+2025-04-10 13:47:41,869 - INFO -   Example: https://www.backmarket.de/de-de/p/macbook-trackpad/26954d64-2d31-408b-a29e-d04b8f3572de
+2025-04-10 13:47:41,869 - INFO -   ... and 2 more
+2025-04-10 13:47:41,870 - INFO - charger: 7 URLs
+2025-04-10 13:47:41,870 - INFO -   Example: https://www.backmarket.de/de-de/p/asus-rog-gaming-charger-dock-auto/5b46b5fe-3a5c-4364-8d48-ba36cf4c21a2
+2025-04-10 13:47:41,870 - INFO -   Example: https://www.backmarket.de/de-de/p/microsoft-charger-for-surface-pro-kabel/4c714ce6-836d-4e78-9125-48f5007095c8
+2025-04-10 13:47:41,870 - INFO -   Example: https://www.backmarket.de/de-de/p/microsoft-charger-for-surface-pro-kabel/1eb70989-1c61-4046-ab16-9b66d445c84d
+2025-04-10 13:47:41,870 - INFO -   ... and 4 more
+2025-04-10 13:47:41,871 - INFO - band: 5 URLs
+2025-04-10 13:47:41,871 - INFO -   Example: https://www.backmarket.de/de-de/p/belkin-n600-dual-band-router/3ba585d4-d9dd-4838-96bf-aacf2fa1ffe2
+2025-04-10 13:47:41,871 - INFO -   Example: https://www.backmarket.de/de-de/p/fitbit-verbundene-armbander-alta-hr-blue-grey-size-s/a401c9b2-56fc-4101-a28e-69ae2027c265
+2025-04-10 13:47:41,872 - INFO -   Example: https://www.backmarket.de/de-de/p/ohrhorer-jabra-engage-45-se-headset-draadloos-hoofdband-kantoorcallcenter-zwart/86888ec1-83e9-4963-8f5b-3504aae76ebf
+2025-04-10 13:47:41,872 - INFO -   ... and 2 more
+2025-04-10 13:47:41,872 - INFO - router: 11 URLs
+2025-04-10 13:47:41,872 - INFO -   Example: https://www.backmarket.de/de-de/p/huawei-b535-232a-router/1a7a838d-be03-4ec6-96f6-0f8b256fad12
+2025-04-10 13:47:41,872 - INFO -   Example: https://www.backmarket.de/de-de/p/huawei-e5785-330-router/2854f567-f312-4a26-987d-dde18f5e60f3
+2025-04-10 13:47:41,872 - INFO -   Example: https://www.backmarket.de/de-de/p/huawei-e5783b-230a-router/b7611eb7-f809-4660-b861-f8363f214a6e
+2025-04-10 13:47:41,873 - INFO -   ... and 8 more
+2025-04-10 13:47:41,873 - INFO - fitbit: 4 URLs
+2025-04-10 13:47:41,873 - INFO -   Example: https://www.backmarket.de/de-de/p/uhren-gps-fitbit-sense/5fdda097-715a-4b3d-9dad-2bfc8378b928
+2025-04-10 13:47:41,873 - INFO -   Example: https://www.backmarket.de/de-de/p/uhren-fitbit-versa/543572ea-e81a-4c3b-936b-76a888de7dbd
+2025-04-10 13:47:41,873 - INFO -   Example: https://www.backmarket.de/de-de/p/uhren-fitbit-versa-2/96d2a7fc-57ce-4371-979d-26387ffba2ce
+2025-04-10 13:47:41,874 - INFO -   ... and 1 more
+2025-04-10 13:47:41,874 - INFO - adapter: 15 URLs
+2025-04-10 13:47:41,874 - INFO -   Example: https://www.backmarket.de/de-de/p/adapter-huawei-e586/b64ca5d4-a5f3-4ba8-a48f-644469bfdaab
+2025-04-10 13:47:41,874 - INFO -   Example: https://www.backmarket.de/de-de/p/adapter-viltrox-jy680a/d07fcf64-605d-4aad-845a-57362be1efcb
+2025-04-10 13:47:41,874 - INFO -   Example: https://www.backmarket.de/de-de/p/thunderbolt-ethernet-gigabit-adapter/c8a14796-e05f-4153-b996-a010b71c3926
+2025-04-10 13:47:41,874 - INFO -   ... and 12 more
+2025-04-10 13:47:41,875 - INFO - homepod: 5 URLs
+2025-04-10 13:47:41,875 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-bluetooth-homepod-mini/cc2efc85-9bb4-4d1b-84f2-4acf7400738f
+2025-04-10 13:47:41,876 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-bluetooth-homepod-mini-gelb/d5273554-a3b5-43c9-a368-eefc79aa23ec
+2025-04-10 13:47:41,876 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-bluetooth-homepod-mini-orange/57163ad3-fe0f-4f22-91d3-5c1c8e374c70
+2025-04-10 13:47:41,876 - INFO -   ... and 2 more
+2025-04-10 13:47:41,876 - INFO - alexa: 2 URLs
+2025-04-10 13:47:41,876 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-danew-he-mini-alexa-schwarz/90e7e3f9-a188-44ae-b7ae-bd9eb6d35eb1
+2025-04-10 13:47:41,876 - INFO -   Example: https://www.backmarket.de/de-de/p/lenovo-smart-tab-m10-fhd-amazon-alexa-2020-101-32gb-wlan-schwarz-kein-sim-slot/6ed21239-3371-4023-9009-d231e0a80dd7
+2025-04-10 13:47:41,876 - INFO - echo: 9 URLs
+2025-04-10 13:47:41,876 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-bluetooth-amazon-echo-dot-5-schwarz/991af776-685d-4c03-8171-adfa207f55e1
+2025-04-10 13:47:41,877 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-amazon-echo-sub-grau/9c6011a9-dede-4e40-ae35-49994de06fc6
+2025-04-10 13:47:41,877 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-bluetooth-amazon-echo-dot-3-wei/f4877348-387d-4850-a34c-f2def65e6586
+2025-04-10 13:47:41,877 - INFO -   ... and 6 more
+2025-04-10 13:47:41,877 - INFO - speaker: 5 URLs
+2025-04-10 13:47:41,877 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-bluetooth-xiaomi-mi-smart-speaker/af168738-59ed-4578-afcd-7637a5d7a369
+2025-04-10 13:47:41,879 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-bluetooth-bose-portable-home-speaker-schwarz/e0f970e2-bd76-4e6c-a883-f8c25ae9c0ab
+2025-04-10 13:47:41,879 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-bluetooth-bose-home-speaker-500-silber/bfa0230c-90f0-4c79-9aff-447ed6006573
+2025-04-10 13:47:41,879 - INFO -   ... and 2 more
+2025-04-10 13:47:41,879 - INFO - camera: 9 URLs
+2025-04-10 13:47:41,879 - INFO -   Example: https://www.backmarket.de/de-de/p/elgato-cam-link-4k-videoaufnahmeadapter-hdmi-camera-connector/0cf956ab-c7d3-4ee4-890b-88cf186f8b03
+2025-04-10 13:47:41,879 - INFO -   Example: https://www.backmarket.de/de-de/p/sony-playstation-vr-v1-camera-v2-vr-helm-virtuelle-realitat/72218555-2e29-45d8-9f02-b5d67558e72b
+2025-04-10 13:47:41,880 - INFO -   Example: https://www.backmarket.de/de-de/p/casque-vr-sony-playstation-vr-vr-worlds-playstation-camera/25ab1f0e-845c-455c-a963-f6ad8407d5f9
+2025-04-10 13:47:41,880 - INFO -   ... and 6 more
+2025-04-10 13:47:41,880 - INFO - nest: 1 URLs
+2025-04-10 13:47:41,880 - INFO -   Example: https://www.backmarket.de/de-de/p/google-nest-cam-interieure-filaire-camcorder/0d100119-683f-4267-aa27-1d974b8b0ae3
+2025-04-10 13:47:41,881 - INFO - case: 2 URLs
+2025-04-10 13:47:41,881 - INFO -   Example: https://www.backmarket.de/de-de/p/leder-case-magsafe-leder/c2ba7784-b776-42c1-af7e-23d129fb842e
+2025-04-10 13:47:41,881 - INFO -   Example: https://www.backmarket.de/de-de/p/silikon-case-iphone-12-mini-magsafe-silikon/1e51add5-bb60-4793-aa1f-037c8ec54e4c
+2025-04-10 13:47:41,913 - INFO - Successfully saved 6686 URLs to C:\Users\samil\Documents\PythonScripts\Scraper\M3-scraper\github\Sitemaps\backmarket_urls.txt
+2025-04-10 13:51:41,026 - INFO - Successfully fetched sitemap from https://www.refurbed.de/sitemap-marketplace.xml
+2025-04-10 13:51:41,884 - INFO - Found 6685 relevant product URLs for Refurbed
+2025-04-10 13:51:41,884 - INFO - 
+Exclusion Summary for Refurbed:
+2025-04-10 13:51:41,884 - INFO - gear: 29 URLs
+2025-04-10 13:51:41,884 - INFO -   Example: https://www.refurbed.de/p/samsung-gear-iconx-sm-r150/
+2025-04-10 13:51:41,884 - INFO -   Example: https://www.refurbed.de/p/netgear-wlan-repeater/
+2025-04-10 13:51:41,884 - INFO -   Example: https://www.refurbed.de/p/samsung-gear-fit/
+2025-04-10 13:51:41,884 - INFO -   ... and 26 more
+2025-04-10 13:51:41,884 - INFO - fitbit: 17 URLs
+2025-04-10 13:51:41,884 - INFO -   Example: https://www.refurbed.de/p/fitbit-charge-6/
+2025-04-10 13:51:41,892 - INFO -   Example: https://www.refurbed.de/p/fitbit-versa-4/
+2025-04-10 13:51:41,892 - INFO -   Example: https://www.refurbed.de/p/fitbit-sense/
+2025-04-10 13:51:41,892 - INFO -   ... and 14 more
+2025-04-10 13:51:41,892 - INFO - case: 31 URLs
+2025-04-10 13:51:41,892 - INFO -   Example: https://www.refurbed.de/p/mw-harshell-laptop-case/
+2025-04-10 13:51:41,892 - INFO -   Example: https://www.refurbed.de/p/holdit-recycled-phone-case/
+2025-04-10 13:51:41,892 - INFO -   Example: https://www.refurbed.de/p/imoshion-transparent-phone-case/
+2025-04-10 13:51:41,892 - INFO -   ... and 28 more
+2025-04-10 13:51:41,892 - INFO - watch: 137 URLs
+2025-04-10 13:51:41,892 - INFO -   Example: https://www.refurbed.de/p/apple-watch-series-9-alu-41mm/
+2025-04-10 13:51:41,892 - INFO -   Example: https://www.refurbed.de/p/vodafone-v-kids-watch/
+2025-04-10 13:51:41,892 - INFO -   Example: https://www.refurbed.de/p/oppo-watch-alu-46mm/
+2025-04-10 13:51:41,892 - INFO -   ... and 134 more
+2025-04-10 13:51:41,892 - INFO - keyboard: 40 URLs
+2025-04-10 13:51:41,892 - INFO -   Example: https://www.refurbed.de/p/logitech-g-pro-gaming-keyboard/
+2025-04-10 13:51:41,892 - INFO -   Example: https://www.refurbed.de/p/apple-magic-keyboard/
+2025-04-10 13:51:41,892 - INFO -   Example: https://www.refurbed.de/p/apple-magic-keyboard-numblock/
+2025-04-10 13:51:41,892 - INFO -   ... and 37 more
+2025-04-10 13:51:41,892 - INFO - google-home: 4 URLs
+2025-04-10 13:51:41,892 - INFO -   Example: https://www.refurbed.de/p/google-home/
+2025-04-10 13:51:41,892 - INFO -   Example: https://www.refurbed.de/p/google-home-hub-max/
+2025-04-10 13:51:41,892 - INFO -   Example: https://www.refurbed.de/p/google-home-max/
+2025-04-10 13:51:41,892 - INFO -   ... and 1 more
+2025-04-10 13:51:41,892 - INFO - cover: 25 URLs
+2025-04-10 13:51:41,892 - INFO -   Example: https://www.refurbed.de/p/samsung-galaxy-xcover-7/
+2025-04-10 13:51:41,892 - INFO -   Example: https://www.refurbed.de/p/apple-mackbook-air-13-cover/
+2025-04-10 13:51:41,892 - INFO -   Example: https://www.refurbed.de/p/samsung-ef-dx915-book-cover-kbrd/
+2025-04-10 13:51:41,892 - INFO -   ... and 22 more
+2025-04-10 13:51:41,892 - INFO - mouse: 19 URLs
+2025-04-10 13:51:41,892 - INFO -   Example: https://www.refurbed.de/p/hp-elite-presenter-mouse/
+2025-04-10 13:51:41,892 - INFO -   Example: https://www.refurbed.de/p/microsoft-comfort-mouse-4500/
+2025-04-10 13:51:41,892 - INFO -   Example: https://www.refurbed.de/p/g-lab-kult-radium-mouse/
+2025-04-10 13:51:41,892 - INFO -   ... and 16 more
+2025-04-10 13:51:41,892 - INFO - camera: 10 URLs
+2025-04-10 13:51:41,892 - INFO -   Example: https://www.refurbed.de/p/daewoo-camera-ep501/
+2025-04-10 13:51:41,892 - INFO -   Example: https://www.refurbed.de/p/ion-camocam-wi-fi-action-camera/
+2025-04-10 13:51:41,892 - INFO -   Example: https://www.refurbed.de/p/netatmo-smart-outdoor-camera/
+2025-04-10 13:51:41,892 - INFO -   ... and 7 more
+2025-04-10 13:51:41,892 - INFO - nest: 4 URLs
+2025-04-10 13:51:41,892 - INFO -   Example: https://www.refurbed.de/p/google-nest-cam-outdoor/
+2025-04-10 13:51:41,892 - INFO -   Example: https://www.refurbed.de/p/google-nest-cam-indoor/
+2025-04-10 13:51:41,892 - INFO -   Example: https://www.refurbed.de/p/google-nest-mini/
+2025-04-10 13:51:41,892 - INFO -   ... and 1 more
+2025-04-10 13:51:41,892 - INFO - hulle: 4 URLs
+2025-04-10 13:51:41,892 - INFO -   Example: https://www.refurbed.de/p/recycelte-silikon-hulle/
+2025-04-10 13:51:41,892 - INFO -   Example: https://www.refurbed.de/p/zwm-plant-based-handyhulle/
+2025-04-10 13:51:41,892 - INFO -   Example: https://www.refurbed.de/p/zwm-ecofriendly-tablet-hulle/
+2025-04-10 13:51:41,895 - INFO -   ... and 1 more
+2025-04-10 13:51:41,895 - INFO - speaker: 12 URLs
+2025-04-10 13:51:41,895 - INFO -   Example: https://www.refurbed.de/p/xiaomi-mi-portable-bt-speaker/
+2025-04-10 13:51:41,895 - INFO -   Example: https://www.refurbed.de/p/bose-251-speakers/
+2025-04-10 13:51:41,895 - INFO -   Example: https://www.refurbed.de/p/raycon-the-power-boombox-speaker/
+2025-04-10 13:51:41,895 - INFO -   ... and 9 more
+2025-04-10 13:51:41,895 - INFO - headphone: 1 URLs
+2025-04-10 13:51:41,895 - INFO -   Example: https://www.refurbed.de/p/bose-anc-headphones-700/
+2025-04-10 13:51:41,895 - INFO - docking: 31 URLs
+2025-04-10 13:51:41,895 - INFO -   Example: https://www.refurbed.de/p/hp-120w-advanced-docking/
+2025-04-10 13:51:41,895 - INFO -   Example: https://www.refurbed.de/p/hp-hstnn-ix01-dockingstation/
+2025-04-10 13:51:41,895 - INFO -   Example: https://www.refurbed.de/p/dell-docking-station-k07a/
+2025-04-10 13:51:41,895 - INFO -   ... and 28 more
+2025-04-10 13:51:41,895 - INFO - charger: 17 URLs
+2025-04-10 13:51:41,895 - INFO -   Example: https://www.refurbed.de/p/charger-lightning-panzerglass/
+2025-04-10 13:51:41,895 - INFO -   Example: https://www.refurbed.de/p/charger-65w-laptop-sleeve/
+2025-04-10 13:51:41,895 - INFO -   Example: https://www.refurbed.de/p/bundle-charger-20w-usbc-lghtng/
+2025-04-10 13:51:41,895 - INFO -   ... and 14 more
+2025-04-10 13:51:41,895 - INFO - airpods: 14 URLs
+2025-04-10 13:51:41,895 - INFO -   Example: https://www.refurbed.de/p/apple-airpods-pro-2/
+2025-04-10 13:51:41,898 - INFO -   Example: https://www.refurbed.de/p/holdit-recycled-airpodspro-case/
+2025-04-10 13:51:41,898 - INFO -   Example: https://www.refurbed.de/p/apple-airpods-max-2024/
+2025-04-10 13:51:41,899 - INFO -   ... and 11 more
+2025-04-10 13:51:41,899 - INFO - homepod: 3 URLs
+2025-04-10 13:51:41,899 - INFO -   Example: https://www.refurbed.de/p/apple-homepod-mini/
+2025-04-10 13:51:41,899 - INFO -   Example: https://www.refurbed.de/p/apple-homepod-2nd-generation/
+2025-04-10 13:51:41,899 - INFO -   Example: https://www.refurbed.de/p/apple-homepod/
+2025-04-10 13:51:41,899 - INFO - band: 20 URLs
+2025-04-10 13:51:41,899 - INFO -   Example: https://www.refurbed.de/p/huawei-band-3-pro/
+2025-04-10 13:51:41,899 - INFO -   Example: https://www.refurbed.de/p/honor-band-7/
+2025-04-10 13:51:41,899 - INFO -   Example: https://www.refurbed.de/p/xiaomi-mi-band-4/
+2025-04-10 13:51:41,900 - INFO -   ... and 17 more
+2025-04-10 13:51:41,900 - INFO - staubsauger: 2 URLs
+2025-04-10 13:51:41,900 - INFO -   Example: https://www.refurbed.de/p/roborock-s5-staubsaugerroboter-m/
+2025-04-10 13:51:41,902 - INFO -   Example: https://www.refurbed.de/p/roborock-s6-staubsaugerrowifu/
+2025-04-10 13:51:41,902 - INFO - earbuds: 11 URLs
+2025-04-10 13:51:41,902 - INFO -   Example: https://www.refurbed.de/p/nokia-clarity-earbuds-plus/
+2025-04-10 13:51:41,903 - INFO -   Example: https://www.refurbed.de/p/bose-quietcomfort-earbuds-ii/
+2025-04-10 13:51:41,903 - INFO -   Example: https://www.refurbed.de/p/honor-earbuds-3-pro/
+2025-04-10 13:51:41,903 - INFO -   ... and 8 more
+2025-04-10 13:51:41,903 - INFO - adapter: 14 URLs
+2025-04-10 13:51:41,903 - INFO -   Example: https://www.refurbed.de/p/honor-supercharge-power-adapter/
+2025-04-10 13:51:41,904 - INFO -   Example: https://www.refurbed.de/p/lenovo-usb-ac-adapter-usb-typ-c/
+2025-04-10 13:51:41,904 - INFO -   Example: https://www.refurbed.de/p/otg-adapter-lghtng-3port/
+2025-04-10 13:51:41,904 - INFO -   ... and 11 more
+2025-04-10 13:51:41,904 - INFO - trackpad: 3 URLs
+2025-04-10 13:51:41,905 - INFO -   Example: https://www.refurbed.de/p/apple-magic-trackpad-3/
+2025-04-10 13:51:41,905 - INFO -   Example: https://www.refurbed.de/p/apple-magic-trackpad-2/
+2025-04-10 13:51:41,905 - INFO -   Example: https://www.refurbed.de/p/apple-magic-trackpad/
+2025-04-10 13:51:41,905 - INFO - printer: 1 URLs
+2025-04-10 13:51:41,905 - INFO -   Example: https://www.refurbed.de/p/kodak-photo-printer-dock-450/
+2025-04-10 13:51:41,905 - INFO - cable: 9 URLs
+2025-04-10 13:51:41,905 - INFO -   Example: https://www.refurbed.de/p/bundle-charge-20w-magnetic-cable/
+2025-04-10 13:51:41,906 - INFO -   Example: https://www.refurbed.de/p/dell-0c6y7m-cable/
+2025-04-10 13:51:41,906 - INFO -   Example: https://www.refurbed.de/p/dell-qsfp-direct-attach-cable/
+2025-04-10 13:51:41,906 - INFO -   ... and 6 more
+2025-04-10 13:51:41,906 - INFO - screen-protector: 2 URLs
+2025-04-10 13:51:41,906 - INFO -   Example: https://www.refurbed.de/p/screen-protector-samsung-tablet/
+2025-04-10 13:51:41,906 - INFO -   Example: https://www.refurbed.de/p/screen-protector-ipad/
+2025-04-10 13:51:41,906 - INFO - webcam: 3 URLs
+2025-04-10 13:51:41,906 - INFO -   Example: https://www.refurbed.de/p/xiaomi-imilab-1080p-webcam/
+2025-04-10 13:51:41,907 - INFO -   Example: https://www.refurbed.de/p/lenovo-essential-fhd-webcam/
+2025-04-10 13:51:41,907 - INFO -   Example: https://www.refurbed.de/p/lenovo-500-fhd-webcam/
+2025-04-10 13:51:41,907 - INFO - echo: 6 URLs
+2025-04-10 13:51:41,907 - INFO -   Example: https://www.refurbed.de/p/amazon-echo-show-5-gen-2/
+2025-04-10 13:51:41,907 - INFO -   Example: https://www.refurbed.de/p/amazon-echo-gen-2/
+2025-04-10 13:51:41,908 - INFO -   Example: https://www.refurbed.de/p/amazon-echo-dot-gen-4/
+2025-04-10 13:51:41,908 - INFO -   ... and 3 more
+2025-04-10 13:51:41,945 - INFO - Successfully saved 6685 URLs to C:\Users\samil\Documents\PythonScripts\Scraper\M3-scraper\github\Sitemaps\refurbed_urls.txt
+2025-04-10 13:51:42,601 - INFO - Successfully fetched sitemap from https://www.backmarket.de/sitemap_1.xml
+2025-04-10 13:51:42,780 - INFO - Found 6677 relevant product URLs for Backmarket
+2025-04-10 13:51:42,785 - INFO - 
+Exclusion Summary for Backmarket:
+2025-04-10 13:51:42,785 - INFO - keyboard: 59 URLs
+2025-04-10 13:51:42,785 - INFO -   Example: https://www.backmarket.de/de-de/p/tastatur-qwertz-deutsch-wireless-magic-keyboard-mit-ziffernblock/069119b2-5721-4f0d-a116-9974828fafd1
+2025-04-10 13:51:42,785 - INFO -   Example: https://www.backmarket.de/de-de/p/ipad-magic-keyboard-10911-2020-schwarz-qwertz-deutsch/56aa2b93-c29c-414c-9f92-06c36b3822a2
+2025-04-10 13:51:42,785 - INFO -   Example: https://www.backmarket.de/de-de/p/microsoft-tastatur-qwerty-englisch-us-wireless-mit-hintergrundbeleuchtung-surface-pro-x-8-9-keyboard/f89d72bf-1a2d-4465-a05b-c8ab36477a1b
+2025-04-10 13:51:42,785 - INFO -   ... and 56 more
+2025-04-10 13:51:42,785 - INFO - mouse: 19 URLs
+2025-04-10 13:51:42,785 - INFO -   Example: https://www.backmarket.de/de-de/p/maus-magic-mouse-2/1bd5155c-5e7d-4d38-955c-4b79a8ff0a7a
+2025-04-10 13:51:42,785 - INFO -   Example: https://www.backmarket.de/de-de/p/trust-yvi-silent-wireless-mouse-blue-model-24551-maus-wireless/b2ed4402-7c6b-472d-8fdf-ccbb17fb6ea7
+2025-04-10 13:51:42,785 - INFO -   Example: https://www.backmarket.de/de-de/p/souris-gamer-steelseries-aerox-9-wireless-gaming-mouse-maus-wireless/81a52abb-7048-4a48-b318-22dc46ea7a1e
+2025-04-10 13:51:42,785 - INFO -   ... and 16 more
+2025-04-10 13:51:42,785 - INFO - hulle: 210 URLs
+2025-04-10 13:51:42,785 - INFO -   Example: https://www.backmarket.de/de-de/p/hulle-ipad-pro-13-2024-silikon-schwarz/897b70a7-359d-4ea6-a3f2-14902945d917
+2025-04-10 13:51:42,785 - INFO -   Example: https://www.backmarket.de/de-de/p/hulle-ipad-air-11-2024-silikon-schwarz/6306eb05-ee5e-4704-a2a4-27d736496239
+2025-04-10 13:51:42,785 - INFO -   Example: https://www.backmarket.de/de-de/p/hulle-ipad-pro-11-201820202021-ipad-air-4-2020-ipad-air-5-2022-thermoplastisches-polyurethan-tpu-schwarz/b4c592c8-2087-4df3-850a-6433d8f20405
+2025-04-10 13:51:42,785 - INFO -   ... and 207 more
+2025-04-10 13:51:42,785 - INFO - airpods: 26 URLs
+2025-04-10 13:51:42,785 - INFO -   Example: https://www.backmarket.de/de-de/p/airpods-mit-ladecase-3-generation/e3d83ef6-ca98-456b-bfeb-653f8cfa0ac4
+2025-04-10 13:51:42,785 - INFO -   Example: https://www.backmarket.de/de-de/p/schutzhulle-airpods-pro-thermoplastisches-polyurethan-tpu-transparent/e5e11ab1-e2d4-464a-a1f4-0830bc5e581c
+2025-04-10 13:51:42,785 - INFO -   Example: https://www.backmarket.de/de-de/p/ohrhorer-in-ear-bluetooth-rauschunterdruckung-airpods-pro/7a88eac8-468b-4bfc-b932-d1f5065f25e8
+2025-04-10 13:51:42,785 - INFO -   ... and 23 more
+2025-04-10 13:51:42,785 - INFO - headphone: 7 URLs
+2025-04-10 13:51:42,785 - INFO -   Example: https://www.backmarket.de/de-de/p/kopfhorer-beats-studio3-wireless-headphones-black-matte-schwarz/84f4cf37-9caf-4c7c-a0f6-15d34bf86142
+2025-04-10 13:51:42,785 - INFO -   Example: https://www.backmarket.de/de-de/p/kopfhorer-rauschunterdruckung-bluetooth-mit-mikrophon-bose-headphones-700-schwarz/734d4bd7-065a-4921-a97f-cb9273d209ad
+2025-04-10 13:51:42,788 - INFO -   Example: https://www.backmarket.de/de-de/p/ohrhorer-shop-story-f9-headphone-black/562329a3-215b-4d5d-8757-a580c9ff07f1
+2025-04-10 13:51:42,788 - INFO -   ... and 4 more
+2025-04-10 13:51:42,788 - INFO - earbuds: 6 URLs
+2025-04-10 13:51:42,788 - INFO -   Example: https://www.backmarket.de/de-de/p/ohrhorer-in-ear-bluetooth-rauschunterdruckung-bose-quietcomfort-earbuds/89693db1-c9b4-44d7-8a60-285810d657d3
+2025-04-10 13:51:42,788 - INFO -   Example: https://www.backmarket.de/de-de/p/ohrhorer-in-ear-bluetooth-honor-earbuds-3-pro/6cc34776-912e-41d9-88d7-86229c042733
+2025-04-10 13:51:42,788 - INFO -   Example: https://www.backmarket.de/de-de/p/ohrhorer-in-ear-bluetooth-rauschunterdruckung-bose-quietcomfort-earbuds-ii/9cd13ce5-bd81-40be-878c-8cc654e69954
+2025-04-10 13:51:42,788 - INFO -   ... and 3 more
+2025-04-10 13:51:42,788 - INFO - tonleiste: 41 URLs
+2025-04-10 13:51:42,788 - INFO -   Example: https://www.backmarket.de/de-de/p/tonleiste-bose-solo-15-schwarz/3cefbdbd-88b5-4cc0-b1f3-78168ebe76af
+2025-04-10 13:51:42,788 - INFO -   Example: https://www.backmarket.de/de-de/p/tonleiste-lg-sk10y-schwarz/0de842f4-86f3-43b3-9e96-49efe1b6078a
+2025-04-10 13:51:42,788 - INFO -   Example: https://www.backmarket.de/de-de/p/tonleiste-sonos-playbar-schwarz/89b69c01-e408-43a1-808c-48ab5df18bdc
+2025-04-10 13:51:42,788 - INFO -   ... and 38 more
+2025-04-10 13:51:42,788 - INFO - staubsauger: 90 URLs
+2025-04-10 13:51:42,788 - INFO -   Example: https://www.backmarket.de/de-de/p/roboterstaubsauger-irobot-roomba-s9-s955840/9638c710-5798-4924-ad0e-e8bbe667f934
+2025-04-10 13:51:42,788 - INFO -   Example: https://www.backmarket.de/de-de/p/roboterstaubsauger-irobot-roomba-j7-j755840/ffc7239a-5116-4dfa-a0e3-ca8c5503e53f
+2025-04-10 13:51:42,788 - INFO -   Example: https://www.backmarket.de/de-de/p/roboterstaubsauger-irobot-roomba-969/f8e9e1b4-da22-41e0-a5af-0e08c463b72e
+2025-04-10 13:51:42,788 - INFO -   ... and 87 more
+2025-04-10 13:51:42,788 - INFO - lens: 13 URLs
+2025-04-10 13:51:42,788 - INFO -   Example: https://www.backmarket.de/de-de/p/kompakt-sony-dsc-hx50-grau-objektivo-sony-lens-g-optical-zoom-24-720-mm-f35-63/613c8fc0-5307-43fe-8241-cb755e29676b
+2025-04-10 13:51:42,793 - INFO -   Example: https://www.backmarket.de/de-de/p/compact-canon-ixus-170-argent-canon-canon-zoom-lens-12x-is-25-300mm-f36-70/ba7896f1-28b0-4da3-a9a0-56962ef2449f
+2025-04-10 13:51:42,793 - INFO -   Example: https://www.backmarket.de/de-de/p/bridge-canon-powershot-sx540-hs-noir-canon-canon-zoom-lens-50x-is-24-1200-mm-f34-65/a664997c-1cf4-49e8-b962-b4a2cfd8b6dd
+2025-04-10 13:51:42,793 - INFO -   ... and 10 more
+2025-04-10 13:51:42,793 - INFO - konsole: 188 URLs
+2025-04-10 13:51:42,793 - INFO -   Example: https://www.backmarket.de/de-de/p/konsole-nintendo-new-2ds-xl-4-gb-wei-orange/568bc27c-c23a-447c-83e6-ba84bca7ff9b
+2025-04-10 13:51:42,793 - INFO -   Example: https://www.backmarket.de/de-de/p/konsole-nintendo-new-3ds-xl-2-gb-pink-wei/e6e88db5-07bb-4bc8-b9a5-afe4f9026c22
+2025-04-10 13:51:42,793 - INFO -   Example: https://www.backmarket.de/de-de/p/konsole-microsoft-xbox-one-x-1-tb-schwarz/4049db9c-fd53-4376-a910-8e9556fac402
+2025-04-10 13:51:42,793 - INFO -   ... and 185 more
+2025-04-10 13:51:42,794 - INFO - watch: 436 URLs
+2025-04-10 13:51:42,794 - INFO -   Example: https://www.backmarket.de/de-de/p/uhren-gps-samsung-galaxy-watch3-sm-r850/b1efdf98-19ef-4a2e-9f15-ec38587961da
+2025-04-10 13:51:42,794 - INFO -   Example: https://www.backmarket.de/de-de/p/uhren-gps-samsung-galaxy-watch3-lte/4f751550-707b-4862-a6c2-94363871b80d
+2025-04-10 13:51:42,794 - INFO -   Example: https://www.backmarket.de/de-de/p/beamer-wewatch-v10-8500-helligkeit-wei/eff40038-7450-463b-a65c-6cf88bac1bc5
+2025-04-10 13:51:42,794 - INFO -   ... and 433 more
+2025-04-10 13:51:42,794 - INFO - beamer: 48 URLs
+2025-04-10 13:51:42,794 - INFO -   Example: https://www.backmarket.de/de-de/p/beamer-optoma-uhd35x-3600-helligkeit-wei/65ae73b7-60b6-4ed2-8fa3-0e976498527d
+2025-04-10 13:51:42,794 - INFO -   Example: https://www.backmarket.de/de-de/p/beamer-simpletek-4169-without-remote-18000-helligkeit-wei/a511eaf8-813a-4b6f-b9c5-c5891535110a
+2025-04-10 13:51:42,794 - INFO -   Example: https://www.backmarket.de/de-de/p/beamer-hisense-120l9g-a12-3000-helligkeit-schwarz/dbfa1df0-5ade-4910-a85f-801753c1114e
+2025-04-10 13:51:42,795 - INFO -   ... and 45 more
+2025-04-10 13:51:42,795 - INFO - cable: 28 URLs
+2025-04-10 13:51:42,795 - INFO -   Example: https://www.backmarket.de/de-de/p/simpletek-natec-nzl-0225-metal-security-cable-lobster-key-180cm-in-length-kabel/4657493f-72e8-484b-b578-22bdcfc35238
+2025-04-10 13:51:42,795 - INFO -   Example: https://www.backmarket.de/de-de/p/simpletek-caddy-and-4tb-ssd-disk-with-20cm-usb-a-cable-externe-festplatte-ssd-3-tb-usb-a/1a783cb0-f5b8-4a4f-9d9e-f083a46312ee
+2025-04-10 13:51:42,795 - INFO -   Example: https://www.backmarket.de/de-de/p/simpletek-caddy-and-960gb-ssd-disk-with-20cm-usb-a-cable-externe-festplatte-ssd-960-gb-usb-a/a62b2aac-a403-4d3e-acaf-9f1726fe055b
+2025-04-10 13:51:42,795 - INFO -   ... and 25 more
+2025-04-10 13:51:42,795 - INFO - docking: 140 URLs
+2025-04-10 13:51:42,795 - INFO -   Example: https://www.backmarket.de/de-de/p/hp-hstnn-ix10-docking-station/f1b58ee8-d822-4ad2-9e7b-ffe4c0d07f19
+2025-04-10 13:51:42,795 - INFO -   Example: https://www.backmarket.de/de-de/p/dell-dock-wd19-180w-docking-station/c7e7b457-24be-4ede-b7f7-298d088e15e2
+2025-04-10 13:51:42,796 - INFO -   Example: https://www.backmarket.de/de-de/p/i-tec-c31hdmidpdockpd-docking-station/1c93942b-4d0c-4704-ac27-008b1e3e6780
+2025-04-10 13:51:42,796 - INFO -   ... and 137 more
+2025-04-10 13:51:42,796 - INFO - gear: 12 URLs
+2025-04-10 13:51:42,796 - INFO -   Example: https://www.backmarket.de/de-de/p/konsole-microsoft-xbox-one-s-2-tb-controller-gears-of-war-4-limited-edition/12bb777c-cb1e-4823-b2fb-13441b822a89
+2025-04-10 13:51:42,796 - INFO -   Example: https://www.backmarket.de/de-de/p/razer-mamba-wireless-gears-of-war-5-maus-wireless/f32a1518-5529-4363-a49a-494085351193
+2025-04-10 13:51:42,796 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-bluetooth-lg-ultragear-gp9-schwarz/e53393b4-3e99-4c57-ac02-7154d631e141
+2025-04-10 13:51:42,796 - INFO -   ... and 9 more
+2025-04-10 13:51:42,796 - INFO - fernseher: 30 URLs
+2025-04-10 13:51:42,796 - INFO -   Example: https://www.backmarket.de/de-de/p/smart-fernseher-lg-led-ultra-hd-4k-109-cm-43up751/c78be53e-6802-4c8d-bff9-fa5e9590afc1
+2025-04-10 13:51:42,796 - INFO -   Example: https://www.backmarket.de/de-de/p/fernseher-lg-non-4k-140-cm-oled55a1/7f701651-672b-4344-88b2-d9b8606994cc
+2025-04-10 13:51:42,796 - INFO -   Example: https://www.backmarket.de/de-de/p/smart-fernseher-lg-led-ultra-hd-4k-109-cm-43uq80006lb/ffd8c804-4f05-4f36-8842-b0be5919d688
+2025-04-10 13:51:42,797 - INFO -   ... and 27 more
+2025-04-10 13:51:42,797 - INFO - webcam: 33 URLs
+2025-04-10 13:51:42,797 - INFO -   Example: https://www.backmarket.de/de-de/p/elgato-10waa9901-webcam/e7262dc0-5995-4494-a8ba-92d648cdc3b9
+2025-04-10 13:51:42,797 - INFO -   Example: https://www.backmarket.de/de-de/p/webcam-logitech-c270/414a1d23-cf50-4c7a-a86d-c961baca74f1
+2025-04-10 13:51:42,797 - INFO -   Example: https://www.backmarket.de/de-de/p/webcam-logitech-hd-pro-c920/c2f922c5-a554-40c1-a384-fd8794a84382
+2025-04-10 13:51:42,797 - INFO -   ... and 30 more
+2025-04-10 13:51:42,797 - INFO - cover: 22 URLs
+2025-04-10 13:51:42,798 - INFO -   Example: https://www.backmarket.de/de-de/p/microsoft-tastatur-qwerty-schwedisch-surface-pro-type-cover-m1725/09d2f54d-6b62-4b20-8a01-a5c284b7aead
+2025-04-10 13:51:42,798 - INFO -   Example: https://www.backmarket.de/de-de/p/microsoft-tastatur-qwerty-portugiesisch-surface-pro-type-cover-m1725/1ed651f9-0cff-4efe-a056-6ddf23e65d2c
+2025-04-10 13:51:42,798 - INFO -   Example: https://www.backmarket.de/de-de/p/microsoft-tastatur-qwerty-english-5us-mit-hintergrundbeleuchtung-surface-pro-type-cover/319e3eb1-54be-4be5-8926-c726a5bbb12f
+2025-04-10 13:51:42,799 - INFO -   ... and 19 more
+2025-04-10 13:51:42,799 - INFO - printer: 4 URLs
+2025-04-10 13:51:42,799 - INFO -   Example: https://www.backmarket.de/de-de/p/hp-laserjet-e57540dn-printer-all-in-one-3gy25ab19/b688b10d-a77d-4492-ad14-49c777481899
+2025-04-10 13:51:42,799 - INFO -   Example: https://www.backmarket.de/de-de/p/brother-hl-l6400dw-a4-mono-laser-printer/8f775e5d-0bc2-42aa-8fff-f19c1e3f1bad
+2025-04-10 13:51:42,799 - INFO -   Example: https://www.backmarket.de/de-de/p/epson-workforce-pro-wf-c5710-a4-colour-multifunction-inkjet-printer-c11cg03401by/28755d9a-60b1-4820-8519-373bb8ef4170
+2025-04-10 13:51:42,799 - INFO -   ... and 1 more
+2025-04-10 13:51:42,799 - INFO - scanner: 37 URLs
+2025-04-10 13:51:42,800 - INFO -   Example: https://www.backmarket.de/de-de/p/canon-scanfront-400-1255c003ab-scanner/20074a6f-751c-4ab7-b147-236db92a1750
+2025-04-10 13:51:42,800 - INFO -   Example: https://www.backmarket.de/de-de/p/canon-dr-2010-scanner/733eeead-c1ec-4786-bab7-3ef583ce98a1
+2025-04-10 13:51:42,800 - INFO -   Example: https://www.backmarket.de/de-de/p/brother-ads-1800w-scanner/da818157-6fe2-4995-a8d7-a20dcf2c1467
+2025-04-10 13:51:42,800 - INFO -   ... and 34 more
+2025-04-10 13:51:42,800 - INFO - trackpad: 5 URLs
+2025-04-10 13:51:42,800 - INFO -   Example: https://www.backmarket.de/de-de/p/spirit-of-gamer-airblade-1300-trackpad/d835f631-f61b-4442-9676-abf22d62a383
+2025-04-10 13:51:42,800 - INFO -   Example: https://www.backmarket.de/de-de/p/magic-trackpad-2-maus-wei/693d25e5-2813-4c80-8675-a955971f1052
+2025-04-10 13:51:42,800 - INFO -   Example: https://www.backmarket.de/de-de/p/macbook-trackpad/26954d64-2d31-408b-a29e-d04b8f3572de
+2025-04-10 13:51:42,800 - INFO -   ... and 2 more
+2025-04-10 13:51:42,800 - INFO - charger: 7 URLs
+2025-04-10 13:51:42,800 - INFO -   Example: https://www.backmarket.de/de-de/p/asus-rog-gaming-charger-dock-auto/5b46b5fe-3a5c-4364-8d48-ba36cf4c21a2
+2025-04-10 13:51:42,800 - INFO -   Example: https://www.backmarket.de/de-de/p/microsoft-charger-for-surface-pro-kabel/4c714ce6-836d-4e78-9125-48f5007095c8
+2025-04-10 13:51:42,800 - INFO -   Example: https://www.backmarket.de/de-de/p/microsoft-charger-for-surface-pro-kabel/1eb70989-1c61-4046-ab16-9b66d445c84d
+2025-04-10 13:51:42,800 - INFO -   ... and 4 more
+2025-04-10 13:51:42,800 - INFO - band: 5 URLs
+2025-04-10 13:51:42,800 - INFO -   Example: https://www.backmarket.de/de-de/p/belkin-n600-dual-band-router/3ba585d4-d9dd-4838-96bf-aacf2fa1ffe2
+2025-04-10 13:51:42,800 - INFO -   Example: https://www.backmarket.de/de-de/p/fitbit-verbundene-armbander-alta-hr-blue-grey-size-s/a401c9b2-56fc-4101-a28e-69ae2027c265
+2025-04-10 13:51:42,800 - INFO -   Example: https://www.backmarket.de/de-de/p/ohrhorer-jabra-engage-45-se-headset-draadloos-hoofdband-kantoorcallcenter-zwart/86888ec1-83e9-4963-8f5b-3504aae76ebf
+2025-04-10 13:51:42,800 - INFO -   ... and 2 more
+2025-04-10 13:51:42,802 - INFO - router: 11 URLs
+2025-04-10 13:51:42,802 - INFO -   Example: https://www.backmarket.de/de-de/p/huawei-b535-232a-router/1a7a838d-be03-4ec6-96f6-0f8b256fad12
+2025-04-10 13:51:42,802 - INFO -   Example: https://www.backmarket.de/de-de/p/huawei-e5785-330-router/2854f567-f312-4a26-987d-dde18f5e60f3
+2025-04-10 13:51:42,802 - INFO -   Example: https://www.backmarket.de/de-de/p/huawei-e5783b-230a-router/b7611eb7-f809-4660-b861-f8363f214a6e
+2025-04-10 13:51:42,802 - INFO -   ... and 8 more
+2025-04-10 13:51:42,802 - INFO - fitbit: 4 URLs
+2025-04-10 13:51:42,802 - INFO -   Example: https://www.backmarket.de/de-de/p/uhren-gps-fitbit-sense/5fdda097-715a-4b3d-9dad-2bfc8378b928
+2025-04-10 13:51:42,802 - INFO -   Example: https://www.backmarket.de/de-de/p/uhren-fitbit-versa/543572ea-e81a-4c3b-936b-76a888de7dbd
+2025-04-10 13:51:42,802 - INFO -   Example: https://www.backmarket.de/de-de/p/uhren-fitbit-versa-2/96d2a7fc-57ce-4371-979d-26387ffba2ce
+2025-04-10 13:51:42,802 - INFO -   ... and 1 more
+2025-04-10 13:51:42,802 - INFO - adapter: 15 URLs
+2025-04-10 13:51:42,803 - INFO -   Example: https://www.backmarket.de/de-de/p/adapter-huawei-e586/b64ca5d4-a5f3-4ba8-a48f-644469bfdaab
+2025-04-10 13:51:42,803 - INFO -   Example: https://www.backmarket.de/de-de/p/adapter-viltrox-jy680a/d07fcf64-605d-4aad-845a-57362be1efcb
+2025-04-10 13:51:42,803 - INFO -   Example: https://www.backmarket.de/de-de/p/thunderbolt-ethernet-gigabit-adapter/c8a14796-e05f-4153-b996-a010b71c3926
+2025-04-10 13:51:42,803 - INFO -   ... and 12 more
+2025-04-10 13:51:42,803 - INFO - homepod: 5 URLs
+2025-04-10 13:51:42,803 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-bluetooth-homepod-mini/cc2efc85-9bb4-4d1b-84f2-4acf7400738f
+2025-04-10 13:51:42,803 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-bluetooth-homepod-mini-gelb/d5273554-a3b5-43c9-a368-eefc79aa23ec
+2025-04-10 13:51:42,803 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-bluetooth-homepod-mini-orange/57163ad3-fe0f-4f22-91d3-5c1c8e374c70
+2025-04-10 13:51:42,803 - INFO -   ... and 2 more
+2025-04-10 13:51:42,805 - INFO - alexa: 2 URLs
+2025-04-10 13:51:42,805 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-danew-he-mini-alexa-schwarz/90e7e3f9-a188-44ae-b7ae-bd9eb6d35eb1
+2025-04-10 13:51:42,805 - INFO -   Example: https://www.backmarket.de/de-de/p/lenovo-smart-tab-m10-fhd-amazon-alexa-2020-101-32gb-wlan-schwarz-kein-sim-slot/6ed21239-3371-4023-9009-d231e0a80dd7
+2025-04-10 13:51:42,805 - INFO - echo: 9 URLs
+2025-04-10 13:51:42,805 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-bluetooth-amazon-echo-dot-5-schwarz/991af776-685d-4c03-8171-adfa207f55e1
+2025-04-10 13:51:42,805 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-amazon-echo-sub-grau/9c6011a9-dede-4e40-ae35-49994de06fc6
+2025-04-10 13:51:42,805 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-bluetooth-amazon-echo-dot-3-wei/f4877348-387d-4850-a34c-f2def65e6586
+2025-04-10 13:51:42,805 - INFO -   ... and 6 more
+2025-04-10 13:51:42,805 - INFO - speaker: 5 URLs
+2025-04-10 13:51:42,806 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-bluetooth-xiaomi-mi-smart-speaker/af168738-59ed-4578-afcd-7637a5d7a369
+2025-04-10 13:51:42,806 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-bluetooth-bose-portable-home-speaker-schwarz/e0f970e2-bd76-4e6c-a883-f8c25ae9c0ab
+2025-04-10 13:51:42,806 - INFO -   Example: https://www.backmarket.de/de-de/p/lautsprecher-bluetooth-bose-home-speaker-500-silber/bfa0230c-90f0-4c79-9aff-447ed6006573
+2025-04-10 13:51:42,806 - INFO -   ... and 2 more
+2025-04-10 13:51:42,807 - INFO - camera: 9 URLs
+2025-04-10 13:51:42,807 - INFO -   Example: https://www.backmarket.de/de-de/p/elgato-cam-link-4k-videoaufnahmeadapter-hdmi-camera-connector/0cf956ab-c7d3-4ee4-890b-88cf186f8b03
+2025-04-10 13:51:42,807 - INFO -   Example: https://www.backmarket.de/de-de/p/sony-playstation-vr-v1-camera-v2-vr-helm-virtuelle-realitat/72218555-2e29-45d8-9f02-b5d67558e72b
+2025-04-10 13:51:42,807 - INFO -   Example: https://www.backmarket.de/de-de/p/casque-vr-sony-playstation-vr-vr-worlds-playstation-camera/25ab1f0e-845c-455c-a963-f6ad8407d5f9
+2025-04-10 13:51:42,807 - INFO -   ... and 6 more
+2025-04-10 13:51:42,807 - INFO - nest: 1 URLs
+2025-04-10 13:51:42,807 - INFO -   Example: https://www.backmarket.de/de-de/p/google-nest-cam-interieure-filaire-camcorder/0d100119-683f-4267-aa27-1d974b8b0ae3
+2025-04-10 13:51:42,807 - INFO - blu-ray: 10 URLs
+2025-04-10 13:51:42,807 - INFO -   Example: https://www.backmarket.de/de-de/p/philips-bdp3000-blu-ray-player/1b49e2d5-c2bd-4c8c-a276-42038fceb452
+2025-04-10 13:51:42,807 - INFO -   Example: https://www.backmarket.de/de-de/p/bd-c8900-blu-ray-player/39f37163-afb8-42fa-b946-ad38e3ba0f09
+2025-04-10 13:51:42,807 - INFO -   Example: https://www.backmarket.de/de-de/p/blu-ray-player-sony-bdps1700/3d205982-4dbd-4ac7-8a2d-e9193322c9a8
+2025-04-10 13:51:42,807 - INFO -   ... and 7 more
+2025-04-10 13:51:42,807 - INFO - bezug: 6 URLs
+2025-04-10 13:51:42,807 - INFO -   Example: https://www.backmarket.de/de-de/p/bezug-polyester-schwarz/8c1c465a-2208-4dbb-981b-9485afe67a6c
+2025-04-10 13:51:42,807 - INFO -   Example: https://www.backmarket.de/de-de/p/bezug-ipad-109-2022-thermoplastisches-polyurethan-tpu-schwarz/2e196b79-fe6f-4530-b1d0-e891b3b387e0
+2025-04-10 13:51:42,807 - INFO -   Example: https://www.backmarket.de/de-de/p/bezug-ipad-pro-11-201820202021-ipad-air-4-2020-ipad-air-5-2022-thermoplastisches-polyurethan-tpu-schwarz/f515b486-8188-4950-87f5-d8c000aae2dc
+2025-04-10 13:51:42,807 - INFO -   ... and 3 more
+2025-04-10 13:51:42,807 - INFO - case: 2 URLs
+2025-04-10 13:51:42,807 - INFO -   Example: https://www.backmarket.de/de-de/p/leder-case-magsafe-leder/c2ba7784-b776-42c1-af7e-23d129fb842e
+2025-04-10 13:51:42,807 - INFO -   Example: https://www.backmarket.de/de-de/p/silikon-case-iphone-12-mini-magsafe-silikon/1e51add5-bb60-4793-aa1f-037c8ec54e4c
+2025-04-10 13:51:42,829 - INFO - Successfully saved 6677 URLs to C:\Users\samil\Documents\PythonScripts\Scraper\M3-scraper\github\Sitemaps\backmarket_urls.txt
