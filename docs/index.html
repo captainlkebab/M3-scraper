@@ -1,0 +1,19 @@
+<input type="text" id="search" placeholder="Suche nach Produkt...">
+<ul id="results"></ul>
+
+<script>
+  let products = [];
+
+  fetch("data/products.json")
+    .then(res => res.json())
+    .then(data => products = data);
+
+  document.getElementById("search").addEventListener("input", function(e) {
+    const query = e.target.value.toLowerCase();
+    const filtered = products.filter(p => p.produkt.toLowerCase().includes(query));
+
+    document.getElementById("results").innerHTML = filtered.map(p =>
+      `<li>${p.produkt} – ${p.anbieter}: ${p.preis}€ – <a href="${p.link}">Kaufen</a></li>`
+    ).join("");
+  });
+</script>
