@@ -1,34 +1,74 @@
-<<<<<<< HEAD
-<input type="text" id="search" placeholder="Suche nach Produkt...">
-<ul id="results"></ul>
-
-<script>
-  let products = [];
-
-  fetch("data/products.json")
-    .then(res => res.json())
-    .then(data => products = data);
-
-  document.getElementById("search").addEventListener("input", function(e) {
-    const query = e.target.value.toLowerCase();
-    const filtered = products.filter(p => p.produkt.toLowerCase().includes(query));
-
-    document.getElementById("results").innerHTML = filtered.map(p =>
-      `<li>${p.produkt} – ${p.anbieter}: ${p.preis}€ – <a href="${p.link}">Kaufen</a></li>`
-    ).join("");
-  });
-</script>
-=======
-
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Weekly Update KW 15</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Used IT Equipment Price Tracker</title>
+  <style>
+    body { font-family: sans-serif; padding: 20px; }
+    input { padding: 5px; width: 300px; margin-bottom: 10px; }
+    table { border-collapse: collapse; width: 100%; }
+    th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
+    th { background-color: #f5f5f5; }
+  </style>
 </head>
 <body>
-    <h1>Wöchentlicher Content – KW 15</h1>
-    <p>Dies ist der automatisch generierte Inhalt für Kalenderwoche 15.</p>
+  <h1>Used IT Equipment Price Tracker</h1>
+  <input type="text" id="search" placeholder="Search by model or brand..." />
+
+  <table>
+    <thead>
+      <tr>
+        <th>Title</th>
+        <th>Model</th>
+        <th>Brand</th>
+        <th>Price</th>
+        <th>Grade</th>
+        <th>Source</th>
+        <th>Link</th>
+      </tr>
+    </thead>
+    <tbody id="productTable"></tbody>
+  </table>
+
+  <script>
+    async function loadProducts() {
+      const response = await fetch('./products.json');
+      const data = await response.json();
+      const table = document.getElementById('productTable');
+      const searchInput = document.getElementById('search');
+
+      function renderTable(filtered) {
+        table.innerHTML = '';
+        filtered.forEach(p => {
+          const row = document.createElement('tr');
+          row.innerHTML = `
+            <td>${p.title}</td>
+            <td>${p.model}</td>
+            <td>${p.brand}</td>
+            <td>${p.price} ${p.currency_iso}</td>
+            <td>${p.grade}</td>
+            <td>${p.source}</td>
+            <td><a href="${p.url}" target="_blank">View</a></td>
+          `;
+          table.appendChild(row);
+        });
+      }
+
+      searchInput.addEventListener('input', () => {
+        const term = searchInput.value.toLowerCase();
+        const filtered = data.filter(p =>
+          p.title.toLowerCase().includes(term) ||
+          (p.model || '').toLowerCase().includes(term) ||
+          (p.brand || '').toLowerCase().includes(term)
+        );
+        renderTable(filtered);
+      });
+
+      renderTable(data);
+    }
+
+    loadProducts();
+  </script>
 </body>
 </html>
->>>>>>> 8c003c085f4a2058a75908b80af994ebecc8757d
