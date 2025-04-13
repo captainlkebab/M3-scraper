@@ -8,3 +8,8 @@
 2025-04-10 12:11:34,713 - INFO - Processed latest product file: C:\Users\samil\Documents\PythonScripts\Scraper\M3-scraper\github\Scraped\refurbed_080425_products.csv
 2025-04-10 12:11:45,238 - INFO - Successfully uploaded price history from C:\Users\samil\Documents\PythonScripts\Scraper\M3-scraper\github\Scraped\refurbed_080425_prices.csv
 2025-04-10 12:11:45,238 - INFO - Processed latest price file: C:\Users\samil\Documents\PythonScripts\Scraper\M3-scraper\github\Scraped\refurbed_080425_prices.csv
+2025-04-13 06:12:08,608 - INFO - Database setup complete at /home/runner/work/M3-scraper/M3-scraper/github/products.db
+2025-04-13 06:12:12,483 - INFO - Successfully uploaded products from /home/runner/work/M3-scraper/M3-scraper/github/Scraped/refurbed_250413_products.csv
+2025-04-13 06:12:12,483 - INFO - Processed latest product file: /home/runner/work/M3-scraper/M3-scraper/github/Scraped/refurbed_250413_products.csv
+2025-04-13 06:12:16,518 - INFO - Successfully uploaded price history from /home/runner/work/M3-scraper/M3-scraper/github/Scraped/refurbed_250413_prices.csv
+2025-04-13 06:12:16,519 - INFO - Processed latest price file: /home/runner/work/M3-scraper/M3-scraper/github/Scraped/refurbed_250413_prices.csv
