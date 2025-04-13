@@ -33,42 +33,56 @@
 
   <script>
     async function loadProducts() {
-      const response = await fetch('./products.json');
-      const data = await response.json();
-      const table = document.getElementById('productTable');
-      const searchInput = document.getElementById('search');
+        try {
+        const response = await fetch('./products.json');
+        if (!response.ok) throw new Error("JSON konnte nicht geladen werden");
+        const data = await response.json();
 
-      function renderTable(filtered) {
-        table.innerHTML = '';
-        filtered.forEach(p => {
-          const row = document.createElement('tr');
-          row.innerHTML = `
-            <td>${p.title}</td>
-            <td>${p.model}</td>
-            <td>${p.brand}</td>
-            <td>${p.price} ${p.currency_iso}</td>
-            <td>${p.grade}</td>
-            <td>${p.source}</td>
-            <td><a href="${p.url}" target="_blank">View</a></td>
-          `;
-          table.appendChild(row);
+        const table = document.getElementById('productTable');
+        const searchInput = document.getElementById('search');
+
+        function renderTable(products) {
+            table.innerHTML = '';
+            products.forEach(p => {
+            const row = document.createElement('tr');
+            row.innerHTML = `
+                <td>${p.title || ''}</td>
+                <td>${p.model || ''}</td>
+                <td>${p.brand || ''}</td>
+                <td>${p.price || ''} ${p.currency_iso || ''}</td>
+                <td>${p.grade || ''}</td>
+                <td>${p.source || ''}</td>
+                <td><a href="${p.url || '#'}" target="_blank">View</a></td>
+            `;
+            table.appendChild(row);
+            });
+        }
+
+        function filterData(term) {
+            term = term.toLowerCase();
+            return data.filter(p =>
+            (p.title || '').toLowerCase().includes(term) ||
+            (p.model || '').toLowerCase().includes(term) ||
+            (p.brand || '').toLowerCase().includes(term)
+            );
+        }
+
+        searchInput.addEventListener('input', () => {
+            const filtered = filterData(searchInput.value);
+            renderTable(filtered);
         });
-      }
 
-      searchInput.addEventListener('input', () => {
-        const term = searchInput.value.toLowerCase();
-        const filtered = data.filter(p =>
-          p.title.toLowerCase().includes(term) ||
-          (p.model || '').toLowerCase().includes(term) ||
-          (p.brand || '').toLowerCase().includes(term)
-        );
-        renderTable(filtered);
-      });
-
-      renderTable(data);
+        renderTable(data);
+        } catch (err) {
+        console.error('Fehler beim Laden der Produkte:', err);
+        const table = document.getElementById('productTable');
+        table.innerHTML = `<tr><td colspan="7">Fehler beim Laden der Daten. Siehe Konsole.</td></tr>`;
+        }
     }
 
     loadProducts();
-  </script>
+    </script>
+
+
 </body>
 </html>

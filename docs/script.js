@@ -1,6 +1,10 @@
-const folderPath = 'github/Scraped/';
-const today = new Date().toISOString().slice(0, 10);  // z.B. "2025-04-12"
-const fileName = `Refurbed_${today}.json`;
+const folderPath = './';  // Angenommen, die JSON-Datei liegt im gleichen Ordner wie die HTML-Datei
+const today = new Date();
+const year = today.getFullYear().toString().slice(-2);  // Holt die letzten zwei Ziffern des Jahres (z.B. "25" für 2025)
+const month = String(today.getMonth() + 1).padStart(2, '0');  // Holt den Monat (01-12)
+const day = String(today.getDate()).padStart(2, '0');  // Holt den Tag (01-31)
+const fileName = `Refurbed_${year}${month}${day}.json`;  // Erzeugt den Dateinamen im Format "Refurbed_YYMMDD.json"
+
 
 let data = [];
 
