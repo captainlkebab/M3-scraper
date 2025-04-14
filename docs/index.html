@@ -90,6 +90,8 @@
       margin-top: 0;
       color: #90caf9;
     }
+    
+    /* Remove filter control styles */
   </style>
 </head>
 <body>
@@ -148,32 +150,90 @@
             
             // Try to load today's file first
             let response = await fetch(`./${fileName}`);
+            let actualFileName = fileName;
             
-            // If today's file doesn't exist, fall back to products.json
+            // If today's file doesn't exist, try to find the newest file
             if (!response.ok) {
-                response = await fetch('./products.json');
-                if (!response.ok) throw new Error("JSON could not be loaded");
+                console.log("Today's file not found, looking for the newest file...");
+                
+                // Try to fetch a list of available files (this requires a server-side solution)
+                // For client-side, we'll try a few recent dates
+                const attempts = [];
+                
+                // Try the last 30 days
+                for (let i = 1; i <= 30; i++) {
+                    const pastDate = new Date(today);
+                    pastDate.setDate(today.getDate() - i);
+                    
+                    const pastYear = pastDate.getFullYear().toString().slice(-2);
+                    const pastMonth = String(pastDate.getMonth() + 1).padStart(2, '0');
+                    const pastDay = String(pastDate.getDate()).padStart(2, '0');
+                    const pastFileName = `Refurbed_${pastYear}${pastMonth}${pastDay}.json`;
+                    
+                    attempts.push(pastFileName);
+                }
+                
+                // Also try the specific sample file we know exists
+                attempts.push('Refurbed_250413.json');
+                
+                // Try each file until one works
+                let fileFound = false;
+                for (const attemptFile of attempts) {
+                    try {
+                        const attemptResponse = await fetch(`./${attemptFile}`);
+                        if (attemptResponse.ok) {
+                            response = attemptResponse;
+                            actualFileName = attemptFile;
+                            fileFound = true;
+                            console.log(`Found file: ${attemptFile}`);
+                            break;
+                        }
+                    } catch (e) {
+                        // Continue to next attempt
+                    }
+                }
+                
+                // If no recent files found, show an error
+                if (!fileFound) {
+                    console.log("No data files found");
+                    throw new Error("No data files could be found. Please ensure at least one Refurbed_*.json file exists.");
+                }
             }
             
             const data = await response.json();
 
-            // Update stats
-            updateStats(data, fileName);
-
+            // Update stats with the actual file name that was loaded
+            updateStats(data, actualFileName);
+            
             const table = document.getElementById('productTable');
             const searchInput = document.getElementById('search');
 
             function renderTable(products) {
                 table.innerHTML = '';
-                products.forEach(p => {
+                // Filter out products with NOT-AVAILABLE prices
+                const availableProducts = products.filter(p => 
+                    p.offer?.price !== "NOT-AVAILABLE" && 
+                    p.item?.price !== "0" && 
+                    p.item?.price !== undefined
+                );
+                
+                if (availableProducts.length === 0) {
+                    const row = document.createElement('tr');
+                    row.innerHTML = `<td colspan="7">No products with available prices found.</td>`;
+                    table.appendChild(row);
+                    return;
+                }
+                
+                availableProducts.forEach(p => {
+                    // Title and URL are already working correctly
                     const row = document.createElement('tr');
                     row.innerHTML = `
                         <td>${p.title || ''}</td>
-                        <td>${p.model || ''}</td>
-                        <td>${p.brand || ''}</td>
-                        <td>${p.price || ''} ${p.currency_iso || ''}</td>
-                        <td>${p.grade || ''}</td>
-                        <td>${p.source || ''}</td>
+                        <td>${p.item?.item_name || ''}</td>
+                        <td>${p.item?.item_brand || ''}</td>
+                        <td>${p.offer?.price || p.item?.price || '0'} ${p.item?.currency || 'EUR'}</td>
+                        <td>${p.offer?.grading || ''}</td>
+                        <td>${p.url?.match(/\/\/(?:www\.)?([^\/]+)/)?.[1] || ''}</td>
                         <td><a href="${p.url || '#'}" target="_blank">View</a></td>
                     `;
                     table.appendChild(row);
@@ -181,13 +241,23 @@
             }
 
             function filterData(term) {
-                if (!term) return data; // Return all data if search term is empty
+                if (!term) {
+                    // Return all products with available prices
+                    return data.filter(p => 
+                        p.offer?.price !== "NOT-AVAILABLE" && 
+                        p.item?.price !== "0" && 
+                        p.item?.price !== undefined
+                    );
+                }
                 
                 term = term.toLowerCase();
                 return data.filter(p =>
-                    (p.title || '').toLowerCase().includes(term) ||
-                    (p.model || '').toLowerCase().includes(term) ||
-                    (p.brand || '').toLowerCase().includes(term)
+                    // Only include products with available prices
+                    (p.offer?.price !== "NOT-AVAILABLE" && p.item?.price !== "0" && p.item?.price !== undefined) &&
+                    // And match the search term
+                    ((p.title || '').toLowerCase().includes(term) ||
+                    (p.item?.item_name || '').toLowerCase().includes(term) ||
+                    (p.item?.item_brand || '').toLowerCase().includes(term))
                 );
             }
 
@@ -206,18 +276,25 @@
     }
 
     function updateStats(data, fileName) {
-        // Total products
-        document.getElementById('totalProducts').textContent = data.length;
+        // Filter to only include products with available prices
+        const availableProducts = data.filter(p => 
+            p.offer?.price !== "NOT-AVAILABLE" && 
+            p.item?.price !== "0" && 
+            p.item?.price !== undefined
+        );
         
-        // Unique brands
-        const brands = [...new Set(data.map(p => p.brand).filter(Boolean))];
+        // Total products with available prices
+        document.getElementById('totalProducts').textContent = availableProducts.length;
+        
+        // Unique brands with available prices
+        const brands = [...new Set(availableProducts.map(p => p.item?.item_brand).filter(Boolean))];
         document.getElementById('uniqueBrands').textContent = brands.length;
         
-        // Price range
-        const prices = data.map(p => parseFloat(p.price)).filter(p => !isNaN(p));
-        const min = Math.min(...prices);
-        const max = Math.max(...prices);
-        const currency = data[0]?.currency_iso || 'EUR';
+        // Price range of available products
+        const prices = availableProducts.map(p => parseFloat(p.offer?.price || p.item?.price)).filter(p => !isNaN(p));
+        const min = prices.length > 0 ? Math.min(...prices) : 0;
+        const max = prices.length > 0 ? Math.max(...prices) : 0;
+        const currency = availableProducts[0]?.item?.currency || 'EUR';
         document.getElementById('priceRange').textContent = `${min} - ${max} ${currency}`;
         
         // Last updated
