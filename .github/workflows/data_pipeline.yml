@@ -1,4 +1,4 @@
-name: Data Pipeline
+name: Price Scraping Pipeline
 
 permissions:
   contents: write
@@ -19,6 +19,7 @@ on:
           - sitemap_fetcher
           - refurbedscraper
           - db_uploader
+          - price_predictor
           - future_task_2
 
 jobs:
@@ -37,7 +38,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install -r requirements.txt || pip install requests pandas
+        pip install -r requirements.txt || pip install requests pandas numpy scikit-learn matplotlib
         
     - name: Run sitemap fetcher
       if: ${{ github.event.inputs.task == 'sitemap_fetcher' || github.event.inputs.task == 'all' || github.event_name == 'schedule' }}
@@ -53,6 +54,11 @@ jobs:
       if: ${{ github.event.inputs.task == 'db_uploader' || github.event.inputs.task == 'all' || github.event_name =='schedule' }}
       run: |
         python github/db_uploader.py
+        
+    - name: Run price predictor
+      if: ${{ github.event.inputs.task == 'price_predictor' || github.event.inputs.task == 'all' || github.event_name =='schedule' }}
+      run: |
+        python github/price_predictor.py
         
     - name: Copy latest JSON file to docs/
       run: |
