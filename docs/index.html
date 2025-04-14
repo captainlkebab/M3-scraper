@@ -34,55 +34,71 @@
   <script>
     async function loadProducts() {
         try {
-        const response = await fetch('./products.json');
-        if (!response.ok) throw new Error("JSON konnte nicht geladen werden");
-        const data = await response.json();
+            // Generate today's filename in format Refurbed_YYMMDD.json
+            const today = new Date();
+            const year = today.getFullYear().toString().slice(-2);
+            const month = String(today.getMonth() + 1).padStart(2, '0');
+            const day = String(today.getDate()).padStart(2, '0');
+            const fileName = `Refurbed_${year}${month}${day}.json`;
+            
+            // Try to load today's file first
+            let response = await fetch(`./${fileName}`);
+            
+            // If today's file doesn't exist, fall back to products.json
+            if (!response.ok) {
+                response = await fetch('./products.json');
+                if (!response.ok) throw new Error("JSON could not be loaded");
+            }
+            
+            const data = await response.json();
 
-        const table = document.getElementById('productTable');
-        const searchInput = document.getElementById('search');
+            const table = document.getElementById('productTable');
+            const searchInput = document.getElementById('search');
 
-        function renderTable(products) {
-            table.innerHTML = '';
-            products.forEach(p => {
-            const row = document.createElement('tr');
-            row.innerHTML = `
-                <td>${p.title || ''}</td>
-                <td>${p.model || ''}</td>
-                <td>${p.brand || ''}</td>
-                <td>${p.price || ''} ${p.currency_iso || ''}</td>
-                <td>${p.grade || ''}</td>
-                <td>${p.source || ''}</td>
-                <td><a href="${p.url || '#'}" target="_blank">View</a></td>
-            `;
-            table.appendChild(row);
+            function renderTable(products) {
+                table.innerHTML = '';
+                products.forEach(p => {
+                    const row = document.createElement('tr');
+                    row.innerHTML = `
+                        <td>${p.title || ''}</td>
+                        <td>${p.model || ''}</td>
+                        <td>${p.brand || ''}</td>
+                        <td>${p.price || ''} ${p.currency_iso || ''}</td>
+                        <td>${p.grade || ''}</td>
+                        <td>${p.source || ''}</td>
+                        <td><a href="${p.url || '#'}" target="_blank">View</a></td>
+                    `;
+                    table.appendChild(row);
+                });
+            }
+
+            function filterData(term) {
+                if (!term) return data; // Return all data if search term is empty
+                
+                term = term.toLowerCase();
+                return data.filter(p =>
+                    (p.title || '').toLowerCase().includes(term) ||
+                    (p.model || '').toLowerCase().includes(term) ||
+                    (p.brand || '').toLowerCase().includes(term)
+                );
+            }
+
+            searchInput.addEventListener('input', () => {
+                const filtered = filterData(searchInput.value);
+                renderTable(filtered);
             });
-        }
 
-        function filterData(term) {
-            term = term.toLowerCase();
-            return data.filter(p =>
-            (p.title || '').toLowerCase().includes(term) ||
-            (p.model || '').toLowerCase().includes(term) ||
-            (p.brand || '').toLowerCase().includes(term)
-            );
-        }
-
-        searchInput.addEventListener('input', () => {
-            const filtered = filterData(searchInput.value);
-            renderTable(filtered);
-        });
-
-        renderTable(data);
+            // Initial render with all data
+            renderTable(data);
         } catch (err) {
-        console.error('Fehler beim Laden der Produkte:', err);
-        const table = document.getElementById('productTable');
-        table.innerHTML = `<tr><td colspan="7">Fehler beim Laden der Daten. Siehe Konsole.</td></tr>`;
+            console.error('Error loading products:', err);
+            const table = document.getElementById('productTable');
+            table.innerHTML = `<tr><td colspan="7">Error loading data. See console for details.</td></tr>`;
         }
     }
 
+    // Call the function when page loads
     loadProducts();
-    </script>
-
-
+  </script>
 </body>
 </html>
