@@ -51,79 +51,79 @@
   "trending_up_categories": [
     {
       "name": "Household",
-      "trend_pct": 1.3,
+      "trend_pct": 0.41,
       "count": 6
     }
   ],
   "trending_down_categories": [
     {
+      "name": "Printers & Scanner",
+      "trend_pct": -0.58,
+      "count": 19
+    },
+    {
       "name": "TVs",
-      "trend_pct": -3.15,
+      "trend_pct": -0.61,
       "count": 11
     },
     {
-      "name": "Accessories",
-      "trend_pct": -3.57,
-      "count": 101
+      "name": "Laptops",
+      "trend_pct": -0.64,
+      "count": 889
     },
     {
-      "name": "Monitors",
-      "trend_pct": -5.48,
-      "count": 192
-    },
-    {
-      "name": "Desktop PCs",
-      "trend_pct": -5.83,
-      "count": 112
+      "name": "Audio",
+      "trend_pct": -0.92,
+      "count": 17
     },
     {
       "name": "Phones & Smartphones",
-      "trend_pct": -6.34,
+      "trend_pct": -1.42,
       "count": 622
     }
   ],
   "trending_up_brands": [
     {
       "name": "Google",
-      "trend_pct": 3.85,
+      "trend_pct": 0.6,
       "count": 23
     },
     {
-      "name": "Microsoft",
-      "trend_pct": 1.37,
-      "count": 49
+      "name": "Acer",
+      "trend_pct": 0.59,
+      "count": 11
     },
     {
-      "name": "Acer",
-      "trend_pct": 1.08,
-      "count": 11
+      "name": "Microsoft",
+      "trend_pct": 0.55,
+      "count": 49
     }
   ],
   "trending_down_brands": [
     {
-      "name": "LG",
-      "trend_pct": -6.67,
-      "count": 24
+      "name": "Apple",
+      "trend_pct": -1.66,
+      "count": 120
     },
     {
       "name": "Xiaomi",
-      "trend_pct": -7.9,
+      "trend_pct": -1.75,
       "count": 104
     },
     {
-      "name": "OnePlus",
-      "trend_pct": -10.36,
-      "count": 32
-    },
-    {
-      "name": "Fujitsu",
-      "trend_pct": -11.78,
-      "count": 4
-    },
-    {
       "name": "Motorola",
-      "trend_pct": -12.81,
+      "trend_pct": -2.17,
       "count": 48
+    },
+    {
+      "name": "Logitech",
+      "trend_pct": -2.4,
+      "count": 5
+    },
+    {
+      "name": "OnePlus",
+      "trend_pct": -2.51,
+      "count": 32
     }
   ]
 }

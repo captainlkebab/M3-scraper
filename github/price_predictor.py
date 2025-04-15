@@ -147,19 +147,51 @@ def generate_predictions(prediction_models, days_ahead=30):
         # Make predictions
         y_pred = model.predict(X_pred)
         
+        # Apply dampening factor to reduce extreme predictions
+        # The further in the future, the more we dampen the change
+        last_price = model_data['last_price']
+        dampened_predictions = []
+        
+        for i, predicted_price in enumerate(y_pred):
+            # Calculate days from today
+            days_from_today = i + 1
+            
+            # Dampening factor increases with time (stronger dampening for further predictions)
+            dampening_factor = 1.0 - (days_from_today / (days_ahead * 2))
+            
+            # Calculate raw price change
+            raw_change = predicted_price - last_price
+            
+            # Apply dampening to the change
+            dampened_change = raw_change * dampening_factor
+            
+            # Limit maximum monthly change to 5% (more realistic for IT equipment)
+            max_change_pct = 5.0  # 5% maximum monthly change
+            max_change = last_price * (max_change_pct / 100)
+            
+            if abs(dampened_change) > max_change:
+                dampened_change = max_change if dampened_change > 0 else -max_change
+            
+            # Calculate dampened price
+            dampened_price = last_price + dampened_change
+            
+            # Ensure price is positive
+            dampened_price = max(0, dampened_price)
+            
+            dampened_predictions.append(dampened_price)
+        
         # Store predictions
         product_predictions = {}
         for i, date in enumerate(prediction_dates):
-            # Ensure predictions are positive
-            predicted_price = max(0, y_pred[i])
-            product_predictions[date.strftime('%Y-%m-%d')] = round(predicted_price, 2)
+            product_predictions[date.strftime('%Y-%m-%d')] = round(dampened_predictions[i], 2)
         
         # Calculate trend percentage (compared to last known price)
-        last_price = model_data['last_price']
         predicted_price_30d = product_predictions[prediction_dates[-1].strftime('%Y-%m-%d')]
         
         if last_price > 0:
             trend_pct = ((predicted_price_30d - last_price) / last_price) * 100
+            # Cap trend percentage to a reasonable range
+            trend_pct = max(min(trend_pct, 5.0), -5.0)
         else:
             trend_pct = 0
             
