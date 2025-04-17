@@ -317,8 +317,15 @@ if __name__ == "__main__":
         with open(json_output_file, 'w', encoding='utf-8') as f:
             json.dump(results, f, ensure_ascii=False, indent=2)
         
+        # Also save to docs folder for the web interface
+        docs_dir = Path(__file__).parent.parent / "docs"
+        docs_dir.mkdir(parents=True, exist_ok=True)
+        docs_json_file = docs_dir / f"Refurbed_{datetime.now().strftime('%y%m%d')}.json"
+        with open(docs_json_file, 'w', encoding='utf-8') as f:
+            json.dump(results, f, ensure_ascii=False, indent=2)
+        
         scraper.save_to_structured_files(results, output_dir)
-        logging.info(f"Scraping completed. Saved {len(results)} products in {json_output_file}")
+        logging.info(f"Scraping completed. Saved {len(results)} products in {json_output_file} and {docs_json_file}")
     except FileNotFoundError:
         logging.error(f"URL file not found: {urls_file}. Make sure the sitemap_fetcher has been run first.")
     except Exception as e:

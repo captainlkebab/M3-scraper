@@ -27,29 +27,105 @@ def save_progress(index):
 def get_links():
     links_file = Path(__file__).parent / "Sitemaps" / "backmarket_urls.txt"
     with open(links_file, 'r', encoding='utf-8') as f:
-        return [line.strip() for line in f if line.strip()]
+        # Only return the first 5 URLs
+        return [line.strip() for line in f if line.strip()][:5]
 
 def extract_product_info():
-    """Extracts product information from the current page."""
+    """Extracts comprehensive product information from the current page."""
     products = driver.find_elements(By.CSS_SELECTOR, 'div[data-spec="main"]')
     product_list = []
+    
     for product in products:
-        name_element = product.find_element(By.CSS_SELECTOR, 'h2 a span')
-        product_name = name_element.text.strip() if name_element else 'N/A'
-
-        price_element = product.find_element(By.CSS_SELECTOR, 'div[data-spec="price-information"] div.body-2-bold')
-        product_price = price_element.text.strip() if price_element else 'N/A'
-
-        product_data = {
-            'name': product_name,
-            'price': product_price,
-            'timestamp': time.strftime('%Y-%m-%d %H:%M')
-        }
-        product_list.append(product_data)
-
-        print(f'Product Name: {product_name}')
-        print(f'Price: {product_price}')
-        print('-' * 40)
+        try:
+            # Basic product info
+            name_element = product.find_element(By.CSS_SELECTOR, 'h2 a span')
+            product_name = name_element.text.strip() if name_element else 'N/A'
+            
+            # Get product URL for detailed page
+            link_element = product.find_element(By.CSS_SELECTOR, 'h2 a')
+            product_url = link_element.get_attribute('href') if link_element else None
+            
+            # Price information
+            price_element = product.find_element(By.CSS_SELECTOR, 'div[data-spec="price-information"] div.body-2-bold')
+            product_price = price_element.text.strip() if price_element else 'N/A'
+            
+            # Try to get additional information
+            try:
+                condition_element = product.find_element(By.CSS_SELECTOR, 'div[data-test="condition-badge"]')
+                condition = condition_element.text.strip() if condition_element else 'N/A'
+            except:
+                condition = 'N/A'
+                
+            try:
+                rating_element = product.find_element(By.CSS_SELECTOR, 'div[data-test="rating"]')
+                rating = rating_element.text.strip() if rating_element else 'N/A'
+            except:
+                rating = 'N/A'
+                
+            try:
+                specs_elements = product.find_elements(By.CSS_SELECTOR, 'ul[data-test="specs"] li')
+                specs = [spec.text.strip() for spec in specs_elements] if specs_elements else []
+            except:
+                specs = []
+            
+            # Create comprehensive product data
+            product_data = {
+                'name': product_name,
+                'price': product_price,
+                'url': product_url,
+                'condition': condition,
+                'rating': rating,
+                'specifications': specs,
+                'timestamp': time.strftime('%Y-%m-%d %H:%M')
+            }
+            
+            # If we have a product URL, try to get more detailed info
+            if product_url and random.random() < 0.3:  # Only do this for 30% of products to avoid detection
+                try:
+                    # Open product page in a new tab
+                    driver.execute_script("window.open('');")
+                    driver.switch_to.window(driver.window_handles[1])
+                    driver.get(product_url)
+                    
+                    # Add random human-like delay
+                    time.sleep(random.uniform(3, 7))
+                    
+                    # Extract detailed information
+                    try:
+                        description_element = driver.find_element(By.CSS_SELECTOR, 'div[data-test="product-description"]')
+                        product_data['description'] = description_element.text.strip() if description_element else 'N/A'
+                    except:
+                        product_data['description'] = 'N/A'
+                    
+                    try:
+                        detailed_specs = driver.find_elements(By.CSS_SELECTOR, 'div[data-test="product-specs"] div')
+                        product_data['detailed_specs'] = [spec.text.strip() for spec in detailed_specs] if detailed_specs else []
+                    except:
+                        product_data['detailed_specs'] = []
+                    
+                    # Close tab and switch back
+                    driver.close()
+                    driver.switch_to.window(driver.window_handles[0])
+                    
+                    # Add random delay to appear more human-like
+                    time.sleep(random.uniform(1, 3))
+                    
+                except Exception as e:
+                    print(f"Error getting detailed info: {e}")
+                    # Make sure we're back on the main tab
+                    if len(driver.window_handles) > 1:
+                        driver.close()
+                        driver.switch_to.window(driver.window_handles[0])
+            
+            product_list.append(product_data)
+            print(f'Product Name: {product_name}')
+            print(f'Price: {product_price}')
+            print(f'Condition: {condition}')
+            print('-' * 40)
+            
+        except Exception as e:
+            print(f"Error processing product: {e}")
+            continue
     
     return product_list
 
@@ -61,7 +137,12 @@ def save_products(products, url):
     output_dir = Path(__file__).parent / "Scraped"
     output_dir.mkdir(exist_ok=True)
     
+    # Also save to docs folder for web interface
+    docs_dir = Path(__file__).parent.parent / "docs"
+    docs_dir.mkdir(exist_ok=True)
+    
     json_file = output_dir / f"backmarket_{date_str}.json"
+    docs_json_file = docs_dir / f"backmarket_{date_str}.json"
     products_csv = output_dir / f"backmarket_products_{date_str}.csv"
     prices_csv = output_dir / f"backmarket_prices_{date_str}.csv"
     
@@ -79,8 +160,11 @@ def save_products(products, url):
     }
     existing_data.append(new_entry)
     
-    # Save JSON
+    # Save JSON to both locations
     with open(json_file, 'w', encoding='utf-8') as f:
+        json.dump(existing_data, f, ensure_ascii=False, indent=2)
+    
+    with open(docs_json_file, 'w', encoding='utf-8') as f:
         json.dump(existing_data, f, ensure_ascii=False, indent=2)
     
     # Save products CSV
@@ -88,14 +172,21 @@ def save_products(products, url):
     if not products_csv.exists():
         with open(products_csv, 'w', newline='', encoding='utf-8') as f:
             writer = csv.writer(f)
-            writer.writerow(['product_id', 'name', 'category', 'url'])
+            writer.writerow(['product_id', 'name', 'category', 'url', 'condition', 'rating'])
     
     with open(products_csv, 'a', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
         for product in products:
             product_id = hash(product['name'] + url)
             category = url.split('/l/')[-1].split('/')[0] if '/l/' in url else 'unknown'
-            writer.writerow([product_id, product['name'], category, url])
+            writer.writerow([
+                product_id, 
+                product['name'], 
+                category, 
+                product.get('url', url),
+                product.get('condition', 'N/A'),
+                product.get('rating', 'N/A')
+            ])
     
     # Save prices CSV
     if not prices_csv.exists():
@@ -121,10 +212,19 @@ try:
     driver = uc.Chrome(options=options)
     driver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
 
-    # Load all links and progress
+    # Load only the first 5 links
     all_links = get_links()
     progress = load_progress()
     start_index = progress["last_index"]
+    
+    # Make sure we don't go beyond the 5 links we have
+    if start_index >= len(all_links):
+        start_index = 0
+    
+    print(f"Starting from index {start_index}")
+    
+    # Process remaining links from the 5
+    batch_links = all_links[start_index:]
     batch_size = 10
 
     print(f"Starting from index {start_index}")

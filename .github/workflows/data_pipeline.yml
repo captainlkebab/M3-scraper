@@ -20,7 +20,6 @@ on:
           - refurbedscraper
           - db_uploader
           - price_predictor
-          - future_task_2
 
 jobs:
   run-pipeline:
