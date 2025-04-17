@@ -20,19 +20,16 @@ This project is a comprehensive solution for tracking prices of used and refurbi
 2. Install the required packages:
 ```bash
 pip install -r requirements.txt
- ```
 ```
 
 ### Running the Scrapers Refurbed Scraper
 ```bash
 python github/refurbedscraper.py
- ```
 ```
  BackMarket Scraper
 ```bash
 python github/backmarketscraper.py
  ```
-```
 
 ### Generating Price Predictions
 After collecting data for at least two weeks, you can generate price predictions:
@@ -40,7 +37,6 @@ After collecting data for at least two weeks, you can generate price predictions
 ```bash
 python github/price_predictor.py
  ```
-```
 
 ### Viewing the Dashboard
 Open docs/index.html in your web browser to view the dashboard. For the best experience, use a local web server:
