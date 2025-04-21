@@ -6,6 +6,32 @@ from datetime import datetime, timedelta
 import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
 import pickle
+import logging
+from pathlib import Path
+
+# Setup logging
+def setup_logging():
+    """Set up logging configuration."""
+    # Create logs directory if it doesn't exist
+    log_dir = Path(__file__).parent / "logs"
+    log_dir.mkdir(parents=True, exist_ok=True)
+
+    # Set up logging with file in logs directory
+    log_file = log_dir / f"price_predictor_{datetime.now().strftime('%y%m%d')}.log"
+    logging.basicConfig(
+        level=logging.INFO,
+        format='%(asctime)s - %(levelname)s - %(message)s',
+        handlers=[
+            logging.FileHandler(log_file),
+            logging.StreamHandler()
+        ]
+    )
+    
+    return logging.getLogger(__name__)
+
+# Call setup_logging at the beginning of your script
+logger = setup_logging()
+
 
 def extract_date_from_filename(filename):
     """Extract date from filename format Refurbed_YYMMDD.json"""
@@ -35,9 +61,9 @@ def load_data_files(data_dir="github/Scraped"):
                         'date': file_date,
                         'data': data
                     })
-                print(f"Loaded {filename} with {len(data)} products")
+                logger.info(f"Loaded {filename} with {len(data)} products")
             except Exception as e:
-                print(f"Error loading {filename}: {e}")
+                logger.error(f"Error loading {filename}: {e}")
     
     # Sort by date
     data_files.sort(key=lambda x: x['date'])
@@ -241,7 +267,7 @@ def save_predictions(predictions, output_dir="docs"):
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(serializable_predictions, f, indent=2)
     
-    print(f"Saved predictions to {output_file}")
+    logger.info(f"Saved predictions to {output_file}")
     return output_file
 
 def generate_summary_stats(predictions):
@@ -341,35 +367,37 @@ def save_summary(summary, output_dir="docs"):
     return output_file
 
 def main():
-    print("Loading data files...")
+    logger.info("Starting price prediction process")
+    logger.info("Loading data files...")
     data_files = load_data_files()
     
     if len(data_files) < 2:
-        print(f"Not enough data files found. Need at least 2, found {len(data_files)}")
+        logger.warning(f"Not enough data files found. Need at least 2, found {len(data_files)}")
         return
     
-    print(f"Found {len(data_files)} data files")
+    logger.info(f"Found {len(data_files)} data files")
     
-    print("Preparing price history...")
+    logger.info("Preparing price history...")
     price_history = prepare_price_history(data_files)
-    print(f"Prepared price history for {len(price_history)} products")
+    logger.info(f"Prepared price history for {len(price_history)} products")
     
-    print("Building prediction models...")
+    logger.info("Building prediction models...")
     prediction_models = build_prediction_models(price_history)
-    print(f"Built prediction models for {len(prediction_models)} products")
+    logger.info(f"Built prediction models for {len(prediction_models)} products")
     
-    print("Generating predictions...")
+    logger.info("Generating predictions...")
     predictions = generate_predictions(prediction_models)
-    print(f"Generated predictions for {len(predictions)} products")
+    logger.info(f"Generated predictions for {len(predictions)} products")
     
-    print("Saving predictions...")
+    logger.info("Saving predictions...")
     save_predictions(predictions)
     
-    print("Generating summary statistics...")
+    logger.info("Generating summary statistics...")
     summary = generate_summary_stats(predictions)
     save_summary(summary)
     
-    print("Done!")
+    logger.info("Price prediction process completed successfully")
 
 if __name__ == "__main__":
     main()
+

@@ -54,7 +54,7 @@
   "trending_down_categories": [
     {
       "name": "Tablets",
-      "trend_pct": -0.53,
+      "trend_pct": -0.54,
       "count": 174
     },
     {
@@ -69,12 +69,12 @@
     },
     {
       "name": "Laptops",
-      "trend_pct": -0.84,
+      "trend_pct": -0.86,
       "count": 1055
     },
     {
       "name": "Phones & Smartphones",
-      "trend_pct": -1.49,
+      "trend_pct": -1.51,
       "count": 685
     }
   ],
@@ -86,34 +86,34 @@
     },
     {
       "name": "Google",
-      "trend_pct": 0.77,
+      "trend_pct": 0.75,
       "count": 24
     }
   ],
   "trending_down_brands": [
     {
       "name": "Apple",
-      "trend_pct": -1.8,
+      "trend_pct": -1.84,
       "count": 121
     },
     {
       "name": "Realme",
-      "trend_pct": -1.82,
+      "trend_pct": -1.86,
       "count": 22
     },
     {
       "name": "Motorola",
-      "trend_pct": -2.1,
+      "trend_pct": -2.12,
       "count": 60
     },
     {
       "name": "Logitech",
-      "trend_pct": -2.49,
+      "trend_pct": -2.53,
       "count": 5
     },
     {
       "name": "OnePlus",
-      "trend_pct": -2.68,
+      "trend_pct": -2.73,
       "count": 37
     }
   ]
