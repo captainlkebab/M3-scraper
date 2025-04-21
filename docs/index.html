@@ -354,9 +354,63 @@
           // Update prediction section
           await updatePredictionSection();
     
-          // For now, skip trying to load previous week's data
-          // Just display the current data without price changes
-          previousWeekData = [];
+          // Load previous week's data
+          try {
+            // Calculate date for previous week (7 days ago)
+            const prevWeekDate = new Date(today);
+            prevWeekDate.setDate(today.getDate() - 7);
+            
+            const prevYear = prevWeekDate.getFullYear().toString().slice(-2);
+            const prevMonth = String(prevWeekDate.getMonth() + 1).padStart(2, '0');
+            const prevDay = String(prevWeekDate.getDate()).padStart(2, '0');
+            const prevFileName = `Refurbed_${prevYear}${prevMonth}${prevDay}.json`;
+            
+            const prevResponse = await fetch(`./${prevFileName}`);
+            if (prevResponse.ok) {
+              previousWeekData = await prevResponse.json();
+              console.log("Loaded previous week's data:", prevFileName);
+            } else {
+              console.log("Previous week's data not found, trying other dates...");
+              
+              // Try a few days before and after the exact 7-day mark
+              for (let offset = 1; offset <= 3; offset++) {
+                // Try days before
+                const beforeDate = new Date(prevWeekDate);
+                beforeDate.setDate(prevWeekDate.getDate() - offset);
+                
+                const beforeYear = beforeDate.getFullYear().toString().slice(-2);
+                const beforeMonth = String(beforeDate.getMonth() + 1).padStart(2, '0');
+                const beforeDay = String(beforeDate.getDate()).padStart(2, '0');
+                const beforeFileName = `Refurbed_${beforeYear}${beforeMonth}${beforeDay}.json`;
+                
+                const beforeResponse = await fetch(`./${beforeFileName}`);
+                if (beforeResponse.ok) {
+                  previousWeekData = await beforeResponse.json();
+                  console.log("Loaded previous data:", beforeFileName);
+                  break;
+                }
+                
+                // Try days after
+                const afterDate = new Date(prevWeekDate);
+                afterDate.setDate(prevWeekDate.getDate() + offset);
+                
+                const afterYear = afterDate.getFullYear().toString().slice(-2);
+                const afterMonth = String(afterDate.getMonth() + 1).padStart(2, '0');
+                const afterDay = String(afterDate.getDate()).padStart(2, '0');
+                const afterFileName = `Refurbed_${afterYear}${afterMonth}${afterDay}.json`;
+                
+                const afterResponse = await fetch(`./${afterFileName}`);
+                if (afterResponse.ok) {
+                  previousWeekData = await afterResponse.json();
+                  console.log("Loaded previous data:", afterFileName);
+                  break;
+                }
+              }
+            }
+          } catch (err) {
+            console.log("Error loading previous week's data:", err);
+            previousWeekData = [];
+          }
           
           // Update stats with the actual file name that was loaded
           updateStats(data, actualFileName);
@@ -553,8 +607,34 @@
         }
         
         availableProducts.forEach(p => {
-            // For now, just display "Coming soon" in the price change column
-            const priceChangeDisplay = 'Coming soon';
+            // Calculate price change if previous data is available
+            let priceChangeDisplay = 'N/A';
+            
+            if (previousWeekData.length > 0) {
+                // Find the same product in previous week's data
+                const prevProduct = previousWeekData.find(prev => prev.url === p.url);
+                
+                if (prevProduct) {
+                    const currentPrice = parseFloat(p.offer?.price || p.item?.price || 0);
+                    const prevPrice = parseFloat(prevProduct.offer?.price || prevProduct.item?.price || 0);
+                    
+                    if (currentPrice > 0 && prevPrice > 0) {
+                        const priceDiff = currentPrice - prevPrice;
+                        const percentChange = ((priceDiff / prevPrice) * 100).toFixed(2);
+                        
+                        let trendClass = '';
+                        if (priceDiff > 0) {
+                            trendClass = 'trend-up';
+                            priceChangeDisplay = `<span class="${trendClass}">+${priceDiff.toFixed(2)} EUR (${percentChange}%)</span>`;
+                        } else if (priceDiff < 0) {
+                            trendClass = 'trend-down';
+                            priceChangeDisplay = `<span class="${trendClass}">${priceDiff.toFixed(2)} EUR (${percentChange}%)</span>`;
+                        } else {
+                            priceChangeDisplay = 'No change';
+                        }
+                    }
+                }
+            }
             
             // Get prediction if available
             let predictionDisplay = 'N/A';
