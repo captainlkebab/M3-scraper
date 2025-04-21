@@ -223,8 +223,10 @@ https://www.refurbed.de/p/acer-iconia-one-10/
 https://www.refurbed.de/p/acer-iconia-tab-p10/
 https://www.refurbed.de/p/acer-ka0-ka270habid/
 https://www.refurbed.de/p/acer-ka1-ka221qbid-21-5/
+https://www.refurbed.de/p/acer-ka2-ka242yebi-23-8/
 https://www.refurbed.de/p/acer-ka2-ka272bi-27/
 https://www.refurbed.de/p/acer-ka220hqbid-21-5/
+https://www.refurbed.de/p/acer-kg1-kg241ysbiip-23-8/
 https://www.refurbed.de/p/acer-liquid-z4/
 https://www.refurbed.de/p/acer-liquid-z410/
 https://www.refurbed.de/p/acer-nitro-17-an17-51-i7-13700h/
@@ -850,6 +852,7 @@ https://www.refurbed.de/p/dell-g2722hs-27/
 https://www.refurbed.de/p/dell-g2723h-27/
 https://www.refurbed.de/p/dell-g2723hn-27/
 https://www.refurbed.de/p/dell-g2724d-27/
+https://www.refurbed.de/p/dell-g2725d-27/
 https://www.refurbed.de/p/dell-g3-15-3500-10750h/
 https://www.refurbed.de/p/dell-g3-15-3579-i5-8300h-15-6/
 https://www.refurbed.de/p/dell-g3-15-3590-9750h-15-6/
@@ -1636,6 +1639,7 @@ https://www.refurbed.de/p/dell-precision-3560-1145g7/
 https://www.refurbed.de/p/dell-precision-3560-1185g7/
 https://www.refurbed.de/p/dell-precision-3560-i7-1165g7/
 https://www.refurbed.de/p/dell-precision-3561-i5-11500h/
+https://www.refurbed.de/p/dell-precision-3561-i7-11800h/
 https://www.refurbed.de/p/dell-precision-3561-i7-11850h/
 https://www.refurbed.de/p/dell-precision-3561-i9-11950h/
 https://www.refurbed.de/p/dell-precision-3570-1265u-15-6/
@@ -1751,6 +1755,7 @@ https://www.refurbed.de/p/dell-precision-7740-i7-9750h/
 https://www.refurbed.de/p/dell-precision-7740-i7-9850h/
 https://www.refurbed.de/p/dell-precision-7740-i9-9880h/
 https://www.refurbed.de/p/dell-precision-7740-x-e-2276m/
+https://www.refurbed.de/p/dell-precision-7740-x-e-2286m/
 https://www.refurbed.de/p/dell-precision-7750-10400h/
 https://www.refurbed.de/p/dell-precision-7750-10750h/
 https://www.refurbed.de/p/dell-precision-7750-10850h/
@@ -2749,6 +2754,7 @@ https://www.refurbed.de/p/hp-elitebook-640-g10-1335u-14/
 https://www.refurbed.de/p/hp-elitebook-640-g10-1345u-14/
 https://www.refurbed.de/p/hp-elitebook-640-g10-i7-1355u/
 https://www.refurbed.de/p/hp-elitebook-640-g10-i7-1365u/
+https://www.refurbed.de/p/hp-elitebook-640-g11-5-135u/
 https://www.refurbed.de/p/hp-elitebook-640-g11-7-155u/
 https://www.refurbed.de/p/hp-elitebook-640-g9-1215u-14/
 https://www.refurbed.de/p/hp-elitebook-640-g9-i5-1235u-14/
@@ -2992,6 +2998,7 @@ https://www.refurbed.de/p/hp-elitebook-x360-1030-g4-8365u/
 https://www.refurbed.de/p/hp-elitebook-x360-1030-g7-10210u/
 https://www.refurbed.de/p/hp-elitebook-x360-1030-g7-10310u/
 https://www.refurbed.de/p/hp-elitebook-x360-1030-g7-10610u/
+https://www.refurbed.de/p/hp-elitebook-x360-1030-g7-10810u/
 https://www.refurbed.de/p/hp-elitebook-x360-1030-g8-1135g7/
 https://www.refurbed.de/p/hp-elitebook-x360-1030-g8-1145g7/
 https://www.refurbed.de/p/hp-elitebook-x360-1030-g8-1165g7/
@@ -3322,6 +3329,7 @@ https://www.refurbed.de/p/hp-officejet-pro-x451dw/
 https://www.refurbed.de/p/hp-oj-6700-premium-e-all-in-one/
 https://www.refurbed.de/p/hp-oj-pro-8730-e-all-in-one/
 https://www.refurbed.de/p/hp-om-transc-14-fb0131nf-9-185h/
+https://www.refurbed.de/p/hp-omen-14-fb0004ns-ultra-7-155h/
 https://www.refurbed.de/p/hp-omen-14-fb0174ng-ultra-7-155h/
 https://www.refurbed.de/p/hp-omen-14-fb0774ng-ultra-7-155h/
 https://www.refurbed.de/p/hp-omen-15-ce083ng-i5-7300hq/
@@ -3380,10 +3388,12 @@ https://www.refurbed.de/p/hp-omen17-ck0780ng-i9-1190h/
 https://www.refurbed.de/p/hp-omen17-i7-10750h/
 https://www.refurbed.de/p/hp-omen17-i78750h/
 https://www.refurbed.de/p/hp-omen1717-ck0274ng-i7-11800h/
+https://www.refurbed.de/p/hp-p21b-g4-20-7/
 https://www.refurbed.de/p/hp-p22-g4/
 https://www.refurbed.de/p/hp-p221/
 https://www.refurbed.de/p/hp-p224-21-5/
 https://www.refurbed.de/p/hp-p22h-g5/
+https://www.refurbed.de/p/hp-p24-g4-23-8/
 https://www.refurbed.de/p/hp-p24h-g5-23-8/
 https://www.refurbed.de/p/hp-p24v-g4-23-8/
 https://www.refurbed.de/p/hp-p24v-g5-23-8/
@@ -4694,6 +4704,8 @@ https://www.refurbed.de/p/lenovo-thinkpad-t14-g3-i5-1235u/
 https://www.refurbed.de/p/lenovo-thinkpad-t14-g3-i5-1245u/
 https://www.refurbed.de/p/lenovo-thinkpad-t14-g3-i5-1250p/
 https://www.refurbed.de/p/lenovo-thinkpad-t14-g3-i7-1255u/
+https://www.refurbed.de/p/lenovo-thinkpad-t14-g3-i7-1265u/
+https://www.refurbed.de/p/lenovo-thinkpad-t14-g3-i7-1270p/
 https://www.refurbed.de/p/lenovo-thinkpad-t14-g3-ryzen-5/
 https://www.refurbed.de/p/lenovo-thinkpad-t14-g3-ryzen-7/
 https://www.refurbed.de/p/lenovo-thinkpad-t14-g4-7-7840u/
@@ -4721,6 +4733,7 @@ https://www.refurbed.de/p/lenovo-thinkpad-t14s-g3-1260p/
 https://www.refurbed.de/p/lenovo-thinkpad-t14s-g3-i5-1235u/
 https://www.refurbed.de/p/lenovo-thinkpad-t14s-g3-i5-1240p/
 https://www.refurbed.de/p/lenovo-thinkpad-t14s-g3-i7-1255u/
+https://www.refurbed.de/p/lenovo-thinkpad-t14s-g3-i7-1265u/
 https://www.refurbed.de/p/lenovo-thinkpad-t14s-g3-i7-1270p/
 https://www.refurbed.de/p/lenovo-thinkpad-t14s-g4-i5-1355u/
 https://www.refurbed.de/p/lenovo-thinkpad-t14s-g4-i7-1355u/
@@ -4738,6 +4751,7 @@ https://www.refurbed.de/p/lenovo-thinkpad-t15p-g2-1145g7/
 https://www.refurbed.de/p/lenovo-thinkpad-t15p-g2-1165g7/
 https://www.refurbed.de/p/lenovo-thinkpad-t16-g1-6650u-/
 https://www.refurbed.de/p/lenovo-thinkpad-t16-g1-i5-1235u/
+https://www.refurbed.de/p/lenovo-thinkpad-t16-g1-i5-1245u/
 https://www.refurbed.de/p/lenovo-thinkpad-t16-g1-i7-1260p/
 https://www.refurbed.de/p/lenovo-thinkpad-t16-g2-i5-1335u/
 https://www.refurbed.de/p/lenovo-thinkpad-t16-g2-i7-1355u/
@@ -4820,6 +4834,8 @@ https://www.refurbed.de/p/lenovo-thinkpad-t570-i7-6600u-15/
 https://www.refurbed.de/p/lenovo-thinkpad-t570-i7-7500/
 https://www.refurbed.de/p/lenovo-thinkpad-tablet-dock/
 https://www.refurbed.de/p/lenovo-thinkpad-tb3-dock/
+https://www.refurbed.de/p/lenovo-thinkpad-tb3-gen2-dock/
+https://www.refurbed.de/p/lenovo-thinkpad-tb3-ws-gen2-dock/
 https://www.refurbed.de/p/lenovo-thinkpad-thunderbolt-3/
 https://www.refurbed.de/p/lenovo-thinkpad-universal-dock/
 https://www.refurbed.de/p/lenovo-thinkpad-usb-c-dock-40b5/
@@ -5029,6 +5045,7 @@ https://www.refurbed.de/p/lg-24mb65pm-i-24/
 https://www.refurbed.de/p/lg-24mb65py/
 https://www.refurbed.de/p/lg-24mk430h-b/
 https://www.refurbed.de/p/lg-24mp400-b-23-8/
+https://www.refurbed.de/p/lg-24mp60g-b-23-8/
 https://www.refurbed.de/p/lg-27mb65py-b/
 https://www.refurbed.de/p/lg-27mb65py-w-27/
 https://www.refurbed.de/p/lg-27mp59g-p/
@@ -5612,6 +5629,7 @@ https://www.refurbed.de/p/panzerglass-realme/
 https://www.refurbed.de/p/panzerglass-samsung-tablet/
 https://www.refurbed.de/p/panzerglass-tab-bndl-transparent/
 https://www.refurbed.de/p/pg-privacy-screen-iphone-15/
+https://www.refurbed.de/p/pg-privacy-screen-macbook/
 https://www.refurbed.de/p/philips-voice-tracer-dvt2050/
 https://www.refurbed.de/p/realme-12-pro-plus-5g/
 https://www.refurbed.de/p/realme-5-pro/
@@ -5699,6 +5717,7 @@ https://www.refurbed.de/p/samsung-dm48e-48/
 https://www.refurbed.de/p/samsung-dm55e-55/
 https://www.refurbed.de/p/samsung-ef-dx710-bkcvr-kbrd-slim/
 https://www.refurbed.de/p/samsung-ef-dx810-bkcvr-kbrd-slim/
+https://www.refurbed.de/p/samsung-essen-monitor-s3-s31c-24/
 https://www.refurbed.de/p/samsung-essen-monitor-s3-s36c-27/
 https://www.refurbed.de/p/samsung-f37t-24/
 https://www.refurbed.de/p/samsung-flip-2-wm65r/
@@ -6242,6 +6261,7 @@ https://www.refurbed.de/p/samsung-proxpress-m3820nd-xeg/
 https://www.refurbed.de/p/samsung-proxpress-m4020nd/
 https://www.refurbed.de/p/samsung-qb65c-65/
 https://www.refurbed.de/p/samsung-qb75r/
+https://www.refurbed.de/p/samsung-qh55r-54-6/
 https://www.refurbed.de/p/samsung-qled-qe43q60c-43/
 https://www.refurbed.de/p/samsung-qled-qe50q60c-50/
 https://www.refurbed.de/p/samsung-qm43n/
@@ -6560,6 +6580,7 @@ https://www.refurbed.de/p/xiaomi-mi-box-s/
 https://www.refurbed.de/p/xiaomi-mi-cc9-pro/
 https://www.refurbed.de/p/xiaomi-mi-curved-gaming-monitor/
 https://www.refurbed.de/p/xiaomi-mi-desk-lamp-1s/
+https://www.refurbed.de/p/xiaomi-mi-desktop-monitor-27/
 https://www.refurbed.de/p/xiaomi-mi-laser-projector/
 https://www.refurbed.de/p/xiaomi-mi-max-3/
 https://www.refurbed.de/p/xiaomi-mi-mix-2/
