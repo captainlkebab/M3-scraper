@@ -7,11 +7,24 @@ from datetime import datetime
 from bs4 import BeautifulSoup
 import re
 
-# Path to the URLs file
-urls_file = Path(os.path.dirname(os.path.abspath(__file__))) / "github" / "Sitemaps" / "backmarket_urls.txt"
+# Path to the URLs file - with better path resolution
+script_dir = Path(os.path.dirname(os.path.abspath(__file__)))
+urls_file = script_dir / "Sitemaps" / "backmarket_urls.txt"
+
+# Check if file exists, if not try alternative locations
+if not urls_file.exists():
+    # Try parent directory
+    urls_file = script_dir.parent / "Sitemaps" / "backmarket_urls.txt"
+    
+    # If still not found, try another common location
+    if not urls_file.exists():
+        urls_file = script_dir / "github" / "Sitemaps" / "backmarket_urls.txt"
+
+print(f"Looking for URLs file at: {urls_file}")
+print(f"File exists: {urls_file.exists()}")
 
 # Create output directory for results
-output_dir = Path(os.path.dirname(os.path.abspath(__file__))) / "github" / "Scraped"
+output_dir = script_dir / "Scraped"
 output_dir.mkdir(parents=True, exist_ok=True)
 
 # Create a results file to store product data
@@ -19,10 +32,20 @@ results_file = output_dir / f"backmarket_products_{datetime.now().strftime('%y%m
 results = []
 
 # Read all URLs from the file
-with open(urls_file, 'r', encoding='utf-8') as f:
-    urls = [line.strip() for line in f if line.strip()]
+if urls_file.exists():
+    with open(urls_file, 'r', encoding='utf-8') as f:
+        urls = [line.strip() for line in f if line.strip()]
+    print(f"Loaded {len(urls)} URLs from {urls_file}")
+    
+    # Debug: Print the first few URLs to verify they're being loaded correctly
+    print(f"First 5 URLs:")
+    for i, url in enumerate(urls[:5]):
+        print(f"URL {i+1}: {url}")
+else:
+    print(f"ERROR: URLs file not found at {urls_file}")
+    urls = []
 
-# Initialize the browser
+# Initialize the browser only once
 with SB(uc=True, test=True, locale="en") as sb:
     # Process each URL
     for i, url in enumerate(urls):
