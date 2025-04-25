@@ -42,7 +42,7 @@ output_prices_csv = json_output_dir / f"backmarket_{date_str}_prices.csv"
 
 # === Load URLs ===
 with open(url_file_path, "r", encoding="utf-8") as f:
-    urls = [line.strip() for line in f if line.strip()][:10]
+    urls = [line.strip() for line in f if line.strip()]
 
 # === Init Output ===
 # Load existing data if file exists

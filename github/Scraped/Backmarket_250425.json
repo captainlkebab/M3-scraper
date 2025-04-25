@@ -1,0 +1,618 @@
+[
+  {
+    "url": "https://www.backmarket.de/de-de/p/ac-chromebook-314-pentium-silver-31-ghz-64gb-ssd-8gb/9853a258-586d-4115-894d-95556444bdd1",
+    "name": null,
+    "main_price": null,
+    "price_by_grade": {},
+    "category": null,
+    "brand": null,
+    "scraped_at": "2025-04-25T15:21:15.733210"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-a515-52-15-i3-8145u-21-ghz-hdd-128-gb-4gb/03b6897c-d545-4495-a809-f66e76df5697",
+    "name": "Acer Aspire A515-52 15\" Core i3 2.1 GHz - SSD 128 GB - 4GB QWERTY - Portugiesisch",
+    "main_price": "399,00 €",
+    "price_by_grade": {
+      "Sehr gut": "Ausverkauft",
+      "Hervorragend": "Ausverkauft",
+      "Gut": "399,00 €"
+    },
+    "category": "Laptops",
+    "brand": "Acer",
+    "scraped_at": "2025-04-25T15:21:35.015918"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-aspire-3-a314-23p-r1ch-14-ryzen-5-28-ghz-ssd-512-gb-16gb-azerty-franzosisch/fe948403-5269-4435-ac47-db9b3ca31708",
+    "name": "Acer Aspire 3 A314-23P-R1CH 14\" Ryzen 5 2.8 GHz - SSD 512 GB - 16GB AZERTY - Französisch",
+    "main_price": "449,00 €",
+    "price_by_grade": {
+      "Gut": "Ausverkauft",
+      "Hervorragend": "Ausverkauft",
+      "Sehr gut": "449,00 €"
+    },
+    "category": "Laptops",
+    "brand": "Acer",
+    "scraped_at": "2025-04-25T15:21:51.307726"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-aspire-3-a315-21-418f-15-a4-22-ghz-hdd-1-tb-8gb-azerty-franzosisch/49cf72f2-84d7-4204-b272-f0c9b06dae2c",
+    "name": "Acer Aspire 3 A315-21-418F 15\" A4 1.6 GHz - HDD 1 TB - 8GB AZERTY - Französisch",
+    "main_price": "434,00 €",
+    "price_by_grade": {
+      "Sehr gut": "Ausverkauft",
+      "Hervorragend": "Ausverkauft",
+      "Gut": "434,00 €"
+    },
+    "category": "Laptops",
+    "brand": "Acer",
+    "scraped_at": "2025-04-25T15:22:10.153749"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-aspire-3-a315-23-r7ag-15-ryzen-5-21-ghz-ssd-1000-gb-12gb-azerty-franzosisch/ac336f40-4d35-4847-91da-cc6722765498",
+    "name": null,
+    "main_price": null,
+    "price_by_grade": {},
+    "category": "Laptops",
+    "brand": null,
+    "scraped_at": "2025-04-25T15:22:32.874363"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-aspire-3-a315-23-r8rq-156-azerty-francais-15-ryzen-5-3500u-210ghz-ghz-ssd-1-gb-hdd-999-gb-8192gb/dcc83e9d-61fe-4809-b660-a089fe5d8edb",
+    "name": null,
+    "main_price": null,
+    "price_by_grade": {},
+    "category": "Laptops",
+    "brand": null,
+    "scraped_at": "2025-04-25T15:22:50.420621"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-aspire-3-a315-44p-r8vj-15-ryzen-7-18-ghz-ssd-512-gb-16gb-azerty-franzosisch/17ae25c4-5511-4935-a762-3ca905bf2981",
+    "name": null,
+    "main_price": null,
+    "price_by_grade": {},
+    "category": "Laptops",
+    "brand": null,
+    "scraped_at": "2025-04-25T15:23:09.983011"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-aspire-3-a315-51-15-core-i3-23-ghz-ssd-128-gb-4gb-azerty-franzosisch/148f15c1-a930-4813-9e9c-3d0f49f4dfd4",
+    "name": "Acer Aspire 3 A315-51 15\" Core i3 2.3 GHz - SSD 128 GB + HDD 1 TB - 4GB AZERTY - Französisch",
+    "main_price": "449,00 €",
+    "price_by_grade": {
+      "Gut": "Ausverkauft",
+      "Hervorragend": "Ausverkauft",
+      "Sehr gut": "449,00 €"
+    },
+    "category": "Laptops",
+    "brand": "Acer",
+    "scraped_at": "2025-04-25T15:23:33.078235"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-aspire-3-a315-56-15-core-i3-12-ghz-ssd-1000-gb-12gb-azerty-franzosisch/259a8e7b-9726-4fa3-8173-15d0314d868a",
+    "name": null,
+    "main_price": null,
+    "price_by_grade": {},
+    "category": "Laptops",
+    "brand": null,
+    "scraped_at": "2025-04-25T15:23:50.350158"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-aspire-3-a315-58-37nx-15-core-i3-3-ghz-ssd-512-gb-8gb-azerty-franzosisch/baaa0af9-3043-4459-a0b5-6f7403951e12",
+    "name": "Acer Aspire 3 A315-58-37NX 15\" Core i3 3 GHz - SSD 512 GB - 8GB AZERTY - Französisch",
+    "main_price": "567,00 €",
+    "price_by_grade": {
+      "Gut": "Ausverkauft",
+      "Sehr gut": "Ausverkauft",
+      "Hervorragend": "567,00 €"
+    },
+    "category": "Laptops",
+    "brand": "Acer",
+    "scraped_at": "2025-04-25T15:24:06.517068"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-aspire-3-n20c5-15-core-i3-3-ghz-ssd-256-gb-8gb-azerty-franzosisch/ecc3fa03-def0-45ab-adfa-5e3e409585d4",
+    "name": "Acer Aspire 3 N20C5 15\" Core i3 3 GHz - SSD 256 GB - 8GB AZERTY - Französisch",
+    "main_price": "449,00 €",
+    "price_by_grade": {
+      "Sehr gut": "Ausverkauft",
+      "Hervorragend": "Ausverkauft",
+      "Gut": "449,00 €"
+    },
+    "category": "Laptops",
+    "brand": "Acer",
+    "scraped_at": "2025-04-25T15:24:23.912176"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-aspire-3-n20c6-17-core-i3-3-ghz-ssd-512-gb-8gb-azerty-franzosisch/0ca1ce77-078e-4fc0-a8b4-d5f66d715454",
+    "name": "Acer Aspire 3 N20C6 17\" Core i3 3 GHz - SSD 512 GB - 8GB AZERTY - Französisch",
+    "main_price": "470,00 €",
+    "price_by_grade": {
+      "Sehr gut": "Ausverkauft",
+      "Hervorragend": "Ausverkauft",
+      "Gut": "470,00 €"
+    },
+    "category": "Laptops",
+    "brand": "Acer",
+    "scraped_at": "2025-04-25T15:24:43.461198"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-aspire-5-14-core-i7-37-ghz-ssd-512-gb-16gb-qwerty-niederlandisch/6663d6b3-f130-4aee-ac1a-c63d1c80b401",
+    "name": null,
+    "main_price": null,
+    "price_by_grade": {},
+    "category": "Laptops",
+    "brand": null,
+    "scraped_at": "2025-04-25T15:25:03.843951"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-aspire-5-a514-54-59ff-14-core-i5-24-ghz-ssd-256-gb-8gb-qwerty-skandinavisch/c81acd29-4d96-4a1c-866b-a7a8e6353aee",
+    "name": null,
+    "main_price": null,
+    "price_by_grade": {},
+    "category": "Laptops",
+    "brand": null,
+    "scraped_at": "2025-04-25T15:25:22.566041"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-aspire-5-a515-55-7735-15-core-i7-13-ghz-ssd-256-gb-hdd-1-tb-16gb-azerty-franzosisch/81b0973e-7b26-4960-9ddf-b9278c6fd490",
+    "name": "Acer Aspire 5 A515-55-7735 15\" Core i7 1.3 GHz - SSD 256 GB + HDD 1 TB - 16GB AZERTY - Französisch",
+    "main_price": "649,00 €",
+    "price_by_grade": {
+      "Sehr gut": "Ausverkauft",
+      "Hervorragend": "Ausverkauft",
+      "Gut": "649,00 €"
+    },
+    "category": "Laptops",
+    "brand": "Acer",
+    "scraped_at": "2025-04-25T15:25:45.429833"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-aspire-5-a515-56-32r1-15-core-i3-3-ghz-ssd-256-gb-8gb-qwerty-skandinavisch/24ba40bf-dc9a-4a57-a77c-84d27b79ab56",
+    "name": "Acer Aspire 5 A515-56-32R1 15\" Core i3 3 GHz - SSD 256 GB - 8GB QWERTY - Skandinavisch",
+    "main_price": "666,00 €",
+    "price_by_grade": {
+      "Gut": "Ausverkauft",
+      "Sehr gut": "Ausverkauft",
+      "Hervorragend": "666,00 €"
+    },
+    "category": "Laptops",
+    "brand": "Acer",
+    "scraped_at": "2025-04-25T15:26:04.539700"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-aspire-a314-22-14-ryzen-3-26-ghz-ssd-256-gb-8gb-qwerty-spanisch/73174ec3-23fb-41fa-9015-7774ec7675d0",
+    "name": "Acer Aspire A314-22 14\" Ryzen 3 2.6 GHz - SSD 256 GB - 8GB QWERTY - Spanisch",
+    "main_price": "425,00 €",
+    "price_by_grade": {
+      "Gut": "Ausverkauft",
+      "Hervorragend": "Ausverkauft",
+      "Sehr gut": "425,00 €"
+    },
+    "category": "Laptops",
+    "brand": "Acer",
+    "scraped_at": "2025-04-25T15:26:25.240500"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-aspire-a315-34-p938-15-pentium-silver-11-ghz-ssd-128-gb-hdd-1-tb-8gb-azerty-franzosisch/677af866-c1ad-4ed9-9205-5760d06c6467",
+    "name": "Acer Aspire A315-34-P938 15\" Pentium 1.1 GHz - SSD 128 GB + HDD 1 TB - 8GB AZERTY - Französisch",
+    "main_price": "270,00 €",
+    "price_by_grade": {
+      "Sehr gut": "Ausverkauft",
+      "Hervorragend": "Ausverkauft",
+      "Gut": "270,00 €"
+    },
+    "category": "Laptops",
+    "brand": "Acer",
+    "scraped_at": "2025-04-25T15:26:43.788668"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-aspire-a315-51-39x3-15-core-i3-2-ghz-hdd-500-gb-4gb-azerty-franzosisch/23881239-6ec9-48ff-be9a-a140ccd47320",
+    "name": "Acer Aspire A315-51-39X3 15\" Core i3 2 GHz - HDD 500 GB - 4GB AZERTY - Französisch",
+    "main_price": "440,00 €",
+    "price_by_grade": {
+      "Sehr gut": "Ausverkauft",
+      "Hervorragend": "Ausverkauft",
+      "Gut": "440,00 €"
+    },
+    "category": "Laptops",
+    "brand": "Acer",
+    "scraped_at": "2025-04-25T15:27:03.036034"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-aspire-a515-55-15-2-ghz-ssd-240-gb-12gb-qwerty-englisch/92dc0994-aa8e-494d-a132-0697ae68f1eb",
+    "name": null,
+    "main_price": null,
+    "price_by_grade": {},
+    "category": "Laptops",
+    "brand": null,
+    "scraped_at": "2025-04-25T15:27:21.327273"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-aspire-e5-475-38xl-14-core-i3-2-ghz-ssd-128-gb-hdd-1-tb-4gb-azerty-franzosisch/5bd3a115-a86a-4819-83b7-176609d96ba0",
+    "name": "Acer Aspire E5-475-38XL 14\" Core i3 2 GHz - SSD 128 GB + HDD 1 TB - 4GB AZERTY - Französisch",
+    "main_price": "220,00 €",
+    "price_by_grade": {
+      "Sehr gut": "Ausverkauft",
+      "Hervorragend": "Ausverkauft",
+      "Gut": "220,00 €"
+    },
+    "category": "Laptops",
+    "brand": "Acer",
+    "scraped_at": "2025-04-25T15:27:44.385062"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-aspire-e5-573-15-pentium-17-ghz-hdd-1-tb-6gb-azerty-franzosisch/a564fe13-4016-43f8-9a37-94fd50c95e8b",
+    "name": "Acer Aspire E5-573 15\" Pentium 1.7 GHz - HDD 1 TB - 6GB AZERTY - Französisch",
+    "main_price": "299,00 €",
+    "price_by_grade": {
+      "Sehr gut": "Ausverkauft",
+      "Hervorragend": "Ausverkauft",
+      "Gut": "299,00 €"
+    },
+    "category": "Laptops",
+    "brand": "Acer",
+    "scraped_at": "2025-04-25T15:28:04.643695"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-aspire-vn7-592g-57nq-15-core-i5-23-ghz-ssd-512-gb-hdd-1-tb-8gb-azerty-franzosisch/4460ff41-5c74-4dcc-8925-93927735a1c0",
+    "name": "Acer Aspire VN7-592G-57NQ 15\" Core i5 2.3 GHz - SSD 512 GB + HDD 1 TB - 8GB AZERTY - Französisch",
+    "main_price": "319,00 €",
+    "price_by_grade": {
+      "Sehr gut": "Ausverkauft",
+      "Hervorragend": "Ausverkauft",
+      "Gut": "319,00 €"
+    },
+    "category": "Laptops",
+    "brand": "Acer",
+    "scraped_at": "2025-04-25T15:28:25.033270"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-aspire-xc-330-006-a6-16-ghz-ssd-128-gb-hdd-2-tb-ram-8-gb/6b2ed169-9392-40cd-833f-3dfc06a18681",
+    "name": null,
+    "main_price": null,
+    "price_by_grade": {},
+    "category": "Mehr",
+    "brand": null,
+    "scraped_at": "2025-04-25T15:28:41.282151"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-aspire-xc-840-celeron-2-ghz-ssd-256-gb-ram-8-gb/829efe8e-e79d-41e4-9bdf-646df2a08c89",
+    "name": null,
+    "main_price": null,
+    "price_by_grade": {},
+    "category": "Mehr",
+    "brand": null,
+    "scraped_at": "2025-04-25T15:28:57.851642"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-cb314-2h-k1jz-silber-ohne-vertrag/bbaec077-2796-4c25-8e22-fe2e5968d2da",
+    "name": null,
+    "main_price": null,
+    "price_by_grade": {},
+    "category": null,
+    "brand": null,
+    "scraped_at": "2025-04-25T15:29:15.667580"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-chromebook-cb314-1h-p9x6-pentium-11-ghz-64gb-emmc-8gb-azerty-franzosisch/04c26e0b-4080-49eb-aa3a-7c8e2d35b9e0",
+    "name": "Acer ChromeBook CB314-1H-P9X6 Pentium Silver 1.1 GHz 64GB eMMC - 8GB AZERTY - Französisch",
+    "main_price": "199,00 €",
+    "price_by_grade": {
+      "Gut": "Ausverkauft",
+      "Hervorragend": "Ausverkauft",
+      "Sehr gut": "199,00 €"
+    },
+    "category": null,
+    "brand": "Acer",
+    "scraped_at": "2025-04-25T15:29:34.015757"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-chromebook-cb315-3ht-c6kp-celeron-11-ghz-64gb-ssd-4gb-azerty-franzosisch/b38af635-82bc-4696-b41c-dc095d8d146b",
+    "name": null,
+    "main_price": null,
+    "price_by_grade": {},
+    "category": null,
+    "brand": null,
+    "scraped_at": "2025-04-25T15:29:53.716385"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-chromebook-cp311-3h-k4d9-mt-2-ghz-32gb-emmc-4gb-azerty-franzosisch/c118f206-ed96-417b-a177-11e1c1fe103f",
+    "name": "Acer Chromebook CP311-3H-K4D9 MediaTek 2 GHz 32GB eMMC - 4GB AZERTY - Französisch",
+    "main_price": "280,00 €",
+    "price_by_grade": {
+      "Gut": "Ausverkauft",
+      "Sehr gut": "Ausverkauft",
+      "Hervorragend": "280,00 €"
+    },
+    "category": null,
+    "brand": "Acer",
+    "scraped_at": "2025-04-25T15:30:17.790733"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-chromebook-r11-c738t-c44z-celeron-16-ghz-16gb-ssd-4gb/6bdd100a-cd36-4d05-8e13-e165aa7d406a",
+    "name": null,
+    "main_price": null,
+    "price_by_grade": {},
+    "category": null,
+    "brand": null,
+    "scraped_at": "2025-04-25T15:30:36.430801"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-chromebook-spin-11-r751t-celeron-11-ghz-32gb-emmc-4gb-azerty-franzosisch/9c9a07e7-b3cd-4ecf-9289-703544288090",
+    "name": "Acer Chromebook Spin 11 R751T Celeron 1.1 GHz 32GB eMMC - 4GB AZERTY - Französisch",
+    "main_price": "132,99 €",
+    "price_by_grade": {
+      "Sehr gut": "138,99 €",
+      "Hervorragend": "Ausverkauft",
+      "Gut": "132,99 €"
+    },
+    "category": null,
+    "brand": "Acer",
+    "scraped_at": "2025-04-25T15:30:54.274509"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-chromebook-spin-11-r751t-celeron-11-ghz-32gb-emmc-4gb-qwertz-deutsch/3c8c2d9a-3295-4492-9416-07123b832ab0",
+    "name": "Acer Chromebook Spin 11 R751T Celeron 1.1 GHz 32GB eMMC - 4GB QWERTZ - Deutsch",
+    "main_price": "132,99 €",
+    "price_by_grade": {
+      "Sehr gut": "138,99 €",
+      "Hervorragend": "Ausverkauft",
+      "Gut": "132,99 €"
+    },
+    "category": null,
+    "brand": "Acer",
+    "scraped_at": "2025-04-25T15:31:14.193240"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-chromebook-spin-13-cp713-3w-50yu-13-i5-1135g7-2-ghz-ssd-256-gb-8gb-qwertz-deutsch/a54f25e8-2215-4cc6-b9eb-8e2026be01cf",
+    "name": null,
+    "main_price": null,
+    "price_by_grade": {},
+    "category": null,
+    "brand": null,
+    "scraped_at": "2025-04-25T15:31:31.740076"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-chromebook-spin-13-cp713-touch-core-i3-21-ghz-64gb-ssd-8gb-qwerty-schwedisch/1c960146-daa3-4cac-a754-a51aa153e387",
+    "name": null,
+    "main_price": null,
+    "price_by_grade": {},
+    "category": null,
+    "brand": null,
+    "scraped_at": "2025-04-25T15:31:49.256356"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-chromebook-spin-511-r752t-celeron-11-ghz-32gb-emmc-4gb-qwerty-spanisch/97853bed-5b02-433a-84c8-3d8685740029",
+    "name": "Acer ChromeBook Spin 511 R752T Celeron 1.1 GHz 32GB eMMC - 4GB QWERTY - Spanisch",
+    "main_price": "132,99 €",
+    "price_by_grade": {
+      "Sehr gut": "138,99 €",
+      "Hervorragend": "Ausverkauft",
+      "Gut": "132,99 €"
+    },
+    "category": null,
+    "brand": "Acer",
+    "scraped_at": "2025-04-25T15:32:09.039115"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-chromebook-spin-511-touch-celeron-11-ghz-32gb-ssd-4gb-azerty-franzosisch/eefe01b6-273e-4b45-8b51-26256954f9cc",
+    "name": null,
+    "main_price": null,
+    "price_by_grade": {},
+    "category": null,
+    "brand": null,
+    "scraped_at": "2025-04-25T15:32:31.540285"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-chromebook-spin-511-touch-celeron-11-ghz-32gb-ssd-4gb-qwerty-schwedisch/c5350d02-f6a2-4240-9dc8-d3eceda07392",
+    "name": null,
+    "main_price": null,
+    "price_by_grade": {},
+    "category": null,
+    "brand": null,
+    "scraped_at": "2025-04-25T15:32:49.277828"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-chromebook-spin-511-touch-celeron-11-ghz-32gb-ssd-4gb-qwerty-spanisch/889fb97d-fb57-45d8-aadf-3eb098bae729",
+    "name": null,
+    "main_price": null,
+    "price_by_grade": {},
+    "category": null,
+    "brand": null,
+    "scraped_at": "2025-04-25T15:33:05.424901"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-chromebook-spin-512-celeron-11-ghz-32gb-emmc-4gb-qwerty-spanisch/a7afbb3e-4d86-4258-ae6f-4d734c339c92",
+    "name": "Acer Chromebook Spin 512 Celeron 1.1 GHz 32GB eMMC - 4GB QWERTY - Spanisch",
+    "main_price": "113,99 €",
+    "price_by_grade": {
+      "Sehr gut": "Ausverkauft",
+      "Hervorragend": "Ausverkauft",
+      "Gut": "113,99 €"
+    },
+    "category": null,
+    "brand": "Acer",
+    "scraped_at": "2025-04-25T15:33:24.908239"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-chromebook-spin-512-pentium-silver-11-ghz-32gb-ssd-8gb-azerty-franzosisch/411b6fd0-c5ed-4ef4-9177-4bc04f4c5ed3",
+    "name": null,
+    "main_price": null,
+    "price_by_grade": {},
+    "category": null,
+    "brand": null,
+    "scraped_at": "2025-04-25T15:33:42.376010"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-chromebook-spin-512-pentium-silver-11-ghz-64gb-ssd-8gb-qwerty-englisch/705eca1a-6d97-4726-ab2b-01a7f7ca718b",
+    "name": "Acer Chromebook Spin 512 Pentium Silver 1.1 GHz 64GB SSD - 8GB QWERTY - Englisch",
+    "main_price": "189,00 €",
+    "price_by_grade": {
+      "Gut": "Ausverkauft",
+      "Hervorragend": "Ausverkauft",
+      "Sehr gut": "189,00 €"
+    },
+    "category": null,
+    "brand": "Acer",
+    "scraped_at": "2025-04-25T15:34:00.113102"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-chromebook-spin-512-touch-celeron-11-ghz-32gb-ssd-8gb-qwerty-schwedisch/cf2c7d7d-5368-4dbd-a635-823f553964fc",
+    "name": null,
+    "main_price": null,
+    "price_by_grade": {},
+    "category": null,
+    "brand": null,
+    "scraped_at": "2025-04-25T15:34:19.377917"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-chromebook-spin-514-touch-ryzen-3-26-ghz-128gb-ssd-8gb-qwerty-schwedisch/5d337633-6b8b-40ce-bfda-f8ca1a8bf5cf",
+    "name": null,
+    "main_price": null,
+    "price_by_grade": {},
+    "category": null,
+    "brand": null,
+    "scraped_at": "2025-04-25T15:34:36.095168"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-chromebook-spin-713-cp713-2w-79ks-core-i7-18-ghz-128gb-ssd-16gb-qwerty-englisch/9ae8e7d0-6af3-4fad-a999-692fb9d01a8c",
+    "name": null,
+    "main_price": null,
+    "price_by_grade": {},
+    "category": null,
+    "brand": null,
+    "scraped_at": "2025-04-25T15:34:55.968670"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-chromebook-spin-r751tn-celeron-11-ghz-32gb-emmc-4gb-qwerty-schwedisch/6dc2095f-4ddd-4421-bc17-c93bd8f9cf55",
+    "name": "Acer ChromeBook Spin R751TN Celeron 1.1 GHz 32GB eMMC - 4GB QWERTY - Schwedisch",
+    "main_price": "132,99 €",
+    "price_by_grade": {
+      "Sehr gut": "138,99 €",
+      "Hervorragend": "Ausverkauft",
+      "Gut": "132,99 €"
+    },
+    "category": null,
+    "brand": "Acer",
+    "scraped_at": "2025-04-25T15:35:14.220382"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-chromebook-vero-514-cbv514-1h-14-2-ghz-ssd-256-gb-16gb-qwertz-deutsch/62eff22b-5889-4b85-b14f-46bfd81f9e42",
+    "name": null,
+    "main_price": null,
+    "price_by_grade": {},
+    "category": null,
+    "brand": null,
+    "scraped_at": "2025-04-25T15:35:31.987537"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-d20q1-dtz1seg009-core-i5-16-ghz-ssd-256-gb-ram-16-gb/5ec7b9a3-b48a-4d57-87f3-ceda1946ac68",
+    "name": null,
+    "main_price": null,
+    "price_by_grade": {},
+    "category": "Mehr",
+    "brand": null,
+    "scraped_at": "2025-04-25T15:35:49.783035"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-extensa-ex2511-32as-15-core-i3-2-ghz-hdd-500-gb-4gb/747ac5da-a1fe-44b2-8064-dfbc38464aaa",
+    "name": "Acer Extensa EX2511-32AS 15\" Core i3 1.7 GHz - HDD 500 GB - 4GB AZERTY - Französisch",
+    "main_price": "399,00 €",
+    "price_by_grade": {
+      "Gut": "Ausverkauft",
+      "Sehr gut": "Ausverkauft",
+      "Hervorragend": "399,00 €"
+    },
+    "category": "Laptops",
+    "brand": "Acer",
+    "scraped_at": "2025-04-25T15:36:08.516152"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-h7001-vr-helm-virtuelle-realitat/b1514004-9e96-4200-86c3-5cee9e53f917",
+    "name": null,
+    "main_price": null,
+    "price_by_grade": {},
+    "category": "Spielekonsolen",
+    "brand": null,
+    "scraped_at": "2025-04-25T15:36:27.259788"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-nitro-16-16-ryzen-9-4-ghz-ssd-1000-gb-16gb-nvidia-geforce-rtx-4060-8gb-qwerty-italienisch/4f79637a-5f47-4060-9ae9-6afac9a4b7e7",
+    "name": "Acer Nitro 16 16\" Ryzen 9 4 GHz - SSD 1000 GB - 16GB - NVIDIA GeForce RTX 4060 8GB QWERTY - Italienisch",
+    "main_price": "2.218,00 €",
+    "price_by_grade": {
+      "Gut": "Ausverkauft",
+      "Sehr gut": "Ausverkauft",
+      "Hervorragend": "2.218,00 €"
+    },
+    "category": "Laptops",
+    "brand": "Acer",
+    "scraped_at": "2025-04-25T15:36:43.694024"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-nitro-5-an515-45-15-ryzen-5-33-ghz-ssd-512-gb-hdd-2-tb-16gb-nvidia-geforce-rtx-3060-qwerty-spanisch/d1e64a19-6f7f-4f24-9806-156fa7ab353a",
+    "name": null,
+    "main_price": null,
+    "price_by_grade": {},
+    "category": "Laptops",
+    "brand": null,
+    "scraped_at": "2025-04-25T15:37:00.885060"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-nitro-5-an515-55-540l-15-core-i5-25-ghz-ssd-512-gb-8gb-nvidia-geforce-rtx-3050-azerty-franzosisch/942f67a0-bdf0-4670-9380-7d1da865ee0d",
+    "name": null,
+    "main_price": null,
+    "price_by_grade": {},
+    "category": "Laptops",
+    "brand": null,
+    "scraped_at": "2025-04-25T15:37:17.368212"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-nitro-5-an515-55-57wu-15-core-i5-25-ghz-ssd-1-tb-16gb-nvidia-geforce-rtx-3060-azerty-franzosisch/b6603295-6462-48c3-9d7a-2c9e0e1aad32",
+    "name": "Acer Nitro 5 AN515-55-57WU 15\" Core i5 2.5 GHz - SSD 512 GB - 16GB - NVIDIA GeForce RTX 3060 AZERTY - Französisch",
+    "main_price": "1.090,80 €",
+    "price_by_grade": {
+      "Sehr gut": "Ausverkauft",
+      "Hervorragend": "Ausverkauft",
+      "Gut": "1.090,80 €"
+    },
+    "category": "Laptops",
+    "brand": "Acer",
+    "scraped_at": "2025-04-25T15:37:35.934266"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-nitro-5-an515-57-5194-processeur-intel-core-i5-11400h-22-ghz-ssd-512-gb-16-gb-nvidia-geforce-rtx-3050/7bb34982-36c0-4cd6-afe9-847b34157069",
+    "name": "Acer Nitro 5 AN515-57-5194 15\" Core i5 2.7 GHz - SSD 512 GB - 16GB - NVIDIA GeForce RTX 3050 AZERTY - Französisch",
+    "main_price": "972,00 €",
+    "price_by_grade": {
+      "Gut": "Ausverkauft",
+      "Sehr gut": "Ausverkauft",
+      "Hervorragend": "972,00 €"
+    },
+    "category": "Laptops",
+    "brand": "Acer",
+    "scraped_at": "2025-04-25T15:37:55.602477"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-nitro-5-an515-57-51k6-15-core-i5-27-ghz-ssd-512-gb-16gb-nvidia-geforce-rtx-3060/7c856e46-8ae6-4d00-9c13-b65ec8070e09",
+    "name": null,
+    "main_price": null,
+    "price_by_grade": {},
+    "category": "Laptops",
+    "brand": null,
+    "scraped_at": "2025-04-25T15:38:18.562752"
+  },
+  {
+    "url": "https://www.backmarket.de/de-de/p/acer-nitro-5-an515-58-7290-15-49-ghz-512-gb-ssd-16gb-rtx-4060-azerty-franzosisch/89c6b413-2029-4311-a5db-9bc0887b2a48",
+    "name": "Acer Nitro 5 AN515-58-7290 15\" Core i7 4.9 GHz - SSD 512 GB - 16GB - NVIDIA GeForce RTX 4060 AZERTY - Französisch",
+    "main_price": "1.199,00 €",
+    "price_by_grade": {
+      "Sehr gut": "Ausverkauft",
+      "Hervorragend": "Ausverkauft",
+      "Gut": "1.199,00 €"
+    },
+    "category": "Laptops",
+    "brand": "Acer",
+    "scraped_at": "2025-04-25T15:38:37.508480"
+  }
+]

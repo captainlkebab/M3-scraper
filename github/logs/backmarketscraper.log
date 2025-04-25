@@ -1,0 +1,1248 @@
+2025-04-25 11:30:31,339 - INFO - [1] Visiting: https://www.backmarket.de/de-de/p/ac-chromebook-314-pentium-silver-31-ghz-64gb-ssd-8gb/9853a258-586d-4115-894d-95556444bdd1
+2025-04-25 11:30:46,668 - INFO - [1] Extracted: None - None
+2025-04-25 11:30:46,668 - INFO - [2] Visiting: https://www.backmarket.de/de-de/p/acer-a515-52-15-i3-8145u-21-ghz-hdd-128-gb-4gb/03b6897c-d545-4495-a809-f66e76df5697
+2025-04-25 11:31:04,383 - INFO - [2] Extracted: Acer Aspire A515-52 15" Core i3 2.1 GHz - SSD 128 GB - 4GB QWERTY - Portugiesisch - 399,00 €
+2025-04-25 11:31:04,388 - INFO - [3] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a314-23p-r1ch-14-ryzen-5-28-ghz-ssd-512-gb-16gb-azerty-franzosisch/fe948403-5269-4435-ac47-db9b3ca31708
+2025-04-25 11:31:23,406 - INFO - [3] Extracted: Acer Aspire 3 A314-23P-R1CH 14" Ryzen 5 2.8 GHz - SSD 512 GB - 16GB AZERTY - Französisch - 449,00 €
+2025-04-25 11:31:23,446 - INFO - [4] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-21-418f-15-a4-22-ghz-hdd-1-tb-8gb-azerty-franzosisch/49cf72f2-84d7-4204-b272-f0c9b06dae2c
+2025-04-25 11:31:45,184 - INFO - [4] Extracted: Acer Aspire 3 A315-21-418F 15" A4 1.6 GHz - HDD 1 TB - 8GB AZERTY - Französisch - 434,00 €
+2025-04-25 11:31:45,184 - INFO - [5] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-23-r7ag-15-ryzen-5-21-ghz-ssd-1000-gb-12gb-azerty-franzosisch/ac336f40-4d35-4847-91da-cc6722765498
+2025-04-25 11:32:01,141 - INFO - [5] Extracted: None - None
+2025-04-25 11:32:01,141 - INFO - [6] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-23-r8rq-156-azerty-francais-15-ryzen-5-3500u-210ghz-ghz-ssd-1-gb-hdd-999-gb-8192gb/dcc83e9d-61fe-4809-b660-a089fe5d8edb
+2025-04-25 11:32:17,666 - INFO - [6] Extracted: None - None
+2025-04-25 11:32:17,666 - INFO - [7] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-44p-r8vj-15-ryzen-7-18-ghz-ssd-512-gb-16gb-azerty-franzosisch/17ae25c4-5511-4935-a762-3ca905bf2981
+2025-04-25 11:32:34,723 - INFO - [7] Extracted: None - None
+2025-04-25 11:32:34,791 - INFO - [8] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-51-15-core-i3-23-ghz-ssd-128-gb-4gb-azerty-franzosisch/148f15c1-a930-4813-9e9c-3d0f49f4dfd4
+2025-04-25 11:32:56,003 - INFO - [8] Extracted: Acer Aspire 3 A315-51 15" Core i3 2.3 GHz - SSD 128 GB + HDD 1 TB - 4GB AZERTY - Französisch - 449,00 €
+2025-04-25 11:32:56,003 - INFO - [9] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-56-15-core-i3-12-ghz-ssd-1000-gb-12gb-azerty-franzosisch/259a8e7b-9726-4fa3-8173-15d0314d868a
+2025-04-25 11:33:15,919 - INFO - [9] Extracted: None - None
+2025-04-25 11:33:15,958 - INFO - [10] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-58-37nx-15-core-i3-3-ghz-ssd-512-gb-8gb-azerty-franzosisch/baaa0af9-3043-4459-a0b5-6f7403951e12
+2025-04-25 11:33:33,671 - INFO - [10] Extracted: Acer Aspire 3 A315-58-37NX 15" Core i3 3 GHz - SSD 512 GB - 8GB AZERTY - Französisch - 567,00 €
+2025-04-25 11:33:33,671 - INFO - [11] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-n20c5-15-core-i3-3-ghz-ssd-256-gb-8gb-azerty-franzosisch/ecc3fa03-def0-45ab-adfa-5e3e409585d4
+2025-04-25 11:33:53,984 - INFO - [11] Extracted: Acer Aspire 3 N20C5 15" Core i3 3 GHz - SSD 256 GB - 8GB AZERTY - Französisch - 449,00 €
+2025-04-25 11:33:53,984 - INFO - [12] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-n20c6-17-core-i3-3-ghz-ssd-512-gb-8gb-azerty-franzosisch/0ca1ce77-078e-4fc0-a8b4-d5f66d715454
+2025-04-25 11:34:11,316 - INFO - [12] Extracted: Acer Aspire 3 N20C6 17" Core i3 3 GHz - SSD 512 GB - 8GB AZERTY - Französisch - 470,00 €
+2025-04-25 11:34:11,316 - INFO - [13] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-5-14-core-i7-37-ghz-ssd-512-gb-16gb-qwerty-niederlandisch/6663d6b3-f130-4aee-ac1a-c63d1c80b401
+2025-04-25 11:34:29,818 - INFO - [13] Extracted: None - None
+2025-04-25 11:34:29,820 - INFO - [14] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-5-a514-54-59ff-14-core-i5-24-ghz-ssd-256-gb-8gb-qwerty-skandinavisch/c81acd29-4d96-4a1c-866b-a7a8e6353aee
+2025-04-25 11:34:47,649 - INFO - [14] Extracted: None - None
+2025-04-25 11:34:47,649 - INFO - [15] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-5-a515-55-7735-15-core-i7-13-ghz-ssd-256-gb-hdd-1-tb-16gb-azerty-franzosisch/81b0973e-7b26-4960-9ddf-b9278c6fd490
+2025-04-25 11:35:05,387 - INFO - [15] Extracted: Acer Aspire 5 A515-55-7735 15" Core i7 1.3 GHz - SSD 256 GB + HDD 1 TB - 16GB AZERTY - Französisch - 649,00 €
+2025-04-25 11:35:05,387 - INFO - [16] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-5-a515-56-32r1-15-core-i3-3-ghz-ssd-256-gb-8gb-qwerty-skandinavisch/24ba40bf-dc9a-4a57-a77c-84d27b79ab56
+2025-04-25 11:35:24,084 - INFO - [16] Extracted: Acer Aspire 5 A515-56-32R1 15" Core i3 3 GHz - SSD 256 GB - 8GB QWERTY - Skandinavisch - 666,00 €
+2025-04-25 11:35:24,084 - INFO - [17] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-a314-22-14-ryzen-3-26-ghz-ssd-256-gb-8gb-qwerty-spanisch/73174ec3-23fb-41fa-9015-7774ec7675d0
+2025-04-25 11:35:42,122 - INFO - [17] Extracted: Acer Aspire A314-22 14" Ryzen 3 2.6 GHz - SSD 256 GB - 8GB QWERTY - Spanisch - 425,00 €
+2025-04-25 11:35:42,122 - INFO - [18] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-a315-34-p938-15-pentium-silver-11-ghz-ssd-128-gb-hdd-1-tb-8gb-azerty-franzosisch/677af866-c1ad-4ed9-9205-5760d06c6467
+2025-04-25 11:36:01,194 - INFO - [18] Extracted: Acer Aspire A315-34-P938 15" Pentium 1.1 GHz - SSD 128 GB + HDD 1 TB - 8GB AZERTY - Französisch - 270,00 €
+2025-04-25 11:36:01,195 - INFO - [19] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-a315-51-39x3-15-core-i3-2-ghz-hdd-500-gb-4gb-azerty-franzosisch/23881239-6ec9-48ff-be9a-a140ccd47320
+2025-04-25 11:36:21,268 - INFO - [19] Extracted: Acer Aspire A315-51-39X3 15" Core i3 2 GHz - HDD 500 GB - 4GB AZERTY - Französisch - 440,00 €
+2025-04-25 11:36:21,268 - INFO - [20] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-a515-55-15-2-ghz-ssd-240-gb-12gb-qwerty-englisch/92dc0994-aa8e-494d-a132-0697ae68f1eb
+2025-04-25 11:36:40,866 - INFO - [20] Extracted: None - None
+2025-04-25 11:36:40,866 - INFO - [21] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-e5-475-38xl-14-core-i3-2-ghz-ssd-128-gb-hdd-1-tb-4gb-azerty-franzosisch/5bd3a115-a86a-4819-83b7-176609d96ba0
+2025-04-25 11:36:58,046 - INFO - [21] Extracted: Acer Aspire E5-475-38XL 14" Core i3 2 GHz - SSD 128 GB + HDD 1 TB - 4GB AZERTY - Französisch - 220,00 €
+2025-04-25 11:36:58,047 - INFO - [22] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-e5-573-15-pentium-17-ghz-hdd-1-tb-6gb-azerty-franzosisch/a564fe13-4016-43f8-9a37-94fd50c95e8b
+2025-04-25 11:37:15,847 - INFO - [22] Extracted: Acer Aspire E5-573 15" Pentium 1.7 GHz - HDD 1 TB - 6GB AZERTY - Französisch - 299,00 €
+2025-04-25 11:37:15,852 - INFO - [23] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-vn7-592g-57nq-15-core-i5-23-ghz-ssd-512-gb-hdd-1-tb-8gb-azerty-franzosisch/4460ff41-5c74-4dcc-8925-93927735a1c0
+2025-04-25 11:37:33,399 - INFO - [23] Extracted: Acer Aspire VN7-592G-57NQ 15" Core i5 2.3 GHz - SSD 512 GB + HDD 1 TB - 8GB AZERTY - Französisch - 319,00 €
+2025-04-25 11:37:33,399 - INFO - [24] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-xc-330-006-a6-16-ghz-ssd-128-gb-hdd-2-tb-ram-8-gb/6b2ed169-9392-40cd-833f-3dfc06a18681
+2025-04-25 11:37:52,455 - INFO - [24] Extracted: None - None
+2025-04-25 11:37:52,455 - INFO - [25] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-xc-840-celeron-2-ghz-ssd-256-gb-ram-8-gb/829efe8e-e79d-41e4-9bdf-646df2a08c89
+2025-04-25 11:38:09,541 - INFO - [25] Extracted: None - None
+2025-04-25 11:38:09,541 - INFO - [26] Visiting: https://www.backmarket.de/de-de/p/acer-cb314-2h-k1jz-silber-ohne-vertrag/bbaec077-2796-4c25-8e22-fe2e5968d2da
+2025-04-25 11:38:26,692 - INFO - [26] Extracted: None - None
+2025-04-25 11:38:26,692 - INFO - [27] Visiting: https://www.backmarket.de/de-de/p/acer-chromebook-cb314-1h-p9x6-pentium-11-ghz-64gb-emmc-8gb-azerty-franzosisch/04c26e0b-4080-49eb-aa3a-7c8e2d35b9e0
+2025-04-25 11:38:43,969 - INFO - [27] Extracted: Acer ChromeBook CB314-1H-P9X6 Pentium Silver 1.1 GHz 64GB eMMC - 8GB AZERTY - Französisch - 199,00 €
+2025-04-25 11:38:43,970 - INFO - [28] Visiting: https://www.backmarket.de/de-de/p/acer-chromebook-cb315-3ht-c6kp-celeron-11-ghz-64gb-ssd-4gb-azerty-franzosisch/b38af635-82bc-4696-b41c-dc095d8d146b
+2025-04-25 11:39:02,573 - INFO - [28] Extracted: None - None
+2025-04-25 11:39:02,584 - INFO - [29] Visiting: https://www.backmarket.de/de-de/p/acer-chromebook-cp311-3h-k4d9-mt-2-ghz-32gb-emmc-4gb-azerty-franzosisch/c118f206-ed96-417b-a177-11e1c1fe103f
+2025-04-25 11:39:20,330 - INFO - [29] Extracted: Acer Chromebook CP311-3H-K4D9 MediaTek 2 GHz 32GB eMMC - 4GB AZERTY - Französisch - 280,00 €
+2025-04-25 11:39:20,330 - INFO - [30] Visiting: https://www.backmarket.de/de-de/p/acer-chromebook-r11-c738t-c44z-celeron-16-ghz-16gb-ssd-4gb/6bdd100a-cd36-4d05-8e13-e165aa7d406a
+2025-04-25 11:39:48,038 - INFO - [1] Visiting: https://www.backmarket.de/de-de/p/ac-chromebook-314-pentium-silver-31-ghz-64gb-ssd-8gb/9853a258-586d-4115-894d-95556444bdd1
+2025-04-25 11:40:06,788 - INFO - [1] Extracted: None - None
+2025-04-25 11:40:06,788 - INFO - Updated JSON with 1 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:40:06,788 - INFO - [2] Visiting: https://www.backmarket.de/de-de/p/acer-a515-52-15-i3-8145u-21-ghz-hdd-128-gb-4gb/03b6897c-d545-4495-a809-f66e76df5697
+2025-04-25 11:40:24,649 - INFO - [2] Extracted: Acer Aspire A515-52 15" Core i3 2.1 GHz - SSD 128 GB - 4GB QWERTY - Portugiesisch - 399,00 €
+2025-04-25 11:40:24,649 - INFO - Updated JSON with 2 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:40:24,649 - INFO - [3] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a314-23p-r1ch-14-ryzen-5-28-ghz-ssd-512-gb-16gb-azerty-franzosisch/fe948403-5269-4435-ac47-db9b3ca31708
+2025-04-25 11:40:43,416 - INFO - [3] Extracted: Acer Aspire 3 A314-23P-R1CH 14" Ryzen 5 2.8 GHz - SSD 512 GB - 16GB AZERTY - Französisch - 449,00 €
+2025-04-25 11:40:43,427 - INFO - Updated JSON with 3 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:40:43,429 - INFO - [4] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-21-418f-15-a4-22-ghz-hdd-1-tb-8gb-azerty-franzosisch/49cf72f2-84d7-4204-b272-f0c9b06dae2c
+2025-04-25 11:41:03,361 - INFO - [4] Extracted: Acer Aspire 3 A315-21-418F 15" A4 1.6 GHz - HDD 1 TB - 8GB AZERTY - Französisch - 434,00 €
+2025-04-25 11:41:03,363 - INFO - Updated JSON with 4 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:41:03,364 - INFO - [5] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-23-r7ag-15-ryzen-5-21-ghz-ssd-1000-gb-12gb-azerty-franzosisch/ac336f40-4d35-4847-91da-cc6722765498
+2025-04-25 11:41:21,578 - INFO - [5] Extracted: None - None
+2025-04-25 11:41:21,580 - INFO - Updated JSON with 5 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:41:21,581 - INFO - [6] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-23-r8rq-156-azerty-francais-15-ryzen-5-3500u-210ghz-ghz-ssd-1-gb-hdd-999-gb-8192gb/dcc83e9d-61fe-4809-b660-a089fe5d8edb
+2025-04-25 11:41:38,753 - INFO - [6] Extracted: None - None
+2025-04-25 11:41:38,753 - INFO - Updated JSON with 6 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:41:38,753 - INFO - [7] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-44p-r8vj-15-ryzen-7-18-ghz-ssd-512-gb-16gb-azerty-franzosisch/17ae25c4-5511-4935-a762-3ca905bf2981
+2025-04-25 11:41:58,065 - INFO - [7] Extracted: None - None
+2025-04-25 11:41:58,066 - INFO - Updated JSON with 7 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:41:58,066 - INFO - [8] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-51-15-core-i3-23-ghz-ssd-128-gb-4gb-azerty-franzosisch/148f15c1-a930-4813-9e9c-3d0f49f4dfd4
+2025-04-25 11:42:15,245 - INFO - [8] Extracted: Acer Aspire 3 A315-51 15" Core i3 2.3 GHz - SSD 128 GB + HDD 1 TB - 4GB AZERTY - Französisch - 449,00 €
+2025-04-25 11:42:15,247 - INFO - Updated JSON with 8 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:42:15,247 - INFO - [9] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-56-15-core-i3-12-ghz-ssd-1000-gb-12gb-azerty-franzosisch/259a8e7b-9726-4fa3-8173-15d0314d868a
+2025-04-25 11:42:33,616 - INFO - [9] Extracted: None - None
+2025-04-25 11:42:33,618 - INFO - Updated JSON with 9 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:42:33,618 - INFO - [10] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-58-37nx-15-core-i3-3-ghz-ssd-512-gb-8gb-azerty-franzosisch/baaa0af9-3043-4459-a0b5-6f7403951e12
+2025-04-25 11:42:51,947 - INFO - [10] Extracted: Acer Aspire 3 A315-58-37NX 15" Core i3 3 GHz - SSD 512 GB - 8GB AZERTY - Französisch - 567,00 €
+2025-04-25 11:42:51,949 - INFO - Updated JSON with 10 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:42:51,949 - INFO - Updated JSON with 10 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:42:51,949 - INFO - Scraping completed. Total products: 10
+2025-04-25 11:43:12,905 - INFO - Loaded 10 existing products from C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:43:17,993 - INFO - [1] Visiting: https://www.backmarket.de/de-de/p/ac-chromebook-314-pentium-silver-31-ghz-64gb-ssd-8gb/9853a258-586d-4115-894d-95556444bdd1
+2025-04-25 11:43:35,337 - INFO - [1] Extracted: None - None
+2025-04-25 11:43:35,339 - INFO - Updated JSON with 11 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:43:35,339 - INFO - [2] Visiting: https://www.backmarket.de/de-de/p/acer-a515-52-15-i3-8145u-21-ghz-hdd-128-gb-4gb/03b6897c-d545-4495-a809-f66e76df5697
+2025-04-25 11:43:51,907 - INFO - [2] Extracted: Acer Aspire A515-52 15" Core i3 2.1 GHz - SSD 128 GB - 4GB QWERTY - Portugiesisch - 399,00 €
+2025-04-25 11:43:51,908 - INFO - Updated JSON with 12 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:43:51,909 - INFO - [3] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a314-23p-r1ch-14-ryzen-5-28-ghz-ssd-512-gb-16gb-azerty-franzosisch/fe948403-5269-4435-ac47-db9b3ca31708
+2025-04-25 11:44:10,494 - INFO - [3] Extracted: Acer Aspire 3 A314-23P-R1CH 14" Ryzen 5 2.8 GHz - SSD 512 GB - 16GB AZERTY - Französisch - 449,00 €
+2025-04-25 11:44:10,497 - INFO - Updated JSON with 13 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:44:10,497 - INFO - [4] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-21-418f-15-a4-22-ghz-hdd-1-tb-8gb-azerty-franzosisch/49cf72f2-84d7-4204-b272-f0c9b06dae2c
+2025-04-25 11:44:27,583 - INFO - [4] Extracted: Acer Aspire 3 A315-21-418F 15" A4 1.6 GHz - HDD 1 TB - 8GB AZERTY - Französisch - 434,00 €
+2025-04-25 11:44:27,583 - INFO - Updated JSON with 14 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:44:27,583 - INFO - [5] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-23-r7ag-15-ryzen-5-21-ghz-ssd-1000-gb-12gb-azerty-franzosisch/ac336f40-4d35-4847-91da-cc6722765498
+2025-04-25 11:44:44,277 - INFO - [5] Extracted: None - None
+2025-04-25 11:44:44,277 - INFO - Updated JSON with 15 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:44:44,277 - INFO - [6] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-23-r8rq-156-azerty-francais-15-ryzen-5-3500u-210ghz-ghz-ssd-1-gb-hdd-999-gb-8192gb/dcc83e9d-61fe-4809-b660-a089fe5d8edb
+2025-04-25 11:45:01,027 - INFO - [6] Extracted: None - None
+2025-04-25 11:45:01,027 - INFO - Updated JSON with 16 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:45:01,027 - INFO - [7] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-44p-r8vj-15-ryzen-7-18-ghz-ssd-512-gb-16gb-azerty-franzosisch/17ae25c4-5511-4935-a762-3ca905bf2981
+2025-04-25 11:45:19,953 - INFO - [7] Extracted: None - None
+2025-04-25 11:45:19,953 - INFO - Updated JSON with 17 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:45:19,958 - INFO - [8] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-51-15-core-i3-23-ghz-ssd-128-gb-4gb-azerty-franzosisch/148f15c1-a930-4813-9e9c-3d0f49f4dfd4
+2025-04-25 11:45:38,158 - INFO - [8] Extracted: Acer Aspire 3 A315-51 15" Core i3 2.3 GHz - SSD 128 GB + HDD 1 TB - 4GB AZERTY - Französisch - 449,00 €
+2025-04-25 11:45:38,158 - INFO - Updated JSON with 18 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:45:38,158 - INFO - [9] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-56-15-core-i3-12-ghz-ssd-1000-gb-12gb-azerty-franzosisch/259a8e7b-9726-4fa3-8173-15d0314d868a
+2025-04-25 11:45:56,814 - INFO - [9] Extracted: None - None
+2025-04-25 11:45:56,817 - INFO - Updated JSON with 19 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:45:56,818 - INFO - [10] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-58-37nx-15-core-i3-3-ghz-ssd-512-gb-8gb-azerty-franzosisch/baaa0af9-3043-4459-a0b5-6f7403951e12
+2025-04-25 11:46:15,573 - INFO - [10] Extracted: Acer Aspire 3 A315-58-37NX 15" Core i3 3 GHz - SSD 512 GB - 8GB AZERTY - Französisch - 567,00 €
+2025-04-25 11:46:15,581 - INFO - Updated JSON with 20 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:46:15,582 - INFO - [11] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-n20c5-15-core-i3-3-ghz-ssd-256-gb-8gb-azerty-franzosisch/ecc3fa03-def0-45ab-adfa-5e3e409585d4
+2025-04-25 11:46:34,486 - INFO - [11] Extracted: Acer Aspire 3 N20C5 15" Core i3 3 GHz - SSD 256 GB - 8GB AZERTY - Französisch - 449,00 €
+2025-04-25 11:46:34,487 - INFO - Updated JSON with 21 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:46:34,487 - INFO - [12] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-n20c6-17-core-i3-3-ghz-ssd-512-gb-8gb-azerty-franzosisch/0ca1ce77-078e-4fc0-a8b4-d5f66d715454
+2025-04-25 11:46:52,353 - INFO - [12] Extracted: Acer Aspire 3 N20C6 17" Core i3 3 GHz - SSD 512 GB - 8GB AZERTY - Französisch - 470,00 €
+2025-04-25 11:46:52,468 - INFO - Updated JSON with 22 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:46:52,526 - INFO - [13] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-5-14-core-i7-37-ghz-ssd-512-gb-16gb-qwerty-niederlandisch/6663d6b3-f130-4aee-ac1a-c63d1c80b401
+2025-04-25 11:47:14,718 - INFO - [13] Extracted: None - None
+2025-04-25 11:47:14,719 - INFO - Updated JSON with 23 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:47:14,720 - INFO - [14] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-5-a514-54-59ff-14-core-i5-24-ghz-ssd-256-gb-8gb-qwerty-skandinavisch/c81acd29-4d96-4a1c-866b-a7a8e6353aee
+2025-04-25 11:47:34,060 - INFO - [14] Extracted: None - None
+2025-04-25 11:47:34,131 - INFO - Updated JSON with 24 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:47:34,219 - INFO - [15] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-5-a515-55-7735-15-core-i7-13-ghz-ssd-256-gb-hdd-1-tb-16gb-azerty-franzosisch/81b0973e-7b26-4960-9ddf-b9278c6fd490
+2025-04-25 11:47:53,801 - INFO - [15] Extracted: Acer Aspire 5 A515-55-7735 15" Core i7 1.3 GHz - SSD 256 GB + HDD 1 TB - 16GB AZERTY - Französisch - 649,00 €
+2025-04-25 11:47:53,803 - INFO - Updated JSON with 25 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:47:53,811 - INFO - [16] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-5-a515-56-32r1-15-core-i3-3-ghz-ssd-256-gb-8gb-qwerty-skandinavisch/24ba40bf-dc9a-4a57-a77c-84d27b79ab56
+2025-04-25 11:48:10,883 - INFO - [16] Extracted: Acer Aspire 5 A515-56-32R1 15" Core i3 3 GHz - SSD 256 GB - 8GB QWERTY - Skandinavisch - 666,00 €
+2025-04-25 11:48:10,889 - INFO - Updated JSON with 26 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:48:10,891 - INFO - [17] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-a314-22-14-ryzen-3-26-ghz-ssd-256-gb-8gb-qwerty-spanisch/73174ec3-23fb-41fa-9015-7774ec7675d0
+2025-04-25 11:48:27,924 - INFO - [17] Extracted: Acer Aspire A314-22 14" Ryzen 3 2.6 GHz - SSD 256 GB - 8GB QWERTY - Spanisch - 425,00 €
+2025-04-25 11:48:27,926 - INFO - Updated JSON with 27 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:48:27,926 - INFO - [18] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-a315-34-p938-15-pentium-silver-11-ghz-ssd-128-gb-hdd-1-tb-8gb-azerty-franzosisch/677af866-c1ad-4ed9-9205-5760d06c6467
+2025-04-25 11:48:47,260 - INFO - [18] Extracted: Acer Aspire A315-34-P938 15" Pentium 1.1 GHz - SSD 128 GB + HDD 1 TB - 8GB AZERTY - Französisch - 270,00 €
+2025-04-25 11:48:47,262 - INFO - Updated JSON with 28 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:48:47,263 - INFO - [19] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-a315-51-39x3-15-core-i3-2-ghz-hdd-500-gb-4gb-azerty-franzosisch/23881239-6ec9-48ff-be9a-a140ccd47320
+2025-04-25 11:49:06,360 - INFO - [19] Extracted: Acer Aspire A315-51-39X3 15" Core i3 2 GHz - HDD 500 GB - 4GB AZERTY - Französisch - 440,00 €
+2025-04-25 11:49:06,367 - INFO - Updated JSON with 29 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:49:06,373 - INFO - [20] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-a515-55-15-2-ghz-ssd-240-gb-12gb-qwerty-englisch/92dc0994-aa8e-494d-a132-0697ae68f1eb
+2025-04-25 11:49:25,232 - INFO - [20] Extracted: None - None
+2025-04-25 11:49:25,293 - INFO - Updated JSON with 30 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:49:25,296 - INFO - [21] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-e5-475-38xl-14-core-i3-2-ghz-ssd-128-gb-hdd-1-tb-4gb-azerty-franzosisch/5bd3a115-a86a-4819-83b7-176609d96ba0
+2025-04-25 11:49:45,038 - INFO - [21] Extracted: Acer Aspire E5-475-38XL 14" Core i3 2 GHz - SSD 128 GB + HDD 1 TB - 4GB AZERTY - Französisch - 220,00 €
+2025-04-25 11:49:45,038 - INFO - Updated JSON with 31 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:49:45,038 - INFO - [22] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-e5-573-15-pentium-17-ghz-hdd-1-tb-6gb-azerty-franzosisch/a564fe13-4016-43f8-9a37-94fd50c95e8b
+2025-04-25 11:50:03,838 - INFO - [22] Extracted: Acer Aspire E5-573 15" Pentium 1.7 GHz - HDD 1 TB - 6GB AZERTY - Französisch - 299,00 €
+2025-04-25 11:50:03,959 - INFO - Updated JSON with 32 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:50:04,222 - INFO - [23] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-vn7-592g-57nq-15-core-i5-23-ghz-ssd-512-gb-hdd-1-tb-8gb-azerty-franzosisch/4460ff41-5c74-4dcc-8925-93927735a1c0
+2025-04-25 11:50:24,852 - INFO - [23] Extracted: Acer Aspire VN7-592G-57NQ 15" Core i5 2.3 GHz - SSD 512 GB + HDD 1 TB - 8GB AZERTY - Französisch - 319,00 €
+2025-04-25 11:50:24,861 - INFO - Updated JSON with 33 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:50:24,861 - INFO - [24] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-xc-330-006-a6-16-ghz-ssd-128-gb-hdd-2-tb-ram-8-gb/6b2ed169-9392-40cd-833f-3dfc06a18681
+2025-04-25 11:50:42,536 - INFO - [24] Extracted: None - None
+2025-04-25 11:50:42,540 - INFO - Updated JSON with 34 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:50:42,540 - INFO - [25] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-xc-840-celeron-2-ghz-ssd-256-gb-ram-8-gb/829efe8e-e79d-41e4-9bdf-646df2a08c89
+2025-04-25 11:51:01,533 - INFO - [25] Extracted: None - None
+2025-04-25 11:51:01,664 - INFO - Updated JSON with 35 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:51:01,853 - INFO - [26] Visiting: https://www.backmarket.de/de-de/p/acer-cb314-2h-k1jz-silber-ohne-vertrag/bbaec077-2796-4c25-8e22-fe2e5968d2da
+2025-04-25 11:51:20,278 - INFO - [26] Extracted: None - None
+2025-04-25 11:51:20,293 - INFO - Updated JSON with 36 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:51:20,298 - INFO - [27] Visiting: https://www.backmarket.de/de-de/p/acer-chromebook-cb314-1h-p9x6-pentium-11-ghz-64gb-emmc-8gb-azerty-franzosisch/04c26e0b-4080-49eb-aa3a-7c8e2d35b9e0
+2025-04-25 11:51:38,978 - INFO - [27] Extracted: Acer ChromeBook CB314-1H-P9X6 Pentium Silver 1.1 GHz 64GB eMMC - 8GB AZERTY - Französisch - 199,00 €
+2025-04-25 11:51:38,978 - INFO - Updated JSON with 37 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:51:38,983 - INFO - [28] Visiting: https://www.backmarket.de/de-de/p/acer-chromebook-cb315-3ht-c6kp-celeron-11-ghz-64gb-ssd-4gb-azerty-franzosisch/b38af635-82bc-4696-b41c-dc095d8d146b
+2025-04-25 11:51:56,520 - INFO - [28] Extracted: None - None
+2025-04-25 11:51:56,525 - INFO - Updated JSON with 38 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:51:56,525 - INFO - [29] Visiting: https://www.backmarket.de/de-de/p/acer-chromebook-cp311-3h-k4d9-mt-2-ghz-32gb-emmc-4gb-azerty-franzosisch/c118f206-ed96-417b-a177-11e1c1fe103f
+2025-04-25 11:52:16,597 - INFO - [29] Extracted: Acer Chromebook CP311-3H-K4D9 MediaTek 2 GHz 32GB eMMC - 4GB AZERTY - Französisch - 280,00 €
+2025-04-25 11:52:16,597 - INFO - Updated JSON with 39 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:52:16,612 - INFO - [30] Visiting: https://www.backmarket.de/de-de/p/acer-chromebook-r11-c738t-c44z-celeron-16-ghz-16gb-ssd-4gb/6bdd100a-cd36-4d05-8e13-e165aa7d406a
+2025-04-25 11:52:37,125 - INFO - [30] Extracted: None - None
+2025-04-25 11:52:37,305 - INFO - Updated JSON with 40 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:52:37,413 - INFO - [31] Visiting: https://www.backmarket.de/de-de/p/acer-chromebook-spin-11-r751t-celeron-11-ghz-32gb-emmc-4gb-azerty-franzosisch/9c9a07e7-b3cd-4ecf-9289-703544288090
+2025-04-25 11:52:59,328 - INFO - [31] Extracted: Acer Chromebook Spin 11 R751T Celeron 1.1 GHz 32GB eMMC - 4GB AZERTY - Französisch - 132,99 €
+2025-04-25 11:52:59,428 - INFO - Updated JSON with 41 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:52:59,441 - INFO - [32] Visiting: https://www.backmarket.de/de-de/p/acer-chromebook-spin-11-r751t-celeron-11-ghz-32gb-emmc-4gb-qwertz-deutsch/3c8c2d9a-3295-4492-9416-07123b832ab0
+2025-04-25 11:53:16,764 - INFO - [32] Extracted: Acer Chromebook Spin 11 R751T Celeron 1.1 GHz 32GB eMMC - 4GB QWERTZ - Deutsch - 132,99 €
+2025-04-25 11:53:16,883 - INFO - Updated JSON with 42 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:53:17,054 - INFO - [33] Visiting: https://www.backmarket.de/de-de/p/acer-chromebook-spin-13-cp713-3w-50yu-13-i5-1135g7-2-ghz-ssd-256-gb-8gb-qwertz-deutsch/a54f25e8-2215-4cc6-b9eb-8e2026be01cf
+2025-04-25 11:53:35,271 - INFO - [33] Extracted: None - None
+2025-04-25 11:53:35,317 - INFO - Updated JSON with 43 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:53:35,344 - INFO - [34] Visiting: https://www.backmarket.de/de-de/p/acer-chromebook-spin-13-cp713-touch-core-i3-21-ghz-64gb-ssd-8gb-qwerty-schwedisch/1c960146-daa3-4cac-a754-a51aa153e387
+2025-04-25 11:53:55,150 - INFO - [34] Extracted: None - None
+2025-04-25 11:53:55,154 - INFO - Updated JSON with 44 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:53:55,154 - INFO - [35] Visiting: https://www.backmarket.de/de-de/p/acer-chromebook-spin-511-r752t-celeron-11-ghz-32gb-emmc-4gb-qwerty-spanisch/97853bed-5b02-433a-84c8-3d8685740029
+2025-04-25 11:54:12,726 - INFO - [35] Extracted: Acer ChromeBook Spin 511 R752T Celeron 1.1 GHz 32GB eMMC - 4GB QWERTY - Spanisch - 132,99 €
+2025-04-25 11:54:12,729 - INFO - Updated JSON with 45 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:54:12,729 - INFO - [36] Visiting: https://www.backmarket.de/de-de/p/acer-chromebook-spin-511-touch-celeron-11-ghz-32gb-ssd-4gb-azerty-franzosisch/eefe01b6-273e-4b45-8b51-26256954f9cc
+2025-04-25 11:54:30,356 - INFO - [36] Extracted: None - None
+2025-04-25 11:54:30,356 - INFO - Updated JSON with 46 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:54:30,356 - INFO - [37] Visiting: https://www.backmarket.de/de-de/p/acer-chromebook-spin-511-touch-celeron-11-ghz-32gb-ssd-4gb-qwerty-schwedisch/c5350d02-f6a2-4240-9dc8-d3eceda07392
+2025-04-25 11:54:49,186 - INFO - [37] Extracted: None - None
+2025-04-25 11:54:49,193 - INFO - Updated JSON with 47 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:54:49,193 - INFO - [38] Visiting: https://www.backmarket.de/de-de/p/acer-chromebook-spin-511-touch-celeron-11-ghz-32gb-ssd-4gb-qwerty-spanisch/889fb97d-fb57-45d8-aadf-3eb098bae729
+2025-04-25 11:55:08,398 - INFO - [38] Extracted: None - None
+2025-04-25 11:55:08,398 - INFO - Updated JSON with 48 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:55:08,398 - INFO - [39] Visiting: https://www.backmarket.de/de-de/p/acer-chromebook-spin-512-celeron-11-ghz-32gb-emmc-4gb-qwerty-spanisch/a7afbb3e-4d86-4258-ae6f-4d734c339c92
+2025-04-25 11:55:25,227 - INFO - [39] Extracted: Acer Chromebook Spin 512 Celeron 1.1 GHz 32GB eMMC - 4GB QWERTY - Spanisch - 113,99 €
+2025-04-25 11:55:25,227 - INFO - Updated JSON with 49 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:55:25,227 - INFO - [40] Visiting: https://www.backmarket.de/de-de/p/acer-chromebook-spin-512-pentium-silver-11-ghz-32gb-ssd-8gb-azerty-franzosisch/411b6fd0-c5ed-4ef4-9177-4bc04f4c5ed3
+2025-04-25 11:55:43,390 - INFO - [40] Extracted: None - None
+2025-04-25 11:55:43,400 - INFO - Updated JSON with 50 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:55:43,404 - INFO - [41] Visiting: https://www.backmarket.de/de-de/p/acer-chromebook-spin-512-pentium-silver-11-ghz-64gb-ssd-8gb-qwerty-englisch/705eca1a-6d97-4726-ab2b-01a7f7ca718b
+2025-04-25 11:56:00,328 - INFO - [41] Extracted: Acer Chromebook Spin 512 Pentium Silver 1.1 GHz 64GB SSD - 8GB QWERTY - Englisch - 189,00 €
+2025-04-25 11:56:00,344 - INFO - Updated JSON with 51 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:56:00,390 - INFO - [42] Visiting: https://www.backmarket.de/de-de/p/acer-chromebook-spin-512-touch-celeron-11-ghz-32gb-ssd-8gb-qwerty-schwedisch/cf2c7d7d-5368-4dbd-a635-823f553964fc
+2025-04-25 11:56:21,352 - INFO - [42] Extracted: None - None
+2025-04-25 11:56:21,424 - INFO - Updated JSON with 52 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:56:21,474 - INFO - [43] Visiting: https://www.backmarket.de/de-de/p/acer-chromebook-spin-514-touch-ryzen-3-26-ghz-128gb-ssd-8gb-qwerty-schwedisch/5d337633-6b8b-40ce-bfda-f8ca1a8bf5cf
+2025-04-25 11:56:37,941 - INFO - [43] Extracted: None - None
+2025-04-25 11:56:37,994 - INFO - Updated JSON with 53 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:56:38,007 - INFO - [44] Visiting: https://www.backmarket.de/de-de/p/acer-chromebook-spin-713-cp713-2w-79ks-core-i7-18-ghz-128gb-ssd-16gb-qwerty-englisch/9ae8e7d0-6af3-4fad-a999-692fb9d01a8c
+2025-04-25 11:56:54,850 - INFO - [44] Extracted: None - None
+2025-04-25 11:56:54,854 - INFO - Updated JSON with 54 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:56:54,854 - INFO - [45] Visiting: https://www.backmarket.de/de-de/p/acer-chromebook-spin-r751tn-celeron-11-ghz-32gb-emmc-4gb-qwerty-schwedisch/6dc2095f-4ddd-4421-bc17-c93bd8f9cf55
+2025-04-25 11:57:12,118 - INFO - [45] Extracted: Acer ChromeBook Spin R751TN Celeron 1.1 GHz 32GB eMMC - 4GB QWERTY - Schwedisch - 132,99 €
+2025-04-25 11:57:12,118 - INFO - Updated JSON with 55 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:57:12,118 - INFO - [46] Visiting: https://www.backmarket.de/de-de/p/acer-chromebook-vero-514-cbv514-1h-14-2-ghz-ssd-256-gb-16gb-qwertz-deutsch/62eff22b-5889-4b85-b14f-46bfd81f9e42
+2025-04-25 11:57:30,203 - INFO - [46] Extracted: None - None
+2025-04-25 11:57:30,203 - INFO - Updated JSON with 56 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:57:30,211 - INFO - [47] Visiting: https://www.backmarket.de/de-de/p/acer-d20q1-dtz1seg009-core-i5-16-ghz-ssd-256-gb-ram-16-gb/5ec7b9a3-b48a-4d57-87f3-ceda1946ac68
+2025-04-25 11:57:49,751 - INFO - [47] Extracted: None - None
+2025-04-25 11:57:49,800 - INFO - Updated JSON with 57 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:57:49,850 - INFO - [48] Visiting: https://www.backmarket.de/de-de/p/acer-extensa-ex2511-32as-15-core-i3-2-ghz-hdd-500-gb-4gb/747ac5da-a1fe-44b2-8064-dfbc38464aaa
+2025-04-25 11:58:10,027 - INFO - [48] Extracted: Acer Extensa EX2511-32AS 15" Core i3 1.7 GHz - HDD 500 GB - 4GB AZERTY - Französisch - 399,00 €
+2025-04-25 11:58:10,027 - INFO - Updated JSON with 58 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:58:10,027 - INFO - [49] Visiting: https://www.backmarket.de/de-de/p/acer-h7001-vr-helm-virtuelle-realitat/b1514004-9e96-4200-86c3-5cee9e53f917
+2025-04-25 11:58:26,787 - INFO - [49] Extracted: None - None
+2025-04-25 11:58:26,787 - INFO - Updated JSON with 59 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:58:26,791 - INFO - [50] Visiting: https://www.backmarket.de/de-de/p/acer-nitro-16-16-ryzen-9-4-ghz-ssd-1000-gb-16gb-nvidia-geforce-rtx-4060-8gb-qwerty-italienisch/4f79637a-5f47-4060-9ae9-6afac9a4b7e7
+2025-04-25 11:58:46,519 - INFO - [50] Extracted: Acer Nitro 16 16" Ryzen 9 4 GHz - SSD 1000 GB - 16GB - NVIDIA GeForce RTX 4060 8GB QWERTY - Italienisch - 2.218,00 €
+2025-04-25 11:58:46,528 - INFO - Updated JSON with 60 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:58:46,529 - INFO - [51] Visiting: https://www.backmarket.de/de-de/p/acer-nitro-5-an515-45-15-ryzen-5-33-ghz-ssd-512-gb-hdd-2-tb-16gb-nvidia-geforce-rtx-3060-qwerty-spanisch/d1e64a19-6f7f-4f24-9806-156fa7ab353a
+2025-04-25 11:59:04,397 - INFO - [51] Extracted: None - None
+2025-04-25 11:59:04,407 - INFO - Updated JSON with 61 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:59:04,407 - INFO - [52] Visiting: https://www.backmarket.de/de-de/p/acer-nitro-5-an515-55-540l-15-core-i5-25-ghz-ssd-512-gb-8gb-nvidia-geforce-rtx-3050-azerty-franzosisch/942f67a0-bdf0-4670-9380-7d1da865ee0d
+2025-04-25 11:59:23,324 - INFO - [52] Extracted: None - None
+2025-04-25 11:59:23,351 - INFO - Updated JSON with 62 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:59:23,353 - INFO - [53] Visiting: https://www.backmarket.de/de-de/p/acer-nitro-5-an515-55-57wu-15-core-i5-25-ghz-ssd-1-tb-16gb-nvidia-geforce-rtx-3060-azerty-franzosisch/b6603295-6462-48c3-9d7a-2c9e0e1aad32
+2025-04-25 11:59:42,895 - INFO - [53] Extracted: Acer Nitro 5 AN515-55-57WU 15" Core i5 2.5 GHz - SSD 512 GB - 16GB - NVIDIA GeForce RTX 3060 AZERTY - Französisch - 1.090,80 €
+2025-04-25 11:59:42,899 - INFO - Updated JSON with 63 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 11:59:42,903 - INFO - [54] Visiting: https://www.backmarket.de/de-de/p/acer-nitro-5-an515-57-5194-processeur-intel-core-i5-11400h-22-ghz-ssd-512-gb-16-gb-nvidia-geforce-rtx-3050/7bb34982-36c0-4cd6-afe9-847b34157069
+2025-04-25 12:00:03,590 - INFO - [54] Extracted: Acer Nitro 5 AN515-57-5194 15" Core i5 2.7 GHz - SSD 512 GB - 16GB - NVIDIA GeForce RTX 3050 AZERTY - Französisch - 972,00 €
+2025-04-25 12:00:03,594 - INFO - Updated JSON with 64 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:00:03,596 - INFO - [55] Visiting: https://www.backmarket.de/de-de/p/acer-nitro-5-an515-57-51k6-15-core-i5-27-ghz-ssd-512-gb-16gb-nvidia-geforce-rtx-3060/7c856e46-8ae6-4d00-9c13-b65ec8070e09
+2025-04-25 12:00:21,659 - INFO - [55] Extracted: None - None
+2025-04-25 12:00:21,662 - INFO - Updated JSON with 65 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:00:21,663 - INFO - [56] Visiting: https://www.backmarket.de/de-de/p/acer-nitro-5-an515-58-7290-15-49-ghz-512-gb-ssd-16gb-rtx-4060-azerty-franzosisch/89c6b413-2029-4311-a5db-9bc0887b2a48
+2025-04-25 12:00:41,125 - INFO - [56] Extracted: Acer Nitro 5 AN515-58-7290 15" Core i7 4.9 GHz - SSD 512 GB - 16GB - NVIDIA GeForce RTX 4060 AZERTY - Französisch - 1.199,00 €
+2025-04-25 12:00:41,129 - INFO - Updated JSON with 66 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:00:41,130 - INFO - [57] Visiting: https://www.backmarket.de/de-de/p/acer-nitro-5-an517-41-r1hs-17-ryzen-7-32-ghz-ssd-1000-gb-32gb-nvidia-geforce-rtx-3070-azerty-franzosisch/31a072cd-53a5-442f-a352-331702ed977f
+2025-04-25 12:00:58,864 - INFO - [57] Extracted: None - None
+2025-04-25 12:00:58,872 - INFO - Updated JSON with 67 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:00:58,873 - INFO - [58] Visiting: https://www.backmarket.de/de-de/p/acer-nitro-5-an517-41-r1hs-17-ryzen-7-5800-32-ghz-ssd-1000-gb-16gb-nvidia-geforce-rtx-3070-qwerty-italienisch/1c8cfaec-f290-4103-8b56-696012c7fdd9
+2025-04-25 12:01:16,947 - INFO - [58] Extracted: None - None
+2025-04-25 12:01:16,954 - INFO - Updated JSON with 68 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:01:16,955 - INFO - [59] Visiting: https://www.backmarket.de/de-de/p/acer-nitro-5-an517-41-r9wp-17-ryzen-7-32-ghz-ssd-512-gb-16gb-nvidia-geforce-rtx-3070-azerty-franzosisch/d1725b96-9363-4557-af71-b59b16857d73
+2025-04-25 12:01:35,072 - INFO - [59] Extracted: None - None
+2025-04-25 12:01:35,072 - INFO - Updated JSON with 69 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:01:35,072 - INFO - [60] Visiting: https://www.backmarket.de/de-de/p/acer-nitro-5-an517-52-53gg-173-azerty-francais-17-core-i5-10300h-250ghz-ghz-ssd-512-gb-16384gb/6df3f618-97ce-4c30-b8b1-60c3ae6b8b32
+2025-04-25 12:01:55,190 - INFO - [60] Extracted: Acer Nitro 5 AN517-52-53GG 17" Core i5 2.5 GHz - SSD 512 GB - 16GB - Nividia GeForce RTX 3050 AZERTY - Französisch - 1.092,00 €
+2025-04-25 12:01:55,218 - INFO - Updated JSON with 70 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:01:55,286 - INFO - [61] Visiting: https://www.backmarket.de/de-de/p/acer-nitro-5-an517-52-55aw-17-core-i5-10300h-ghz-ssd-512-gb-8192gb/06919932-b445-4a4b-b159-55d476149b55
+2025-04-25 12:02:14,172 - INFO - [61] Extracted: None - None
+2025-04-25 12:02:14,175 - INFO - Updated JSON with 71 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:02:14,176 - INFO - [62] Visiting: https://www.backmarket.de/de-de/p/acer-nitro-5-an517-52-55aw-17-core-i5-25-ghz-ssd-1-tb-hdd-750-gb-16gb-nvidia-geforce-rtx-3060-azerty-franzosisch/01812616-a024-43c1-8136-5ed70b5808b6
+2025-04-25 12:02:34,172 - INFO - [62] Extracted: None - None
+2025-04-25 12:02:34,235 - INFO - Updated JSON with 72 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:02:34,361 - INFO - [63] Visiting: https://www.backmarket.de/de-de/p/acer-nitro-5-an517-54-90gf-173-azerty-francais-17-core-i9-11900h-210ghz-ghz-ssd-512-gb-16384gb/850cf632-67e1-490f-bea7-c0b3db9f0c90
+2025-04-25 12:02:52,375 - INFO - [63] Extracted: None - None
+2025-04-25 12:02:52,377 - INFO - Updated JSON with 73 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:02:52,377 - INFO - [64] Visiting: https://www.backmarket.de/de-de/p/acer-nitro-5-an517-57-58wn-15-core-i5-25-ghz-ssd-512-gb-16gb-nvidia-geforce-rtx-3060-azerty-franzosisch/31d0bd43-d228-4205-bdec-5ecfcb35d132
+2025-04-25 12:03:09,116 - INFO - [64] Extracted: None - None
+2025-04-25 12:03:09,116 - INFO - Updated JSON with 74 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:03:09,116 - INFO - [65] Visiting: https://www.backmarket.de/de-de/p/acer-nitro-5-n20c1-15-core-i5-25-ghz-ssd-1000-gb-16gb-nvidia-geforce-rtx-3050-azerty-franzosisch/e4511f0f-905a-475b-baf1-ef405e6137fa
+2025-04-25 12:03:25,848 - INFO - [65] Extracted: None - None
+2025-04-25 12:03:25,850 - INFO - Updated JSON with 75 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:03:25,850 - INFO - [66] Visiting: https://www.backmarket.de/de-de/p/acer-nitro-5-n20c2-17-ryzen-7-34-ghz-ssd-512-gb-16gb-nvidia-geforce-rtx-3070-azerty-franzosisch/fcfb1a36-dd69-4b1a-8cff-4cb56f38e79b
+2025-04-25 12:03:44,514 - INFO - [66] Extracted: Acer Nitro 5 N20C2 17" Ryzen 7 3.4 GHz - SSD 512 GB - 16GB - NVIDIA GeForce RTX 3070 AZERTY - Französisch - 1.100,00 €
+2025-04-25 12:03:44,626 - INFO - Updated JSON with 76 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:03:44,901 - INFO - [67] Visiting: https://www.backmarket.de/de-de/p/acer-nitro-an515-54-592y-15-core-i5-23-ghz-ssd-256-gb-8gb-nvidia-geforce-gtx-1650-azerty-franzosisch/8bc4e7ac-bf78-493a-8f1c-75012ba116e9
+2025-04-25 12:04:04,579 - INFO - [67] Extracted: None - None
+2025-04-25 12:04:04,580 - INFO - Updated JSON with 77 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:04:04,580 - INFO - [68] Visiting: https://www.backmarket.de/de-de/p/acer-nitro-v15-15-core-i7-24-ghz-ssd-512-gb-16gb-nvidia-geforce-rtx-4050-azerty-franzosisch/a05f278d-fc08-4a28-a6cf-981dc181add4
+2025-04-25 12:04:20,451 - INFO - [68] Extracted: Acer Nitro V15 15" Core i7 2.4 GHz - SSD 512 GB - 16GB - Nvidia GeForce RTX 4050 AZERTY - Französisch - 1.100,00 €
+2025-04-25 12:04:20,462 - INFO - Updated JSON with 78 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:04:20,463 - INFO - [69] Visiting: https://www.backmarket.de/de-de/p/acer-nitro-v15-15-ryzen-5-33-ghz-ssd-512-gb-16gb-nvidia-geforce-rtx-4060-azerty-franzosisch/ce3004f7-0e4b-462a-ad95-6cc101b553aa
+2025-04-25 12:04:37,432 - INFO - [69] Extracted: Acer Nitro V15 15" Ryzen 5 3.3 GHz - SSD 512 GB - 16GB - NVIDIA GeForce RTX 4060 AZERTY - Französisch - 850,00 €
+2025-04-25 12:04:37,437 - INFO - Updated JSON with 79 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:04:37,437 - INFO - [70] Visiting: https://www.backmarket.de/de-de/p/acer-nitro-v15-15-ryzen-7-21-ghz-ssd-1000-gb-16gb-nvidia-geforce-rtx-4060-azerty-franzosisch/e205c4eb-ca8c-4b3a-8b28-13ca21018c75
+2025-04-25 12:04:54,864 - INFO - [70] Extracted: None - None
+2025-04-25 12:04:54,869 - INFO - Updated JSON with 80 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:04:54,869 - INFO - [71] Visiting: https://www.backmarket.de/de-de/p/acer-nxegjeh00g-15-core-i5-24-ghz-ssd-512-gb-8gb-qwerty-englisch/277afa8b-8dc3-4e3b-85d7-d0d658f3eaf5
+2025-04-25 12:05:13,432 - INFO - [71] Extracted: None - None
+2025-04-25 12:05:13,484 - INFO - Updated JSON with 81 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:05:13,553 - INFO - [72] Visiting: https://www.backmarket.de/de-de/p/acer-p5530i-projektor/45988f35-d841-496f-bcda-20a110c338f4
+2025-04-25 12:05:29,938 - INFO - [72] Extracted: None - None
+2025-04-25 12:05:29,944 - INFO - Updated JSON with 82 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:05:29,945 - INFO - [73] Visiting: https://www.backmarket.de/de-de/p/acer-predator-helios-300-ph315-54-72vf-15-core-i7-23-ghz-ssd-512-gb-16gb-nvidia-geforce-rtx-3070-azerty-franzosisch/6160206a-b511-4e65-bc43-2f0c48e78edc
+2025-04-25 12:05:49,595 - INFO - [73] Extracted: Acer Predator Helios 300 PH315-54-72VF 15" Core i7 2.3 GHz - SSD 512 GB - 16GB - NVIDIA GeForce RTX 3070 AZERTY - Französisch - 1.405,00 €
+2025-04-25 12:05:49,597 - INFO - Updated JSON with 83 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:05:49,597 - INFO - [74] Visiting: https://www.backmarket.de/de-de/p/acer-predator-helios-300-ph317-51-n17c3-17-core-i7-28-ghz-ssd-128-gb-hdd-1-tb-8gb-nvidia-geforce-gtx-1060-azerty-franzosisch/e3509cde-50d4-4365-99d9-ee435522f82e
+2025-04-25 12:06:06,530 - INFO - [74] Extracted: None - None
+2025-04-25 12:06:06,563 - INFO - Updated JSON with 84 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:06:06,573 - INFO - [75] Visiting: https://www.backmarket.de/de-de/p/acer-predator-orion-5000-640-i7206g-po5-640-e-core-i7-21-ghz-ssd-1-tb-32-gb-nvidia-geforce-rtx-3070/c3ce7613-ac9e-4644-ac3c-b4709c31c8e8
+2025-04-25 12:06:24,030 - INFO - [75] Extracted: Acer Predator Orion 5000 640 I7206G (PO5-640_E) Core i7 2.1 GHz - SSD 1 TB - 32 GB - NVIDIA GeForce RTX 3070 - 1.899,00 €
+2025-04-25 12:06:24,110 - INFO - Updated JSON with 85 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:06:24,159 - INFO - [76] Visiting: https://www.backmarket.de/de-de/p/acer-r752t-c3m5-celeron-11-ghz-32gb-emmc-4gb-qwerty-englisch/eba7110c-a833-4c27-aa12-b8b9b2bdc047
+2025-04-25 12:06:46,919 - INFO - [76] Extracted: Acer R752T-C3M5 Celeron 1.1 GHz 32GB eMMC - 4GB QWERTY - Englisch - 132,99 €
+2025-04-25 12:06:46,922 - INFO - Updated JSON with 86 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:06:46,922 - INFO - [77] Visiting: https://www.backmarket.de/de-de/p/acer-sfx14-71g-55sr-14-core-i5-35-ghz-ssd-512-gb-16gb-qwertz-deutsch/75931587-6ca9-464f-8055-0f73d0f3564f
+2025-04-25 12:07:04,554 - INFO - [77] Extracted: None - None
+2025-04-25 12:07:04,597 - INFO - Updated JSON with 87 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:07:04,652 - INFO - [78] Visiting: https://www.backmarket.de/de-de/p/acer-spin-3-sp313-51-touch-13-core-i5-24-ghz-ssd-512-gb-16gb-qwertz-deutsch/cfcaf6b2-69d1-4f9e-9863-798f5b98490c
+2025-04-25 12:07:25,450 - INFO - [78] Extracted: None - None
+2025-04-25 12:07:25,469 - INFO - Updated JSON with 88 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:07:25,497 - INFO - [79] Visiting: https://www.backmarket.de/de-de/p/acer-spin-315-54n-14-core-i5-1-ghz-ssd-512-gb-8gb-qwerty-spanisch/012b91ae-7ef7-4ee9-ae4f-63a50ece2e6e
+2025-04-25 12:07:45,032 - INFO - [79] Extracted: Acer Spin 315-54N 14" Core i5 1 GHz - SSD 512 GB - 8GB QWERTY - Spanisch - 629,00 €
+2025-04-25 12:07:45,037 - INFO - Updated JSON with 89 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:07:45,040 - INFO - [80] Visiting: https://www.backmarket.de/de-de/p/acer-spin-sp314-54n-14-2-ghz-ssd-256-gb-8gb-qwerty-englisch/87647a3e-d797-43ea-b0d3-936832d14246
+2025-04-25 12:08:06,772 - INFO - [80] Extracted: None - None
+2025-04-25 12:08:06,892 - INFO - Updated JSON with 90 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:08:07,098 - INFO - [81] Visiting: https://www.backmarket.de/de-de/p/acer-swift-3-notebook-ultra-sf314-511-34zn-14fhdi3-1115g48go512go-ssdintel-uhd-graphicswin10argent-14-i3-1115g4-2-ghz-ssd-512-gb-8gb-qwerty-italienisch/705c4f0b-08c1-4cb0-886b-81667d775745
+2025-04-25 12:08:26,431 - INFO - [81] Extracted: None - None
+2025-04-25 12:08:26,431 - INFO - Updated JSON with 91 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:08:26,431 - INFO - [82] Visiting: https://www.backmarket.de/de-de/p/acer-swift-3-sf314-58-35d3-14-core-i3-21-ghz-ssd-256-gb-4gb-azerty-franzosisch/3d34e92b-3440-4b67-8abe-ab89d7b494a3
+2025-04-25 12:08:45,580 - INFO - [82] Extracted: Acer Swift 3 SF314-58-35D3 14" Core i3 2.1 GHz - SSD 256 GB - 4GB AZERTY - Französisch - 460,00 €
+2025-04-25 12:08:45,686 - INFO - Updated JSON with 92 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:08:45,906 - INFO - [83] Visiting: https://www.backmarket.de/de-de/p/acer-swift-sf114-31-p0xb-14-pentium-16-ghz-ssd-64-gb-4gb-azerty-franzosisch/3abdea82-5684-48ba-850e-2cb4681b3cd7
+2025-04-25 12:09:05,801 - INFO - [83] Extracted: Acer Swift SF114-31-P0XB 14" Pentium 1.6 GHz - SSD 64 GB - 4GB AZERTY - Französisch - 220,00 €
+2025-04-25 12:09:07,000 - INFO - Updated JSON with 93 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:09:07,125 - INFO - [84] Visiting: https://www.backmarket.de/de-de/p/acer-tastatur-qwertz-deutsch-kbcr21/438c413e-adf8-493b-9199-3aba62baae27
+2025-04-25 12:09:30,131 - INFO - [84] Extracted: Acer Tastatur QWERTZ Deutsch KBCR21 - 32,40 €
+2025-04-25 12:09:30,267 - INFO - Updated JSON with 94 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:09:30,317 - INFO - [85] Visiting: https://www.backmarket.de/de-de/p/acer-tmp214-5-59r2-14-core-i5-16-ghz-ssd-256-gb-8gb-qwerty-englisch/e3dcf5e5-4e81-483e-805f-dc5b9bdeff29
+2025-04-25 12:09:49,394 - INFO - [85] Extracted: Acer TMP214-5-59R2 14" Core i5 1.6 GHz - SSD 256 GB - 8GB QWERTY - Englisch - 249,00 €
+2025-04-25 12:09:49,402 - INFO - Updated JSON with 95 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:09:49,403 - INFO - [86] Visiting: https://www.backmarket.de/de-de/p/acer-tmp255-m-15-core-i3-17-ghz-hdd-500-gb-500gb/9a3d7648-bb2b-4b2f-b7ec-dc402322a105
+2025-04-25 12:10:08,597 - INFO - [86] Extracted: Acer TravelMate TMP255-M 15" Core i3 1.7 GHz - HDD 500 GB - 4GB AZERTY - Französisch - 310,00 €
+2025-04-25 12:10:08,618 - INFO - Updated JSON with 96 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:10:08,620 - INFO - [87] Visiting: https://www.backmarket.de/de-de/p/acer-travelmate-p214-52-14-core-i5-16-ghz-ssd-256-gb-8gb-qwertz-deutsch/d96648fb-19f4-489e-952a-1871cf3a162d
+2025-04-25 12:10:26,910 - INFO - [87] Extracted: None - None
+2025-04-25 12:10:26,915 - INFO - Updated JSON with 97 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:10:26,917 - INFO - [88] Visiting: https://www.backmarket.de/de-de/p/acer-travelmate-p214-53-14-core-i3-3-ghz-ssd-256-gb-8gb-qwerty-skandinavisch/037afd45-ecdc-43c8-b583-24d204e36f49
+2025-04-25 12:10:45,781 - INFO - [88] Extracted: Acer TravelMate P214-53 14" Core i3 3 GHz - SSD 256 GB - 8GB QWERTY - Skandinavisch - 263,00 €
+2025-04-25 12:10:45,787 - INFO - Updated JSON with 98 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:10:45,788 - INFO - [89] Visiting: https://www.backmarket.de/de-de/p/acer-travelmate-p2410-m-14-1920x1080-i7-7500u-8go-1to-hdd256go-ssd-intel-hd-graphics-620-noir-14-2-ghz-ssd-256-gb-hdd-1-tb-8gb-qwertz-deutsch/0c5836a4-13b7-4820-bba5-073854d622d0
+2025-04-25 12:11:07,724 - INFO - [89] Extracted: None - None
+2025-04-25 12:11:07,787 - INFO - Updated JSON with 99 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:11:07,986 - INFO - [90] Visiting: https://www.backmarket.de/de-de/p/acer-travelmate-spin-b3-b311rn-31-c09e-116-azerty-francais-11-celeron-n4120-ghz-hdd-64-gb-4096gb/50e9cf4e-0e15-4fe7-89a3-ae64b2e50a7d
+2025-04-25 12:11:33,280 - INFO - [90] Extracted: Acer TravelMate Spin B3 B311RN-31-C09E 11" Celeron 1.1 GHz - HDD 64 GB - 4GB AZERTY - Französisch - 143,99 €
+2025-04-25 12:11:33,283 - INFO - Updated JSON with 100 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:11:33,284 - INFO - [91] Visiting: https://www.backmarket.de/de-de/p/acer-travelmate-tmb311r-33-c4jy-11-34-ghz-ssd-64-gb-4gb-azerty-franzosisch/f4ada099-79a4-4a43-b49b-22b75db5e03b
+2025-04-25 12:11:50,773 - INFO - [91] Extracted: Acer TravelMate TMB311R-33-C4JY 11" Other 3.4 GHz - SSD 64 GB - 4GB AZERTY - Französisch - 581,77 €
+2025-04-25 12:11:50,823 - INFO - Updated JSON with 101 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:11:50,860 - INFO - [92] Visiting: https://www.backmarket.de/de-de/p/acer-veriton-n4640g-core-i5-25-ghz-ssd-256-gb-ram-8-gb/f7f17099-c7d3-4b84-977c-ce2d91c1eef5
+2025-04-25 12:12:08,353 - INFO - [92] Extracted: Acer Veriton N4640G Core i5 2.5 GHz - SSD 256 GB RAM 8 GB - 123,45 €
+2025-04-25 12:12:08,359 - INFO - Updated JSON with 102 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:12:08,359 - INFO - [93] Visiting: https://www.backmarket.de/de-de/p/alienware-m17-r4-17-core-i7-22-ghz-ssd-1-tb-32gb-nvidia-geforce-rtx-3070-azerty-franzosisch/8d7a2990-de67-4302-8522-17fae8b36db7
+2025-04-25 12:12:30,151 - INFO - [93] Extracted: None - None
+2025-04-25 12:12:30,269 - INFO - Updated JSON with 103 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:12:30,491 - INFO - [94] Visiting: https://www.backmarket.de/de-de/p/alienware-m17-r4-17-core-i7-22-ghz-ssd-1-tb-32gb-nvidia-geforce-rtx-3080-qwerty-englisch/11d71f30-80b2-4686-9821-2e4cf3091b82
+2025-04-25 12:12:53,942 - INFO - [94] Extracted: None - None
+2025-04-25 12:12:53,959 - INFO - Updated JSON with 104 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:12:54,025 - INFO - [95] Visiting: https://www.backmarket.de/de-de/p/alienware-m17-r4-17-intel-22-ghz-ssd-1000-gb-32gb-nvidia-rtx-3070/a86eeb13-7716-4796-8e44-f81ecd71efe0
+2025-04-25 12:13:12,350 - INFO - [95] Extracted: None - None
+2025-04-25 12:13:12,554 - INFO - Updated JSON with 105 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:13:12,817 - INFO - [96] Visiting: https://www.backmarket.de/de-de/p/alienware-x14-r1-14-core-i7-34-ghz-ssd-512-gb-16gb-nvidia-geforce-rtx-3060-qwerty-englisch-uk/f96de223-3627-44ff-a330-c46b66511894
+2025-04-25 12:13:37,651 - INFO - [96] Extracted: None - None
+2025-04-25 12:13:37,657 - INFO - Updated JSON with 106 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:13:37,659 - INFO - [97] Visiting: https://www.backmarket.de/de-de/p/amazon-fire-hd-10-kids-edition-touch-tablet-fur-kinder/3c982a39-ff3e-4abb-b118-9c2adab47e71
+2025-04-25 12:13:55,929 - INFO - [97] Extracted: None - None
+2025-04-25 12:13:55,939 - INFO - Updated JSON with 107 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:13:55,944 - INFO - [98] Visiting: https://www.backmarket.de/de-de/p/assassins-creed-odyssey-playstation-4/529c0f51-aeeb-465a-ac10-81f538bd05c0
+2025-04-25 12:14:12,933 - INFO - [98] Extracted: None - None
+2025-04-25 12:14:12,933 - INFO - Updated JSON with 108 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:14:12,942 - INFO - [99] Visiting: https://www.backmarket.de/de-de/p/asus-chromebook-c423na-ec0561-celeron-11-ghz-64gb-emmc-8gb-azerty-franzosisch/5e89926c-3c67-4064-93d9-953b6e9b0f12
+2025-04-25 12:14:33,091 - INFO - [99] Extracted: None - None
+2025-04-25 12:14:33,417 - INFO - Updated JSON with 109 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:14:33,750 - INFO - [100] Visiting: https://www.backmarket.de/de-de/p/asus-chromebook-c523na-ej0123-15-celeron-n3350-2-ghz-ssd-64-gb-4gb-qwertz-deutsch/14b77fa8-0d7e-483f-b251-a1377f6a7466
+2025-04-25 12:14:55,885 - INFO - [100] Extracted: None - None
+2025-04-25 12:14:56,136 - INFO - Updated JSON with 110 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:14:56,404 - INFO - [101] Visiting: https://www.backmarket.de/de-de/p/asus-chromebook-cr1100ck-yz182-celeron-11-ghz-32gb-ssd-8gb-qwerty-englisch/54223baa-c742-4196-937d-5a8ceadcfba1
+2025-04-25 12:15:17,740 - INFO - [101] Extracted: Asus Chromebook CR1100CK-YZ182 Celeron 1.1 GHz 32GB eMMC - 8GB QWERTY - Englisch - 189,00 €
+2025-04-25 12:15:18,015 - INFO - Updated JSON with 111 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:15:18,020 - INFO - [102] Visiting: https://www.backmarket.de/de-de/p/asus-chromebook-cx1500cka-ej00112-15-celeron-n4500-2-ghz-ssd-128-gb-8gb-qwertz-deutsch/52d15f6a-b363-4653-87ec-157b1466582b
+2025-04-25 12:15:38,032 - INFO - [102] Extracted: None - None
+2025-04-25 12:15:38,040 - INFO - Updated JSON with 112 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:15:38,042 - INFO - [103] Visiting: https://www.backmarket.de/de-de/p/asus-chromebook-cx1500cka-ej0093-pentium-silver-11-ghz-32gb-ssd-8gb-azerty-franzosisch/7ceabe97-17d6-4a73-b6f2-a10ca160da3d
+2025-04-25 12:16:00,366 - INFO - [103] Extracted: None - None
+2025-04-25 12:16:00,514 - INFO - Updated JSON with 113 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:16:00,754 - INFO - [104] Visiting: https://www.backmarket.de/de-de/p/asus-chromebook-flip-c214ma-c464g1c-11-celeron-n4020-2-ghz-hdd-64-gb-4gb-qwerty-englisch-us/25894c7a-82e2-4279-987c-6476a90dadc9
+2025-04-25 12:16:21,499 - INFO - [104] Extracted: None - None
+2025-04-25 12:16:21,499 - INFO - Updated JSON with 114 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:16:21,509 - INFO - [105] Visiting: https://www.backmarket.de/de-de/p/asus-chromebook-flip-c434ta-ds584-core-i5-13-ghz-128gb-ssd-8gb-azerty-franzosisch/d589595c-2f6c-4db4-8205-8c0ac396a215
+2025-04-25 12:16:40,409 - INFO - [105] Extracted: None - None
+2025-04-25 12:16:40,415 - INFO - Updated JSON with 115 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:16:40,415 - INFO - [106] Visiting: https://www.backmarket.de/de-de/p/asus-chromebook-flip-cx5-cx5500fea-e60183-15-i3-1115g4-2-ghz-ssd-256-gb-8gb-qwerty-spanisch/bfdea712-2c4e-41f1-a9c8-08b726109e09
+2025-04-25 12:16:59,824 - INFO - [106] Extracted: None - None
+2025-04-25 12:17:00,284 - INFO - Updated JSON with 116 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:17:00,620 - INFO - [107] Visiting: https://www.backmarket.de/de-de/p/asus-laptop-asus-b1402cva-eb1915x-14-2-ghz-ssd-512-gb-16gb-qwerty-spanisch/5b7a2038-48c2-4623-8922-e5f198a535b2
+2025-04-25 12:17:25,431 - INFO - [107] Extracted: None - None
+2025-04-25 12:17:25,443 - INFO - Updated JSON with 117 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:17:25,445 - INFO - [108] Visiting: https://www.backmarket.de/de-de/p/asus-notebook-e406m-14-pentium-silver-11-ghz-ssd-128-gb-4gb-azerty-franzosisch/4bc41cd8-14d8-4a95-934a-2fe26f8a568e
+2025-04-25 12:17:43,682 - INFO - [108] Extracted: None - None
+2025-04-25 12:17:43,691 - INFO - Updated JSON with 118 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:17:43,691 - INFO - [109] Visiting: https://www.backmarket.de/de-de/p/asus-notebook-p1504j-15-core-i3-12-ghz-ssd-256-gb-8gb-azerty-franzosisch/651e06f1-e345-456f-92a3-00a910ff5763
+2025-04-25 12:18:04,575 - INFO - [109] Extracted: None - None
+2025-04-25 12:18:04,627 - INFO - Updated JSON with 119 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:18:04,708 - INFO - [110] Visiting: https://www.backmarket.de/de-de/p/asus-vivobook-13-slate-oled-t3300ka-lq028w-13-pentium-n6000-2-ghz-hdd-128-gb-4gb-qwerty-englisch-us/d0c355f2-6a37-4355-a8af-07f0ff89f5e1
+2025-04-25 12:18:23,004 - INFO - [110] Extracted: None - None
+2025-04-25 12:18:23,011 - INFO - Updated JSON with 120 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:18:23,013 - INFO - [111] Visiting: https://www.backmarket.de/de-de/p/asus-vivobook-14-x415jab-14-core-i5-1-ghz-ssd-256-gb-8gb-azerty-franzosisch/bcd3fd03-173e-45df-beb3-17ac52dd78c2
+2025-04-25 12:18:46,095 - INFO - [111] Extracted: Asus VivoBook 14 X415JAB 14" Core i5 1 GHz - SSD 256 GB - 8GB AZERTY - Französisch - 442,80 €
+2025-04-25 12:18:46,211 - INFO - Updated JSON with 121 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:18:46,338 - INFO - [112] Visiting: https://www.backmarket.de/de-de/p/asus-vivobook-15-f1504va-nj456w-15-core-i5-13-ghz-ssd-512-gb-16gb-qwerty-spanisch/1369c2cb-e2ad-4385-b8fe-ec4d8831da30
+2025-04-25 12:19:06,303 - INFO - [112] Extracted: None - None
+2025-04-25 12:19:06,309 - INFO - Updated JSON with 122 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:19:06,311 - INFO - [113] Visiting: https://www.backmarket.de/de-de/p/asus-vivobook-15-f1504za-nj694w-15-2-ghz-ssd-512-gb-8gb-qwerty-spanisch/a06e3904-1a63-4bc5-aa7d-ff492f0659f9
+2025-04-25 12:19:23,803 - INFO - [113] Extracted: None - None
+2025-04-25 12:19:23,809 - INFO - Updated JSON with 123 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:19:23,810 - INFO - [114] Visiting: https://www.backmarket.de/de-de/p/asus-vivobook-15-p1502cza-ej1728x-15-core-i3-2-ghz-ssd-512-gb-8gb-qwerty-spanisch/074e0e49-7094-41ce-b5a7-b52b1f6cdda4
+2025-04-25 12:19:45,171 - INFO - [114] Extracted: None - None
+2025-04-25 12:19:45,317 - INFO - Updated JSON with 124 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:19:45,729 - INFO - [115] Visiting: https://www.backmarket.de/de-de/p/asus-vivobook-15-s1504za-nj085w-15-core-i5-13-ghz-ssd-512-gb-16gb-azerty-franzosisch/af69cb30-b941-42ea-91e6-50c92ef7c621
+2025-04-25 12:20:08,633 - INFO - [115] Extracted: None - None
+2025-04-25 12:20:08,636 - INFO - Updated JSON with 125 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:20:08,636 - INFO - [116] Visiting: https://www.backmarket.de/de-de/p/asus-vivobook-15-x1502za-ej490w-15-2-ghz-ssd-512-gb-8gb-qwerty-arabisch/665905bf-68ed-4617-a405-a0adec17a5fd
+2025-04-25 12:20:30,066 - INFO - [116] Extracted: Asus VivoBook 15 X1502ZA-EJ490W 15" Core i5 1.3 GHz - SSD 512 GB - 8GB QWERTY - Arabisch - 369,99 €
+2025-04-25 12:20:30,074 - INFO - Updated JSON with 126 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:20:30,074 - INFO - [117] Visiting: https://www.backmarket.de/de-de/p/asus-vivobook-16-x1605za-mb416w-16-pentium-gold-33-ghz-ssd-512-gb-8gb-qwertz-deutsch/c25a4f5e-802d-43ea-a421-bf252795bf57
+2025-04-25 12:20:54,801 - INFO - [117] Extracted: None - None
+2025-04-25 12:20:55,023 - INFO - Updated JSON with 127 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:20:55,287 - INFO - [118] Visiting: https://www.backmarket.de/de-de/p/asus-vivobook-f1504za-nj790-15-core-i3-33-ghz-ssd-512-gb-8gb-qwerty-spanisch/04ae8b2c-63a7-4d08-a5fd-a3569ca7272e
+2025-04-25 12:21:18,804 - INFO - [118] Extracted: Asus VivoBook F1504ZA-NJ790 15" Core i3 3.3 GHz - SSD 512 GB - 8GB QWERTY - Spanisch - 319,99 €
+2025-04-25 12:21:18,815 - INFO - Updated JSON with 128 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:21:18,815 - INFO - [119] Visiting: https://www.backmarket.de/de-de/p/asus-vivobook-f515ea-bq2542w-15-17-ghz-512-gb-ssd-8gb-qwertz-deutsch/062cb7d9-5444-47a9-8121-9b93693f7bc6
+2025-04-25 12:21:39,509 - INFO - [119] Extracted: None - None
+2025-04-25 12:21:39,519 - INFO - Updated JSON with 129 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:21:39,521 - INFO - [120] Visiting: https://www.backmarket.de/de-de/p/asus-vivobook-k513ea-l11253t-as-k513e-1135g70005da12gspx513ea-2sl1wocvwaca20-15-i5-1135g7-2-ghz-ssd-512-gb-12gb-qwerty-spanisch/ab506b87-2fbb-4c55-92bc-527d98d6dbc8
+2025-04-25 12:21:58,552 - INFO - [120] Extracted: Asus VivoBook K513EA-L11253T AS K513E 15" Core i5 2.4 GHz - SSD 512 GB - 12GB QWERTY - Spanisch - 550,00 €
+2025-04-25 12:21:58,564 - INFO - Updated JSON with 130 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:21:58,565 - INFO - [121] Visiting: https://www.backmarket.de/de-de/p/asus-vivobook-n705u-17-core-i7-18-ghz-ssd-256-gb-hdd-1-tb-16gb-qwertz-deutsch/83660a1e-5b5f-4c73-a3df-dc4f09edde14
+2025-04-25 12:22:20,043 - INFO - [121] Extracted: None - None
+2025-04-25 12:22:20,182 - INFO - Updated JSON with 131 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:22:20,235 - INFO - [122] Visiting: https://www.backmarket.de/de-de/p/asus-vivobook-p1501ua-15-core-i3-24-ghz-ssd-256-gb-8gb-azerty-franzosisch/b47f337c-4ca2-49cb-acc5-a16b6ee7c1bf
+2025-04-25 12:22:40,161 - INFO - [122] Extracted: None - None
+2025-04-25 12:22:40,169 - INFO - Updated JSON with 132 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:22:40,170 - INFO - [123] Visiting: https://www.backmarket.de/de-de/p/asus-vivobook-pro-15-oled-k3500pc-l1293-15-i5-11300h-2-ghz-ssd-512-gb-16gb-qwerty-spanisch/3adfb7d8-b777-490c-8a8c-317d1cad4cd9
+2025-04-25 12:23:00,165 - INFO - [123] Extracted: None - None
+2025-04-25 12:23:00,173 - INFO - Updated JSON with 133 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:23:00,177 - INFO - [124] Visiting: https://www.backmarket.de/de-de/p/asus-vivobook-pro-15-oled-n6506mu-ma029-15-core-ultra-2-ghz-ssd-1000-gb-16gb-qwerty-spanisch/7d9669b2-b0a2-461f-a151-c9380f7b4dbd
+2025-04-25 12:23:19,158 - INFO - [124] Extracted: Asus VivoBook Pro 15 OLED N6506MU-MA029 15" Core Ultra 2 GHz - SSD 1000 GB - 16GB QWERTY - Spanisch - 899,99 €
+2025-04-25 12:23:19,219 - INFO - Updated JSON with 134 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:23:19,262 - INFO - [125] Visiting: https://www.backmarket.de/de-de/p/asus-vivobook-r415fa-ek054t-14-core-i5-16-ghz-ssd-512-gb-8gb-azerty-franzosisch/a7ac43f2-0009-407d-80b7-1d5c4915e966
+2025-04-25 12:23:39,597 - INFO - [125] Extracted: Asus VivoBook R415FA-EK054T 14" Core i5 1.6 GHz - SSD 512 GB - 8GB AZERTY - Französisch - 650,00 €
+2025-04-25 12:23:39,893 - INFO - Updated JSON with 135 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:23:40,130 - INFO - [126] Visiting: https://www.backmarket.de/de-de/p/asus-vivobook-s-14-m5406-m5406ua-qd048w-amd-ryzen-9-8945hs-32go-1to-ssd-14-2-ghz-ssd-1000-gb-32gb-qwerty-arabisch/afcde4d4-a709-467f-8795-d3fe6bbc3bfe
+2025-04-25 12:24:02,126 - INFO - [126] Extracted: None - None
+2025-04-25 12:24:02,139 - INFO - Updated JSON with 136 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:24:02,140 - INFO - [127] Visiting: https://www.backmarket.de/de-de/p/asus-vivobook-s14-m433-14-2-ghz-ssd-512-gb-8gb-azerty-franzosisch/bebbe183-0d31-4c81-a1eb-66c550283c4e
+2025-04-25 12:24:20,657 - INFO - [127] Extracted: None - None
+2025-04-25 12:24:20,670 - INFO - Updated JSON with 137 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:24:20,670 - INFO - [128] Visiting: https://www.backmarket.de/de-de/p/asus-vivobook-s432f-13-core-i7-18-ghz-ssd-256-gb-8gb-azerty-franzosisch/8a884184-a51c-4017-b525-79e821314061
+2025-04-25 12:24:42,299 - INFO - [128] Extracted: Asus VivoBook S432F 13" Core i7 1.8 GHz - SSD 256 GB - 8GB AZERTY - Französisch - 419,00 €
+2025-04-25 12:24:42,369 - INFO - Updated JSON with 138 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:24:42,506 - INFO - [129] Visiting: https://www.backmarket.de/de-de/p/asus-vivobook-x1605ea-mb152w-16-core-i7-3-ghz-ssd-1000-gb-24gb-azerty-franzosisch/42b0142a-f15a-46c3-999b-b3b9c2a667c0
+2025-04-25 12:25:02,475 - INFO - [129] Extracted: None - None
+2025-04-25 12:25:02,484 - INFO - Updated JSON with 139 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:25:02,485 - INFO - [130] Visiting: https://www.backmarket.de/de-de/p/asus-vivobook-x415jab-14-core-i5-12-ghz-ssd-256-gb-8gb-azerty-franzosisch/09ec5c74-6352-4079-b4b3-d56ec5b60dee
+2025-04-25 12:25:19,284 - INFO - [130] Extracted: Asus VivoBook X415JAB 14" Core i5 1.2 GHz - SSD 256 GB - 8GB AZERTY - Französisch - 464,40 €
+2025-04-25 12:25:19,288 - INFO - Updated JSON with 140 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:25:19,289 - INFO - [131] Visiting: https://www.backmarket.de/de-de/p/asus-vivobook-x510q-15-a12-27-ghz-ssd-128-gb-hdd-1-tb-4gb-azerty-franzosisch/592d799c-13de-404e-9c16-52336e8b0d1b
+2025-04-25 12:25:37,226 - INFO - [131] Extracted: Asus VivoBook X510Q 15" A12 2.7 GHz - SSD 128 GB + HDD 1 TB - 4GB AZERTY - Französisch - 459,00 €
+2025-04-25 12:25:37,229 - INFO - Updated JSON with 141 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:25:37,232 - INFO - [132] Visiting: https://www.backmarket.de/de-de/p/asus-zenbook-14-ux3402ya-oled-5w-14-amd-ryzen-7-5825u-2-ghz-ssd-1000-gb-16gb-qwerty-arabisch/75db45ad-d28e-42bc-b6e5-c3d72e73368f
+2025-04-25 12:25:55,122 - INFO - [132] Extracted: None - None
+2025-04-25 12:25:55,129 - INFO - Updated JSON with 142 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:25:55,133 - INFO - [133] Visiting: https://www.backmarket.de/de-de/p/asus-zenbook-14-ux425ea-hm038t-14-intel-core-i5-ghz-ssd-512-gb-8gb/6b3cdc98-f103-4f1f-9de8-b0960db93dba
+2025-04-25 12:26:13,314 - INFO - [133] Extracted: None - None
+2025-04-25 12:26:13,324 - INFO - Updated JSON with 143 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:26:13,324 - INFO - [134] Visiting: https://www.backmarket.de/de-de/p/asus-zenbook-14-ux431fac-14-core-i5-16-ghz-ssd-256-gb-8gb-azerty-franzosisch/17a14ded-a0f2-4b25-8b83-2428d82cd8f7
+2025-04-25 12:26:29,685 - INFO - [134] Extracted: None - None
+2025-04-25 12:26:29,756 - INFO - Updated JSON with 144 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:26:29,888 - INFO - [135] Visiting: https://www.backmarket.de/de-de/p/asus-zenbook-14-ux434fac-14-core-i5-16-ghz-ssd-512-gb-8gb-qwertz-deutsch/2017a8da-f851-4da1-b3cd-28cee533f8f0
+2025-04-25 12:26:48,957 - INFO - [135] Extracted: None - None
+2025-04-25 12:26:48,957 - INFO - Updated JSON with 145 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:26:48,960 - INFO - [136] Visiting: https://www.backmarket.de/de-de/p/asus-zenbook-14x-oled-ux5400eg-oled007w-14-core-i7-28-ghz-ssd-1000-gb-16gb-azerty-arabisch/9d03e8f9-a48f-41c9-a42f-8dab902f0fa2
+2025-04-25 12:27:06,862 - INFO - [136] Extracted: None - None
+2025-04-25 12:27:06,963 - INFO - Updated JSON with 146 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:27:07,065 - INFO - [137] Visiting: https://www.backmarket.de/de-de/p/asus-zenbook-14x-oled-ux5401zas-kn014w-14-core-i7-23-ghz-ssd-512-gb-16gb-azerty-franzosisch/29864cbf-d0e5-4c81-8b61-0f95fa7ad2b4
+2025-04-25 12:27:27,520 - INFO - [137] Extracted: None - None
+2025-04-25 12:27:27,534 - INFO - Updated JSON with 147 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:27:27,540 - INFO - [138] Visiting: https://www.backmarket.de/de-de/p/asus-zenbook-flip-ux562fa-ac023r-15-core-i5-16-ghz-ssd-512-gb-8gb-azerty-franzosisch/a6606f5f-88d5-408d-8a11-4f16d7800f49
+2025-04-25 12:27:46,539 - INFO - [138] Extracted: None - None
+2025-04-25 12:27:46,546 - INFO - Updated JSON with 148 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:27:46,547 - INFO - [139] Visiting: https://www.backmarket.de/de-de/p/asus-zenbook-ux325e-13-core-i7-28-ghz-ssd-1000-gb-16gb-azerty-franzosisch/a5cacbd0-ae2c-40a9-8dd2-cb32d53f1cb6
+2025-04-25 12:28:02,744 - INFO - [139] Extracted: None - None
+2025-04-25 12:28:02,766 - INFO - Updated JSON with 149 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:28:02,790 - INFO - [140] Visiting: https://www.backmarket.de/de-de/p/asus-zenbook-ux333fac-a3102r-13-core-i5-16-ghz-ssd-1000-gb-8gb-azerty-franzosisch/a8d52b15-64d0-4d8c-ad5c-3148789c32f9
+2025-04-25 12:28:21,215 - INFO - [140] Extracted: Asus ZenBook UX333FAC-A3102R 13" Core i5 1.6 GHz - SSD 1000 GB - 8GB AZERTY - Französisch - 905,00 €
+2025-04-25 12:28:21,245 - INFO - Updated JSON with 150 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:28:21,291 - INFO - [141] Visiting: https://www.backmarket.de/de-de/p/asus-zenbook-ux433fac-14-core-i5-16-ghz-ssd-512-gb-8gb-azerty-franzosisch/b9659a57-bea1-4c7a-9ce9-f28c021c3f61
+2025-04-25 12:28:40,959 - INFO - [141] Extracted: Asus ZenBook UX433FAC 14" Core i5 1.6 GHz - SSD 512 GB - 8GB AZERTY - Französisch - 499,00 €
+2025-04-25 12:28:40,963 - INFO - Updated JSON with 151 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:28:40,967 - INFO - [142] Visiting: https://www.backmarket.de/de-de/p/bildschirm-14-lcd-hp-t6n32aaabb/83d58d94-b21d-47e5-ad1a-30eeeae48c80
+2025-04-25 12:28:59,162 - INFO - [142] Extracted: Bildschirm 14" LCD HP L7014T - 183,00 €
+2025-04-25 12:28:59,242 - INFO - Updated JSON with 152 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:28:59,281 - INFO - [143] Visiting: https://www.backmarket.de/de-de/p/bildschirm-15-lcd-samsung-lh015ierklsen/5a5192ba-bfc1-4352-91a7-af1e90c174d3
+2025-04-25 12:29:16,870 - INFO - [143] Extracted: Bildschirm 15" LCD Samsung LH015IERKLS/EN - 583,19 €
+2025-04-25 12:29:16,875 - INFO - Updated JSON with 153 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:29:16,875 - INFO - [144] Visiting: https://www.backmarket.de/de-de/p/bildschirm-15-led-lenovo-thinkpad-l152/d7d9cbd6-8ec6-4071-b211-bc9599953494
+2025-04-25 12:29:35,034 - INFO - [144] Extracted: Bildschirm 15" LED Lenovo ThinkPad L152 - 273,60 €
+2025-04-25 12:29:35,037 - INFO - Updated JSON with 154 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:29:35,037 - INFO - [145] Visiting: https://www.backmarket.de/de-de/p/bildschirm-17-lcd-hd-acer-al1751a/e6640bcf-1b2b-4bf7-910a-a0fcd8695de7
+2025-04-25 12:29:51,082 - INFO - [145] Extracted: Bildschirm 17" LCD HD Acer AL1751A - 82,00 €
+2025-04-25 12:29:51,089 - INFO - Updated JSON with 155 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:29:51,089 - INFO - [146] Visiting: https://www.backmarket.de/de-de/p/bildschirm-17-lcd-hd-samsung-710tm/f0d20798-cd77-4080-93eb-5c7d9e674d15
+2025-04-25 12:30:08,559 - INFO - [146] Extracted: Bildschirm 17" LCD HD Samsung 710TM - 58,00 €
+2025-04-25 12:30:08,769 - INFO - Updated JSON with 156 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:30:08,930 - INFO - [147] Visiting: https://www.backmarket.de/de-de/p/bildschirm-17-lcd-lcd-acer-al1715/cda30eff-7433-43d9-b6b9-bb4f443f6c87
+2025-04-25 12:30:28,876 - INFO - [147] Extracted: Bildschirm 17" LCD LCD Acer AL1715 - 58,00 €
+2025-04-25 12:30:28,876 - INFO - Updated JSON with 157 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:30:28,876 - INFO - [148] Visiting: https://www.backmarket.de/de-de/p/bildschirm-17-lcd-samsung-syncmaster-710v/625431bb-f751-4749-b041-415025576ff7
+2025-04-25 12:30:46,933 - INFO - [148] Extracted: Bildschirm 17" LCD Samsung SyncMaster 710V - 58,00 €
+2025-04-25 12:30:46,934 - INFO - Updated JSON with 158 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:30:46,934 - INFO - [149] Visiting: https://www.backmarket.de/de-de/p/bildschirm-17-lcd-svga-dell-ultrasharp-1707fpt/526fc5ef-b51f-493e-8983-a1c33819cc7b
+2025-04-25 12:31:04,677 - INFO - [149] Extracted: Bildschirm 17" LCD SVGA Dell UltraSharp 1707FPT - 51,38 €
+2025-04-25 12:31:04,683 - INFO - Updated JSON with 159 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:31:04,683 - INFO - [150] Visiting: https://www.backmarket.de/de-de/p/bildschirm-17-lcd-sxga-acer-al1716s/a3ef00eb-b10b-4c04-be0d-f33c2228e292
+2025-04-25 12:31:24,566 - INFO - [150] Extracted: None - None
+2025-04-25 12:31:24,609 - INFO - Updated JSON with 160 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:31:24,650 - INFO - [151] Visiting: https://www.backmarket.de/de-de/p/bildschirm-17-lcd-sxga-dell-1708fpf/c2e789d7-7c76-431f-a18e-59323df90e72
+2025-04-25 12:31:42,501 - INFO - [151] Extracted: None - None
+2025-04-25 12:31:42,604 - INFO - Updated JSON with 161 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:31:42,640 - INFO - [152] Visiting: https://www.backmarket.de/de-de/p/bildschirm-17-lcd-sxga-hp-l1706/e1ba9c1a-c86a-4384-a97a-5f7917eac44e
+2025-04-25 12:32:01,098 - INFO - [152] Extracted: Bildschirm 17" LCD SXGA HP L1706 - 80,00 €
+2025-04-25 12:32:01,098 - INFO - Updated JSON with 162 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:32:01,098 - INFO - [153] Visiting: https://www.backmarket.de/de-de/p/bildschirm-17-lcd-sxga-hp-l1740/f8b9c1f2-ec9f-424e-b785-ad32c9ac282c
+2025-04-25 12:32:19,212 - INFO - [153] Extracted: None - None
+2025-04-25 12:32:19,212 - INFO - Updated JSON with 163 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:32:19,212 - INFO - [154] Visiting: https://www.backmarket.de/de-de/p/bildschirm-18-lcd-sxga-hp-elitedisplay-e190i/431d7f14-6eee-4f20-a7dd-dee01ea5a694
+2025-04-25 12:32:40,569 - INFO - [154] Extracted: Bildschirm 18" LCD SXGA HP EliteDisplay E190I - 162,95 €
+2025-04-25 12:32:40,578 - INFO - Updated JSON with 164 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:32:40,579 - INFO - [155] Visiting: https://www.backmarket.de/de-de/p/bildschirm-18-lcd-wxga-benq-g925hda/e223ef14-30be-4728-ad35-a6847f8c1efb
+2025-04-25 12:32:58,816 - INFO - [155] Extracted: Bildschirm 18" LCD WXGA Benq G925HDA - 70,00 €
+2025-04-25 12:32:58,820 - INFO - Updated JSON with 165 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:32:58,820 - INFO - [156] Visiting: https://www.backmarket.de/de-de/p/bildschirm-18-plasma-acer-v196hql-ab/5c1743eb-931f-41c5-a7c2-8d2c18f50c38
+2025-04-25 12:33:17,160 - INFO - [156] Extracted: Bildschirm 18" LED HD Acer V196HQL AB - 162,46 €
+2025-04-25 12:33:17,180 - INFO - Updated JSON with 166 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:33:17,180 - INFO - [157] Visiting: https://www.backmarket.de/de-de/p/bildschirm-19-lcd-hd-viewsonic-va1912/223613a0-82f5-4eeb-8cb4-ec9287e10c34
+2025-04-25 12:33:35,064 - INFO - [157] Extracted: Bildschirm 19" LCD HD ViewSonic VA1912 - 80,00 €
+2025-04-25 12:33:35,064 - INFO - Updated JSON with 167 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:33:35,064 - INFO - [158] Visiting: https://www.backmarket.de/de-de/p/bildschirm-19-lcd-hp-elitedisplay/9eeedc95-adf8-46cb-8e96-694bb4743ee6
+2025-04-25 12:33:52,223 - INFO - [158] Extracted: Bildschirm 19" LCD SXGA HP EliteDisplay E190i - 162,95 €
+2025-04-25 12:33:52,228 - INFO - Updated JSON with 168 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:33:52,232 - INFO - [159] Visiting: https://www.backmarket.de/de-de/p/bildschirm-19-lcd-hp-la1905wg/6accce24-6244-4685-bdcc-249a1feb704a
+2025-04-25 12:34:09,479 - INFO - [159] Extracted: Bildschirm 19" LCD HP LA1905WG - 59,00 €
+2025-04-25 12:34:09,489 - INFO - Updated JSON with 169 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:34:09,489 - INFO - [160] Visiting: https://www.backmarket.de/de-de/p/bildschirm-19-lcd-hp-v185ws/ed7e0ddf-1d36-4405-99ed-3cd83a4ec63e
+2025-04-25 12:34:29,246 - INFO - [160] Extracted: Bildschirm 19" LCD HP V185WS - 80,00 €
+2025-04-25 12:34:29,246 - INFO - Updated JSON with 170 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:34:29,246 - INFO - [161] Visiting: https://www.backmarket.de/de-de/p/bildschirm-19-lcd-sxga-acer-b196l/5128e90a-8885-4914-b8c5-1be795ac982f
+2025-04-25 12:34:46,668 - INFO - [161] Extracted: None - None
+2025-04-25 12:34:46,668 - INFO - Updated JSON with 171 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:34:46,668 - INFO - [162] Visiting: https://www.backmarket.de/de-de/p/bildschirm-19-lcd-sxga-dell-1908fpb/0c80e427-4819-4c31-8a61-dc3b02220a87
+2025-04-25 12:35:04,645 - INFO - [162] Extracted: Bildschirm 19" LCD SXGA Dell 1908FPB - 99,00 €
+2025-04-25 12:35:04,690 - INFO - Updated JSON with 172 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:35:04,702 - INFO - [163] Visiting: https://www.backmarket.de/de-de/p/bildschirm-19-lcd-sxga-hp-elitedisplay-e190i/9af72f03-3b20-42ad-81a8-6f50f2d648a8
+2025-04-25 12:35:22,632 - INFO - [163] Extracted: Bildschirm 19" LCD SXGA HP EliteDisplay E190I - 162,95 €
+2025-04-25 12:35:22,641 - INFO - Updated JSON with 173 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:35:22,643 - INFO - [164] Visiting: https://www.backmarket.de/de-de/p/bildschirm-19-lcd-sxga-hp-l1940t/c2a5323c-8463-4587-8868-ec3d7d709371
+2025-04-25 12:35:39,299 - INFO - [164] Extracted: Bildschirm 19" LCD SXGA HP L1940T - 70,00 €
+2025-04-25 12:35:39,304 - INFO - Updated JSON with 174 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:35:39,309 - INFO - [165] Visiting: https://www.backmarket.de/de-de/p/bildschirm-19-lcd-sxga-samsung-b1940mr/58564182-f45e-4012-bca0-3a5b44d12428
+2025-04-25 12:35:56,000 - INFO - [165] Extracted: Bildschirm 19" LCD SXGA Samsung B1940MR - 70,00 €
+2025-04-25 12:35:56,000 - INFO - Updated JSON with 175 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:35:56,006 - INFO - [166] Visiting: https://www.backmarket.de/de-de/p/bildschirm-19-lcd-sxga-viewsonic-va926w/39f66144-5dd8-43e2-8e98-3393ac5d11ab
+2025-04-25 12:36:12,198 - INFO - [166] Extracted: Bildschirm 19" LCD SXGA Viewsonic VA926W - 80,00 €
+2025-04-25 12:36:12,198 - INFO - Updated JSON with 176 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:36:12,198 - INFO - [167] Visiting: https://www.backmarket.de/de-de/p/bildschirm-19-lcd-wsxga-samsung-syncmaster-943nw/ab1443f8-01c0-4158-ab63-264a42b51e9d
+2025-04-25 12:36:29,067 - INFO - [167] Extracted: None - None
+2025-04-25 12:36:29,075 - INFO - Updated JSON with 177 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:36:29,075 - INFO - [168] Visiting: https://www.backmarket.de/de-de/p/bildschirm-19-lcd-wxga-acer-al1916w/1d6f1812-25cb-4156-811b-3dceaf187c2e
+2025-04-25 12:36:47,397 - INFO - [168] Extracted: Bildschirm 19" LCD WXGA+ Acer AL1916W - 84,15 €
+2025-04-25 12:36:47,411 - INFO - Updated JSON with 178 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:36:47,426 - INFO - [169] Visiting: https://www.backmarket.de/de-de/p/bildschirm-19-lcd-wxga-acer-b193w-gjbmdh/078c34c8-3f49-4ffa-81bf-4ef7bfde110e
+2025-04-25 12:37:03,617 - INFO - [169] Extracted: Bildschirm 19" LCD WXGA+ Acer B193W GJbmdh - 70,00 €
+2025-04-25 12:37:03,622 - INFO - Updated JSON with 179 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:37:03,622 - INFO - [170] Visiting: https://www.backmarket.de/de-de/p/bildschirm-19-lcd-wxga-acer-v193b/98665296-5eac-4dcd-8a01-d0e286ec54df
+2025-04-25 12:37:22,994 - INFO - [170] Extracted: Bildschirm 19" LCD WXGA+ Acer V193b - 80,00 €
+2025-04-25 12:37:23,084 - INFO - Updated JSON with 180 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:37:23,109 - INFO - [171] Visiting: https://www.backmarket.de/de-de/p/bildschirm-19-lcd-wxga-dell-e1911f/6cfb8eaa-4825-49b8-9012-7ebcf1ca0322
+2025-04-25 12:37:42,751 - INFO - [171] Extracted: Bildschirm 19" LCD WXGA+ Dell E1911F - 82,00 €
+2025-04-25 12:37:42,751 - INFO - Updated JSON with 181 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:37:42,751 - INFO - [172] Visiting: https://www.backmarket.de/de-de/p/bildschirm-19-lcd-wxga-dell-e198wfp/10d8eae6-dfd3-45fe-82a9-e956e47d227a
+2025-04-25 12:38:01,308 - INFO - [172] Extracted: Bildschirm 19" LCD WXGA+ Dell E198WFP - 70,00 €
+2025-04-25 12:38:01,389 - INFO - Updated JSON with 182 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:38:01,491 - INFO - [173] Visiting: https://www.backmarket.de/de-de/p/bildschirm-19-lcd-wxga-dell-ultrasharp-1909wf/49208c72-ff4b-4de3-b9ce-3a109920e165
+2025-04-25 12:38:20,420 - INFO - [173] Extracted: Bildschirm 19" LCD WXGA+ Dell UltraSharp 1909WF - 89,00 €
+2025-04-25 12:38:20,429 - INFO - Updated JSON with 183 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:38:20,430 - INFO - [174] Visiting: https://www.backmarket.de/de-de/p/bildschirm-19-lcd-wxga-hp-compaq-la1905wg/3340f30d-e1ed-40c4-b9d4-1b8c14b0893d
+2025-04-25 12:38:39,030 - INFO - [174] Extracted: None - None
+2025-04-25 12:38:39,030 - INFO - Updated JSON with 184 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:38:39,030 - INFO - [175] Visiting: https://www.backmarket.de/de-de/p/bildschirm-19-lcd-wxga-hp-l1906/8dc9bb8c-1e89-4693-9282-fdb7e02b8e01
+2025-04-25 12:38:56,803 - INFO - [175] Extracted: Bildschirm 19" LCD WXGA HP L1906 - 70,00 €
+2025-04-25 12:38:56,813 - INFO - Updated JSON with 185 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:38:56,817 - INFO - [176] Visiting: https://www.backmarket.de/de-de/p/bildschirm-19-led-acer-b206wqlymdh-20-wxga/9b1188a1-9d33-4751-bc95-5edf4379f540
+2025-04-25 12:39:15,345 - INFO - [176] Extracted: Bildschirm 19" LED WXGA+ Acer B206WQLYMDH - 94,00 €
+2025-04-25 12:39:15,450 - INFO - Updated JSON with 186 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:39:15,699 - INFO - [177] Visiting: https://www.backmarket.de/de-de/p/bildschirm-19-led-fhd-samsung-s19e450bw/2202091e-b5eb-4842-b9cb-5d263cd8d2b6
+2025-04-25 12:39:35,260 - INFO - [177] Extracted: Bildschirm 19" LED FHD Samsung S19E450BW - 88,00 €
+2025-04-25 12:39:35,264 - INFO - Updated JSON with 187 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:39:35,268 - INFO - [178] Visiting: https://www.backmarket.de/de-de/p/bildschirm-19-led-hd-samsung-s19e450-senza-base/3bd8187d-75e5-4778-8bff-d42753ca5f0a
+2025-04-25 12:39:53,083 - INFO - [178] Extracted: Bildschirm 19" LED HD Samsung S19E450 SENZA BASE - 76,00 €
+2025-04-25 12:39:53,088 - INFO - Updated JSON with 188 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:39:53,088 - INFO - [179] Visiting: https://www.backmarket.de/de-de/p/bildschirm-19-led-hd-viewsonic-va1931wa/0f571dd7-c5d3-44c9-9801-70eba393721b
+2025-04-25 12:40:09,384 - INFO - [179] Extracted: Bildschirm 19" LED HD Viewsonic VA1931wa - 79,00 €
+2025-04-25 12:40:09,384 - INFO - Updated JSON with 189 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:40:09,384 - INFO - [180] Visiting: https://www.backmarket.de/de-de/p/bildschirm-19-led-hp-compaq-la1951g-lcd-19-ecran/758b889d-52bb-4c34-8497-be07038372bf
+2025-04-25 12:40:28,830 - INFO - [180] Extracted: None - None
+2025-04-25 12:40:28,836 - INFO - Updated JSON with 190 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:40:28,840 - INFO - [181] Visiting: https://www.backmarket.de/de-de/p/bildschirm-19-led-lcd-dell-p1913sf-19/99398830-8ffd-4629-ae59-693359bef3a5
+2025-04-25 12:40:47,324 - INFO - [181] Extracted: None - None
+2025-04-25 12:40:47,372 - INFO - Updated JSON with 191 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:40:47,384 - INFO - [182] Visiting: https://www.backmarket.de/de-de/p/bildschirm-20-lcd-dell-e207wfp/ba400140-410e-4b1d-a46d-3e4c228e8b3a
+2025-04-25 12:41:07,087 - INFO - [182] Extracted: Bildschirm 20" LCD Dell E207WFP - 94,00 €
+2025-04-25 12:41:07,187 - INFO - Updated JSON with 192 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:41:07,260 - INFO - [183] Visiting: https://www.backmarket.de/de-de/p/bildschirm-20-lcd-dell-ecran-e2013hc-grade-a/632c6128-7e52-43d2-8da3-3500c6fbacbb
+2025-04-25 12:41:27,721 - INFO - [183] Extracted: Bildschirm 20" LCD HD+ Dell E2013HC - 84,99 €
+2025-04-25 12:41:27,721 - INFO - Updated JSON with 193 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:41:27,730 - INFO - [184] Visiting: https://www.backmarket.de/de-de/p/bildschirm-20-lcd-ecran-pc-gamer-iiyama-g-master-red-eagle-gb2470hsu-b1-238-fhd-dalle-ips-08-ms-165-hz-hdmi-displayport-freesync/4a02c186-b918-4391-bb0d-3d89b645f693
+2025-04-25 12:41:43,910 - INFO - [184] Extracted: Bildschirm 23" LCD FHD Iiyama G-Master Red Eagle GB2470HSU-B1 - 260,00 €
+2025-04-25 12:41:43,920 - INFO - Updated JSON with 194 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:41:43,920 - INFO - [185] Visiting: https://www.backmarket.de/de-de/p/bildschirm-20-lcd-fhd-dell-e2016hb/b96033b6-7e63-40cb-8d95-964b30fff336
+2025-04-25 12:42:02,160 - INFO - [185] Extracted: Bildschirm 20" LCD FHD Dell E2016HB - 89,00 €
+2025-04-25 12:42:02,171 - INFO - Updated JSON with 195 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:42:02,223 - INFO - [186] Visiting: https://www.backmarket.de/de-de/p/bildschirm-20-lcd-fhd-dell-p2012ht/a2655a17-3760-4816-a0a9-5f4040ae1072
+2025-04-25 12:42:20,869 - INFO - [186] Extracted: Bildschirm 20" LCD FHD Dell P2012HT - 79,00 €
+2025-04-25 12:42:21,034 - INFO - Updated JSON with 196 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:42:21,153 - INFO - [187] Visiting: https://www.backmarket.de/de-de/p/bildschirm-20-lcd-fhd-hp-w2007v/c25af68b-e449-4f2d-8257-c6eae3a89a0e
+2025-04-25 12:42:38,095 - INFO - [187] Extracted: Bildschirm 20" LCD FHD HP W2007V - 79,00 €
+2025-04-25 12:42:38,218 - INFO - Updated JSON with 197 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:42:38,346 - INFO - [188] Visiting: https://www.backmarket.de/de-de/p/bildschirm-20-lcd-hd-dell-e2016h/1784763e-d736-4a74-a1d7-193749996236
+2025-04-25 12:42:58,090 - INFO - [188] Extracted: Bildschirm 20" LCD HD+ Dell E2016H - 74,00 €
+2025-04-25 12:42:58,094 - INFO - Updated JSON with 198 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:42:58,095 - INFO - [189] Visiting: https://www.backmarket.de/de-de/p/bildschirm-20-lcd-hd-hp-elite-display-e201/8877fdce-0a62-4830-9f54-8633a1d2fba9
+2025-04-25 12:43:15,602 - INFO - [189] Extracted: None - None
+2025-04-25 12:43:15,606 - INFO - Updated JSON with 199 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:43:15,607 - INFO - [190] Visiting: https://www.backmarket.de/de-de/p/bildschirm-20-led-hd-hp-elitedisplay-e202/59a16d80-bc25-4e93-ad52-352a007d0d48
+2025-04-25 12:43:32,024 - INFO - [190] Extracted: Bildschirm 20" LED HD+ HP EliteDisplay E202 - 168,95 €
+2025-04-25 12:43:32,028 - INFO - Updated JSON with 200 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:43:32,029 - INFO - [191] Visiting: https://www.backmarket.de/de-de/p/bildschirm-20-led-hd-hp-x7r53aa/0b500346-2779-4c91-8403-edb94ee0de14
+2025-04-25 12:43:51,375 - INFO - [191] Extracted: Bildschirm 20" LED HD+ HP X7R53AA - 70,20 €
+2025-04-25 12:43:51,440 - INFO - Updated JSON with 201 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:43:51,471 - INFO - [192] Visiting: https://www.backmarket.de/de-de/p/bildschirm-20-led-hp-prodisplay-p201-20-hd-grade-b/66ea739b-494d-44a6-af35-151ca0361b91
+2025-04-25 12:44:12,011 - INFO - [192] Extracted: Bildschirm 20" LED HP ProDisplay P201 - 80,00 €
+2025-04-25 12:44:12,017 - INFO - Updated JSON with 202 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:44:12,017 - INFO - [193] Visiting: https://www.backmarket.de/de-de/p/bildschirm-21-lcd-dell-p2211ht/88b38f20-281a-4109-a72f-48be10f92b60
+2025-04-25 12:44:31,876 - INFO - [193] Extracted: Bildschirm 21" LCD Dell P2211HT - 80,00 €
+2025-04-25 12:44:31,987 - INFO - Updated JSON with 203 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:44:32,098 - INFO - [194] Visiting: https://www.backmarket.de/de-de/p/bildschirm-21-lcd-fhd-dell-p2219h/ba4e0f5c-6cfb-4903-b6b8-817f23fa20b7
+2025-04-25 12:44:52,822 - INFO - [194] Extracted: Bildschirm 21" LCD FHD Dell P2219H - 108,00 €
+2025-04-25 12:44:52,828 - INFO - Updated JSON with 204 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:44:52,829 - INFO - [195] Visiting: https://www.backmarket.de/de-de/p/bildschirm-21-lcd-fhd-hp-7uz36aaabb/ecca0142-7836-4917-8a8e-fa62bbaeb805
+2025-04-25 12:45:11,073 - INFO - [195] Extracted: Bildschirm 21" LED FHD HP P22H - 138,00 €
+2025-04-25 12:45:11,189 - INFO - Updated JSON with 205 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:45:11,323 - INFO - [196] Visiting: https://www.backmarket.de/de-de/p/bildschirm-21-lcd-fhd-hp-p223a/6b6be4c7-0e2d-4d46-8854-fcf311c2fccc
+2025-04-25 12:45:28,991 - INFO - [196] Extracted: None - None
+2025-04-25 12:45:28,994 - INFO - Updated JSON with 206 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:45:28,994 - INFO - [197] Visiting: https://www.backmarket.de/de-de/p/bildschirm-21-lcd-fhd-hp-p22h-g4/4e96c633-e94a-480f-ab1c-28cec8ca022c
+2025-04-25 12:45:47,575 - INFO - [197] Extracted: Bildschirm 21" LCD FHD HP P22H G4 - 129,00 €
+2025-04-25 12:45:47,582 - INFO - Updated JSON with 207 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:45:47,583 - INFO - [198] Visiting: https://www.backmarket.de/de-de/p/bildschirm-21-lcd-fhd-lg-flatron-w2246s/12792c1a-4e65-40e8-98b4-2a71352ded87
+2025-04-25 12:46:05,933 - INFO - [198] Extracted: Bildschirm 21" LCD FHD LG Flatron W2246S - 69,00 €
+2025-04-25 12:46:06,065 - INFO - Updated JSON with 208 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:46:06,174 - INFO - [199] Visiting: https://www.backmarket.de/de-de/p/bildschirm-21-lcd-fhd-lg-w2243t-pf/c9c5944f-e622-4cef-81ba-51cb0c7a733f
+2025-04-25 12:46:25,580 - INFO - [199] Extracted: Bildschirm 21" LCD FHD LG W2243T-PF - 69,00 €
+2025-04-25 12:46:25,587 - INFO - Updated JSON with 209 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:46:25,587 - INFO - [200] Visiting: https://www.backmarket.de/de-de/p/bildschirm-21-lcd-hp-elitedisplay-e222/0a32f724-414c-4a40-9a0b-a492023e6adc
+2025-04-25 12:46:43,232 - INFO - [200] Extracted: Bildschirm 21" LCD HP EliteDisplay E222 - 99,95 €
+2025-04-25 12:46:43,238 - INFO - Updated JSON with 210 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:46:43,239 - INFO - [201] Visiting: https://www.backmarket.de/de-de/p/bildschirm-21-lcd-hp-prodisplay-p221/ef134861-4f49-4890-a226-b2b6bc8afe1c
+2025-04-25 12:46:58,961 - INFO - [201] Extracted: Bildschirm 21" LCD HP ProDisplay P221 - 73,95 €
+2025-04-25 12:46:58,966 - INFO - Updated JSON with 211 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:46:58,967 - INFO - [202] Visiting: https://www.backmarket.de/de-de/p/bildschirm-21-lcd-hp-vh22-grade-a/e243fd67-a80b-4799-9912-b0c50c5eea37
+2025-04-25 12:47:17,915 - INFO - [202] Extracted: Bildschirm 21" LCD FHD HP VH22 - 90,00 €
+2025-04-25 12:47:18,051 - INFO - Updated JSON with 212 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:47:18,189 - INFO - [203] Visiting: https://www.backmarket.de/de-de/p/bildschirm-21-led-acer-s220hql/d943be20-1af1-473e-822b-a5e65587d7dd
+2025-04-25 12:47:39,226 - INFO - [203] Extracted: Bildschirm 21" LED FHD Acer S220HQL - 120,00 €
+2025-04-25 12:47:39,230 - INFO - Updated JSON with 213 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:47:39,231 - INFO - [204] Visiting: https://www.backmarket.de/de-de/p/bildschirm-21-led-fhd-dell-p2217h/38258811-9323-45b2-a8f1-2fc31e477457
+2025-04-25 12:47:55,248 - INFO - [204] Extracted: None - None
+2025-04-25 12:47:55,252 - INFO - Updated JSON with 214 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:47:55,253 - INFO - [205] Visiting: https://www.backmarket.de/de-de/p/bildschirm-21-led-fhd-hp-p22h-g4/fc740e5a-8512-4e19-b7cf-3e806cdc77fe
+2025-04-25 12:48:14,610 - INFO - [205] Extracted: Bildschirm 21" LED FHD HP P22H G4 - 138,00 €
+2025-04-25 12:48:14,651 - INFO - Updated JSON with 215 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:48:14,694 - INFO - [206] Visiting: https://www.backmarket.de/de-de/p/bildschirm-21-led-fhd-hp-z-display-z22i/daa21db8-cf1a-412c-9eee-2955c2ddeb64
+2025-04-25 12:48:35,048 - INFO - [206] Extracted: None - None
+2025-04-25 12:48:35,100 - INFO - Updated JSON with 216 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:48:35,117 - INFO - [207] Visiting: https://www.backmarket.de/de-de/p/bildschirm-21-led-fhd-hp-z22n/c6d6c9d2-2a59-4868-a11b-eb855275f546
+2025-04-25 12:48:55,395 - INFO - [207] Extracted: Bildschirm 21" LED FHD HP Z22N - 84,99 €
+2025-04-25 12:48:55,399 - INFO - Updated JSON with 217 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:48:55,400 - INFO - [208] Visiting: https://www.backmarket.de/de-de/p/bildschirm-21-led-hp-e22-g5/5b6570ef-3b20-4122-b5df-ca7f9ac3f43a
+2025-04-25 12:49:14,211 - INFO - [208] Extracted: Bildschirm 21" LED HP E22 G5 - 169,00 €
+2025-04-25 12:49:14,228 - INFO - Updated JSON with 218 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:49:14,244 - INFO - [209] Visiting: https://www.backmarket.de/de-de/p/bildschirm-21-led-hp-le2202x/be00bf6a-020a-45ea-936e-60ec6a9aa3c6
+2025-04-25 12:49:33,131 - INFO - [209] Extracted: Bildschirm 21" LED HP LE2202X - 84,99 €
+2025-04-25 12:49:33,197 - INFO - Updated JSON with 219 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:49:33,249 - INFO - [210] Visiting: https://www.backmarket.de/de-de/p/bildschirm-21-led-hp-p22h-g5/96eeaded-f32e-4a6e-8e42-49a955be1f84
+2025-04-25 12:49:52,449 - INFO - [210] Extracted: Bildschirm 21" LED HP P22H G5 - 206,43 €
+2025-04-25 12:49:52,454 - INFO - Updated JSON with 220 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:49:52,455 - INFO - [211] Visiting: https://www.backmarket.de/de-de/p/bildschirm-21-led-hp-z-display-z22i-215-full-hd-grade-b/98bafdbe-077c-4fba-a799-2e213d722c2c
+2025-04-25 12:50:11,784 - INFO - [211] Extracted: Bildschirm 21" LED HP Z22I - 84,99 €
+2025-04-25 12:50:11,867 - INFO - Updated JSON with 221 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:50:11,939 - INFO - [212] Visiting: https://www.backmarket.de/de-de/p/bildschirm-22-lcd-dell-e2213hb/ae45b58f-688a-479b-9971-2d43b5453dc6
+2025-04-25 12:50:29,209 - INFO - [212] Extracted: Bildschirm 22" LCD FHD Dell E2213HB - 88,00 €
+2025-04-25 12:50:29,213 - INFO - Updated JSON with 222 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:50:29,214 - INFO - [213] Visiting: https://www.backmarket.de/de-de/p/bildschirm-22-lcd-ecran-22-lcd-dell-e228wfpc/c35a65b5-d96c-4136-ac71-64a53b50e952
+2025-04-25 12:50:46,502 - INFO - [213] Extracted: Bildschirm 22" LCD Dell E228WFPC - 149,00 €
+2025-04-25 12:50:46,506 - INFO - Updated JSON with 223 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:50:46,507 - INFO - [214] Visiting: https://www.backmarket.de/de-de/p/bildschirm-22-lcd-ecran-lcd-hp-monitor-la2205wg-22/98293a04-1e11-4eb7-a450-2d18c204898b
+2025-04-25 12:51:02,959 - INFO - [214] Extracted: Bildschirm 22" LCD HP LA2205WG - 82,00 €
+2025-04-25 12:51:02,986 - INFO - Updated JSON with 224 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:51:02,987 - INFO - [215] Visiting: https://www.backmarket.de/de-de/p/bildschirm-22-lcd-fhd-dell-p2214hb/1089b311-39e7-4b39-b7b5-20f2b2acde77
+2025-04-25 12:51:22,063 - INFO - [215] Extracted: Bildschirm 22" LCD FHD Dell P2214HB - 118,00 €
+2025-04-25 12:51:22,133 - INFO - Updated JSON with 225 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:51:22,188 - INFO - [216] Visiting: https://www.backmarket.de/de-de/p/bildschirm-22-lcd-fhd-dell-p2219h/787685f9-bf26-4650-ae32-912bf209a34f
+2025-04-25 12:51:39,955 - INFO - [216] Extracted: Bildschirm 22" LCD FHD Dell P2219H - 119,00 €
+2025-04-25 12:51:39,958 - INFO - Updated JSON with 226 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:51:39,959 - INFO - [217] Visiting: https://www.backmarket.de/de-de/p/bildschirm-22-lcd-fhd-hp-la2206xc/5b6b74e0-c456-4111-8208-d0bb7a952744
+2025-04-25 12:51:58,954 - INFO - [217] Extracted: Bildschirm 22" LCD FHD HP LA2206XC - 84,99 €
+2025-04-25 12:51:58,965 - INFO - Updated JSON with 227 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:51:58,967 - INFO - [218] Visiting: https://www.backmarket.de/de-de/p/bildschirm-22-lcd-hd-acer-b223w/267709d4-bbcc-453e-81e4-e79540a27d74
+2025-04-25 12:52:16,756 - INFO - [218] Extracted: Bildschirm 22" LCD HD Acer B223W - 120,00 €
+2025-04-25 12:52:16,883 - INFO - Updated JSON with 228 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:52:17,026 - INFO - [219] Visiting: https://www.backmarket.de/de-de/p/bildschirm-22-lcd-hd-dell-e2210f/ea9f8014-4fa9-40ee-a66c-7015cc26b58d
+2025-04-25 12:52:35,997 - INFO - [219] Extracted: Bildschirm 22" LCD HD Dell E2210F - 73,95 €
+2025-04-25 12:52:36,016 - INFO - Updated JSON with 229 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:52:36,017 - INFO - [220] Visiting: https://www.backmarket.de/de-de/p/bildschirm-22-lcd-hd-dell-p2213t/d4a52126-0135-4a36-9e21-87203561cf1e
+2025-04-25 12:52:52,520 - INFO - [220] Extracted: Bildschirm 22" LCD HD Dell P2213T - 94,00 €
+2025-04-25 12:52:52,525 - INFO - Updated JSON with 230 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:52:52,525 - INFO - [221] Visiting: https://www.backmarket.de/de-de/p/bildschirm-22-lcd-hp-elitedisplay-e221c-grade-a/e9d3b599-71d3-455f-b8bc-b86974780ceb
+2025-04-25 12:53:12,326 - INFO - [221] Extracted: Bildschirm 22" LCD FHD HP EliteDisplay E221C - 108,61 €
+2025-04-25 12:53:12,380 - INFO - Updated JSON with 231 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:53:12,409 - INFO - [222] Visiting: https://www.backmarket.de/de-de/p/bildschirm-22-lcd-lg-22mb65pm-b/7d8c4222-99a7-4b4f-80c5-2a036dc9841f
+2025-04-25 12:53:29,079 - INFO - [222] Extracted: Bildschirm 22" LCD LG 22MB65PM-B - 51,45 €
+2025-04-25 12:53:29,084 - INFO - Updated JSON with 232 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:53:29,084 - INFO - [223] Visiting: https://www.backmarket.de/de-de/p/bildschirm-22-lcd-wsxga-acer-b223w/364ea6b4-9862-408a-bb2a-c71cf28ee6b2
+2025-04-25 12:53:47,870 - INFO - [223] Extracted: Bildschirm 22" LCD WSXGA+ Acer B223w - 30,45 €
+2025-04-25 12:53:47,875 - INFO - Updated JSON with 233 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:53:47,876 - INFO - [224] Visiting: https://www.backmarket.de/de-de/p/bildschirm-22-lcd-wsxga-dell-p2210f/a38724ff-7415-4673-97c7-5a82f10f875a
+2025-04-25 12:54:06,535 - INFO - [224] Extracted: Bildschirm 22" LCD WSXGA+ Dell P2210F - 90,00 €
+2025-04-25 12:54:06,612 - INFO - Updated JSON with 234 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:54:06,668 - INFO - [225] Visiting: https://www.backmarket.de/de-de/p/bildschirm-22-lcd-wsxga-dell-p2210f/ee4d5629-bb53-4200-a2ad-ce202e8ff687
+2025-04-25 12:54:25,616 - INFO - [225] Extracted: Bildschirm 22" LCD WSXGA+ Dell P2210F - 85,00 €
+2025-04-25 12:54:25,623 - INFO - Updated JSON with 235 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:54:25,624 - INFO - [226] Visiting: https://www.backmarket.de/de-de/p/bildschirm-22-lcd-wsxga-dell-p2213f/ee999076-48d6-4ebe-8787-9be6acab82cf
+2025-04-25 12:54:44,621 - INFO - [226] Extracted: Bildschirm 22" LCD WSXGA+ Dell P2213F - 99,00 €
+2025-04-25 12:54:44,735 - INFO - Updated JSON with 236 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:54:44,883 - INFO - [227] Visiting: https://www.backmarket.de/de-de/p/bildschirm-22-lcd-wsxga-dell-p2213t/e865d925-7e93-4d4a-be64-de9e207d0b28
+2025-04-25 12:55:05,252 - INFO - [227] Extracted: None - None
+2025-04-25 12:55:05,257 - INFO - Updated JSON with 237 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:55:05,259 - INFO - [228] Visiting: https://www.backmarket.de/de-de/p/bildschirm-22-lcd-wsxga-dell-ultrasharp-2209waf/7f02c33c-34f7-40ba-ad89-5eb85518cbc5
+2025-04-25 12:55:22,761 - INFO - [228] Extracted: Bildschirm 22" LCD WSXGA+ Dell UltraSharp 2209WAF - 61,95 €
+2025-04-25 12:55:22,768 - INFO - Updated JSON with 238 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:55:22,768 - INFO - [229] Visiting: https://www.backmarket.de/de-de/p/bildschirm-22-lcd-wsxga-hp-compaq-la2205wg/e645a4db-a3a6-4580-ac8a-1f50c0fcdcf2
+2025-04-25 12:55:38,595 - INFO - [229] Extracted: Bildschirm 22" LCD WSXGA+ HP Compaq LA2205WG - 179,95 €
+2025-04-25 12:55:38,603 - INFO - Updated JSON with 239 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:55:38,605 - INFO - [230] Visiting: https://www.backmarket.de/de-de/p/bildschirm-22-lcd-wsxga-hp-l2245w/053bf23f-eba3-4473-b9b3-3e76f6797069
+2025-04-25 12:55:54,629 - INFO - [230] Extracted: Bildschirm 22" LCD WSXGA+ HP L2245W - 62,00 €
+2025-04-25 12:55:54,637 - INFO - Updated JSON with 240 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:55:54,638 - INFO - [231] Visiting: https://www.backmarket.de/de-de/p/bildschirm-22-lcd-wsxga-samsung-s22a450mw/0a474f39-bd54-49f2-b666-ab7c6a062c29
+2025-04-25 12:56:10,243 - INFO - [231] Extracted: Bildschirm 22" LCD WSXGA+ Samsung S22A450MW - 85,00 €
+2025-04-25 12:56:10,251 - INFO - Updated JSON with 241 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:56:10,252 - INFO - [232] Visiting: https://www.backmarket.de/de-de/p/bildschirm-22-lcd-wsxga-samsung-syncmaster-2243nw/abcdf5e6-47ac-4fbe-b30e-4c45665e80e0
+2025-04-25 12:56:28,651 - INFO - [232] Extracted: None - None
+2025-04-25 12:56:28,700 - INFO - Updated JSON with 242 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:56:28,765 - INFO - [233] Visiting: https://www.backmarket.de/de-de/p/bildschirm-22-lcd-wsxga-samsung-syncmaster-2243wm/1798ec32-4f12-4856-9949-bf3e87ad76e2
+2025-04-25 12:56:48,927 - INFO - [233] Extracted: Bildschirm 22" LCD WSXGA+ Samsung SyncMaster 2243WM - 106,00 €
+2025-04-25 12:56:48,932 - INFO - Updated JSON with 243 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:56:48,932 - INFO - [234] Visiting: https://www.backmarket.de/de-de/p/bildschirm-22-lcd-wxga-hp-la2205wg/9088adb6-c2f0-4fc2-a555-1f195aeb6392
+2025-04-25 12:57:05,102 - INFO - [234] Extracted: Bildschirm 22" LCD WXGA+ HP LA2205wg - 97,64 €
+2025-04-25 12:57:05,117 - INFO - Updated JSON with 244 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:57:05,119 - INFO - [235] Visiting: https://www.backmarket.de/de-de/p/bildschirm-22-lcd-wxga-lg-22bk55/2b4f05d2-a1a6-4bf4-9a1b-68019f587b07
+2025-04-25 12:57:25,049 - INFO - [235] Extracted: Bildschirm 22" LCD WXGA+ LG 22BK55 - 69,00 €
+2025-04-25 12:57:25,063 - INFO - Updated JSON with 245 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:57:25,065 - INFO - [236] Visiting: https://www.backmarket.de/de-de/p/bildschirm-22-led-dell-p2214h/15d04179-e814-47de-b0ef-f6b40a88638f
+2025-04-25 12:57:43,216 - INFO - [236] Extracted: Bildschirm 22" LED Dell P2214H - 60,99 €
+2025-04-25 12:57:43,220 - INFO - Updated JSON with 246 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:57:43,221 - INFO - [237] Visiting: https://www.backmarket.de/de-de/p/bildschirm-22-led-hp-z22i/ccbd7b6f-80ef-4a7c-8959-4733b77cb25d
+2025-04-25 12:58:01,722 - INFO - [237] Extracted: Bildschirm 22" LED HP Z22i - 84,99 €
+2025-04-25 12:58:01,738 - INFO - Updated JSON with 247 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:58:01,740 - INFO - [238] Visiting: https://www.backmarket.de/de-de/p/bildschirm-22-led-wsxga-acer-b226wlymdr/bfe8361b-77bc-4141-a1c9-0ce2b9f4a96e
+2025-04-25 12:58:22,241 - INFO - [238] Extracted: None - None
+2025-04-25 12:58:22,246 - INFO - Updated JSON with 248 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:58:22,247 - INFO - [239] Visiting: https://www.backmarket.de/de-de/p/bildschirm-22-led-wsxga-lg-e2210pm/df246e71-bab3-440a-aafb-e186104f623c
+2025-04-25 12:58:40,083 - INFO - [239] Extracted: Bildschirm 22" LED WSXGA+ LG E2210PM - 30,85 €
+2025-04-25 12:58:40,093 - INFO - Updated JSON with 249 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:58:40,095 - INFO - [240] Visiting: https://www.backmarket.de/de-de/p/bildschirm-22-led-wsxga-lg-flatron-e2210/5ac39ebf-f9b6-4f0a-9f28-54148d8ccba3
+2025-04-25 12:58:56,730 - INFO - [240] Extracted: None - None
+2025-04-25 12:58:56,738 - INFO - Updated JSON with 250 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:58:56,740 - INFO - [241] Visiting: https://www.backmarket.de/de-de/p/bildschirm-22-led-wsxga-lg-flatron-e2210pm-sn/6890f54e-a8ed-4517-9ed5-cea3c07c6569
+2025-04-25 12:59:16,357 - INFO - [241] Extracted: Bildschirm 22" LED WSXGA+ LG Flatron E2210PM-SN - 40,95 €
+2025-04-25 12:59:16,390 - INFO - Updated JSON with 251 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:59:16,400 - INFO - [242] Visiting: https://www.backmarket.de/de-de/p/bildschirm-22-led-wsxga-samsung-s22c450bw/b9b33f2f-768a-415e-9b90-07d7a27f18f2
+2025-04-25 12:59:33,337 - INFO - [242] Extracted: Bildschirm 22" LED WSXGA+ Samsung S22C450BW - 69,00 €
+2025-04-25 12:59:33,341 - INFO - Updated JSON with 252 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:59:33,341 - INFO - [243] Visiting: https://www.backmarket.de/de-de/p/bildschirm-22-lg-22mb65pm-b/e72a2b98-bf3b-42d4-b356-130a783064e3
+2025-04-25 12:59:51,518 - INFO - [243] Extracted: Bildschirm 22" LCD LG 22MB65PM-B - 51,45 €
+2025-04-25 12:59:51,524 - INFO - Updated JSON with 253 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 12:59:51,525 - INFO - [244] Visiting: https://www.backmarket.de/de-de/p/bildschirm-22-tft-wsxga-dell-e2209wf/df4fecad-f0c2-4a65-b4f9-7565dd2d4457
+2025-04-25 13:00:10,784 - INFO - [244] Extracted: Bildschirm 22" LCD WSXGA+ Dell E2209Wf - 95,95 €
+2025-04-25 13:00:10,934 - INFO - Updated JSON with 254 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:00:11,046 - INFO - [245] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-acer-b246hlymdpr-238-full-hd/74e3e474-cdef-442b-9712-cedddbb1d89b
+2025-04-25 13:00:29,805 - INFO - [245] Extracted: Bildschirm 23" LED FHD Acer B246HLYMDPR - 61,95 €
+2025-04-25 13:00:29,809 - INFO - Updated JSON with 255 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:00:29,809 - INFO - [246] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-acer-nitro-qg241ypbmiipx-238-full-hd/554a95da-d1e4-494c-b47c-b81263430ec6
+2025-04-25 13:00:48,590 - INFO - [246] Extracted: Bildschirm 23" LED Acer Nitro QG241Y Pbmiipx - 290,00 €
+2025-04-25 13:00:48,685 - INFO - Updated JSON with 256 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:00:48,873 - INFO - [247] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-lcd-1920-x-1080-acer-b246hylbymiprx/c1ca8671-ac9c-48e4-b0a1-8cbe7b77c631
+2025-04-25 13:01:06,416 - INFO - [247] Extracted: None - None
+2025-04-25 13:01:06,460 - INFO - Updated JSON with 257 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:01:06,513 - INFO - [248] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-lcd-2560-x-1440-pixel-lenovo-thinkvision-p24h-2l/5d664d84-43f9-4524-bc25-3a44286c0444
+2025-04-25 13:01:25,741 - INFO - [248] Extracted: Bildschirm 23" LCD 2560 X 1440 PIXEL Lenovo ThinkVision P24h-2L - 218,90 €
+2025-04-25 13:01:25,746 - INFO - Updated JSON with 258 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:01:25,747 - INFO - [249] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-lcd-acer-v233h/f268bc1d-5966-4052-b6c1-fe25bfb161b8
+2025-04-25 13:01:41,842 - INFO - [249] Extracted: Bildschirm 23" LCD FHD Acer V233H - 110,00 €
+2025-04-25 13:01:41,849 - INFO - Updated JSON with 259 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:01:41,850 - INFO - [250] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-lcd-fhd-acer-x233h/9e7bfb2e-14bd-4975-9a2d-800a901396cc
+2025-04-25 13:01:59,698 - INFO - [250] Extracted: None - None
+2025-04-25 13:01:59,708 - INFO - Updated JSON with 260 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:01:59,708 - INFO - [251] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-lcd-fhd-dell-e2316h/29cd591f-f9d9-4557-9246-e8bba14998ce
+2025-04-25 13:02:19,179 - INFO - [251] Extracted: Bildschirm 23" LCD FHD Dell E2316H - 115,00 €
+2025-04-25 13:02:19,259 - INFO - Updated JSON with 261 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:02:19,371 - INFO - [252] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-lcd-fhd-dell-e2417h/243ae413-9571-4bd8-939a-d345fa27a45a
+2025-04-25 13:02:39,398 - INFO - [252] Extracted: Bildschirm 23" LCD FHD Dell E2417H - 87,00 €
+2025-04-25 13:02:39,406 - INFO - Updated JSON with 262 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:02:39,407 - INFO - [253] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-lcd-fhd-dell-p2314h/0afd1ed7-71d8-426c-abb8-0064df3ff3c7
+2025-04-25 13:02:56,788 - INFO - [253] Extracted: Bildschirm 23" LCD FHD Dell P2314H - 78,75 €
+2025-04-25 13:02:56,803 - INFO - Updated JSON with 263 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:02:56,807 - INFO - [254] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-lcd-fhd-dell-ultrasharp-u2312hmt/a158f4e9-70c2-41cb-b2c9-140f95935b6f
+2025-04-25 13:03:16,049 - INFO - [254] Extracted: Bildschirm 23" LCD FHD Dell UltraSharp U2312HMT - 109,08 €
+2025-04-25 13:03:16,054 - INFO - Updated JSON with 264 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:03:16,055 - INFO - [255] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-lcd-fhd-hp-9vf96aaabb/0ec98a30-23d8-40ac-8418-a92f56263c8e
+2025-04-25 13:03:35,399 - INFO - [255] Extracted: Bildschirm 23" LCD FHD HP E23 G4 - 100,00 €
+2025-04-25 13:03:35,411 - INFO - Updated JSON with 265 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:03:35,415 - INFO - [256] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-lcd-fhd-hp-compaq-la2306x/acb63ab3-f6c7-43e9-bcac-a614d05b6497
+2025-04-25 13:03:51,756 - INFO - [256] Extracted: Bildschirm 23" LCD FHD HP Compaq LA2306x - 99,00 €
+2025-04-25 13:03:51,763 - INFO - Updated JSON with 266 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:03:51,764 - INFO - [257] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-lcd-fhd-hp-e23-g4/2c086856-3c3e-4421-b7b5-82ac31d18a51
+2025-04-25 13:04:11,162 - INFO - [257] Extracted: Bildschirm 23" LCD FHD HP E23 G4 - 234,05 €
+2025-04-25 13:04:11,177 - INFO - Updated JSON with 267 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:04:11,178 - INFO - [258] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-lcd-fhd-hp-elitedisplay-e232/0d380497-1c61-4f48-a71b-458a6ad35835
+2025-04-25 13:04:27,612 - INFO - [258] Extracted: Bildschirm 23" LCD FHD HP EliteDisplay E232 - 85,32 €
+2025-04-25 13:04:27,617 - INFO - Updated JSON with 268 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:04:27,618 - INFO - [259] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-lcd-fhd-hp-elitedisplay-e240c/f7c0a810-9a85-46f9-bbae-47c0d490e546
+2025-04-25 13:04:46,095 - INFO - [259] Extracted: Bildschirm 23" LCD FHD HP EliteDisplay E240C - 63,00 €
+2025-04-25 13:04:46,130 - INFO - Updated JSON with 269 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:04:46,139 - INFO - [260] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-lcd-fhd-hp-elitedisplay-e243/094895bf-21da-410f-a78d-91697c95aeed
+2025-04-25 13:05:05,019 - INFO - [260] Extracted: Bildschirm 23" LCD FHD HP EliteDisplay E243 - 139,00 €
+2025-04-25 13:05:05,078 - INFO - Updated JSON with 270 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:05:05,151 - INFO - [261] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-lcd-fhd-hp-elitedisplay-e243d/d9d07fe8-576d-42df-8118-99e8bb74bc80
+2025-04-25 13:05:24,800 - INFO - [261] Extracted: Bildschirm 23" LCD FHD HP EliteDisplay E243D - 149,00 €
+2025-04-25 13:05:24,808 - INFO - Updated JSON with 271 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:05:24,808 - INFO - [262] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-lcd-fhd-hp-z23i/4d97d3be-be38-403b-9e94-b702d28d36d9
+2025-04-25 13:05:43,610 - INFO - [262] Extracted: Bildschirm 23" LCD FHD HP Z23I - 61,95 €
+2025-04-25 13:05:43,772 - INFO - Updated JSON with 272 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:05:43,943 - INFO - [263] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-lcd-fhd-hp-z23n-g2/5b55fe2f-59cc-438c-b562-a2e1e43fc6a3
+2025-04-25 13:06:02,880 - INFO - [263] Extracted: Bildschirm 23" LCD FHD HP Z23n G2 - 99,00 €
+2025-04-25 13:06:02,884 - INFO - Updated JSON with 273 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:06:02,885 - INFO - [264] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-lcd-fhd-hp-z23n/0e6d32b8-fbc2-4ce5-9f99-5ca639ee088a
+2025-04-25 13:06:20,230 - INFO - [264] Extracted: Bildschirm 23" LCD FHD HP Z23N - 96,00 €
+2025-04-25 13:06:20,239 - INFO - Updated JSON with 274 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:06:20,240 - INFO - [265] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-lcd-fhd-hp-zr2330w/79c6dbec-93c0-415d-8405-dcf16203829d
+2025-04-25 13:06:37,085 - INFO - [265] Extracted: Bildschirm 23" LCD FHD HP ZR2330W - 61,95 €
+2025-04-25 13:06:37,094 - INFO - Updated JSON with 275 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:06:37,095 - INFO - [266] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-lcd-fhd-viewsonic-va2432h/62855460-90b8-4659-8363-73bd591e4bae
+2025-04-25 13:06:53,725 - INFO - [266] Extracted: Bildschirm 23" LCD FHD Viewsonic VA2432H - 129,00 €
+2025-04-25 13:06:53,732 - INFO - Updated JSON with 276 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:06:53,733 - INFO - [267] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-lcd-hp-elitedisplay-e240c/2874a3d3-eb45-4060-917f-e143474ebdc2
+2025-04-25 13:07:13,432 - INFO - [267] Extracted: Bildschirm 23" LCD HP EliteDisplay E240C - 78,99 €
+2025-04-25 13:07:13,446 - INFO - Updated JSON with 277 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:07:13,452 - INFO - [268] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-lcd-hp-p244/dc94c7db-8ec6-4c26-8528-1ffcd228f008
+2025-04-25 13:07:30,533 - INFO - [268] Extracted: Bildschirm 23" LCD HP P244 - 129,00 €
+2025-04-25 13:07:30,568 - INFO - Updated JSON with 278 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:07:30,588 - INFO - [269] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-lcd-samsung-ecran-s24e650pl/cc62297d-54a0-46a0-8771-52f2a30fb8b6
+2025-04-25 13:07:49,053 - INFO - [269] Extracted: Bildschirm 23" LCD Samsung S24E650PL - 97,90 €
+2025-04-25 13:07:49,059 - INFO - Updated JSON with 279 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:07:49,059 - INFO - [270] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-led-dell-e2313hf/8045c0fd-fc99-4330-9b1d-2d4afe0a566a
+2025-04-25 13:08:06,714 - INFO - [270] Extracted: Bildschirm 23" LED Dell E2313HF - 158,76 €
+2025-04-25 13:08:06,812 - INFO - Updated JSON with 280 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:08:06,956 - INFO - [271] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-led-dell-lcd-p2314h-23-58cm/b46e687d-2417-45a5-9c5b-e908e652f035
+2025-04-25 13:08:26,817 - INFO - [271] Extracted: Bildschirm 23" LCD Dell P2314H - 96,00 €
+2025-04-25 13:08:26,821 - INFO - Updated JSON with 281 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:08:26,822 - INFO - [272] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-led-dell-p2417h-238-full-hd/b8902ab8-1292-4d72-bbdb-0c76140173e7
+2025-04-25 13:08:45,164 - INFO - [272] Extracted: Bildschirm 23" LED Dell P2417H - 85,00 €
+2025-04-25 13:08:45,212 - INFO - Updated JSON with 282 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:08:45,226 - INFO - [273] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-led-fhd-acer-nitro-vg240yebmiix/49c9aa11-e90e-4d3c-9db9-0109a2692d6b
+2025-04-25 13:09:07,371 - INFO - [273] Extracted: None - None
+2025-04-25 13:09:07,377 - INFO - Updated JSON with 283 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:09:07,377 - INFO - [274] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-led-fhd-dell-p2314ht/2895df0b-2214-4f21-8302-377232639c32
+2025-04-25 13:09:25,910 - INFO - [274] Extracted: Bildschirm 23" LED FHD Dell P2314HT - 99,00 €
+2025-04-25 13:09:26,079 - INFO - Updated JSON with 284 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:09:26,362 - INFO - [275] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-led-fhd-dell-p2317h/e3722c53-872c-4a54-8868-f4d3fa143acc
+2025-04-25 13:09:46,891 - INFO - [275] Extracted: Bildschirm 23" LED FHD Dell P2317H - 93,45 €
+2025-04-25 13:09:46,896 - INFO - Updated JSON with 285 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:09:46,897 - INFO - [276] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-led-fhd-dell-u2312hm/1245f7fa-a75f-4790-9b37-21cde29cea5f
+2025-04-25 13:10:04,672 - INFO - [276] Extracted: Bildschirm 23" LED FHD Dell U2312HM - 93,45 €
+2025-04-25 13:10:04,682 - INFO - Updated JSON with 286 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:10:04,683 - INFO - [277] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-led-fhd-dell-ultrasharp-u2417h/752ce387-aa61-477b-8142-f71fba7d8a61
+2025-04-25 13:10:21,500 - INFO - [277] Extracted: None - None
+2025-04-25 13:10:21,510 - INFO - Updated JSON with 287 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:10:21,511 - INFO - [278] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-led-fhd-fujitsu-display-b24-8-te-pro/41854619-f91f-4b49-a0c5-8e9f5dcb6322
+2025-04-25 13:10:38,039 - INFO - [278] Extracted: None - None
+2025-04-25 13:10:38,045 - INFO - Updated JSON with 288 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:10:38,046 - INFO - [279] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-led-fhd-hp-e23-g4/b1698fc8-9659-4491-b97f-45d6e1c498c7
+2025-04-25 13:10:56,608 - INFO - [279] Extracted: Bildschirm 23" LED FHD HP E23 G4 - 216,80 €
+2025-04-25 13:10:56,657 - INFO - Updated JSON with 289 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:10:56,730 - INFO - [280] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-led-fhd-hp-elitedisplay-e233/5a68a9e9-8613-482c-81de-60909030f7b9
+2025-04-25 13:11:14,045 - INFO - [280] Extracted: Bildschirm 23" LED FHD HP EliteDisplay E233 - 108,99 €
+2025-04-25 13:11:14,050 - INFO - Updated JSON with 290 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:11:14,050 - INFO - [281] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-led-fhd-hp-la2306x/54812efa-d17a-4f07-8a8c-e1c1c6a0fb9d
+2025-04-25 13:11:31,077 - INFO - [281] Extracted: Bildschirm 23" LED FHD HP LA2306X - 51,45 €
+2025-04-25 13:11:31,084 - INFO - Updated JSON with 291 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:11:31,084 - INFO - [282] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-led-fhd-hp-series-524sw/79ea72a9-dcb7-4408-b859-0707b754a455
+2025-04-25 13:11:47,688 - INFO - [282] Extracted: Bildschirm 23" LED FHD HP Series 524SW - 189,00 €
+2025-04-25 13:11:47,693 - INFO - Updated JSON with 292 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:11:47,694 - INFO - [283] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-led-fhd-hp-z23n-g2/35c1c176-d8c2-4d2c-a9e1-03044ccf8f03
+2025-04-25 13:12:04,391 - INFO - [283] Extracted: Bildschirm 23" LED FHD HP Z23n G2 - 178,00 €
+2025-04-25 13:12:04,401 - INFO - Updated JSON with 293 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:12:04,402 - INFO - [284] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-led-fhd-samsung-tc241/3d3d6859-9fe7-4401-9782-88ce9c0740a7
+2025-04-25 13:12:23,426 - INFO - [284] Extracted: Bildschirm 23" LED FHD Samsung TC241 - 250,00 €
+2025-04-25 13:12:23,474 - INFO - Updated JSON with 294 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:12:23,482 - INFO - [285] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-led-hp-e24-g5/f432dfe9-0004-4bb2-8791-cc5256e8d087
+2025-04-25 13:12:40,869 - INFO - [285] Extracted: Bildschirm 23" LED HP E24 G5 - 189,00 €
+2025-04-25 13:12:41,024 - INFO - Updated JSON with 295 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:12:41,193 - INFO - [286] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-led-hp-e24m-g4/e3c173bb-ac7a-4d5c-a7a0-8ff8bed119fa
+2025-04-25 13:12:59,706 - INFO - [286] Extracted: None - None
+2025-04-25 13:12:59,718 - INFO - Updated JSON with 296 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:12:59,720 - INFO - [287] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-led-hp-elitedisplay-e231/c8f6eb68-9c12-45ea-88f2-2819f7ef4318
+2025-04-25 13:13:18,385 - INFO - [287] Extracted: Bildschirm 23" LED HP EliteDisplay E231 - 59,00 €
+2025-04-25 13:13:18,401 - INFO - Updated JSON with 297 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:13:18,402 - INFO - [288] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-led-hp-elitedisplay-e232-23/f636d1f7-cb6f-4290-bfc0-b2062406f8c4
+2025-04-25 13:13:37,104 - INFO - [288] Extracted: Bildschirm 23" LED FHD HP EliteDisplay E232 - 108,00 €
+2025-04-25 13:13:37,111 - INFO - Updated JSON with 298 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:13:37,111 - INFO - [289] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-led-hp-z-display-z23i-23-full-hd-grade-b/b1bc3c22-19dd-4bcf-92f8-854025768508
+2025-04-25 13:13:54,972 - INFO - [289] Extracted: None - None
+2025-04-25 13:13:55,007 - INFO - Updated JSON with 299 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:13:55,017 - INFO - [290] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-led-lcd-dell-p2319h-23/905226d2-3213-4cf2-8810-c3e19a68c431
+2025-04-25 13:14:14,083 - INFO - [290] Extracted: Bildschirm 23" LED FHD Dell P2319H - 119,00 €
+2025-04-25 13:14:14,101 - INFO - Updated JSON with 300 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:14:14,101 - INFO - [291] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-led-samsung-nc241-235pouces-b-nc241/1c314045-5d6f-4449-95c6-86458c14d584
+2025-04-25 13:14:34,447 - INFO - [291] Extracted: None - None
+2025-04-25 13:14:34,538 - INFO - Updated JSON with 301 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 13:14:34,640 - INFO - [292] Visiting: https://www.backmarket.de/de-de/p/bildschirm-23-led-samsung-s24c650pl/274ccb94-d8c8-4a89-8ca1-2d7914ebad42
+2025-04-25 14:14:55,446 - INFO - Loaded 301 existing products from C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 14:15:00,459 - INFO - [1] Visiting: https://www.backmarket.de/de-de/p/ac-chromebook-314-pentium-silver-31-ghz-64gb-ssd-8gb/9853a258-586d-4115-894d-95556444bdd1
+2025-04-25 14:15:20,842 - INFO - [1] Extracted: None - None
+2025-04-25 14:15:20,847 - INFO - Updated JSON with 302 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 14:15:20,856 - INFO - Saved 302 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 14:15:20,856 - INFO - Saved 866 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 14:15:20,857 - INFO - [2] Visiting: https://www.backmarket.de/de-de/p/acer-a515-52-15-i3-8145u-21-ghz-hdd-128-gb-4gb/03b6897c-d545-4495-a809-f66e76df5697
+2025-04-25 14:15:39,694 - INFO - [2] Extracted: Acer Aspire A515-52 15" Core i3 2.1 GHz - SSD 128 GB - 4GB QWERTY - Portugiesisch - 399,00 €
+2025-04-25 14:15:39,700 - INFO - Updated JSON with 303 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 14:15:39,724 - INFO - Saved 303 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 14:15:39,725 - INFO - Saved 870 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 14:15:39,726 - INFO - [3] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a314-23p-r1ch-14-ryzen-5-28-ghz-ssd-512-gb-16gb-azerty-franzosisch/fe948403-5269-4435-ac47-db9b3ca31708
+2025-04-25 14:16:00,714 - INFO - [3] Extracted: Acer Aspire 3 A314-23P-R1CH 14" Ryzen 5 2.8 GHz - SSD 512 GB - 16GB AZERTY - Französisch - 449,00 €
+2025-04-25 14:16:00,732 - INFO - Updated JSON with 304 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 14:16:00,765 - INFO - Saved 304 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 14:16:00,765 - INFO - Saved 874 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 14:16:00,765 - INFO - [4] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-21-418f-15-a4-22-ghz-hdd-1-tb-8gb-azerty-franzosisch/49cf72f2-84d7-4204-b272-f0c9b06dae2c
+2025-04-25 14:16:22,783 - INFO - [4] Extracted: Acer Aspire 3 A315-21-418F 15" A4 1.6 GHz - HDD 1 TB - 8GB AZERTY - Französisch - 434,00 €
+2025-04-25 14:16:22,793 - INFO - Updated JSON with 305 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 14:16:22,813 - INFO - Saved 305 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 14:16:22,814 - INFO - Saved 878 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 14:16:22,814 - INFO - [5] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-23-r7ag-15-ryzen-5-21-ghz-ssd-1000-gb-12gb-azerty-franzosisch/ac336f40-4d35-4847-91da-cc6722765498
+2025-04-25 14:16:40,242 - INFO - [5] Extracted: None - None
+2025-04-25 14:16:40,244 - INFO - Updated JSON with 306 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 14:16:40,261 - INFO - Saved 306 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 14:16:40,262 - INFO - Saved 879 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 14:16:40,263 - INFO - [6] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-23-r8rq-156-azerty-francais-15-ryzen-5-3500u-210ghz-ghz-ssd-1-gb-hdd-999-gb-8192gb/dcc83e9d-61fe-4809-b660-a089fe5d8edb
+2025-04-25 14:17:00,525 - INFO - [6] Extracted: None - None
+2025-04-25 14:17:00,538 - INFO - Updated JSON with 307 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 14:17:00,545 - INFO - Saved 307 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 14:17:00,550 - INFO - Saved 880 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 14:17:00,552 - INFO - [7] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-44p-r8vj-15-ryzen-7-18-ghz-ssd-512-gb-16gb-azerty-franzosisch/17ae25c4-5511-4935-a762-3ca905bf2981
+2025-04-25 14:17:18,369 - INFO - [7] Extracted: None - None
+2025-04-25 14:17:18,371 - INFO - Updated JSON with 308 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 14:17:18,395 - INFO - Saved 308 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 14:17:18,396 - INFO - Saved 881 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 14:17:18,397 - INFO - [8] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-51-15-core-i3-23-ghz-ssd-128-gb-4gb-azerty-franzosisch/148f15c1-a930-4813-9e9c-3d0f49f4dfd4
+2025-04-25 14:17:35,854 - INFO - [8] Extracted: Acer Aspire 3 A315-51 15" Core i3 2.3 GHz - SSD 128 GB + HDD 1 TB - 4GB AZERTY - Französisch - 449,00 €
+2025-04-25 14:17:35,859 - INFO - Updated JSON with 309 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 14:17:35,878 - INFO - Saved 309 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 14:17:35,879 - INFO - Saved 885 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 14:17:35,880 - INFO - [9] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-56-15-core-i3-12-ghz-ssd-1000-gb-12gb-azerty-franzosisch/259a8e7b-9726-4fa3-8173-15d0314d868a
+2025-04-25 14:17:57,544 - INFO - [9] Extracted: None - None
+2025-04-25 14:17:57,556 - INFO - Updated JSON with 310 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 14:17:57,571 - INFO - Saved 310 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 14:17:57,571 - INFO - Saved 886 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 14:17:57,572 - INFO - [10] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-58-37nx-15-core-i3-3-ghz-ssd-512-gb-8gb-azerty-franzosisch/baaa0af9-3043-4459-a0b5-6f7403951e12
+2025-04-25 14:18:21,092 - INFO - [10] Extracted: Acer Aspire 3 A315-58-37NX 15" Core i3 3 GHz - SSD 512 GB - 8GB AZERTY - Französisch - 567,00 €
+2025-04-25 14:18:21,110 - INFO - Updated JSON with 311 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 14:18:21,135 - INFO - Saved 311 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 14:18:21,135 - INFO - Saved 890 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 14:18:21,135 - INFO - [11] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-n20c5-15-core-i3-3-ghz-ssd-256-gb-8gb-azerty-franzosisch/ecc3fa03-def0-45ab-adfa-5e3e409585d4
+2025-04-25 14:18:39,941 - INFO - [11] Extracted: Acer Aspire 3 N20C5 15" Core i3 3 GHz - SSD 256 GB - 8GB AZERTY - Französisch - 449,00 €
+2025-04-25 14:18:39,951 - INFO - Updated JSON with 312 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 14:18:39,959 - INFO - Saved 312 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 14:18:39,959 - INFO - Saved 894 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 14:18:39,961 - INFO - [12] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-n20c6-17-core-i3-3-ghz-ssd-512-gb-8gb-azerty-franzosisch/0ca1ce77-078e-4fc0-a8b4-d5f66d715454
+2025-04-25 14:19:01,147 - INFO - [12] Extracted: Acer Aspire 3 N20C6 17" Core i3 3 GHz - SSD 512 GB - 8GB AZERTY - Französisch - 470,00 €
+2025-04-25 14:19:01,236 - INFO - Updated JSON with 313 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 14:19:01,288 - INFO - Saved 313 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 14:19:01,334 - INFO - Saved 898 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 14:19:01,459 - INFO - [13] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-5-14-core-i7-37-ghz-ssd-512-gb-16gb-qwerty-niederlandisch/6663d6b3-f130-4aee-ac1a-c63d1c80b401
+2025-04-25 14:19:21,606 - INFO - [13] Extracted: None - None
+2025-04-25 14:19:21,769 - INFO - Updated JSON with 314 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 14:19:21,962 - INFO - Saved 314 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 14:19:22,074 - INFO - Saved 899 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 14:19:22,153 - INFO - [14] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-5-a514-54-59ff-14-core-i5-24-ghz-ssd-256-gb-8gb-qwerty-skandinavisch/c81acd29-4d96-4a1c-866b-a7a8e6353aee
+2025-04-25 14:19:44,815 - INFO - [14] Extracted: None - None
+2025-04-25 14:19:44,936 - INFO - Updated JSON with 315 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 14:19:45,025 - INFO - Saved 315 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 14:19:45,057 - INFO - Saved 900 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 14:19:45,120 - INFO - [15] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-5-a515-55-7735-15-core-i7-13-ghz-ssd-256-gb-hdd-1-tb-16gb-azerty-franzosisch/81b0973e-7b26-4960-9ddf-b9278c6fd490
+2025-04-25 14:20:09,077 - INFO - [15] Extracted: Acer Aspire 5 A515-55-7735 15" Core i7 1.3 GHz - SSD 256 GB + HDD 1 TB - 16GB AZERTY - Französisch - 649,00 €
+2025-04-25 14:20:09,087 - INFO - Updated JSON with 316 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 14:20:09,094 - INFO - Saved 316 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 14:20:09,094 - INFO - Saved 904 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 14:20:09,094 - INFO - [16] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-5-a515-56-32r1-15-core-i3-3-ghz-ssd-256-gb-8gb-qwerty-skandinavisch/24ba40bf-dc9a-4a57-a77c-84d27b79ab56
+2025-04-25 14:46:15,783 - INFO - Loaded 316 existing products from C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 14:46:20,303 - INFO - [1] Visiting: https://www.backmarket.de/de-de/p/ac-chromebook-314-pentium-silver-31-ghz-64gb-ssd-8gb/9853a258-586d-4115-894d-95556444bdd1
+2025-04-25 14:46:36,807 - INFO - [1] Extracted: None - None
+2025-04-25 14:46:36,811 - INFO - Updated JSON with 317 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 14:46:36,821 - INFO - Saved 317 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 14:46:36,821 - INFO - Saved 905 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 14:46:36,822 - INFO - [2] Visiting: https://www.backmarket.de/de-de/p/acer-a515-52-15-i3-8145u-21-ghz-hdd-128-gb-4gb/03b6897c-d545-4495-a809-f66e76df5697
+2025-04-25 14:46:57,419 - INFO - [2] Extracted: Acer Aspire A515-52 15" Core i3 2.1 GHz - SSD 128 GB - 4GB QWERTY - Portugiesisch - 399,00 €
+2025-04-25 14:46:57,463 - INFO - Updated JSON with 318 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 14:46:57,523 - INFO - Saved 318 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 14:46:57,524 - INFO - Saved 909 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 14:46:57,526 - INFO - [3] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a314-23p-r1ch-14-ryzen-5-28-ghz-ssd-512-gb-16gb-azerty-franzosisch/fe948403-5269-4435-ac47-db9b3ca31708
+2025-04-25 14:47:15,537 - INFO - [3] Extracted: Acer Aspire 3 A314-23P-R1CH 14" Ryzen 5 2.8 GHz - SSD 512 GB - 16GB AZERTY - Französisch - 449,00 €
+2025-04-25 14:47:15,544 - INFO - Updated JSON with 319 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 14:47:15,559 - INFO - Saved 319 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 14:47:15,560 - INFO - Saved 913 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 14:47:15,560 - INFO - [4] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-21-418f-15-a4-22-ghz-hdd-1-tb-8gb-azerty-franzosisch/49cf72f2-84d7-4204-b272-f0c9b06dae2c
+2025-04-25 14:50:04,192 - INFO - Loaded 319 existing products from C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 14:50:08,622 - INFO - [1] Visiting: https://www.backmarket.de/de-de/p/ac-chromebook-314-pentium-silver-31-ghz-64gb-ssd-8gb/9853a258-586d-4115-894d-95556444bdd1
+2025-04-25 14:50:27,415 - INFO - [1] Extracted: None - None
+2025-04-25 14:50:27,421 - INFO - Updated JSON with 320 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 14:50:27,429 - INFO - Saved 320 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 14:50:27,430 - INFO - Saved 198 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 14:50:27,431 - INFO - [2] Visiting: https://www.backmarket.de/de-de/p/acer-a515-52-15-i3-8145u-21-ghz-hdd-128-gb-4gb/03b6897c-d545-4495-a809-f66e76df5697
+2025-04-25 14:50:43,829 - INFO - [2] Extracted: Acer Aspire A515-52 15" Core i3 2.1 GHz - SSD 128 GB - 4GB QWERTY - Portugiesisch - 399,00 €
+2025-04-25 14:50:43,837 - INFO - Updated JSON with 321 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 14:50:43,842 - INFO - Saved 321 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 14:50:43,842 - INFO - Saved 199 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 14:50:43,844 - INFO - [3] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a314-23p-r1ch-14-ryzen-5-28-ghz-ssd-512-gb-16gb-azerty-franzosisch/fe948403-5269-4435-ac47-db9b3ca31708
+2025-04-25 14:51:01,053 - INFO - [3] Extracted: Acer Aspire 3 A314-23P-R1CH 14" Ryzen 5 2.8 GHz - SSD 512 GB - 16GB AZERTY - Französisch - 449,00 €
+2025-04-25 14:51:01,060 - INFO - Updated JSON with 322 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 14:51:01,068 - INFO - Saved 322 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 14:51:01,069 - INFO - Saved 200 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 14:51:01,069 - INFO - [4] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-21-418f-15-a4-22-ghz-hdd-1-tb-8gb-azerty-franzosisch/49cf72f2-84d7-4204-b272-f0c9b06dae2c
+2025-04-25 14:51:46,045 - INFO - Loaded 322 existing products from C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 14:51:50,675 - INFO - [1] Visiting: https://www.backmarket.de/de-de/p/ac-chromebook-314-pentium-silver-31-ghz-64gb-ssd-8gb/9853a258-586d-4115-894d-95556444bdd1
+2025-04-25 14:52:10,258 - INFO - [1] Extracted: None - None - Category: None
+2025-04-25 14:52:10,262 - INFO - Updated JSON with 323 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 14:52:10,269 - INFO - Saved 323 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 14:52:10,270 - INFO - Saved 200 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 14:52:10,270 - INFO - [2] Visiting: https://www.backmarket.de/de-de/p/acer-a515-52-15-i3-8145u-21-ghz-hdd-128-gb-4gb/03b6897c-d545-4495-a809-f66e76df5697
+2025-04-25 14:52:28,861 - INFO - [2] Extracted: Acer Aspire A515-52 15" Core i3 2.1 GHz - SSD 128 GB - 4GB QWERTY - Portugiesisch - 399,00 € - Category: Laptops
+2025-04-25 14:52:28,871 - INFO - Updated JSON with 324 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 14:52:28,879 - INFO - Saved 324 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 14:52:28,880 - INFO - Saved 201 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 14:52:28,880 - INFO - [3] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a314-23p-r1ch-14-ryzen-5-28-ghz-ssd-512-gb-16gb-azerty-franzosisch/fe948403-5269-4435-ac47-db9b3ca31708
+2025-04-25 14:52:47,117 - INFO - [3] Extracted: Acer Aspire 3 A314-23P-R1CH 14" Ryzen 5 2.8 GHz - SSD 512 GB - 16GB AZERTY - Französisch - 449,00 € - Category: Laptops
+2025-04-25 14:52:47,126 - INFO - Updated JSON with 325 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 14:52:47,135 - INFO - Saved 325 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 14:52:47,136 - INFO - Saved 202 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 14:52:47,136 - INFO - [4] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-21-418f-15-a4-22-ghz-hdd-1-tb-8gb-azerty-franzosisch/49cf72f2-84d7-4204-b272-f0c9b06dae2c
+2025-04-25 14:57:26,630 - INFO - Loaded 325 existing products from C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 14:57:30,410 - INFO - [1] Visiting: https://www.backmarket.de/de-de/p/ac-chromebook-314-pentium-silver-31-ghz-64gb-ssd-8gb/9853a258-586d-4115-894d-95556444bdd1
+2025-04-25 14:57:47,043 - INFO - [1] Extracted: None - None - Category: None
+2025-04-25 14:57:47,048 - INFO - Updated JSON with 326 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 14:57:47,056 - INFO - Saved 202 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 14:57:47,057 - INFO - Saved 202 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 14:57:47,057 - INFO - [2] Visiting: https://www.backmarket.de/de-de/p/acer-a515-52-15-i3-8145u-21-ghz-hdd-128-gb-4gb/03b6897c-d545-4495-a809-f66e76df5697
+2025-04-25 14:58:03,492 - INFO - [2] Extracted: Acer Aspire A515-52 15" Core i3 2.1 GHz - SSD 128 GB - 4GB QWERTY - Portugiesisch - 399,00 € - Category: Laptops
+2025-04-25 14:58:03,501 - INFO - Updated JSON with 327 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 14:58:03,508 - INFO - Saved 203 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 14:58:03,508 - INFO - Saved 203 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 14:58:03,508 - INFO - [3] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a314-23p-r1ch-14-ryzen-5-28-ghz-ssd-512-gb-16gb-azerty-franzosisch/fe948403-5269-4435-ac47-db9b3ca31708
+2025-04-25 14:58:23,770 - INFO - [3] Extracted: Acer Aspire 3 A314-23P-R1CH 14" Ryzen 5 2.8 GHz - SSD 512 GB - 16GB AZERTY - Französisch - 449,00 € - Category: Laptops
+2025-04-25 14:58:23,770 - INFO - Updated JSON with 328 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 14:58:23,782 - INFO - Saved 204 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 14:58:23,782 - INFO - Saved 204 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 14:58:23,782 - INFO - [4] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-21-418f-15-a4-22-ghz-hdd-1-tb-8gb-azerty-franzosisch/49cf72f2-84d7-4204-b272-f0c9b06dae2c
+2025-04-25 14:58:40,830 - INFO - [4] Extracted: Acer Aspire 3 A315-21-418F 15" A4 1.6 GHz - HDD 1 TB - 8GB AZERTY - Französisch - 434,00 € - Category: Laptops
+2025-04-25 14:58:40,839 - INFO - Updated JSON with 329 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 14:58:40,845 - INFO - Saved 205 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 14:58:40,845 - INFO - Saved 205 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 14:58:40,845 - INFO - [5] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-23-r7ag-15-ryzen-5-21-ghz-ssd-1000-gb-12gb-azerty-franzosisch/ac336f40-4d35-4847-91da-cc6722765498
+2025-04-25 14:58:56,645 - INFO - [5] Extracted: None - None - Category: Laptops
+2025-04-25 14:58:56,658 - INFO - Updated JSON with 330 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 14:58:56,673 - INFO - Saved 205 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 14:58:56,674 - INFO - Saved 205 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 14:58:56,675 - INFO - [6] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-23-r8rq-156-azerty-francais-15-ryzen-5-3500u-210ghz-ghz-ssd-1-gb-hdd-999-gb-8192gb/dcc83e9d-61fe-4809-b660-a089fe5d8edb
+2025-04-25 15:04:25,765 - INFO - [1] Visiting: https://www.backmarket.de/de-de/p/ac-chromebook-314-pentium-silver-31-ghz-64gb-ssd-8gb/9853a258-586d-4115-894d-95556444bdd1
+2025-04-25 15:04:43,811 - INFO - [1] Extracted: None - None - Category: None
+2025-04-25 15:04:43,811 - INFO - Updated JSON with 1 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 15:04:43,824 - INFO - Saved 0 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 15:04:43,824 - INFO - Saved 0 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 15:04:43,824 - INFO - [2] Visiting: https://www.backmarket.de/de-de/p/acer-a515-52-15-i3-8145u-21-ghz-hdd-128-gb-4gb/03b6897c-d545-4495-a809-f66e76df5697
+2025-04-25 15:05:01,317 - INFO - [2] Extracted: Acer Aspire A515-52 15" Core i3 2.1 GHz - SSD 128 GB - 4GB QWERTY - Portugiesisch - 399,00 € - Category: Laptops
+2025-04-25 15:05:01,319 - INFO - Updated JSON with 2 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 15:05:01,326 - INFO - Saved 1 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 15:05:01,328 - INFO - Saved 1 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 15:05:01,328 - INFO - [3] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a314-23p-r1ch-14-ryzen-5-28-ghz-ssd-512-gb-16gb-azerty-franzosisch/fe948403-5269-4435-ac47-db9b3ca31708
+2025-04-25 15:05:18,523 - INFO - [3] Extracted: Acer Aspire 3 A314-23P-R1CH 14" Ryzen 5 2.8 GHz - SSD 512 GB - 16GB AZERTY - Französisch - 449,00 € - Category: Laptops
+2025-04-25 15:05:18,525 - INFO - Updated JSON with 3 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 15:05:18,531 - INFO - Saved 2 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 15:05:18,531 - INFO - Saved 2 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 15:05:18,532 - INFO - [4] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-21-418f-15-a4-22-ghz-hdd-1-tb-8gb-azerty-franzosisch/49cf72f2-84d7-4204-b272-f0c9b06dae2c
+2025-04-25 15:05:36,905 - INFO - [4] Extracted: Acer Aspire 3 A315-21-418F 15" A4 1.6 GHz - HDD 1 TB - 8GB AZERTY - Französisch - 434,00 € - Category: Laptops
+2025-04-25 15:05:36,905 - INFO - Updated JSON with 4 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 15:05:36,916 - INFO - Saved 3 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 15:05:36,916 - INFO - Saved 3 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 15:05:36,916 - INFO - [5] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-23-r7ag-15-ryzen-5-21-ghz-ssd-1000-gb-12gb-azerty-franzosisch/ac336f40-4d35-4847-91da-cc6722765498
+2025-04-25 15:05:54,906 - INFO - [5] Extracted: None - None - Category: Laptops
+2025-04-25 15:05:54,906 - INFO - Updated JSON with 5 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 15:05:54,913 - INFO - Saved 3 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 15:05:54,914 - INFO - Saved 3 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 15:05:54,914 - INFO - [6] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-23-r8rq-156-azerty-francais-15-ryzen-5-3500u-210ghz-ghz-ssd-1-gb-hdd-999-gb-8192gb/dcc83e9d-61fe-4809-b660-a089fe5d8edb
+2025-04-25 15:07:27,742 - INFO - Loaded 5 existing products from C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 15:07:32,127 - INFO - [1] Visiting: https://www.backmarket.de/de-de/p/ac-chromebook-314-pentium-silver-31-ghz-64gb-ssd-8gb/9853a258-586d-4115-894d-95556444bdd1
+2025-04-25 15:07:49,566 - INFO - [1] Extracted: None - None - Category: None
+2025-04-25 15:07:49,566 - INFO - Updated JSON with 6 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 15:07:49,574 - INFO - Saved 3 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 15:07:49,575 - INFO - Saved 3 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 15:07:49,575 - INFO - [2] Visiting: https://www.backmarket.de/de-de/p/acer-a515-52-15-i3-8145u-21-ghz-hdd-128-gb-4gb/03b6897c-d545-4495-a809-f66e76df5697
+2025-04-25 15:08:06,373 - INFO - [2] Extracted: Acer Aspire A515-52 15" Core i3 2.1 GHz - SSD 128 GB - 4GB QWERTY - Portugiesisch - 399,00 € - Category: Laptops
+2025-04-25 15:08:06,375 - INFO - Updated JSON with 7 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 15:08:06,375 - INFO - Saved 4 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 15:08:06,375 - INFO - Saved 4 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 15:08:06,375 - INFO - [3] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a314-23p-r1ch-14-ryzen-5-28-ghz-ssd-512-gb-16gb-azerty-franzosisch/fe948403-5269-4435-ac47-db9b3ca31708
+2025-04-25 15:08:25,042 - INFO - [3] Extracted: Acer Aspire 3 A314-23P-R1CH 14" Ryzen 5 2.8 GHz - SSD 512 GB - 16GB AZERTY - Französisch - 449,00 € - Category: Laptops
+2025-04-25 15:08:25,051 - INFO - Updated JSON with 8 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 15:08:25,057 - INFO - Saved 5 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 15:08:25,057 - INFO - Saved 5 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 15:08:25,059 - INFO - [4] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-21-418f-15-a4-22-ghz-hdd-1-tb-8gb-azerty-franzosisch/49cf72f2-84d7-4204-b272-f0c9b06dae2c
+2025-04-25 15:08:44,976 - INFO - [4] Extracted: Acer Aspire 3 A315-21-418F 15" A4 1.6 GHz - HDD 1 TB - 8GB AZERTY - Französisch - 434,00 € - Category: Laptops
+2025-04-25 15:08:45,048 - INFO - Updated JSON with 9 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 15:08:45,188 - INFO - Saved 6 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 15:08:45,335 - INFO - Saved 6 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 15:08:45,485 - INFO - [5] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-23-r7ag-15-ryzen-5-21-ghz-ssd-1000-gb-12gb-azerty-franzosisch/ac336f40-4d35-4847-91da-cc6722765498
+2025-04-25 15:09:07,058 - INFO - [5] Extracted: None - None - Category: Laptops
+2025-04-25 15:09:07,061 - INFO - Updated JSON with 10 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 15:09:07,065 - INFO - Saved 6 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 15:09:07,065 - INFO - Saved 6 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 15:09:07,065 - INFO - [6] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-23-r8rq-156-azerty-francais-15-ryzen-5-3500u-210ghz-ghz-ssd-1-gb-hdd-999-gb-8192gb/dcc83e9d-61fe-4809-b660-a089fe5d8edb
+2025-04-25 15:09:24,309 - INFO - [6] Extracted: None - None - Category: Laptops
+2025-04-25 15:09:24,309 - INFO - Updated JSON with 11 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 15:09:24,313 - INFO - Saved 6 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 15:09:24,313 - INFO - Saved 6 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 15:09:24,313 - INFO - [7] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-44p-r8vj-15-ryzen-7-18-ghz-ssd-512-gb-16gb-azerty-franzosisch/17ae25c4-5511-4935-a762-3ca905bf2981
+2025-04-25 15:09:42,287 - INFO - [7] Extracted: None - None - Category: Laptops
+2025-04-25 15:09:42,289 - INFO - Updated JSON with 12 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 15:09:42,294 - INFO - Saved 6 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 15:09:42,294 - INFO - Saved 6 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 15:09:42,294 - INFO - [8] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-51-15-core-i3-23-ghz-ssd-128-gb-4gb-azerty-franzosisch/148f15c1-a930-4813-9e9c-3d0f49f4dfd4
+2025-04-25 15:09:58,492 - INFO - [8] Extracted: Acer Aspire 3 A315-51 15" Core i3 2.3 GHz - SSD 128 GB + HDD 1 TB - 4GB AZERTY - Französisch - 449,00 € - Category: Laptops
+2025-04-25 15:09:58,494 - INFO - Updated JSON with 13 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 15:09:58,498 - INFO - Saved 7 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 15:09:58,501 - INFO - Saved 7 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 15:09:58,501 - INFO - [9] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-56-15-core-i3-12-ghz-ssd-1000-gb-12gb-azerty-franzosisch/259a8e7b-9726-4fa3-8173-15d0314d868a
+2025-04-25 15:10:16,507 - INFO - [9] Extracted: None - None - Category: Laptops
+2025-04-25 15:10:16,508 - INFO - Updated JSON with 14 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 15:10:16,512 - INFO - Saved 7 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 15:10:16,512 - INFO - Saved 7 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 15:10:16,512 - INFO - [10] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-58-37nx-15-core-i3-3-ghz-ssd-512-gb-8gb-azerty-franzosisch/baaa0af9-3043-4459-a0b5-6f7403951e12
+2025-04-25 15:14:53,077 - INFO - [1] Visiting: https://www.backmarket.de/de-de/p/ac-chromebook-314-pentium-silver-31-ghz-64gb-ssd-8gb/9853a258-586d-4115-894d-95556444bdd1
+2025-04-25 15:15:09,606 - INFO - [1] Extracted: None - None - Category: None
+2025-04-25 15:15:09,606 - INFO - Updated JSON with 1 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 15:15:09,606 - INFO - Saved 0 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 15:15:09,606 - INFO - Saved 0 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 15:15:09,606 - INFO - [2] Visiting: https://www.backmarket.de/de-de/p/acer-a515-52-15-i3-8145u-21-ghz-hdd-128-gb-4gb/03b6897c-d545-4495-a809-f66e76df5697
+2025-04-25 15:15:29,475 - INFO - [2] Extracted: Acer Aspire A515-52 15" Core i3 2.1 GHz - SSD 128 GB - 4GB QWERTY - Portugiesisch - 399,00 € - Category: Laptops
+2025-04-25 15:15:29,475 - INFO - Updated JSON with 2 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 15:15:29,475 - INFO - Saved 1 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 15:15:29,475 - INFO - Saved 1 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 15:15:29,475 - INFO - [3] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a314-23p-r1ch-14-ryzen-5-28-ghz-ssd-512-gb-16gb-azerty-franzosisch/fe948403-5269-4435-ac47-db9b3ca31708
+2025-04-25 15:15:49,568 - INFO - [3] Extracted: Acer Aspire 3 A314-23P-R1CH 14" Ryzen 5 2.8 GHz - SSD 512 GB - 16GB AZERTY - Französisch - 449,00 € - Category: Laptops
+2025-04-25 15:15:49,676 - INFO - Updated JSON with 3 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 15:15:49,877 - INFO - Saved 2 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 15:15:50,046 - INFO - Saved 2 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 15:15:50,199 - INFO - [4] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-21-418f-15-a4-22-ghz-hdd-1-tb-8gb-azerty-franzosisch/49cf72f2-84d7-4204-b272-f0c9b06dae2c
+2025-04-25 15:16:14,129 - INFO - [4] Extracted: Acer Aspire 3 A315-21-418F 15" A4 1.6 GHz - HDD 1 TB - 8GB AZERTY - Französisch - 434,00 € - Category: Laptops
+2025-04-25 15:16:14,133 - INFO - Updated JSON with 4 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 15:16:14,136 - INFO - Saved 3 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 15:16:14,139 - INFO - Saved 3 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 15:16:14,139 - INFO - [5] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-23-r7ag-15-ryzen-5-21-ghz-ssd-1000-gb-12gb-azerty-franzosisch/ac336f40-4d35-4847-91da-cc6722765498
+2025-04-25 15:16:31,470 - INFO - [5] Extracted: None - None - Category: Laptops
+2025-04-25 15:16:31,470 - INFO - Updated JSON with 5 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 15:16:31,490 - INFO - Saved 3 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 15:16:31,490 - INFO - Saved 3 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 15:16:31,491 - INFO - [6] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-23-r8rq-156-azerty-francais-15-ryzen-5-3500u-210ghz-ghz-ssd-1-gb-hdd-999-gb-8192gb/dcc83e9d-61fe-4809-b660-a089fe5d8edb
+2025-04-25 15:16:47,081 - INFO - [6] Extracted: None - None - Category: Laptops
+2025-04-25 15:16:47,083 - INFO - Updated JSON with 6 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 15:16:47,086 - INFO - Saved 3 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 15:16:47,087 - INFO - Saved 3 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 15:16:47,087 - INFO - [7] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-44p-r8vj-15-ryzen-7-18-ghz-ssd-512-gb-16gb-azerty-franzosisch/17ae25c4-5511-4935-a762-3ca905bf2981
+2025-04-25 15:17:03,722 - INFO - [7] Extracted: None - None - Category: Laptops
+2025-04-25 15:17:03,730 - INFO - Updated JSON with 7 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 15:17:03,735 - INFO - Saved 3 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 15:17:03,736 - INFO - Saved 3 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 15:17:03,736 - INFO - [8] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-51-15-core-i3-23-ghz-ssd-128-gb-4gb-azerty-franzosisch/148f15c1-a930-4813-9e9c-3d0f49f4dfd4
+2025-04-25 15:17:23,600 - INFO - [8] Extracted: Acer Aspire 3 A315-51 15" Core i3 2.3 GHz - SSD 128 GB + HDD 1 TB - 4GB AZERTY - Französisch - 449,00 € - Category: Laptops
+2025-04-25 15:17:23,600 - INFO - Updated JSON with 8 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 15:17:23,600 - INFO - Saved 4 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 15:17:23,600 - INFO - Saved 4 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 15:17:23,600 - INFO - [9] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-56-15-core-i3-12-ghz-ssd-1000-gb-12gb-azerty-franzosisch/259a8e7b-9726-4fa3-8173-15d0314d868a
+2025-04-25 15:17:41,048 - INFO - [9] Extracted: None - None - Category: Laptops
+2025-04-25 15:17:41,048 - INFO - Updated JSON with 9 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 15:17:41,048 - INFO - Saved 4 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 15:17:41,048 - INFO - Saved 4 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 15:17:41,048 - INFO - [10] Visiting: https://www.backmarket.de/de-de/p/acer-aspire-3-a315-58-37nx-15-core-i3-3-ghz-ssd-512-gb-8gb-azerty-franzosisch/baaa0af9-3043-4459-a0b5-6f7403951e12
+2025-04-25 15:17:59,596 - INFO - [10] Extracted: Acer Aspire 3 A315-58-37NX 15" Core i3 3 GHz - SSD 512 GB - 8GB AZERTY - Französisch - 567,00 € - Category: Laptops
+2025-04-25 15:17:59,606 - INFO - Updated JSON with 10 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 15:17:59,606 - INFO - Saved 5 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 15:17:59,606 - INFO - Saved 5 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 15:17:59,613 - INFO - Updated JSON with 10 products at C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\Backmarket_250425.json
+2025-04-25 15:17:59,617 - INFO - Saved 5 products to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_products.csv
+2025-04-25 15:17:59,618 - INFO - Saved 5 prices to C:\Users\samil\Documents\PythonScripts\Scraper\ultimatescraper\ultimatescraper2.0\github\scraped\backmarket_250425_prices.csv
+2025-04-25 15:17:59,619 - INFO - Scraping completed. Total products: 10

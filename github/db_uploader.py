@@ -169,27 +169,34 @@ class DatabaseUploader:
                 conn.close()
     
     def process_latest_files(self):
-        """Process the latest product and price files."""
+        """Process the latest product and price files for both Refurbed and Backmarket."""
         try:
             scraped_dir = Path(__file__).parent / "Scraped"
             
-            # Find the latest products file
-            product_files = list(scraped_dir.glob("refurbed_*_products.csv"))
-            if product_files:
-                latest_product_file = max(product_files, key=os.path.getmtime)
-                self.upload_products(latest_product_file)
-                logging.info(f"Processed latest product file: {latest_product_file}")
-            else:
-                logging.warning("No product files found")
+            # Process files for different sources
+            sources = [
+                {"name": "Refurbed", "products_pattern": "refurbed_*_products.csv", "prices_pattern": "refurbed_*_prices.csv"},
+                {"name": "Backmarket", "products_pattern": "backmarket_*_products.csv", "prices_pattern": "backmarket_*_prices.csv"}
+            ]
             
-            # Find the latest prices file
-            price_files = list(scraped_dir.glob("refurbed_*_prices.csv"))
-            if price_files:
-                latest_price_file = max(price_files, key=os.path.getmtime)
-                self.upload_price_history(latest_price_file)
-                logging.info(f"Processed latest price file: {latest_price_file}")
-            else:
-                logging.warning("No price files found")
+            for source in sources:
+                # Find the latest products file
+                product_files = list(scraped_dir.glob(source["products_pattern"]))
+                if product_files:
+                    latest_product_file = max(product_files, key=os.path.getmtime)
+                    self.upload_products(latest_product_file)
+                    logging.info(f"Processed latest {source['name']} product file: {latest_product_file}")
+                else:
+                    logging.warning(f"No {source['name']} product files found")
+                
+                # Find the latest prices file
+                price_files = list(scraped_dir.glob(source["prices_pattern"]))
+                if price_files:
+                    latest_price_file = max(price_files, key=os.path.getmtime)
+                    self.upload_price_history(latest_price_file)
+                    logging.info(f"Processed latest {source['name']} price file: {latest_price_file}")
+                else:
+                    logging.warning(f"No {source['name']} price files found")
                 
         except Exception as e:
             logging.error(f"Error processing latest files: {str(e)}")

@@ -1,0 +1,12 @@
+{
+    "products": [
+        "refurbed_250408_products.csv",
+        "refurbed_250413_products.csv",
+        "refurbed_250421_products.csv"
+    ],
+    "prices": [
+        "refurbed_250408_prices.csv",
+        "refurbed_250413_prices.csv",
+        "refurbed_250421_prices.csv"
+    ]
+}
