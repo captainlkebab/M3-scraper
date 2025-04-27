@@ -1,0 +1,681 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Used IT Equipment Price Tracker</title>
+  <style>
+    :root {
+      --bg-color: #121212;
+      --text-color: #e0e0e0;
+      --header-bg: #1e1e1e;
+      --border-color: #444;
+      --hover-color: #2c2c2c;
+      --link-color: #90caf9;
+    }
+    
+    body { 
+      font-family: sans-serif; 
+      padding: 20px; 
+      background-color: var(--bg-color);
+      color: var(--text-color);
+    }
+    
+    input { 
+      padding: 8px; 
+      width: 300px; 
+      margin-bottom: 15px; 
+      background-color: #2a2a2a;
+      border: 1px solid var(--border-color);
+      color: var(--text-color);
+      border-radius: 4px;
+    }
+    
+    table { 
+      border-collapse: collapse; 
+      width: 100%; 
+      margin-bottom: 20px;
+    }
+    
+    th, td { 
+      border: 1px solid var(--border-color); 
+      padding: 10px; 
+      text-align: left; 
+    }
+    
+    th { 
+      background-color: var(--header-bg); 
+    }
+    
+    tr:hover {
+      background-color: var(--hover-color);
+    }
+    
+    a {
+      color: var(--link-color);
+      text-decoration: none;
+    }
+    
+    a:hover {
+      text-decoration: underline;
+    }
+    
+    .info-section {
+      margin: 20px 0;
+      padding: 15px;
+      background-color: #1a1a1a;
+      border-radius: 5px;
+      border-left: 4px solid #555;
+    }
+    
+    .explanation {
+      font-size: 0.9em;
+      color: #aaa;
+      margin-top: 5px;
+      line-height: 1.4;
+    }
+    
+    .help-icon {
+      display: inline-block;
+      width: 18px;
+      height: 18px;
+      background-color: #555;
+      color: #fff;
+      border-radius: 50%;
+      text-align: center;
+      line-height: 18px;
+      font-size: 12px;
+      margin-left: 5px;
+      cursor: help;
+    }
+    
+    .tooltip {
+      position: relative;
+      display: inline-block;
+    }
+    
+    .tooltip .tooltiptext {
+      visibility: hidden;
+      width: 250px;
+      background-color: #333;
+      color: #fff;
+      text-align: left;
+      border-radius: 6px;
+      padding: 8px;
+      position: absolute;
+      z-index: 1;
+      bottom: 125%;
+      left: 50%;
+      margin-left: -125px;
+      opacity: 0;
+      transition: opacity 0.3s;
+      font-size: 0.85em;
+      line-height: 1.4;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+    }
+    
+    .tooltip:hover .tooltiptext {
+      visibility: visible;
+      opacity: 1;
+    }
+    
+    .stats {
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      margin: 20px 0;
+    }
+    
+    .stat-card {
+      background-color: #1e1e1e;
+      border-radius: 5px;
+      padding: 15px;
+      margin-bottom: 10px;
+      flex: 1;
+      min-width: 200px;
+      margin-right: 10px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+    }
+    
+    .stat-card h3 {
+      margin-top: 0;
+      color: #90caf9;
+    }
+    
+    /* Add styles for predictions */
+    .price-increase {
+      color: #ff5252;
+    }
+    
+    .price-decrease {
+      color: #4caf50;
+    }
+    
+    .prediction-section {
+      margin: 20px 0;
+      padding: 15px;
+      background-color: #1a1a1a;
+      border-radius: 5px;
+      border-left: 4px solid #ff9800;
+    }
+    
+    .prediction-card {
+      background-color: #1e1e1e;
+      border-radius: 5px;
+      padding: 15px;
+      margin-bottom: 10px;
+      flex: 1;
+      min-width: 200px;
+      margin-right: 10px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+    }
+    
+    .prediction-card h3 {
+      margin-top: 0;
+      color: #ff9800;
+    }
+    
+    .trend-up {
+      color: #ff5252;
+    }
+    
+    .trend-down {
+      color: #4caf50;
+    }
+  </style>
+</head>
+<body>
+  <h1>Used IT Equipment Price Tracker</h1>
+  
+  <div class="info-section">
+    <h2>About This Tracker</h2>
+    <p>This tool tracks prices of used and refurbished IT equipment from various sources. Data is updated automatically every Sunday for the market prices.</p>
+    <p class="explanation">This tracker helps you monitor price trends for refurbished electronics, compare prices across different sources, and make informed purchasing decisions. The data is collected from multiple refurbished equipment marketplaces.</p>
+  </div>
+
+  <div class="stats">
+    <div class="stat-card">
+      <h3>Total Products</h3>
+      <p id="totalProducts">Loading...</p>
+      <p class="explanation">Number of products currently being tracked in our database.</p>
+    </div>
+    <div class="stat-card">
+      <h3>Brands</h3>
+      <p id="uniqueBrands">Loading...</p>
+      <p class="explanation">Number of unique manufacturers represented in the dataset.</p>
+    </div>
+    <div class="stat-card">
+      <h3>Price Range</h3>
+      <p id="priceRange">Loading...</p>
+      <p class="explanation">The lowest and highest prices found across all products.</p>
+    </div>
+    <div class="stat-card">
+      <h3>Last Updated</h3>
+      <p id="lastUpdated">Loading...</p>
+      <p class="explanation">Date when the price data was last collected.</p>
+    </div>
+  </div>
+  
+  <!-- Add prediction section here -->
+  <div class="prediction-section">
+    <h2>Price Predictions <span class="tooltip"><span class="help-icon">?</span><span class="tooltiptext">These predictions are based on historical price data from the past 2 months. We use linear regression to forecast future price trends.</span></span></h2>
+    <p>Based on historical data analysis, we predict the following price trends for the next 30 days:</p>
+    
+    <div class="stats">
+      <div class="prediction-card">
+        <h3>Trending Up</h3>
+        <p id="trendingUpBrands">Loading...</p>
+        <p class="explanation">Brands whose products are expected to increase in price. Consider buying these now before prices rise further.</p>
+      </div>
+      <div class="prediction-card">
+        <h3>Trending Down</h3>
+        <p id="trendingDownBrands">Loading...</p>
+        <p class="explanation">Brands whose products are expected to decrease in price. You might want to wait before purchasing these.</p>
+      </div>
+      <div class="prediction-card">
+        <h3>Hot Categories</h3>
+        <p id="trendingCategories">Loading...</p>
+        <p class="explanation">Product categories with the most significant price movements, both up and down.</p>
+      </div>
+    </div>
+  </div>
+  
+  <div class="info-section">
+    <h2>How to Use This Tracker</h2>
+    <p>Use the search box below to find specific products by brand, model, or title. The table shows current prices and predicted future prices to help you make better buying decisions.</p>
+    <ul>
+      <li><strong>Price</strong>: Current market price in EUR</li>
+      <li><strong>Price Change</strong>: How the price has changed compared to previous data</li>
+      <li><strong>Predicted Price</strong>: Expected price in 30 days based on our prediction model</li>
+      <li><strong>Grade</strong>: Condition rating of the refurbished item (A, B, etc.)</li>
+    </ul>
+  </div>
+  
+  <input type="text" id="search" placeholder="Search by model or brand..." />
+  <table>
+      <thead>
+        <tr>
+          <th>Title <span class="tooltip"><span class="help-icon">?</span><span class="tooltiptext">Product name as listed by the seller</span></span></th>
+          <th>Model <span class="tooltip"><span class="help-icon">?</span><span class="tooltiptext">Specific model number or identifier</span></span></th>
+          <th>Brand <span class="tooltip"><span class="help-icon">?</span><span class="tooltiptext">Manufacturer of the product</span></span></th>
+          <th>Price <span class="tooltip"><span class="help-icon">?</span><span class="tooltiptext">Current market price in EUR</span></span></th>
+          <th>Price Change <span class="tooltip"><span class="help-icon">?</span><span class="tooltiptext">How the price has changed since the last update</span></span></th>
+          <th>Predicted Price <span class="tooltip"><span class="help-icon">?</span><span class="tooltiptext">Expected price in 30 days based on historical trends. Arrows indicate direction (↑ rising, ↓ falling) and percentage shows the expected change.</span></span></th>
+          <th>Grade <span class="tooltip"><span class="help-icon">?</span><span class="tooltiptext">Condition rating of the refurbished item (A = excellent, B = good, etc.)</span></span></th>
+          <th>Source <span class="tooltip"><span class="help-icon">?</span><span class="tooltiptext">Website where this product is listed</span></span></th>
+          <th>Link <span class="tooltip"><span class="help-icon">?</span><span class="tooltiptext">Click to view the product on the original website</span></span></th>
+        </tr>
+      </thead>
+      <tbody id="productTable"></tbody>
+    </table>
+    
+    <div class="info-section">
+      <h2>Understanding the Predictions</h2>
+      <p>Our price predictions are based on historical data collected over the past 2 months. Here's how to interpret them:</p>
+      <ul>
+        <li><strong>Trending Up (↑)</strong>: Prices are expected to increase. Consider buying sooner rather than later.</li>
+        <li><strong>Trending Down (↓)</strong>: Prices are expected to decrease. You might want to wait for better deals.</li>
+        <li><strong>Percentage</strong>: The expected percentage change in price over the next 30 days.</li>
+      </ul>
+      <p class="explanation">Note: Predictions are estimates based on past data and market trends. Actual prices may vary due to unforeseen market changes, availability, or other factors.</p>
+    </div>
+
+    <script>
+      // Global variable to store previous week's data
+      let previousWeekData = [];
+      
+      // Call the function when page loads
+      async function loadProducts() {
+        try {
+          // Generate today's filename in format Refurbed_YYMMDD.json
+          const today = new Date();
+          const year = today.getFullYear().toString().slice(-2);
+          const month = String(today.getMonth() + 1).padStart(2, '0');
+          const day = String(today.getDate()).padStart(2, '0');
+          const fileName = `Refurbed_${year}${month}${day}.json`;
+          
+          // Try to load today's file first
+          let response = await fetch(`./${fileName}`);
+          let actualFileName = fileName;
+          
+          // If today's file doesn't exist, try to find the newest file
+          if (!response.ok) {
+            console.log("Today's file not found, looking for the newest file...");
+            
+            // Try to fetch a list of available files (this requires a server-side solution)
+            // For client-side, we'll try a few recent dates
+            const attempts = [];
+            
+            // Try the last 30 days
+            for (let i = 1; i <= 30; i++) {
+              const pastDate = new Date(today);
+              pastDate.setDate(today.getDate() - i);
+              
+              const pastYear = pastDate.getFullYear().toString().slice(-2);
+              const pastMonth = String(pastDate.getMonth() + 1).padStart(2, '0');
+              const pastDay = String(pastDate.getDate()).padStart(2, '0');
+              const pastFileName = `Refurbed_${pastYear}${pastMonth}${pastDay}.json`;
+              
+              attempts.push(pastFileName);
+            }
+            
+            // Also try the specific sample file we know exists
+            attempts.push('Refurbed_250413.json');
+            
+            // Try each file until one works
+            let fileFound = false;
+            for (const attemptFile of attempts) {
+              try {
+                const attemptResponse = await fetch(`./${attemptFile}`);
+                if (attemptResponse.ok) {
+                  response = attemptResponse;
+                  actualFileName = attemptFile;
+                  fileFound = true;
+                  console.log(`Found file: ${attemptFile}`);
+                  break;
+                }
+              } catch (e) {
+                // Continue to next attempt
+              }
+            }
+            
+            // If no recent files found, show an error
+            if (!fileFound) {
+              console.log("No data files found");
+              throw new Error("No data files could be found. Please ensure at least one Refurbed_*.json file exists.");
+            }
+          }
+          
+          const data = await response.json();
+    
+          // Load predictions
+          const predictions = await loadPredictions();
+          
+          // Update prediction section
+          await updatePredictionSection();
+    
+          // Load previous week's data
+          try {
+            // Calculate date for previous week (7 days ago)
+            const prevWeekDate = new Date(today);
+            prevWeekDate.setDate(today.getDate() - 7);
+            
+            const prevYear = prevWeekDate.getFullYear().toString().slice(-2);
+            const prevMonth = String(prevWeekDate.getMonth() + 1).padStart(2, '0');
+            const prevDay = String(prevWeekDate.getDate()).padStart(2, '0');
+            const prevFileName = `Refurbed_${prevYear}${prevMonth}${prevDay}.json`;
+            
+            const prevResponse = await fetch(`./${prevFileName}`);
+            if (prevResponse.ok) {
+              previousWeekData = await prevResponse.json();
+              console.log("Loaded previous week's data:", prevFileName);
+            } else {
+              console.log("Previous week's data not found, trying other dates...");
+              
+              // Try a few days before and after the exact 7-day mark
+              for (let offset = 1; offset <= 3; offset++) {
+                // Try days before
+                const beforeDate = new Date(prevWeekDate);
+                beforeDate.setDate(prevWeekDate.getDate() - offset);
+                
+                const beforeYear = beforeDate.getFullYear().toString().slice(-2);
+                const beforeMonth = String(beforeDate.getMonth() + 1).padStart(2, '0');
+                const beforeDay = String(beforeDate.getDate()).padStart(2, '0');
+                const beforeFileName = `Refurbed_${beforeYear}${beforeMonth}${beforeDay}.json`;
+                
+                const beforeResponse = await fetch(`./${beforeFileName}`);
+                if (beforeResponse.ok) {
+                  previousWeekData = await beforeResponse.json();
+                  console.log("Loaded previous data:", beforeFileName);
+                  break;
+                }
+                
+                // Try days after
+                const afterDate = new Date(prevWeekDate);
+                afterDate.setDate(prevWeekDate.getDate() + offset);
+                
+                const afterYear = afterDate.getFullYear().toString().slice(-2);
+                const afterMonth = String(afterDate.getMonth() + 1).padStart(2, '0');
+                const afterDay = String(afterDate.getDate()).padStart(2, '0');
+                const afterFileName = `Refurbed_${afterYear}${afterMonth}${afterDay}.json`;
+                
+                const afterResponse = await fetch(`./${afterFileName}`);
+                if (afterResponse.ok) {
+                  previousWeekData = await afterResponse.json();
+                  console.log("Loaded previous data:", afterFileName);
+                  break;
+                }
+              }
+            }
+          } catch (err) {
+            console.log("Error loading previous week's data:", err);
+            previousWeekData = [];
+          }
+          
+          // Update stats with the actual file name that was loaded
+          updateStats(data, actualFileName);
+          
+          const table = document.getElementById('productTable');
+          const searchInput = document.getElementById('search');
+    
+          function renderTable(products) {
+            renderTableWithPredictions(products, predictions);
+          }
+    
+          function filterData(term) {
+            if (!term) {
+              // Return all products with available prices
+              return data.filter(p => 
+                p.offer?.price !== "NOT-AVAILABLE" && 
+                p.item?.price !== "0" && 
+                p.item?.price !== undefined
+              );
+            }
+            
+            term = term.toLowerCase();
+            return data.filter(p =>
+              // Only include products with available prices
+              (p.offer?.price !== "NOT-AVAILABLE" && p.item?.price !== "0" && p.item?.price !== undefined) &&
+              // And match the search term
+              ((p.title || '').toLowerCase().includes(term) ||
+              (p.item?.item_name || '').toLowerCase().includes(term) ||
+              (p.item?.item_brand || '').toLowerCase().includes(term))
+            );
+          }
+    
+          searchInput.addEventListener('input', () => {
+            const filtered = filterData(searchInput.value);
+            renderTable(filtered);
+          });
+    
+          // Initial render with all data
+          renderTable(data);
+        } catch (err) {
+          console.error('Error loading products:', err);
+          const table = document.getElementById('productTable');
+          table.innerHTML = `<tr><td colspan="9">Error loading data. See console for details.</td></tr>`;
+        }
+      }
+      
+      // Function to update stats
+      function updateStats(data, fileName) {
+        // Extract date from filename
+        const dateMatch = fileName.match(/Refurbed_(\d{2})(\d{2})(\d{2})\.json/);
+        let dateStr = 'Unknown';
+        
+        if (dateMatch) {
+          const [_, yy, mm, dd] = dateMatch;
+          dateStr = `20${yy}-${mm}-${dd}`;
+        }
+        
+        // Count total products with available prices
+        const availableProducts = data.filter(p => 
+          p.offer?.price !== "NOT-AVAILABLE" && 
+          p.item?.price !== "0" && 
+          p.item?.price !== undefined
+        );
+        
+        // Get unique brands
+        const brands = new Set();
+        availableProducts.forEach(p => {
+          if (p.item?.item_brand) {
+            brands.add(p.item.item_brand);
+          }
+        });
+        
+        // Get price range
+        let minPrice = Infinity;
+        let maxPrice = 0;
+        
+        availableProducts.forEach(p => {
+          const price = parseFloat(p.offer?.price || p.item?.price || 0);
+          if (price > 0) {
+            minPrice = Math.min(minPrice, price);
+            maxPrice = Math.max(maxPrice, price);
+          }
+        });
+        
+        // Update the stats in the UI
+        document.getElementById('totalProducts').textContent = availableProducts.length;
+        document.getElementById('uniqueBrands').textContent = brands.size;
+        document.getElementById('priceRange').textContent = `${minPrice.toFixed(2)} - ${maxPrice.toFixed(2)} EUR`;
+        document.getElementById('lastUpdated').textContent = dateStr;
+      }
+      
+      // Load price predictions
+      async function loadPredictions() {
+        try {
+          const response = await fetch('./price_predictions.json');
+          if (!response.ok) {
+            console.log("Price predictions not found");
+            return null;
+          }
+          return await response.json();
+        } catch (err) {
+          console.error('Error loading predictions:', err);
+          return null;
+        }
+      }
+      
+      // Load prediction summary
+      async function loadPredictionSummary() {
+        try {
+          const response = await fetch('./prediction_summary.json');
+          if (!response.ok) {
+            console.log("Prediction summary not found");
+            return null;
+          }
+          return await response.json();
+        } catch (err) {
+          console.error('Error loading prediction summary:', err);
+          return null;
+        }
+      }
+      
+      // Update the prediction section with summary data
+      async function updatePredictionSection() {
+        const summary = await loadPredictionSummary();
+        if (!summary) {
+          document.querySelector('.prediction-section').style.display = 'none';
+          return;
+        }
+        
+        // Update trending up brands
+        const trendingUpBrands = document.getElementById('trendingUpBrands');
+        if (summary.trending_up_brands && summary.trending_up_brands.length > 0) {
+          let html = '';
+          summary.trending_up_brands.forEach(brand => {
+            html += `<div><strong>${brand.name}</strong>: <span class="trend-up">+${brand.trend_pct}%</span></div>`;
+          });
+          trendingUpBrands.innerHTML = html;
+        } else {
+          trendingUpBrands.textContent = 'No brands trending up';
+        }
+        
+        // Update trending down brands
+        const trendingDownBrands = document.getElementById('trendingDownBrands');
+        if (summary.trending_down_brands && summary.trending_down_brands.length > 0) {
+          let html = '';
+          summary.trending_down_brands.forEach(brand => {
+            html += `<div><strong>${brand.name}</strong>: <span class="trend-down">${brand.trend_pct}%</span></div>`;
+          });
+          trendingDownBrands.innerHTML = html;
+        } else {
+          trendingDownBrands.textContent = 'No brands trending down';
+        }
+        
+        // Update trending categories
+        const trendingCategories = document.getElementById('trendingCategories');
+        let categoriesHtml = '';
+        
+        if (summary.trending_up_categories && summary.trending_up_categories.length > 0) {
+          summary.trending_up_categories.forEach(cat => {
+            categoriesHtml += `<div><strong>${cat.name}</strong>: <span class="trend-up">+${cat.trend_pct}%</span></div>`;
+          });
+        }
+        
+        if (summary.trending_down_categories && summary.trending_down_categories.length > 0) {
+          summary.trending_down_categories.slice(0, 3).forEach(cat => {
+            categoriesHtml += `<div><strong>${cat.name}</strong>: <span class="trend-down">${cat.trend_pct}%</span></div>`;
+          });
+        }
+        
+        if (categoriesHtml) {
+          trendingCategories.innerHTML = categoriesHtml;
+        } else {
+          trendingCategories.textContent = 'No category trends available';
+        }
+      }
+      
+      // Render table with predictions
+      function renderTableWithPredictions(products, predictions) {
+        const table = document.getElementById('productTable');
+        
+        table.innerHTML = '';
+        // Filter out products with NOT-AVAILABLE prices
+        const availableProducts = products.filter(p => 
+            p.offer?.price !== "NOT-AVAILABLE" && 
+            p.item?.price !== "0" && 
+            p.item?.price !== undefined
+        );
+        
+        if (availableProducts.length === 0) {
+            const row = document.createElement('tr');
+            row.innerHTML = `<td colspan="9">No products with available prices found.</td>`;
+            table.appendChild(row);
+            return;
+        }
+        
+        availableProducts.forEach(p => {
+            // Calculate price change if previous data is available
+            let priceChangeDisplay = 'N/A';
+            
+            if (previousWeekData.length > 0) {
+                // Find the same product in previous week's data
+                const prevProduct = previousWeekData.find(prev => prev.url === p.url);
+                
+                if (prevProduct) {
+                    const currentPrice = parseFloat(p.offer?.price || p.item?.price || 0);
+                    const prevPrice = parseFloat(prevProduct.offer?.price || prevProduct.item?.price || 0);
+                    
+                    if (currentPrice > 0 && prevPrice > 0) {
+                        const priceDiff = currentPrice - prevPrice;
+                        const percentChange = ((priceDiff / prevPrice) * 100).toFixed(2);
+                        
+                        let trendClass = '';
+                        if (priceDiff > 0) {
+                            trendClass = 'trend-up';
+                            priceChangeDisplay = `<span class="${trendClass}">+${priceDiff.toFixed(2)} EUR (${percentChange}%)</span>`;
+                        } else if (priceDiff < 0) {
+                            trendClass = 'trend-down';
+                            priceChangeDisplay = `<span class="${trendClass}">${priceDiff.toFixed(2)} EUR (${percentChange}%)</span>`;
+                        } else {
+                            priceChangeDisplay = 'No change';
+                        }
+                    }
+                }
+            }
+            
+            // Get prediction if available
+            let predictionDisplay = 'N/A';
+            if (predictions && predictions[p.url]) {
+              const prediction = predictions[p.url];
+              const dates = Object.keys(prediction.predictions).sort();
+              const lastDate = dates[dates.length - 1];
+              const predictedPrice = prediction.predictions[lastDate];
+              const trendPct = prediction.trend_pct;
+              
+              let trendClass = '';
+              let trendSymbol = '';
+              
+              if (trendPct > 0) {
+                trendClass = 'trend-up';
+                trendSymbol = '↑';
+              } else if (trendPct < 0) {
+                trendClass = 'trend-down';
+                trendSymbol = '↓';
+              }
+              
+              predictionDisplay = `${predictedPrice} EUR <span class="${trendClass}">${trendSymbol} ${Math.abs(trendPct)}%</span>`;
+            }
+            
+            // Title and URL are already working correctly
+            const row = document.createElement('tr');
+            row.innerHTML = `
+                <td>${p.title || ''}</td>
+                <td>${p.item?.item_name || ''}</td>
+                <td>${p.item?.item_brand || ''}</td>
+                <td>${p.offer?.price || p.item?.price || '0'} ${p.item?.currency || 'EUR'}</td>
+                <td>${priceChangeDisplay}</td>
+                <td>${predictionDisplay}</td>
+                <td>${p.offer?.grading || ''}</td>
+                <td>${p.url?.match(/\/\/(?:www\.)?([^\/]+)/)?.[1] || ''}</td>
+                <td><a href="${p.url || '#'}" target="_blank">View</a></td>
+            `;
+            table.appendChild(row);
+        });
+      }
+      
+      // Call loadProducts when the page loads
+      window.addEventListener('DOMContentLoaded', loadProducts);
+    </script>

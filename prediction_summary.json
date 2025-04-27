@@ -1,0 +1,120 @@
+{
+  "total_products_with_predictions": 2573,
+  "categories": {
+    "Laptops": 1124,
+    "Phones & Smartphones": 699,
+    "Monitors": 243,
+    "Tablets": 182,
+    "Desktop PCs": 145,
+    "Accessories": 106,
+    "Printers & Scanner": 30,
+    "Audio": 18,
+    "TVs": 12,
+    "Household": 8,
+    "Kitchen": 2,
+    "Consoles": 1,
+    "Smartwatches": 1,
+    "Cameras": 1,
+    "Garden": 1
+  },
+  "brands": {
+    "Dell": 594,
+    "HP": 590,
+    "Lenovo": 312,
+    "Samsung": 282,
+    "Apple": 122,
+    "Xiaomi": 119,
+    "Oppo": 63,
+    "Motorola": 62,
+    "Huawei": 58,
+    "Microsoft": 56,
+    "Honor": 54,
+    "Sony": 42,
+    "OnePlus": 37,
+    "Nokia": 35,
+    "LG": 27,
+    "Google": 24,
+    "Realme": 23,
+    "Acer": 16,
+    "Vivo": 16,
+    "PanzerGlass": 12,
+    "Logitech": 5,
+    "BenQ": 5,
+    "ASUS": 5,
+    "Fujitsu": 4,
+    "Olimpia Splendid": 2,
+    "HoldIt": 2,
+    "MW": 1,
+    "Tracer": 1,
+    "Panasonic": 1,
+    "NEC": 1,
+    "K\u00e4rcher": 1
+  },
+  "trending_up_categories": [],
+  "trending_down_categories": [
+    {
+      "name": "Monitors",
+      "trend_pct": -0.47,
+      "count": 243
+    },
+    {
+      "name": "Desktop PCs",
+      "trend_pct": -0.54,
+      "count": 145
+    },
+    {
+      "name": "Tablets",
+      "trend_pct": -0.69,
+      "count": 182
+    },
+    {
+      "name": "Laptops",
+      "trend_pct": -0.9,
+      "count": 1124
+    },
+    {
+      "name": "Phones & Smartphones",
+      "trend_pct": -1.58,
+      "count": 699
+    }
+  ],
+  "trending_up_brands": [
+    {
+      "name": "BenQ",
+      "trend_pct": 1.0,
+      "count": 5
+    },
+    {
+      "name": "Google",
+      "trend_pct": 0.59,
+      "count": 24
+    }
+  ],
+  "trending_down_brands": [
+    {
+      "name": "Xiaomi",
+      "trend_pct": -1.9,
+      "count": 119
+    },
+    {
+      "name": "Realme",
+      "trend_pct": -2.06,
+      "count": 23
+    },
+    {
+      "name": "Apple",
+      "trend_pct": -2.07,
+      "count": 122
+    },
+    {
+      "name": "Logitech",
+      "trend_pct": -2.37,
+      "count": 5
+    },
+    {
+      "name": "OnePlus",
+      "trend_pct": -2.77,
+      "count": 37
+    }
+  ]
+}
