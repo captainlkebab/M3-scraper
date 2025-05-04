@@ -1,12 +1,12 @@
 {
-  "total_products_with_predictions": 2459,
+  "total_products_with_predictions": 2590,
   "categories": {
-    "Laptops": 1055,
-    "Phones & Smartphones": 685,
-    "Monitors": 237,
-    "Tablets": 174,
-    "Desktop PCs": 132,
-    "Accessories": 105,
+    "Laptops": 1131,
+    "Phones & Smartphones": 704,
+    "Monitors": 246,
+    "Tablets": 186,
+    "Desktop PCs": 146,
+    "Accessories": 106,
     "Printers & Scanner": 28,
     "Audio": 18,
     "TVs": 11,
@@ -18,30 +18,30 @@
     "Garden": 1
   },
   "brands": {
-    "Dell": 560,
-    "HP": 554,
-    "Lenovo": 299,
-    "Samsung": 276,
-    "Apple": 121,
-    "Xiaomi": 115,
+    "Dell": 593,
+    "HP": 592,
+    "Lenovo": 321,
+    "Samsung": 284,
+    "Apple": 122,
+    "Xiaomi": 118,
+    "Motorola": 64,
     "Oppo": 63,
-    "Motorola": 60,
-    "Huawei": 55,
-    "Microsoft": 55,
-    "Honor": 53,
-    "Sony": 39,
+    "Huawei": 57,
+    "Honor": 57,
+    "Microsoft": 56,
+    "Sony": 41,
     "OnePlus": 37,
-    "Nokia": 34,
-    "LG": 26,
-    "Google": 24,
-    "Realme": 22,
-    "Vivo": 15,
-    "Acer": 14,
-    "PanzerGlass": 11,
+    "Nokia": 35,
+    "LG": 27,
+    "Google": 25,
+    "Realme": 24,
+    "Acer": 17,
+    "Vivo": 16,
+    "PanzerGlass": 12,
     "Logitech": 5,
+    "BenQ": 5,
+    "ASUS": 5,
     "Fujitsu": 4,
-    "ASUS": 4,
-    "BenQ": 3,
     "Olimpia Splendid": 2,
     "HoldIt": 2,
     "MW": 1,
@@ -50,70 +50,81 @@
     "NEC": 1,
     "K\u00e4rcher": 1
   },
-  "trending_up_categories": [],
+  "trending_up_categories": [
+    {
+      "name": "Household",
+      "trend_pct": 0.46,
+      "count": 8
+    }
+  ],
   "trending_down_categories": [
     {
-      "name": "Tablets",
-      "trend_pct": -0.54,
-      "count": 174
-    },
-    {
-      "name": "Audio",
-      "trend_pct": -0.57,
-      "count": 18
+      "name": "Desktop PCs",
+      "trend_pct": -0.65,
+      "count": 146
     },
     {
       "name": "TVs",
-      "trend_pct": -0.6,
+      "trend_pct": -0.67,
       "count": 11
     },
     {
+      "name": "Tablets",
+      "trend_pct": -0.73,
+      "count": 186
+    },
+    {
       "name": "Laptops",
-      "trend_pct": -0.86,
-      "count": 1055
+      "trend_pct": -0.89,
+      "count": 1131
     },
     {
       "name": "Phones & Smartphones",
-      "trend_pct": -1.51,
-      "count": 685
+      "trend_pct": -1.57,
+      "count": 704
     }
   ],
   "trending_up_brands": [
     {
       "name": "BenQ",
-      "trend_pct": 1.66,
-      "count": 3
+      "trend_pct": 1.0,
+      "count": 5
     },
     {
       "name": "Google",
-      "trend_pct": 0.75,
-      "count": 24
+      "trend_pct": 0.32,
+      "count": 25
+    },
+    {
+      "name": "Sony",
+      "trend_pct": 0.1,
+      "count": 41
     }
   ],
   "trending_down_brands": [
     {
+      "name": "Xiaomi",
+      "trend_pct": -1.97,
+      "count": 118
+    },
+    {
       "name": "Apple",
-      "trend_pct": -1.84,
-      "count": 121
+      "trend_pct": -2.04,
+      "count": 122
     },
     {
       "name": "Realme",
-      "trend_pct": -1.86,
-      "count": 22
-    },
-    {
-      "name": "Motorola",
-      "trend_pct": -2.12,
-      "count": 60
+      "trend_pct": -2.4,
+      "count": 24
     },
     {
       "name": "Logitech",
-      "trend_pct": -2.53,
+      "trend_pct": -2.54,
       "count": 5
     },
     {
       "name": "OnePlus",
-      "trend_pct": -2.73,
+      "trend_pct": -2.81,
       "count": 37
     }
   ]

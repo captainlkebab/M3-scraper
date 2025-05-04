@@ -1643,3 +1643,131 @@ Exclusion Summary for Refurbed:
 2025-04-20 21:17:37,194 - INFO -   ... and 3 more
 2025-04-20 21:17:37,240 - INFO - Successfully saved 6709 URLs to /home/runner/work/M3-scraper/M3-scraper/github/Sitemaps/refurbed_urls.txt
 2025-04-20 21:17:38,030 - ERROR - Error fetching sitemap: 403 Client Error: Forbidden for url: https://www.backmarket.de/sitemap_1.xml
+2025-05-04 01:55:32,030 - INFO - Successfully fetched sitemap from https://www.refurbed.de/sitemap-marketplace.xml
+2025-05-04 01:55:33,224 - INFO - Found 6743 relevant product URLs for Refurbed
+2025-05-04 01:55:33,224 - INFO - 
+Exclusion Summary for Refurbed:
+2025-05-04 01:55:33,224 - INFO - gear: 29 URLs
+2025-05-04 01:55:33,224 - INFO -   Example: https://www.refurbed.de/p/samsung-gear-iconx-sm-r150/
+2025-05-04 01:55:33,224 - INFO -   Example: https://www.refurbed.de/p/netgear-wlan-repeater/
+2025-05-04 01:55:33,224 - INFO -   Example: https://www.refurbed.de/p/samsung-gear-fit/
+2025-05-04 01:55:33,225 - INFO -   ... and 26 more
+2025-05-04 01:55:33,225 - INFO - fitbit: 17 URLs
+2025-05-04 01:55:33,225 - INFO -   Example: https://www.refurbed.de/p/fitbit-charge-6/
+2025-05-04 01:55:33,225 - INFO -   Example: https://www.refurbed.de/p/fitbit-versa-4/
+2025-05-04 01:55:33,225 - INFO -   Example: https://www.refurbed.de/p/fitbit-sense/
+2025-05-04 01:55:33,225 - INFO -   ... and 14 more
+2025-05-04 01:55:33,225 - INFO - case: 31 URLs
+2025-05-04 01:55:33,225 - INFO -   Example: https://www.refurbed.de/p/mw-harshell-laptop-case/
+2025-05-04 01:55:33,225 - INFO -   Example: https://www.refurbed.de/p/holdit-recycled-phone-case/
+2025-05-04 01:55:33,225 - INFO -   Example: https://www.refurbed.de/p/imoshion-transparent-phone-case/
+2025-05-04 01:55:33,225 - INFO -   ... and 28 more
+2025-05-04 01:55:33,225 - INFO - watch: 137 URLs
+2025-05-04 01:55:33,225 - INFO -   Example: https://www.refurbed.de/p/apple-watch-series-9-alu-41mm/
+2025-05-04 01:55:33,225 - INFO -   Example: https://www.refurbed.de/p/vodafone-v-kids-watch/
+2025-05-04 01:55:33,225 - INFO -   Example: https://www.refurbed.de/p/oppo-watch-alu-46mm/
+2025-05-04 01:55:33,225 - INFO -   ... and 134 more
+2025-05-04 01:55:33,225 - INFO - keyboard: 40 URLs
+2025-05-04 01:55:33,225 - INFO -   Example: https://www.refurbed.de/p/logitech-g-pro-gaming-keyboard/
+2025-05-04 01:55:33,225 - INFO -   Example: https://www.refurbed.de/p/apple-magic-keyboard/
+2025-05-04 01:55:33,225 - INFO -   Example: https://www.refurbed.de/p/apple-magic-keyboard-numblock/
+2025-05-04 01:55:33,226 - INFO -   ... and 37 more
+2025-05-04 01:55:33,226 - INFO - google-home: 4 URLs
+2025-05-04 01:55:33,226 - INFO -   Example: https://www.refurbed.de/p/google-home/
+2025-05-04 01:55:33,226 - INFO -   Example: https://www.refurbed.de/p/google-home-hub-max/
+2025-05-04 01:55:33,226 - INFO -   Example: https://www.refurbed.de/p/google-home-max/
+2025-05-04 01:55:33,226 - INFO -   ... and 1 more
+2025-05-04 01:55:33,226 - INFO - cover: 24 URLs
+2025-05-04 01:55:33,226 - INFO -   Example: https://www.refurbed.de/p/samsung-galaxy-xcover-7/
+2025-05-04 01:55:33,226 - INFO -   Example: https://www.refurbed.de/p/samsung-ef-dx915-book-cover-kbrd/
+2025-05-04 01:55:33,226 - INFO -   Example: https://www.refurbed.de/p/microsoft-sur-pro-sig-type-cover/
+2025-05-04 01:55:33,226 - INFO -   ... and 21 more
+2025-05-04 01:55:33,226 - INFO - mouse: 20 URLs
+2025-05-04 01:55:33,226 - INFO -   Example: https://www.refurbed.de/p/hp-elite-presenter-mouse/
+2025-05-04 01:55:33,226 - INFO -   Example: https://www.refurbed.de/p/microsoft-comfort-mouse-4500/
+2025-05-04 01:55:33,226 - INFO -   Example: https://www.refurbed.de/p/g-lab-kult-radium-mouse/
+2025-05-04 01:55:33,226 - INFO -   ... and 17 more
+2025-05-04 01:55:33,226 - INFO - camera: 10 URLs
+2025-05-04 01:55:33,226 - INFO -   Example: https://www.refurbed.de/p/daewoo-camera-ep501/
+2025-05-04 01:55:33,226 - INFO -   Example: https://www.refurbed.de/p/ion-camocam-wi-fi-action-camera/
+2025-05-04 01:55:33,226 - INFO -   Example: https://www.refurbed.de/p/netatmo-smart-outdoor-camera/
+2025-05-04 01:55:33,226 - INFO -   ... and 7 more
+2025-05-04 01:55:33,227 - INFO - nest: 4 URLs
+2025-05-04 01:55:33,227 - INFO -   Example: https://www.refurbed.de/p/google-nest-cam-outdoor/
+2025-05-04 01:55:33,227 - INFO -   Example: https://www.refurbed.de/p/google-nest-cam-indoor/
+2025-05-04 01:55:33,227 - INFO -   Example: https://www.refurbed.de/p/google-nest-mini/
+2025-05-04 01:55:33,227 - INFO -   ... and 1 more
+2025-05-04 01:55:33,227 - INFO - hulle: 4 URLs
+2025-05-04 01:55:33,227 - INFO -   Example: https://www.refurbed.de/p/recycelte-silikon-hulle/
+2025-05-04 01:55:33,227 - INFO -   Example: https://www.refurbed.de/p/zwm-plant-based-handyhulle/
+2025-05-04 01:55:33,227 - INFO -   Example: https://www.refurbed.de/p/zwm-ecofriendly-tablet-hulle/
+2025-05-04 01:55:33,227 - INFO -   ... and 1 more
+2025-05-04 01:55:33,227 - INFO - speaker: 12 URLs
+2025-05-04 01:55:33,227 - INFO -   Example: https://www.refurbed.de/p/xiaomi-mi-portable-bt-speaker/
+2025-05-04 01:55:33,227 - INFO -   Example: https://www.refurbed.de/p/bose-251-speakers/
+2025-05-04 01:55:33,227 - INFO -   Example: https://www.refurbed.de/p/raycon-the-power-boombox-speaker/
+2025-05-04 01:55:33,227 - INFO -   ... and 9 more
+2025-05-04 01:55:33,227 - INFO - headphone: 1 URLs
+2025-05-04 01:55:33,227 - INFO -   Example: https://www.refurbed.de/p/bose-anc-headphones-700/
+2025-05-04 01:55:33,227 - INFO - docking: 31 URLs
+2025-05-04 01:55:33,227 - INFO -   Example: https://www.refurbed.de/p/hp-120w-advanced-docking/
+2025-05-04 01:55:33,227 - INFO -   Example: https://www.refurbed.de/p/hp-hstnn-ix01-dockingstation/
+2025-05-04 01:55:33,227 - INFO -   Example: https://www.refurbed.de/p/dell-docking-station-k07a/
+2025-05-04 01:55:33,228 - INFO -   ... and 28 more
+2025-05-04 01:55:33,228 - INFO - charger: 17 URLs
+2025-05-04 01:55:33,228 - INFO -   Example: https://www.refurbed.de/p/charger-lightning-panzerglass/
+2025-05-04 01:55:33,228 - INFO -   Example: https://www.refurbed.de/p/charger-65w-laptop-sleeve/
+2025-05-04 01:55:33,228 - INFO -   Example: https://www.refurbed.de/p/bundle-charger-20w-usbc-lghtng/
+2025-05-04 01:55:33,228 - INFO -   ... and 14 more
+2025-05-04 01:55:33,228 - INFO - airpods: 14 URLs
+2025-05-04 01:55:33,228 - INFO -   Example: https://www.refurbed.de/p/apple-airpods-pro-2/
+2025-05-04 01:55:33,228 - INFO -   Example: https://www.refurbed.de/p/holdit-recycled-airpodspro-case/
+2025-05-04 01:55:33,228 - INFO -   Example: https://www.refurbed.de/p/apple-airpods-max-2024/
+2025-05-04 01:55:33,228 - INFO -   ... and 11 more
+2025-05-04 01:55:33,228 - INFO - homepod: 3 URLs
+2025-05-04 01:55:33,228 - INFO -   Example: https://www.refurbed.de/p/apple-homepod-mini/
+2025-05-04 01:55:33,228 - INFO -   Example: https://www.refurbed.de/p/apple-homepod-2nd-generation/
+2025-05-04 01:55:33,228 - INFO -   Example: https://www.refurbed.de/p/apple-homepod/
+2025-05-04 01:55:33,228 - INFO - band: 20 URLs
+2025-05-04 01:55:33,228 - INFO -   Example: https://www.refurbed.de/p/huawei-band-3-pro/
+2025-05-04 01:55:33,228 - INFO -   Example: https://www.refurbed.de/p/honor-band-7/
+2025-05-04 01:55:33,228 - INFO -   Example: https://www.refurbed.de/p/xiaomi-mi-band-4/
+2025-05-04 01:55:33,228 - INFO -   ... and 17 more
+2025-05-04 01:55:33,228 - INFO - staubsauger: 2 URLs
+2025-05-04 01:55:33,229 - INFO -   Example: https://www.refurbed.de/p/roborock-s5-staubsaugerroboter-m/
+2025-05-04 01:55:33,229 - INFO -   Example: https://www.refurbed.de/p/roborock-s6-staubsaugerrowifu/
+2025-05-04 01:55:33,229 - INFO - earbuds: 11 URLs
+2025-05-04 01:55:33,229 - INFO -   Example: https://www.refurbed.de/p/nokia-clarity-earbuds-plus/
+2025-05-04 01:55:33,229 - INFO -   Example: https://www.refurbed.de/p/bose-quietcomfort-earbuds-ii/
+2025-05-04 01:55:33,229 - INFO -   Example: https://www.refurbed.de/p/honor-earbuds-3-pro/
+2025-05-04 01:55:33,229 - INFO -   ... and 8 more
+2025-05-04 01:55:33,229 - INFO - adapter: 14 URLs
+2025-05-04 01:55:33,229 - INFO -   Example: https://www.refurbed.de/p/honor-supercharge-power-adapter/
+2025-05-04 01:55:33,229 - INFO -   Example: https://www.refurbed.de/p/lenovo-usb-ac-adapter-usb-typ-c/
+2025-05-04 01:55:33,229 - INFO -   Example: https://www.refurbed.de/p/otg-adapter-lghtng-3port/
+2025-05-04 01:55:33,229 - INFO -   ... and 11 more
+2025-05-04 01:55:33,229 - INFO - trackpad: 3 URLs
+2025-05-04 01:55:33,229 - INFO -   Example: https://www.refurbed.de/p/apple-magic-trackpad-3/
+2025-05-04 01:55:33,229 - INFO -   Example: https://www.refurbed.de/p/apple-magic-trackpad-2/
+2025-05-04 01:55:33,229 - INFO -   Example: https://www.refurbed.de/p/apple-magic-trackpad/
+2025-05-04 01:55:33,229 - INFO - printer: 1 URLs
+2025-05-04 01:55:33,229 - INFO -   Example: https://www.refurbed.de/p/kodak-photo-printer-dock-450/
+2025-05-04 01:55:33,229 - INFO - cable: 9 URLs
+2025-05-04 01:55:33,229 - INFO -   Example: https://www.refurbed.de/p/bundle-charge-20w-magnetic-cable/
+2025-05-04 01:55:33,229 - INFO -   Example: https://www.refurbed.de/p/dell-0c6y7m-cable/
+2025-05-04 01:55:33,230 - INFO -   Example: https://www.refurbed.de/p/dell-qsfp-direct-attach-cable/
+2025-05-04 01:55:33,230 - INFO -   ... and 6 more
+2025-05-04 01:55:33,230 - INFO - screen-protector: 2 URLs
+2025-05-04 01:55:33,230 - INFO -   Example: https://www.refurbed.de/p/screen-protector-samsung-tablet/
+2025-05-04 01:55:33,230 - INFO -   Example: https://www.refurbed.de/p/screen-protector-ipad/
+2025-05-04 01:55:33,230 - INFO - webcam: 3 URLs
+2025-05-04 01:55:33,230 - INFO -   Example: https://www.refurbed.de/p/xiaomi-imilab-1080p-webcam/
+2025-05-04 01:55:33,230 - INFO -   Example: https://www.refurbed.de/p/lenovo-essential-fhd-webcam/
+2025-05-04 01:55:33,230 - INFO -   Example: https://www.refurbed.de/p/lenovo-500-fhd-webcam/
+2025-05-04 01:55:33,230 - INFO - echo: 6 URLs
+2025-05-04 01:55:33,230 - INFO -   Example: https://www.refurbed.de/p/amazon-echo-show-5-gen-2/
+2025-05-04 01:55:33,230 - INFO -   Example: https://www.refurbed.de/p/amazon-echo-gen-2/
+2025-05-04 01:55:33,230 - INFO -   Example: https://www.refurbed.de/p/amazon-echo-dot-gen-4/
+2025-05-04 01:55:33,230 - INFO -   ... and 3 more
+2025-05-04 01:55:33,280 - INFO - Successfully saved 6743 URLs to /home/runner/work/M3-scraper/M3-scraper/github/Sitemaps/refurbed_urls.txt
+2025-05-04 01:55:33,836 - ERROR - Error fetching sitemap: 403 Client Error: Forbidden for url: https://www.backmarket.de/sitemap_1.xml

@@ -156,6 +156,7 @@ https://www.refurbed.de/p/acer-chromebook-11-c732lt-n3450/
 https://www.refurbed.de/p/acer-chromebook-11-n7-c731-n3060/
 https://www.refurbed.de/p/acer-chromebook-15-n4120/
 https://www.refurbed.de/p/acer-chromebook-15-n5030/
+https://www.refurbed.de/p/acer-chromebook-314-n4020/
 https://www.refurbed.de/p/acer-chromebook-314-n4100-14/
 https://www.refurbed.de/p/acer-chromebook-314-n4120/
 https://www.refurbed.de/p/acer-chromebook-314-n5030/
@@ -1123,6 +1124,7 @@ https://www.refurbed.de/p/dell-latitude-5310-2-in-1-10310u/
 https://www.refurbed.de/p/dell-latitude-5310-2-in-1-10610u/
 https://www.refurbed.de/p/dell-latitude-5310-i7-10610u/
 https://www.refurbed.de/p/dell-latitude-5310-i7-10810u/
+https://www.refurbed.de/p/dell-latitude-5320-i7-1185g7/
 https://www.refurbed.de/p/dell-latitude-53200-114g7/
 https://www.refurbed.de/p/dell-latitude-53200-i5-1135g7/
 https://www.refurbed.de/p/dell-latitude-5330-i5-1235u/
@@ -1190,6 +1192,7 @@ https://www.refurbed.de/p/dell-latitude-5501-9400h-15-6/
 https://www.refurbed.de/p/dell-latitude-5501-i7-9850h-15/
 https://www.refurbed.de/p/dell-latitude-5520-1135g7/
 https://www.refurbed.de/p/dell-latitude-5520-1145g7-15-6/
+https://www.refurbed.de/p/dell-latitude-5520-i7-1165g7/
 https://www.refurbed.de/p/dell-latitude-5520-i7-1185g7-15/
 https://www.refurbed.de/p/dell-latitude-5521-i5-11500h/
 https://www.refurbed.de/p/dell-latitude-5521-i7-11850h/
@@ -1201,6 +1204,7 @@ https://www.refurbed.de/p/dell-latitude-5530-i7-1270p/
 https://www.refurbed.de/p/dell-latitude-5531-i5-12600h/
 https://www.refurbed.de/p/dell-latitude-5540-i5-1345u/
 https://www.refurbed.de/p/dell-latitude-5540-i5-1350p/
+https://www.refurbed.de/p/dell-latitude-5540-i7-1365u/
 https://www.refurbed.de/p/dell-latitude-5580-6440hq/
 https://www.refurbed.de/p/dell-latitude-5580-7300u/
 https://www.refurbed.de/p/dell-latitude-5580-7820hq/
@@ -1289,6 +1293,7 @@ https://www.refurbed.de/p/dell-latitude-7420-i5-1145g7/
 https://www.refurbed.de/p/dell-latitude-7420-i7-1165g7/
 https://www.refurbed.de/p/dell-latitude-7420-i7-1185g7/
 https://www.refurbed.de/p/dell-latitude-7430-i5-1245u-14/
+https://www.refurbed.de/p/dell-latitude-7430-i7-1255u-14/
 https://www.refurbed.de/p/dell-latitude-7430-i7-1265u/
 https://www.refurbed.de/p/dell-latitude-7440-i5-1335u/
 https://www.refurbed.de/p/dell-latitude-7440-i7-1365u/
@@ -2194,6 +2199,7 @@ https://www.refurbed.de/p/honor-magicbook-14-2021-1135g7/
 https://www.refurbed.de/p/honor-magicbook-14-2021-1165g7/
 https://www.refurbed.de/p/honor-magicbook-14-2021-5500u/
 https://www.refurbed.de/p/honor-magicbook-14-5-3500u-14/
+https://www.refurbed.de/p/honor-magicbook-15-2020-4500u/
 https://www.refurbed.de/p/honor-magicbook-15-2020-5500u/
 https://www.refurbed.de/p/honor-magicbook-15-2021-1135g7/
 https://www.refurbed.de/p/honor-magicbook-16-2022-5600h/
@@ -2224,6 +2230,7 @@ https://www.refurbed.de/p/honor-x7a/
 https://www.refurbed.de/p/honor-x8-5g/
 https://www.refurbed.de/p/honor-x8/
 https://www.refurbed.de/p/honor-x8a/
+https://www.refurbed.de/p/honor-x8b/
 https://www.refurbed.de/p/honor-x9-5g/
 https://www.refurbed.de/p/honor-x9a-5g/
 https://www.refurbed.de/p/honor-x9b-5g/
@@ -2248,6 +2255,7 @@ https://www.refurbed.de/p/hp-14-em0005na-r-7-7730u/
 https://www.refurbed.de/p/hp-14-em0014ne-ryzen-7-7730u-14/
 https://www.refurbed.de/p/hp-14-em0015na-ryzen-5-7520u/
 https://www.refurbed.de/p/hp-14-em0016na-ryzen-5-7520u/
+https://www.refurbed.de/p/hp-14-em0017ne-ryzen-5-7520u/
 https://www.refurbed.de/p/hp-14-em0032nf-ryzen-7-7730u/
 https://www.refurbed.de/p/hp-14-em0903ng-r5-7520u/
 https://www.refurbed.de/p/hp-14-ep-core-3-100u-14/
@@ -2400,6 +2408,7 @@ https://www.refurbed.de/p/hp-17-ca1244ng-ryzen-7-3700u/
 https://www.refurbed.de/p/hp-17-ca1405ng-r5-3500u/
 https://www.refurbed.de/p/hp-17-cd2075ng-11370h/
 https://www.refurbed.de/p/hp-17-cd2903ng-11370h/
+https://www.refurbed.de/p/hp-17-cn-core-5-120u17-3/
 https://www.refurbed.de/p/hp-17-cn-i5-1235u-17-3/
 https://www.refurbed.de/p/hp-17-cn-pentium-silver-n5030/
 https://www.refurbed.de/p/hp-17-cn0008nf-n4120/
@@ -2470,6 +2479,7 @@ https://www.refurbed.de/p/hp-240-g8-i7-1165g7/
 https://www.refurbed.de/p/hp-240-g9-1235u-14/
 https://www.refurbed.de/p/hp-245-g9-ryzen-5-5625u/
 https://www.refurbed.de/p/hp-250-g10-i3-1315u-15-6/
+https://www.refurbed.de/p/hp-250-g10-i3-n305-15-6/
 https://www.refurbed.de/p/hp-250-g10-i5-1334u-15-6/
 https://www.refurbed.de/p/hp-250-g10-i5-1335u-15-6/
 https://www.refurbed.de/p/hp-250-g10-i7-1355u-15-6/
@@ -2498,6 +2508,7 @@ https://www.refurbed.de/p/hp-250-g9-i5-1235u-15-6/
 https://www.refurbed.de/p/hp-250-g9-i7-1255u-15-6/
 https://www.refurbed.de/p/hp-250-g9-n6000-15-6/
 https://www.refurbed.de/p/hp-250r-g9-i3-1315u-15-6/
+https://www.refurbed.de/p/hp-250r-g9-i5-1335u-15-6/
 https://www.refurbed.de/p/hp-255-g10-athlon-silver-7120u/
 https://www.refurbed.de/p/hp-255-g10-r5-7520u-15-6/
 https://www.refurbed.de/p/hp-255-g10-r5-7530u-15-6/
@@ -2650,8 +2661,10 @@ https://www.refurbed.de/p/hp-e34m-g4-34/
 https://www.refurbed.de/p/hp-e45c-g5-dqhd-curved-44-5/
 https://www.refurbed.de/p/hp-eb--725-g3-a10-pro-8700b/
 https://www.refurbed.de/p/hp-eb-630-g11-ultra-5-125u/
+https://www.refurbed.de/p/hp-eb-630-g11-ultra-5-135u/
 https://www.refurbed.de/p/hp-eb-645-g10-r5-pro-7530u/
 https://www.refurbed.de/p/hp-eb-645-g10-ryzen-7-7730u/
+https://www.refurbed.de/p/hp-eb-660-g11-ultra-5-135u/
 https://www.refurbed.de/p/hp-eb-725-g3-a12-pro-8800b/
 https://www.refurbed.de/p/hp-eb-830-g5-7200u/
 https://www.refurbed.de/p/hp-eb-830-g5-7300u/
@@ -2666,12 +2679,15 @@ https://www.refurbed.de/p/hp-eb-830-g6-i7-8665u-13-3/
 https://www.refurbed.de/p/hp-eb-830-g8-1135g7/
 https://www.refurbed.de/p/hp-eb-830-g8-1185g7-13-3/
 https://www.refurbed.de/p/hp-eb-830-g8-i7-1165g7/
+https://www.refurbed.de/p/hp-eb-835-g11-ryzen-5-8540u-13-3/
+https://www.refurbed.de/p/hp-eb-835-g11-ryzen-7-8840u-13-3/
 https://www.refurbed.de/p/hp-eb-835-g7-r5-pro-4650u-13-3/
 https://www.refurbed.de/p/hp-eb-835-g9-r5-pro-6650u/
 https://www.refurbed.de/p/hp-eb-845-g10-r5-pro-7545u/
 https://www.refurbed.de/p/hp-eb-845-g10-r7-pro-7840hs-14/
 https://www.refurbed.de/p/hp-eb-845-g11-ryzen-5-pro-8540u/
 https://www.refurbed.de/p/hp-eb-845-g11-ryzen-7-8840u-14/
+https://www.refurbed.de/p/hp-eb-865-g10-r-5-pro-7545u/
 https://www.refurbed.de/p/hp-eb-revolve-810-g2-i5-4300u/
 https://www.refurbed.de/p/hp-eb-revolve-810-g3-5200u/
 https://www.refurbed.de/p/hp-eb-revolve-810-g3-5300u/
@@ -3345,6 +3361,7 @@ https://www.refurbed.de/p/hp-omen-16-b1010ns-i7-12700h/
 https://www.refurbed.de/p/hp-omen-16-b1777ng-12700h/
 https://www.refurbed.de/p/hp-omen-16-k0773ng-i7-12700h/
 https://www.refurbed.de/p/hp-omen-16-n0280nd-ryzen-7-6800/
+https://www.refurbed.de/p/hp-omen-16-wd0001nv-i7-13620h/
 https://www.refurbed.de/p/hp-omen-16-wd0002nt-i5-13420h/
 https://www.refurbed.de/p/hp-omen-16-wd0039nf-i5-13420h/
 https://www.refurbed.de/p/hp-omen-16-wd0045nf-i7-13620h/
@@ -3352,6 +3369,8 @@ https://www.refurbed.de/p/hp-omen-16-wd0353ng-i5-13420h/
 https://www.refurbed.de/p/hp-omen-16-wf0003nl-i9-13900hx/
 https://www.refurbed.de/p/hp-omen-16-wf0118nf-i7-13700hx/
 https://www.refurbed.de/p/hp-omen-16-wf0774ng-i7-13700hx/
+https://www.refurbed.de/p/hp-omen-16-wf1001na-14700hx/
+https://www.refurbed.de/p/hp-omen-16-wf1001nl-i7-14700hx/
 https://www.refurbed.de/p/hp-omen-16-wf1002nl-i7-14700hx/
 https://www.refurbed.de/p/hp-omen-16-xd0000ns-7840hs/
 https://www.refurbed.de/p/hp-omen-16-xd0029nf-7-7840hs/
@@ -3360,6 +3379,7 @@ https://www.refurbed.de/p/hp-omen-17-an087ng-i7-7700hq/
 https://www.refurbed.de/p/hp-omen-17-cb1075ng-i7-10750h/
 https://www.refurbed.de/p/hp-omen-17-ck0376ng-i7-11800h/
 https://www.refurbed.de/p/hp-omen-17-cm2005nl-13700hx/
+https://www.refurbed.de/p/hp-omen-17-db0007na-r7-8845hs/
 https://www.refurbed.de/p/hp-omen-17-db0051ng-8645hs/
 https://www.refurbed.de/p/hp-omen-24/
 https://www.refurbed.de/p/hp-omen-25l-gt11/
@@ -3381,6 +3401,7 @@ https://www.refurbed.de/p/hp-omen-i7-ck2989nz-i9-13900hx/
 https://www.refurbed.de/p/hp-omen-i79750h/
 https://www.refurbed.de/p/hp-omen-transcend-14-fb0696ng/
 https://www.refurbed.de/p/hp-omen-transcend-14-fb0796ng/
+https://www.refurbed.de/p/hp-omen-transcend-16-u0590nd-i9/
 https://www.refurbed.de/p/hp-omen-transcend-16-u0795ng-i9/
 https://www.refurbed.de/p/hp-omen-transcend-16-u1002ns-i7/
 https://www.refurbed.de/p/hp-omen-ts-16-u0005nb-13700hx-16/
@@ -3572,6 +3593,7 @@ https://www.refurbed.de/p/hp-probook-430-g8-i7-1165g7/
 https://www.refurbed.de/p/hp-probook-440-g10-1335u-14/
 https://www.refurbed.de/p/hp-probook-440-g10-1355u-14/
 https://www.refurbed.de/p/hp-probook-440-g10-i5-1334u-14/
+https://www.refurbed.de/p/hp-probook-440-g11-ultra-7-155u/
 https://www.refurbed.de/p/hp-probook-440-g3-6200u/
 https://www.refurbed.de/p/hp-probook-440-g4-4415u/
 https://www.refurbed.de/p/hp-probook-440-g4-i3-7100u/
@@ -3642,6 +3664,7 @@ https://www.refurbed.de/p/hp-probook-455-g9-ryzen-5-5625u/
 https://www.refurbed.de/p/hp-probook-460-g11-5-125h/
 https://www.refurbed.de/p/hp-probook-460-g11-5-125u/
 https://www.refurbed.de/p/hp-probook-460-g11-7-155u/
+https://www.refurbed.de/p/hp-probook-465-g11-r5-7535u-16/
 https://www.refurbed.de/p/hp-probook-465-g11-r7-7735u-16/
 https://www.refurbed.de/p/hp-probook-470-g2-5500u-17-3/
 https://www.refurbed.de/p/hp-probook-470-g2-i5-4210u/
@@ -3725,6 +3748,7 @@ https://www.refurbed.de/p/hp-probook-650-g5-i7-8665u-15-6/
 https://www.refurbed.de/p/hp-probook-650-g8-1115g4/
 https://www.refurbed.de/p/hp-probook-650-g8-1135g7/
 https://www.refurbed.de/p/hp-probook-650-g8-i5-1145g7/
+https://www.refurbed.de/p/hp-probook-650-g8-i7-1165g7/
 https://www.refurbed.de/p/hp-probook-650-g9-i7-1255u/
 https://www.refurbed.de/p/hp-probook-655-g1-a10-4600m/
 https://www.refurbed.de/p/hp-probook-655-g1-a10-5750m/
@@ -3891,6 +3915,7 @@ https://www.refurbed.de/p/hp-victus-16-r1001nt-14700hx/
 https://www.refurbed.de/p/hp-victus-16-r1038nt-14700hx/
 https://www.refurbed.de/p/hp-victus-16-s-r-5-7640hs-16-1/
 https://www.refurbed.de/p/hp-victus-16-s0001nv-r-5-7640hs/
+https://www.refurbed.de/p/hp-victus-gaming-16-r-i7-13700h/
 https://www.refurbed.de/p/hp-w1972a-18-5/
 https://www.refurbed.de/p/hp-wireless-link-5/
 https://www.refurbed.de/p/hp-wireless-set-t6l04aa/
@@ -3998,6 +4023,7 @@ https://www.refurbed.de/p/hp-zbook-14-u-g5-i5-8350u-14/
 https://www.refurbed.de/p/hp-zbook-14-u-g5-i7-8550u-14/
 https://www.refurbed.de/p/hp-zbook-14-u-g5-i7-8650u-14/
 https://www.refurbed.de/p/hp-zbook-14u-g4-i7-7500u-14/
+https://www.refurbed.de/p/hp-zbook-14u-g6-i7-8565u-14/
 https://www.refurbed.de/p/hp-zbook-14u-g6-i7-8665u-14/
 https://www.refurbed.de/p/hp-zbook-15-firefly-g8-1185g7-15/
 https://www.refurbed.de/p/hp-zbook-15-g2-i5-4340m/
@@ -4071,6 +4097,7 @@ https://www.refurbed.de/p/hp-zbook-firefly-14-g10-a-5-7640/
 https://www.refurbed.de/p/hp-zbook-firefly-14-g10-i7-1360p/
 https://www.refurbed.de/p/hp-zbook-firefly-14-g10-i7-1370p/
 https://www.refurbed.de/p/hp-zbook-firefly-14-g11-7-165h/
+https://www.refurbed.de/p/hp-zbook-firefly-14-g9-i7-1265u/
 https://www.refurbed.de/p/hp-zbook-firefly-15-g7-i5-10210u/
 https://www.refurbed.de/p/hp-zbook-firefly-15-g7-i7-10510u/
 https://www.refurbed.de/p/hp-zbook-firefly-15-g7-i7-10810u/
@@ -5528,6 +5555,7 @@ https://www.refurbed.de/p/oneplus-nord/
 https://www.refurbed.de/p/oneplus-one/
 https://www.refurbed.de/p/oneplus-open/
 https://www.refurbed.de/p/oneplus-pad-11-6/
+https://www.refurbed.de/p/oneplus-pad-2-12-1/
 https://www.refurbed.de/p/oneplus-x/
 https://www.refurbed.de/p/oppo-a15/
 https://www.refurbed.de/p/oppo-a16/
@@ -5789,6 +5817,7 @@ https://www.refurbed.de/p/samsung-galaxy-a52s-5g/
 https://www.refurbed.de/p/samsung-galaxy-a53-5g/
 https://www.refurbed.de/p/samsung-galaxy-a54-5g/
 https://www.refurbed.de/p/samsung-galaxy-a55-5g/
+https://www.refurbed.de/p/samsung-galaxy-a56-5g/
 https://www.refurbed.de/p/samsung-galaxy-a6-2018-duos/
 https://www.refurbed.de/p/samsung-galaxy-a6-2018/
 https://www.refurbed.de/p/samsung-galaxy-a6plus-2018/
@@ -5828,6 +5857,7 @@ https://www.refurbed.de/p/samsung-galaxy-book4-ultra-155h/
 https://www.refurbed.de/p/samsung-galaxy-book4-ultra-185h/
 https://www.refurbed.de/p/samsung-galaxy-book4pro-360-125h/
 https://www.refurbed.de/p/samsung-galaxy-book4pro-360-155h/
+https://www.refurbed.de/p/samsung-galaxy-book4pro360-elite/
 https://www.refurbed.de/p/samsung-galaxy-buds-fe/
 https://www.refurbed.de/p/samsung-galaxy-buds-live/
 https://www.refurbed.de/p/samsung-galaxy-buds-plus/
@@ -6545,6 +6575,8 @@ https://www.refurbed.de/p/xiaomi-14-ultra/
 https://www.refurbed.de/p/xiaomi-14/
 https://www.refurbed.de/p/xiaomi-14t-pro/
 https://www.refurbed.de/p/xiaomi-14t/
+https://www.refurbed.de/p/xiaomi-15-ultra/
+https://www.refurbed.de/p/xiaomi-15/
 https://www.refurbed.de/p/xiaomi-air-fryer/
 https://www.refurbed.de/p/xiaomi-black-shark-5-pro/
 https://www.refurbed.de/p/xiaomi-black-shark/
@@ -6618,6 +6650,7 @@ https://www.refurbed.de/p/xiaomi-poco-m4-pro-5g/
 https://www.refurbed.de/p/xiaomi-poco-m4-pro/
 https://www.refurbed.de/p/xiaomi-poco-m5/
 https://www.refurbed.de/p/xiaomi-poco-m5s/
+https://www.refurbed.de/p/xiaomi-poco-m6-pro/
 https://www.refurbed.de/p/xiaomi-poco-x3-gt/
 https://www.refurbed.de/p/xiaomi-poco-x3-pro/
 https://www.refurbed.de/p/xiaomi-poco-x3/
@@ -6681,6 +6714,7 @@ https://www.refurbed.de/p/xiaomi-redmi-note-13-pro-5g/
 https://www.refurbed.de/p/xiaomi-redmi-note-13-pro-plus-5g/
 https://www.refurbed.de/p/xiaomi-redmi-note-13-pro/
 https://www.refurbed.de/p/xiaomi-redmi-note-13/
+https://www.refurbed.de/p/xiaomi-redmi-note-14-5g/
 https://www.refurbed.de/p/xiaomi-redmi-note-14-pro-5g/
 https://www.refurbed.de/p/xiaomi-redmi-note-14-pro-plus-5g/
 https://www.refurbed.de/p/xiaomi-redmi-note-3/
