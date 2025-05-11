@@ -934,6 +934,7 @@ https://www.refurbed.de/p/dell-inspiron-15-7579-7500u-15-6/
 https://www.refurbed.de/p/dell-inspiron-15-7586-i7-8565u/
 https://www.refurbed.de/p/dell-inspiron-15-7590-i5-9300h/
 https://www.refurbed.de/p/dell-inspiron-15-7590-i7-9750h/
+https://www.refurbed.de/p/dell-inspiron-15-7591-2-1-10210u/
 https://www.refurbed.de/p/dell-inspiron-15-7591-i7-10510u/
 https://www.refurbed.de/p/dell-inspiron-16-5620-i7-1255u/
 https://www.refurbed.de/p/dell-inspiron-16-plus-7610/
@@ -2461,13 +2462,16 @@ https://www.refurbed.de/p/hp-22-dg0002nc-all-in-one/
 https://www.refurbed.de/p/hp-22m-21-5/
 https://www.refurbed.de/p/hp-230/
 https://www.refurbed.de/p/hp-24-ca0701ng-all-in-one/
+https://www.refurbed.de/p/hp-24-cb-all-in-one-23-8/
 https://www.refurbed.de/p/hp-24-cb0203ng-all-in-one/
 https://www.refurbed.de/p/hp-24-cr0002nx-all-in-one-23-8/
 https://www.refurbed.de/p/hp-24-cr0005nx-all-in-one-23-8/
 https://www.refurbed.de/p/hp-24-cr0008nx-all-in-one-23-8/
 https://www.refurbed.de/p/hp-24-cr0009nx-all-in-one/
 https://www.refurbed.de/p/hp-24-cr0024-all-in-one/
+https://www.refurbed.de/p/hp-24-cr0037na-all-in-one-23-8/
 https://www.refurbed.de/p/hp-24-cr0703ng-all-in-one-23-8/
+https://www.refurbed.de/p/hp-24-cr1007na-all-in-one-23-8/
 https://www.refurbed.de/p/hp-24-cr1007nb-all-in-one-23-8/
 https://www.refurbed.de/p/hp-240-g10-i5-1335u-14/
 https://www.refurbed.de/p/hp-240-g7-1005g1/
@@ -2681,6 +2685,7 @@ https://www.refurbed.de/p/hp-eb-830-g8-1185g7-13-3/
 https://www.refurbed.de/p/hp-eb-830-g8-i7-1165g7/
 https://www.refurbed.de/p/hp-eb-835-g11-ryzen-5-8540u-13-3/
 https://www.refurbed.de/p/hp-eb-835-g11-ryzen-7-8840u-13-3/
+https://www.refurbed.de/p/hp-eb-835-g7-r5-pro-4450u-13-3/
 https://www.refurbed.de/p/hp-eb-835-g7-r5-pro-4650u-13-3/
 https://www.refurbed.de/p/hp-eb-835-g9-r5-pro-6650u/
 https://www.refurbed.de/p/hp-eb-845-g10-r5-pro-7545u/
@@ -2919,6 +2924,7 @@ https://www.refurbed.de/p/hp-elitebook-845-g10-5-7540u/
 https://www.refurbed.de/p/hp-elitebook-845-g10-7-7840u/
 https://www.refurbed.de/p/hp-elitebook-845-g7-4650u/
 https://www.refurbed.de/p/hp-elitebook-845-g7-4750u/
+https://www.refurbed.de/p/hp-elitebook-845-g7-r5-pro-4450u/
 https://www.refurbed.de/p/hp-elitebook-845-g8-5400u-14/
 https://www.refurbed.de/p/hp-elitebook-845-g8-5600u-14/
 https://www.refurbed.de/p/hp-elitebook-845-g8-pro-5650u-14/
@@ -3352,6 +3358,7 @@ https://www.refurbed.de/p/hp-omen-15-ce083ng-i5-7300hq/
 https://www.refurbed.de/p/hp-omen-15-dc0002ng-i7-8750h/
 https://www.refurbed.de/p/hp-omen-15-dc0005ng-8750h-15-6/
 https://www.refurbed.de/p/hp-omen-15-dh1086ng-i7-10750h/
+https://www.refurbed.de/p/hp-omen-15-ek-10870h-15-6/
 https://www.refurbed.de/p/hp-omen-15-ek0277ng-i7-10750h/
 https://www.refurbed.de/p/hp-omen-15-r7-5800h-15-6/
 https://www.refurbed.de/p/hp-omen-15-ryzen-7-4800h/
@@ -3850,11 +3857,14 @@ https://www.refurbed.de/p/hp-spectre-pro-x360-g2-i5-6200u/
 https://www.refurbed.de/p/hp-spectre-pro-x360-g2-i5-6300u/
 https://www.refurbed.de/p/hp-spectre-pro-x360-g2/
 https://www.refurbed.de/p/hp-spectre-x360-2-1-14-ef-1255u/
+https://www.refurbed.de/p/hp-spectre-x360-2-1-14-ef-1335u/
+https://www.refurbed.de/p/hp-spectre-x360-2-1-14-eu-155h/
 https://www.refurbed.de/p/hp-spectre-x360-2-1-16-f-11390h/
 https://www.refurbed.de/p/hp-spectre-x360-2-1-16-f-1260p/
 https://www.refurbed.de/p/hp-spectre-x360-2-1-16-f-1360p/
 https://www.refurbed.de/p/hp-spectre-x360-2-1-16-f-13700h/
 https://www.refurbed.de/p/hp-spectre-x360-2-1-16t-i7-1360p/
+https://www.refurbed.de/p/hp-spectre-x360-2in1-16-aa0-155h/
 https://www.refurbed.de/p/hp-spectre-x360-convertible-65g7/
 https://www.refurbed.de/p/hp-spectre-x360-g1-i5-5200u/
 https://www.refurbed.de/p/hp-sprocket-2in1/
@@ -4476,6 +4486,7 @@ https://www.refurbed.de/p/lenovo-tab-p11-plus/
 https://www.refurbed.de/p/lenovo-tab-p11-pro-g2-tb132fu/
 https://www.refurbed.de/p/lenovo-tab-p12-pro-12/
 https://www.refurbed.de/p/lenovo-tab-p12/
+https://www.refurbed.de/p/lenovo-tab-tb311xu/
 https://www.refurbed.de/p/lenovo-tab2-a10-30l/
 https://www.refurbed.de/p/lenovo-tab3-8/
 https://www.refurbed.de/p/lenovo-tablet-10-n4100/
@@ -4500,6 +4511,7 @@ https://www.refurbed.de/p/lenovo-thinkpad-a485-7-pro-2700u/
 https://www.refurbed.de/p/lenovo-thinkpad-dock-40a5/
 https://www.refurbed.de/p/lenovo-thinkpad-e14-g2-1115g4/
 https://www.refurbed.de/p/lenovo-thinkpad-e14-g2-4500u/
+https://www.refurbed.de/p/lenovo-thinkpad-e14-g2-4650u/
 https://www.refurbed.de/p/lenovo-thinkpad-e14-g2-i5-1135g7/
 https://www.refurbed.de/p/lenovo-thinkpad-e14-g2-i7-1165g7/
 https://www.refurbed.de/p/lenovo-thinkpad-e14-g3-3-5300u/
@@ -4680,6 +4692,7 @@ https://www.refurbed.de/p/lenovo-thinkpad-p15-g2-i9-11950h/
 https://www.refurbed.de/p/lenovo-thinkpad-p15s-g1-10510u/
 https://www.refurbed.de/p/lenovo-thinkpad-p15s-g2-1165g7/
 https://www.refurbed.de/p/lenovo-thinkpad-p15v-g1-i7/
+https://www.refurbed.de/p/lenovo-thinkpad-p16-12950hx/
 https://www.refurbed.de/p/lenovo-thinkpad-p16v-i9-13900h/
 https://www.refurbed.de/p/lenovo-thinkpad-p17-12850hx/
 https://www.refurbed.de/p/lenovo-thinkpad-p17-g1-10750h/
@@ -4759,6 +4772,7 @@ https://www.refurbed.de/p/lenovo-thinkpad-t14s-g2-r7-pro/
 https://www.refurbed.de/p/lenovo-thinkpad-t14s-g3-1260p/
 https://www.refurbed.de/p/lenovo-thinkpad-t14s-g3-i5-1235u/
 https://www.refurbed.de/p/lenovo-thinkpad-t14s-g3-i5-1240p/
+https://www.refurbed.de/p/lenovo-thinkpad-t14s-g3-i5-1245u/
 https://www.refurbed.de/p/lenovo-thinkpad-t14s-g3-i7-1255u/
 https://www.refurbed.de/p/lenovo-thinkpad-t14s-g3-i7-1265u/
 https://www.refurbed.de/p/lenovo-thinkpad-t14s-g3-i7-1270p/
@@ -5108,6 +5122,9 @@ https://www.refurbed.de/p/lg-ds95tr-soundbar/
 https://www.refurbed.de/p/lg-dsg10ty-soundbar/
 https://www.refurbed.de/p/lg-f4r3010nswb/
 https://www.refurbed.de/p/lg-f4r3011nswb/
+https://www.refurbed.de/p/lg-f4r3710nsww/
+https://www.refurbed.de/p/lg-f4r5011tsww/
+https://www.refurbed.de/p/lg-f4r9009tpwc/
 https://www.refurbed.de/p/lg-f4wm309sae/
 https://www.refurbed.de/p/lg-f4wv309s4e/
 https://www.refurbed.de/p/lg-flatron-23mb35ph-b-23/
@@ -5123,8 +5140,10 @@ https://www.refurbed.de/p/lg-flatron-l226wtq-sf-22/
 https://www.refurbed.de/p/lg-flatron-w2242pm-22/
 https://www.refurbed.de/p/lg-flatron-w2442pa-bf-24/
 https://www.refurbed.de/p/lg-flatronw2442pe-sf-24/
+https://www.refurbed.de/p/lg-gbb62pzjmn/
 https://www.refurbed.de/p/lg-gbb72nsvcn1/
 https://www.refurbed.de/p/lg-gbb72pzugn-apzqeur/
+https://www.refurbed.de/p/lg-gbp62pznbc/
 https://www.refurbed.de/p/lg-gmj916nshv-side-by-side/
 https://www.refurbed.de/p/lg-gram-14-1035g7/
 https://www.refurbed.de/p/lg-gram-16-i7-1165g7-2021/
