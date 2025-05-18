@@ -264,6 +264,7 @@ https://www.refurbed.de/p/acer-nitro-headset/
 https://www.refurbed.de/p/acer-nitro-qg1-qg241ybii-23-8/
 https://www.refurbed.de/p/acer-nitro-radeon-rx-7800xtoc16g/
 https://www.refurbed.de/p/acer-nitro-tkl-gaming/
+https://www.refurbed.de/p/acer-nitro-v15-anv-13900h15-51/
 https://www.refurbed.de/p/acer-nitro-vg0-vg270upbmiipx/
 https://www.refurbed.de/p/acer-nitro-xv2-xv242ypbmiipr/
 https://www.refurbed.de/p/acer-nitro-xv2-xv252qfbmiiprx/
@@ -1154,6 +1155,7 @@ https://www.refurbed.de/p/dell-latitude-5420-i5-10310u/
 https://www.refurbed.de/p/dell-latitude-5420-i5-1135g7/
 https://www.refurbed.de/p/dell-latitude-5420-i5-1145g7/
 https://www.refurbed.de/p/dell-latitude-5420-i7-1185g7/
+https://www.refurbed.de/p/dell-latitude-5421-i5-11500h/
 https://www.refurbed.de/p/dell-latitude-5421-i7-11850h/
 https://www.refurbed.de/p/dell-latitude-5430-i5-1235u/
 https://www.refurbed.de/p/dell-latitude-5430-i5-1245u/
@@ -1296,6 +1298,7 @@ https://www.refurbed.de/p/dell-latitude-7420-i7-1185g7/
 https://www.refurbed.de/p/dell-latitude-7430-i5-1245u-14/
 https://www.refurbed.de/p/dell-latitude-7430-i7-1255u-14/
 https://www.refurbed.de/p/dell-latitude-7430-i7-1265u/
+https://www.refurbed.de/p/dell-latitude-7430-i7-1270p-14/
 https://www.refurbed.de/p/dell-latitude-7440-i5-1335u/
 https://www.refurbed.de/p/dell-latitude-7440-i7-1365u/
 https://www.refurbed.de/p/dell-latitude-7480-6600u/
@@ -3936,6 +3939,7 @@ https://www.refurbed.de/p/hp-workstation-z8-g4/
 https://www.refurbed.de/p/hp-x2-10-p003ng/
 https://www.refurbed.de/p/hp-x24ih-23-8/
 https://www.refurbed.de/p/hp-x34-34/
+https://www.refurbed.de/p/hp-x360-1040-g11-7-155h/
 https://www.refurbed.de/p/hp-x360-15-er0077ng-i7-1165g7/
 https://www.refurbed.de/p/hp-x360-310-g2-n3700/
 https://www.refurbed.de/p/hp-z-display-z22n/
@@ -4203,6 +4207,7 @@ https://www.refurbed.de/p/huawei-mate-30-pro-5g/
 https://www.refurbed.de/p/huawei-mate-30-pro/
 https://www.refurbed.de/p/huawei-mate-40-pro/
 https://www.refurbed.de/p/huawei-mate-50-pro/
+https://www.refurbed.de/p/huawei-mate-50-rs-porsche-design/
 https://www.refurbed.de/p/huawei-mate-8/
 https://www.refurbed.de/p/huawei-mate-9-pro/
 https://www.refurbed.de/p/huawei-mate-9/
@@ -4301,6 +4306,7 @@ https://www.refurbed.de/p/huawei-p9-plus/
 https://www.refurbed.de/p/huawei-p9/
 https://www.refurbed.de/p/huawei-pocket-p50/
 https://www.refurbed.de/p/huawei-pura-70-ultra/
+https://www.refurbed.de/p/huawei-pura-70/
 https://www.refurbed.de/p/huawei-smart-mag-keyb-matepadpro/
 https://www.refurbed.de/p/ipad-10-10-9-2022/
 https://www.refurbed.de/p/ipad-11-10-9-2025/
@@ -5678,6 +5684,8 @@ https://www.refurbed.de/p/panzerglass-tab-bndl-transparent/
 https://www.refurbed.de/p/pg-privacy-screen-iphone-15/
 https://www.refurbed.de/p/pg-privacy-screen-macbook/
 https://www.refurbed.de/p/philips-voice-tracer-dvt2050/
+https://www.refurbed.de/p/realme-11-pro-5g/
+https://www.refurbed.de/p/realme-12-pro-5g/
 https://www.refurbed.de/p/realme-12-pro-plus-5g/
 https://www.refurbed.de/p/realme-5-pro/
 https://www.refurbed.de/p/realme-5/
@@ -5707,6 +5715,7 @@ https://www.refurbed.de/p/realme-c21/
 https://www.refurbed.de/p/realme-c3/
 https://www.refurbed.de/p/realme-c31/
 https://www.refurbed.de/p/realme-gt-2-pro/
+https://www.refurbed.de/p/realme-gt-3/
 https://www.refurbed.de/p/realme-gt-5g-master/
 https://www.refurbed.de/p/realme-gt-5g/
 https://www.refurbed.de/p/realme-gt-neo-2/
@@ -5808,6 +5817,7 @@ https://www.refurbed.de/p/samsung-galaxy-a22/
 https://www.refurbed.de/p/samsung-galaxy-a22s-5g/
 https://www.refurbed.de/p/samsung-galaxy-a23-5g/
 https://www.refurbed.de/p/samsung-galaxy-a23/
+https://www.refurbed.de/p/samsung-galaxy-a24/
 https://www.refurbed.de/p/samsung-galaxy-a25-5g/
 https://www.refurbed.de/p/samsung-galaxy-a3-2014-a300f/
 https://www.refurbed.de/p/samsung-galaxy-a3-2017-a320f/
@@ -6551,6 +6561,7 @@ https://www.refurbed.de/p/vivo-v23-5g/
 https://www.refurbed.de/p/vivo-v29-5g/
 https://www.refurbed.de/p/vivo-v29-lite-5g/
 https://www.refurbed.de/p/vivo-v40-5g/
+https://www.refurbed.de/p/vivo-v40-se-5g/
 https://www.refurbed.de/p/vivo-x51-5g/
 https://www.refurbed.de/p/vivo-x60-pro/
 https://www.refurbed.de/p/vivo-x80-lite/
@@ -6665,6 +6676,7 @@ https://www.refurbed.de/p/xiaomi-poco-f5-pro/
 https://www.refurbed.de/p/xiaomi-poco-f5/
 https://www.refurbed.de/p/xiaomi-poco-m3-pro-5g/
 https://www.refurbed.de/p/xiaomi-poco-m3/
+https://www.refurbed.de/p/xiaomi-poco-m4-5g/
 https://www.refurbed.de/p/xiaomi-poco-m4-pro-5g/
 https://www.refurbed.de/p/xiaomi-poco-m4-pro/
 https://www.refurbed.de/p/xiaomi-poco-m5/
