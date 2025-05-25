@@ -4,6 +4,7 @@ https://www.refurbed.de/p/acer-a-3-spin-a3sp14-31pt-3-n100/
 https://www.refurbed.de/p/acer-a-3-spin-a3sp14-31pt-3-n305/
 https://www.refurbed.de/p/acer-a-5-spin-a5sp14-51mtn-1335u/
 https://www.refurbed.de/p/acer-a-5-spin-a5sp14-51mtn-i7-14/
+https://www.refurbed.de/p/acer-a-spin-14-i5-1335u/
 https://www.refurbed.de/p/acer-ahr162/
 https://www.refurbed.de/p/acer-ahw910/
 https://www.refurbed.de/p/acer-asa630-active-stylus-pen/
@@ -230,6 +231,7 @@ https://www.refurbed.de/p/acer-ka220hqbid-21-5/
 https://www.refurbed.de/p/acer-kg1-kg241ysbiip-23-8/
 https://www.refurbed.de/p/acer-liquid-z4/
 https://www.refurbed.de/p/acer-liquid-z410/
+https://www.refurbed.de/p/acer-nitro-16-r-9-8945hs-16/
 https://www.refurbed.de/p/acer-nitro-17-an17-51-i7-13700h/
 https://www.refurbed.de/p/acer-nitro-5-an515-44-r7-4800h/
 https://www.refurbed.de/p/acer-nitro-5-an515-45-r5-5600h/
@@ -1159,6 +1161,8 @@ https://www.refurbed.de/p/dell-latitude-5421-i5-11500h/
 https://www.refurbed.de/p/dell-latitude-5421-i7-11850h/
 https://www.refurbed.de/p/dell-latitude-5430-i5-1235u/
 https://www.refurbed.de/p/dell-latitude-5430-i5-1245u/
+https://www.refurbed.de/p/dell-latitude-5430-i7-1255u/
+https://www.refurbed.de/p/dell-latitude-5430-i7-1265u/
 https://www.refurbed.de/p/dell-latitude-5430rugged-1135g7/
 https://www.refurbed.de/p/dell-latitude-5430rugged-1145g7/
 https://www.refurbed.de/p/dell-latitude-5430rugged-1185g7/
@@ -1688,6 +1692,7 @@ https://www.refurbed.de/p/dell-precision-5550-10885h/
 https://www.refurbed.de/p/dell-precision-5550-i7-10750h/
 https://www.refurbed.de/p/dell-precision-5550-i7-10875h/
 https://www.refurbed.de/p/dell-precision-5550-x-w-10855m/
+https://www.refurbed.de/p/dell-precision-5560-11800h/
 https://www.refurbed.de/p/dell-precision-5560-11850h/
 https://www.refurbed.de/p/dell-precision-5560-i5-11500h-15/
 https://www.refurbed.de/p/dell-precision-5560-i7-10850h/
@@ -1994,6 +1999,7 @@ https://www.refurbed.de/p/dell-vostro-5471-i5-8250u-14/
 https://www.refurbed.de/p/dell-vostro-5490-10510u-14/
 https://www.refurbed.de/p/dell-wireless-dock-d5000/
 https://www.refurbed.de/p/dell-wld15-452-bbus/
+https://www.refurbed.de/p/dell-wyse-5030-pcoip-zero-client/
 https://www.refurbed.de/p/dell-wyse-5070-thin-client/
 https://www.refurbed.de/p/dell-wyse-5212-aio-thin-client/
 https://www.refurbed.de/p/dell-xps-11-9p33-4210y/
@@ -2218,6 +2224,8 @@ https://www.refurbed.de/p/honor-pad-9-smart-bluetooth-kb/
 https://www.refurbed.de/p/honor-pad-9/
 https://www.refurbed.de/p/honor-pad-x8-4g/
 https://www.refurbed.de/p/honor-pad-x8/
+https://www.refurbed.de/p/honor-pad-x8a-4g/
+https://www.refurbed.de/p/honor-pad-x8a/
 https://www.refurbed.de/p/honor-pad-x9-lte/
 https://www.refurbed.de/p/honor-pad-x9/
 https://www.refurbed.de/p/honor-play/
@@ -2237,7 +2245,6 @@ https://www.refurbed.de/p/honor-x8a/
 https://www.refurbed.de/p/honor-x8b/
 https://www.refurbed.de/p/honor-x9-5g/
 https://www.refurbed.de/p/honor-x9a-5g/
-https://www.refurbed.de/p/honor-x9b-5g/
 https://www.refurbed.de/p/hori-horipad-controller-mario/
 https://www.refurbed.de/p/hp-1040-g11-core-ultra-7-155h/
 https://www.refurbed.de/p/hp-13-an0506sa-i5-8250u/
@@ -2321,6 +2328,7 @@ https://www.refurbed.de/p/hp-15-dy2088ca-i5-1135g7/
 https://www.refurbed.de/p/hp-15-dy2093dx-i5-1135g7/
 https://www.refurbed.de/p/hp-15-dy2795wm-i5-1135g7/
 https://www.refurbed.de/p/hp-15-eg1053cl-i5-1155g7-/
+https://www.refurbed.de/p/hp-15-fc-athlon-gold-7220u/
 https://www.refurbed.de/p/hp-15-fc-ryzen-5-7520u-15-6/
 https://www.refurbed.de/p/hp-15-fc0000ni-r7-7730u-15-6/
 https://www.refurbed.de/p/hp-15-fc0001ns-ryzen-5-7520u/
@@ -2696,12 +2704,15 @@ https://www.refurbed.de/p/hp-eb-845-g10-r7-pro-7840hs-14/
 https://www.refurbed.de/p/hp-eb-845-g11-ryzen-5-pro-8540u/
 https://www.refurbed.de/p/hp-eb-845-g11-ryzen-7-8840u-14/
 https://www.refurbed.de/p/hp-eb-865-g10-r-5-pro-7545u/
+https://www.refurbed.de/p/hp-eb-865-g11-r7-pro-8840hs-16/
+https://www.refurbed.de/p/hp-eb-865-g11-ryzen-7-8840u-16/
 https://www.refurbed.de/p/hp-eb-revolve-810-g2-i5-4300u/
 https://www.refurbed.de/p/hp-eb-revolve-810-g3-5200u/
 https://www.refurbed.de/p/hp-eb-revolve-810-g3-5300u/
 https://www.refurbed.de/p/hp-eb-x360-1040-g10-i7-1355u/
 https://www.refurbed.de/p/hp-elite-830-x360-g10-i5-1355u/
 https://www.refurbed.de/p/hp-elite-830-x360-g10-i7-1355u/
+https://www.refurbed.de/p/hp-elite-830-x360-g11-7-155u/
 https://www.refurbed.de/p/hp-elite-830-x360-g9-i5-1245u/
 https://www.refurbed.de/p/hp-elite-830-x360-g9-i7-1255u/
 https://www.refurbed.de/p/hp-elite-c1030-chromebook-i3/
@@ -2753,6 +2764,7 @@ https://www.refurbed.de/p/hp-elite-x2-tpa-b01/
 https://www.refurbed.de/p/hp-elite-x3/
 https://www.refurbed.de/p/hp-elite-x360-1040-g10-i5-1355u/
 https://www.refurbed.de/p/hp-elite-x360-1040-g10-i7-1355u/
+https://www.refurbed.de/p/hp-elite-x360-1040-g11-7-165h/
 https://www.refurbed.de/p/hp-elitebook-1030-g1-m5-6y54-13/
 https://www.refurbed.de/p/hp-elitebook-1030-g1-m7-6y75-13/
 https://www.refurbed.de/p/hp-elitebook-1040-g10-1360p-14/
@@ -2917,6 +2929,7 @@ https://www.refurbed.de/p/hp-elitebook-840-g8-i5-1135g7-14/
 https://www.refurbed.de/p/hp-elitebook-840-g8-i7-1165g7-14/
 https://www.refurbed.de/p/hp-elitebook-840-g8-i7-1185g7/
 https://www.refurbed.de/p/hp-elitebook-840-g9-1240p-16/
+https://www.refurbed.de/p/hp-elitebook-840-g9-1250p-16/
 https://www.refurbed.de/p/hp-elitebook-840-g9-i5-1235u/
 https://www.refurbed.de/p/hp-elitebook-840-g9-i5-1245u/
 https://www.refurbed.de/p/hp-elitebook-840-g9-i7-1255u/
@@ -2982,6 +2995,7 @@ https://www.refurbed.de/p/hp-elitebook-860-g10-i7-1360p/
 https://www.refurbed.de/p/hp-elitebook-860-g10-i7-1365u/
 https://www.refurbed.de/p/hp-elitebook-860-g11-5-125h/
 https://www.refurbed.de/p/hp-elitebook-860-g11-5-125u/
+https://www.refurbed.de/p/hp-elitebook-860-g11-7-155h/
 https://www.refurbed.de/p/hp-elitebook-860-g11-7-155u/
 https://www.refurbed.de/p/hp-elitebook-860-g9-1235u-16/
 https://www.refurbed.de/p/hp-elitebook-860-g9-i5-1245u/
@@ -3179,6 +3193,8 @@ https://www.refurbed.de/p/hp-envy-17-cr-i7-1260p/
 https://www.refurbed.de/p/hp-envy-17-cw-i5-13500h/
 https://www.refurbed.de/p/hp-envy-17-cw-i7-13700h/
 https://www.refurbed.de/p/hp-envy-17-cw0003-i7-1355u/
+https://www.refurbed.de/p/hp-envy-17-da-core-ultra-5-125h/
+https://www.refurbed.de/p/hp-envy-17-da-core-ultra-7-155h/
 https://www.refurbed.de/p/hp-envy-17m-ce-i7-10510u/
 https://www.refurbed.de/p/hp-envy-17m-cg-i7-1165g7/
 https://www.refurbed.de/p/hp-envy-27-cp0001nc-all-in-one/
@@ -3233,6 +3249,8 @@ https://www.refurbed.de/p/hp-envy-x360-16-ad-r-5-8640hs/
 https://www.refurbed.de/p/hp-envy-x360-16-ad-r-7-8840hs/
 https://www.refurbed.de/p/hp-envy-x360-2-in-1-13-bf00017ne/
 https://www.refurbed.de/p/hp-envy-x360-2-in-1-13-bf0756ng/
+https://www.refurbed.de/p/hp-envy-x360-2-in-1-14-fc-7-155u/
+https://www.refurbed.de/p/hp-envy-x360-2-in-1-15-fh-7730u/
 https://www.refurbed.de/p/hp-envy-x360-2-in-1-15-fh0755ng/
 https://www.refurbed.de/p/hp-envy-x360-2-in-1-15-fh0775ng/
 https://www.refurbed.de/p/hp-healthcare-edt-hc271p-27/
@@ -4110,6 +4128,7 @@ https://www.refurbed.de/p/hp-zbook-firefly-14-g10-1365u/
 https://www.refurbed.de/p/hp-zbook-firefly-14-g10-a-5-7640/
 https://www.refurbed.de/p/hp-zbook-firefly-14-g10-i7-1360p/
 https://www.refurbed.de/p/hp-zbook-firefly-14-g10-i7-1370p/
+https://www.refurbed.de/p/hp-zbook-firefly-14-g11-7-155h/
 https://www.refurbed.de/p/hp-zbook-firefly-14-g11-7-165h/
 https://www.refurbed.de/p/hp-zbook-firefly-14-g9-i7-1265u/
 https://www.refurbed.de/p/hp-zbook-firefly-15-g7-i5-10210u/
@@ -4118,6 +4137,7 @@ https://www.refurbed.de/p/hp-zbook-firefly-15-g7-i7-10810u/
 https://www.refurbed.de/p/hp-zbook-firefly-15-g8-1165g7/
 https://www.refurbed.de/p/hp-zbook-firefly-16-g10-1355u/
 https://www.refurbed.de/p/hp-zbook-firefly-16-g10-1360p/
+https://www.refurbed.de/p/hp-zbook-firefly-16-g11-7-155h/
 https://www.refurbed.de/p/hp-zbook-firefly-16-g9-1255u-16/
 https://www.refurbed.de/p/hp-zbook-firefly-16-g9-i7-1265u/
 https://www.refurbed.de/p/hp-zbook-firefly-16-g9-i7-1280p/
@@ -4379,6 +4399,7 @@ https://www.refurbed.de/p/iphone-xr/
 https://www.refurbed.de/p/iphone-xs-max/
 https://www.refurbed.de/p/iphone-xs/
 https://www.refurbed.de/p/kaercher-k-5-premi-pwr-ctrl-home/
+https://www.refurbed.de/p/laptop-sleeve/
 https://www.refurbed.de/p/lenovo--chromebook-11e-n3150/
 https://www.refurbed.de/p/lenovo-10e-chromebook-tablet/
 https://www.refurbed.de/p/lenovo-chromebook-100e-n4020/
@@ -4788,6 +4809,7 @@ https://www.refurbed.de/p/lenovo-thinkpad-t15-g1-10210u/
 https://www.refurbed.de/p/lenovo-thinkpad-t15-g1-10310u/
 https://www.refurbed.de/p/lenovo-thinkpad-t15-g1-10510u/
 https://www.refurbed.de/p/lenovo-thinkpad-t15-g1-10610u/
+https://www.refurbed.de/p/lenovo-thinkpad-t15-g2-1185g7/
 https://www.refurbed.de/p/lenovo-thinkpad-t15g-i7-10750h/
 https://www.refurbed.de/p/lenovo-thinkpad-t15g-i9-10885h/
 https://www.refurbed.de/p/lenovo-thinkpad-t15p-10750h/
@@ -4908,11 +4930,13 @@ https://www.refurbed.de/p/lenovo-thinkpad-x1-tablet/
 https://www.refurbed.de/p/lenovo-thinkpad-x1-yoga-g1-6500u/
 https://www.refurbed.de/p/lenovo-thinkpad-x13-10210u/
 https://www.refurbed.de/p/lenovo-thinkpad-x13-10310u/
+https://www.refurbed.de/p/lenovo-thinkpad-x13-g1-10210u/
 https://www.refurbed.de/p/lenovo-thinkpad-x13-g1-10310u/
 https://www.refurbed.de/p/lenovo-thinkpad-x13-g1-10510u/
 https://www.refurbed.de/p/lenovo-thinkpad-x13-g1-10610u/
 https://www.refurbed.de/p/lenovo-thinkpad-x13-g1-4450u/
 https://www.refurbed.de/p/lenovo-thinkpad-x13-g1-4650u/
+https://www.refurbed.de/p/lenovo-thinkpad-x13-g4-1345u/
 https://www.refurbed.de/p/lenovo-thinkpad-x13-r5-pro-4650u/
 https://www.refurbed.de/p/lenovo-thinkpad-x13-r7-pro-4750u/
 https://www.refurbed.de/p/lenovo-thinkpad-x13-yoga-10210u/
@@ -5365,6 +5389,7 @@ https://www.refurbed.de/p/motorola-moto-g54-5g/
 https://www.refurbed.de/p/motorola-moto-g55-5g/
 https://www.refurbed.de/p/motorola-moto-g5s-plus/
 https://www.refurbed.de/p/motorola-moto-g5s/
+https://www.refurbed.de/p/motorola-moto-g6-nfc/
 https://www.refurbed.de/p/motorola-moto-g6-plus/
 https://www.refurbed.de/p/motorola-moto-g60/
 https://www.refurbed.de/p/motorola-moto-g60s/
@@ -5920,6 +5945,7 @@ https://www.refurbed.de/p/samsung-galaxy-m11/
 https://www.refurbed.de/p/samsung-galaxy-m12/
 https://www.refurbed.de/p/samsung-galaxy-m13/
 https://www.refurbed.de/p/samsung-galaxy-m20/
+https://www.refurbed.de/p/samsung-galaxy-m21-2021/
 https://www.refurbed.de/p/samsung-galaxy-m21/
 https://www.refurbed.de/p/samsung-galaxy-m22/
 https://www.refurbed.de/p/samsung-galaxy-m23-5g/
@@ -5975,6 +6001,7 @@ https://www.refurbed.de/p/samsung-galaxy-s24-fe/
 https://www.refurbed.de/p/samsung-galaxy-s24-plus/
 https://www.refurbed.de/p/samsung-galaxy-s24-ultra/
 https://www.refurbed.de/p/samsung-galaxy-s24/
+https://www.refurbed.de/p/samsung-galaxy-s25-edge/
 https://www.refurbed.de/p/samsung-galaxy-s25-plus/
 https://www.refurbed.de/p/samsung-galaxy-s25-ultra/
 https://www.refurbed.de/p/samsung-galaxy-s25/
