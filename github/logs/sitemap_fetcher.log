@@ -2161,3 +2161,5 @@ Exclusion Summary for Refurbed:
 2025-05-25 01:57:28,729 - INFO -   ... and 3 more
 2025-05-25 01:57:28,780 - INFO - Successfully saved 6801 URLs to /home/runner/work/M3-scraper/M3-scraper/github/Sitemaps/refurbed_urls.txt
 2025-05-25 01:57:30,046 - ERROR - Error fetching sitemap: 403 Client Error: Forbidden for url: https://www.backmarket.de/sitemap_1.xml
+2025-06-01 02:07:52,912 - ERROR - Error fetching sitemap: HTTPSConnectionPool(host='www.refurbed.de', port=443): Read timed out. (read timeout=30)
+2025-06-01 02:07:53,837 - ERROR - Error fetching sitemap: 403 Client Error: Forbidden for url: https://www.backmarket.de/sitemap_1.xml
