@@ -1,37 +1,37 @@
 {
-  "total_products_with_predictions": 6800,
+  "total_products_with_predictions": 6852,
   "categories": {
-    "Laptops": 3542,
-    "Phones & Smartphones": 1019,
-    "Monitors": 762,
-    "Desktop PCs": 380,
-    "Tablets": 368,
-    "Accessories": 223,
+    "Laptops": 3574,
+    "Phones & Smartphones": 1029,
+    "Monitors": 763,
+    "Desktop PCs": 382,
+    "Tablets": 372,
+    "Accessories": 225,
     "TVs": 134,
     "Printers & Scanner": 132,
     "Audio": 117,
     "Household": 64,
     "Smartwatches": 29,
-    "Kitchen": 23,
+    "Kitchen": 24,
     "Cameras": 5,
     "Consoles": 1,
     "Garden": 1
   },
   "brands": {
-    "HP": 1962,
-    "Dell": 1374,
-    "Samsung": 735,
-    "Lenovo": 692,
+    "HP": 1983,
+    "Dell": 1381,
+    "Samsung": 746,
+    "Lenovo": 698,
     "Acer": 424,
     "ASUS": 206,
-    "Xiaomi": 186,
-    "LG": 136,
+    "Xiaomi": 190,
+    "LG": 137,
     "Apple": 130,
     "Motorola": 127,
     "Huawei": 116,
     "Nokia": 101,
     "Honor": 92,
-    "Oppo": 83,
+    "Oppo": 84,
     "Microsoft": 80,
     "Sony": 71,
     "Realme": 51,
@@ -69,108 +69,114 @@
     "Elektra Bregenz": 1,
     "Hori": 1,
     "Magewell": 1,
-    "Marshall": 1
+    "Marshall": 1,
+    "Krups": 1
   },
   "trending_up_categories": [
     {
+      "name": "Household",
+      "trend_pct": 0.16,
+      "count": 64
+    },
+    {
       "name": "Printers & Scanner",
-      "trend_pct": 0.04,
+      "trend_pct": 0.09,
       "count": 132
     },
     {
       "name": "Audio",
-      "trend_pct": 0.03,
+      "trend_pct": 0.09,
       "count": 117
     },
     {
-      "name": "TVs",
-      "trend_pct": 0.01,
-      "count": 134
+      "name": "Kitchen",
+      "trend_pct": 0.09,
+      "count": 24
     },
     {
-      "name": "Household",
-      "trend_pct": 0.01,
-      "count": 64
+      "name": "TVs",
+      "trend_pct": 0.03,
+      "count": 134
     }
   ],
   "trending_down_categories": [
     {
-      "name": "Accessories",
-      "trend_pct": -0.15,
-      "count": 223
-    },
-    {
-      "name": "Tablets",
-      "trend_pct": -0.25,
-      "count": 368
+      "name": "Monitors",
+      "trend_pct": -0.13,
+      "count": 763
     },
     {
       "name": "Laptops",
-      "trend_pct": -0.34,
-      "count": 3542
+      "trend_pct": -0.36,
+      "count": 3574
     },
     {
       "name": "Desktop PCs",
-      "trend_pct": -0.41,
-      "count": 380
+      "trend_pct": -0.39,
+      "count": 382
+    },
+    {
+      "name": "Tablets",
+      "trend_pct": -0.57,
+      "count": 372
     },
     {
       "name": "Phones & Smartphones",
-      "trend_pct": -0.67,
-      "count": 1019
+      "trend_pct": -0.79,
+      "count": 1029
     }
   ],
   "trending_up_brands": [
+    {
+      "name": "Fujitsu",
+      "trend_pct": 1.47,
+      "count": 8
+    },
+    {
+      "name": "Dyson",
+      "trend_pct": 1.25,
+      "count": 4
+    },
     {
       "name": "NEC",
       "trend_pct": 0.83,
       "count": 6
     },
     {
-      "name": "Fujitsu",
-      "trend_pct": 0.8,
-      "count": 8
+      "name": "LG",
+      "trend_pct": 0.07,
+      "count": 137
     },
     {
       "name": "BenQ",
-      "trend_pct": 0.29,
-      "count": 15
-    },
-    {
-      "name": "Realme",
-      "trend_pct": 0.19,
-      "count": 51
-    },
-    {
-      "name": "Acer",
       "trend_pct": 0.02,
-      "count": 424
+      "count": 15
     }
   ],
   "trending_down_brands": [
     {
-      "name": "Logitech",
-      "trend_pct": -0.83,
-      "count": 8
+      "name": "Honor",
+      "trend_pct": -0.8,
+      "count": 92
     },
     {
-      "name": "Google",
-      "trend_pct": -0.84,
-      "count": 34
+      "name": "Realme",
+      "trend_pct": -0.86,
+      "count": 51
     },
     {
       "name": "Vivo",
-      "trend_pct": -0.94,
+      "trend_pct": -1.13,
       "count": 24
     },
     {
       "name": "Xiaomi",
-      "trend_pct": -0.96,
-      "count": 186
+      "trend_pct": -1.22,
+      "count": 190
     },
     {
       "name": "Apple",
-      "trend_pct": -1.47,
+      "trend_pct": -1.35,
       "count": 130
     }
   ]
