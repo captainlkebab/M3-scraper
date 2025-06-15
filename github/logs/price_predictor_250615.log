@@ -1,0 +1,23 @@
+2025-06-15 05:12:40,618 - INFO - Starting price prediction process
+2025-06-15 05:12:40,618 - INFO - Loading data files...
+2025-06-15 05:12:40,669 - INFO - Loaded Refurbed_250511.json with 6760 products
+2025-06-15 05:12:40,719 - INFO - Loaded Refurbed_250608.json with 6849 products
+2025-06-15 05:12:40,769 - INFO - Loaded Refurbed_250601.json with 6799 products
+2025-06-15 05:12:40,819 - INFO - Loaded Refurbed_250615.json with 6850 products
+2025-06-15 05:12:40,921 - INFO - Loaded Refurbed_250421.json with 6709 products
+2025-06-15 05:12:40,970 - INFO - Loaded Refurbed_250518.json with 6773 products
+2025-06-15 05:12:41,019 - INFO - Loaded Refurbed_250413.json with 6685 products
+2025-06-15 05:12:41,068 - INFO - Loaded Refurbed_250504.json with 6743 products
+2025-06-15 05:12:41,117 - INFO - Loaded Refurbed_250525.json with 6801 products
+2025-06-15 05:12:41,166 - INFO - Loaded Refurbed_250312.json with 6589 products
+2025-06-15 05:12:41,167 - INFO - Found 10 data files
+2025-06-15 05:12:41,167 - INFO - Preparing price history...
+2025-06-15 05:12:41,292 - INFO - Prepared price history for 6865 products
+2025-06-15 05:12:41,292 - INFO - Building prediction models...
+2025-06-15 05:12:47,156 - INFO - Built prediction models for 6852 products
+2025-06-15 05:12:47,156 - INFO - Generating predictions...
+2025-06-15 05:12:48,646 - INFO - Generated predictions for 6852 products
+2025-06-15 05:12:48,646 - INFO - Saving predictions...
+2025-06-15 05:12:49,037 - INFO - Saved predictions to /home/runner/work/M3-scraper/M3-scraper/docs/price_predictions.json
+2025-06-15 05:12:49,039 - INFO - Generating summary statistics...
+2025-06-15 05:12:49,045 - INFO - Price prediction process completed successfully
