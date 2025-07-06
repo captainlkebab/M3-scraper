@@ -75,34 +75,34 @@
   "trending_up_categories": [
     {
       "name": "Household",
-      "trend_pct": 0.13,
+      "trend_pct": 0.12,
       "count": 64
     },
     {
       "name": "Audio",
-      "trend_pct": 0.07,
+      "trend_pct": 0.06,
       "count": 117
     },
     {
       "name": "Printers & Scanner",
-      "trend_pct": 0.06,
+      "trend_pct": 0.05,
       "count": 132
     },
     {
       "name": "Kitchen",
-      "trend_pct": 0.03,
+      "trend_pct": 0.01,
       "count": 24
     },
     {
       "name": "TVs",
-      "trend_pct": 0.01,
+      "trend_pct": 0.0,
       "count": 134
     }
   ],
   "trending_down_categories": [
     {
       "name": "Accessories",
-      "trend_pct": -0.13,
+      "trend_pct": -0.15,
       "count": 225
     },
     {
@@ -112,30 +112,30 @@
     },
     {
       "name": "Laptops",
-      "trend_pct": -0.48,
+      "trend_pct": -0.53,
       "count": 3574
     },
     {
       "name": "Tablets",
-      "trend_pct": -0.68,
+      "trend_pct": -0.72,
       "count": 372
     },
     {
       "name": "Phones & Smartphones",
-      "trend_pct": -1.08,
+      "trend_pct": -1.2,
       "count": 1029
     }
   ],
   "trending_up_brands": [
     {
-      "name": "Fujitsu",
-      "trend_pct": 1.28,
-      "count": 8
-    },
-    {
       "name": "Dyson",
       "trend_pct": 1.25,
       "count": 4
+    },
+    {
+      "name": "Fujitsu",
+      "trend_pct": 1.18,
+      "count": 8
     },
     {
       "name": "NEC",
@@ -143,40 +143,40 @@
       "count": 6
     },
     {
+      "name": "BenQ",
+      "trend_pct": 0.07,
+      "count": 15
+    },
+    {
       "name": "LG",
       "trend_pct": 0.07,
       "count": 137
-    },
-    {
-      "name": "BenQ",
-      "trend_pct": 0.05,
-      "count": 15
     }
   ],
   "trending_down_brands": [
     {
       "name": "OnePlus",
-      "trend_pct": -1.17,
+      "trend_pct": -1.4,
       "count": 47
     },
     {
       "name": "Vivo",
-      "trend_pct": -1.31,
+      "trend_pct": -1.4,
       "count": 24
     },
     {
       "name": "Realme",
-      "trend_pct": -1.4,
+      "trend_pct": -1.57,
       "count": 51
     },
     {
       "name": "Xiaomi",
-      "trend_pct": -1.62,
+      "trend_pct": -1.76,
       "count": 190
     },
     {
       "name": "Apple",
-      "trend_pct": -1.82,
+      "trend_pct": -2.0,
       "count": 130
     }
   ]
