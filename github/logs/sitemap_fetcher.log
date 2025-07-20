@@ -2303,3 +2303,5 @@ Exclusion Summary for Refurbed:
 2025-07-06 02:02:23,545 - ERROR - Error fetching sitemap: 403 Client Error: Forbidden for url: https://www.backmarket.de/sitemap_1.xml
 2025-07-13 02:07:24,353 - ERROR - Error fetching sitemap: HTTPSConnectionPool(host='www.refurbed.de', port=443): Read timed out. (read timeout=30)
 2025-07-13 02:07:25,255 - ERROR - Error fetching sitemap: 403 Client Error: Forbidden for url: https://www.backmarket.de/sitemap_1.xml
+2025-07-20 02:08:52,574 - ERROR - Error fetching sitemap: HTTPSConnectionPool(host='www.refurbed.de', port=443): Read timed out. (read timeout=30)
+2025-07-20 02:08:53,486 - ERROR - Error fetching sitemap: 403 Client Error: Forbidden for url: https://www.backmarket.de/sitemap_1.xml
