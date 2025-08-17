@@ -153,3 +153,12 @@
 2025-08-10 04:53:04,686 - INFO - Processed latest Backmarket product file: /home/runner/work/M3-scraper/M3-scraper/github/Scraped/backmarket_250425_products.csv
 2025-08-10 04:53:04,712 - INFO - Successfully uploaded price history from /home/runner/work/M3-scraper/M3-scraper/github/Scraped/backmarket_250425_prices.csv
 2025-08-10 04:53:04,713 - INFO - Processed latest Backmarket price file: /home/runner/work/M3-scraper/M3-scraper/github/Scraped/backmarket_250425_prices.csv
+2025-08-17 05:09:36,103 - INFO - Database setup complete at /home/runner/work/M3-scraper/M3-scraper/github/products.db
+2025-08-17 05:09:36,106 - INFO - Successfully uploaded products from /home/runner/work/M3-scraper/M3-scraper/github/Scraped/refurbed_250817_products.csv
+2025-08-17 05:09:36,106 - INFO - Processed latest Refurbed product file: /home/runner/work/M3-scraper/M3-scraper/github/Scraped/refurbed_250817_products.csv
+2025-08-17 05:09:36,107 - INFO - Successfully uploaded price history from /home/runner/work/M3-scraper/M3-scraper/github/Scraped/refurbed_250817_prices.csv
+2025-08-17 05:09:36,107 - INFO - Processed latest Refurbed price file: /home/runner/work/M3-scraper/M3-scraper/github/Scraped/refurbed_250817_prices.csv
+2025-08-17 05:09:36,113 - INFO - Successfully uploaded products from /home/runner/work/M3-scraper/M3-scraper/github/Scraped/backmarket_250425_products.csv
+2025-08-17 05:09:36,113 - INFO - Processed latest Backmarket product file: /home/runner/work/M3-scraper/M3-scraper/github/Scraped/backmarket_250425_products.csv
+2025-08-17 05:09:36,143 - INFO - Successfully uploaded price history from /home/runner/work/M3-scraper/M3-scraper/github/Scraped/backmarket_250425_prices.csv
+2025-08-17 05:09:36,143 - INFO - Processed latest Backmarket price file: /home/runner/work/M3-scraper/M3-scraper/github/Scraped/backmarket_250425_prices.csv
