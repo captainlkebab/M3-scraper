@@ -75,7 +75,7 @@
   "trending_up_categories": [
     {
       "name": "Household",
-      "trend_pct": 0.07,
+      "trend_pct": 0.06,
       "count": 64
     },
     {
@@ -102,17 +102,17 @@
     },
     {
       "name": "Laptops",
-      "trend_pct": -0.69,
+      "trend_pct": -0.71,
       "count": 3574
     },
     {
       "name": "Tablets",
-      "trend_pct": -0.85,
+      "trend_pct": -0.87,
       "count": 372
     },
     {
       "name": "Phones & Smartphones",
-      "trend_pct": -1.58,
+      "trend_pct": -1.62,
       "count": 1029
     }
   ],
@@ -134,7 +134,7 @@
     },
     {
       "name": "BenQ",
-      "trend_pct": 0.19,
+      "trend_pct": 0.21,
       "count": 15
     },
     {
@@ -146,27 +146,27 @@
   "trending_down_brands": [
     {
       "name": "Realme",
-      "trend_pct": -1.8,
+      "trend_pct": -1.81,
       "count": 51
     },
     {
       "name": "Vivo",
-      "trend_pct": -1.95,
+      "trend_pct": -2.04,
       "count": 24
     },
     {
       "name": "Xiaomi",
-      "trend_pct": -2.14,
+      "trend_pct": -2.17,
       "count": 190
     },
     {
       "name": "OnePlus",
-      "trend_pct": -2.2,
+      "trend_pct": -2.25,
       "count": 47
     },
     {
       "name": "Apple",
-      "trend_pct": -2.57,
+      "trend_pct": -2.62,
       "count": 130
     }
   ]
