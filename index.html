@@ -295,8 +295,8 @@
           const fileName = `Refurbed_${year}${month}${day}.json`;
           
           // Try to load today's file first
-          let response = await fetch(`./${fileName}`);
-          let actualFileName = fileName;
+          let response = await fetch(`./Refurbed_latest.json`);
+          let actualFileName = 'Refurbed_latest.json';
           
           // If today's file doesn't exist, try to find the newest file
           if (!response.ok) {
