@@ -1,0 +1,34 @@
+2025-08-31 04:47:34,613 - INFO - Starting price prediction process
+2025-08-31 04:47:34,613 - INFO - Loading data files...
+2025-08-31 04:47:34,664 - INFO - Loaded Refurbed_250817.json with 6846 products
+2025-08-31 04:47:34,712 - INFO - Loaded Refurbed_250803.json with 6847 products
+2025-08-31 04:47:34,760 - INFO - Loaded Refurbed_250518.json with 6773 products
+2025-08-31 04:47:34,808 - INFO - Loaded Refurbed_250608.json with 6849 products
+2025-08-31 04:47:34,910 - INFO - Loaded Refurbed_250421.json with 6709 products
+2025-08-31 04:47:34,959 - INFO - Loaded Refurbed_250622.json with 6847 products
+2025-08-31 04:47:35,006 - INFO - Loaded Refurbed_250312.json with 6589 products
+2025-08-31 04:47:35,054 - INFO - Loaded Refurbed_250615.json with 6850 products
+2025-08-31 04:47:35,102 - INFO - Loaded Refurbed_250511.json with 6760 products
+2025-08-31 04:47:35,150 - INFO - Loaded Refurbed_250713.json with 6850 products
+2025-08-31 04:47:35,179 - INFO - Loaded Refurbed_250831.json with 5765 products
+2025-08-31 04:47:35,294 - INFO - Loaded Refurbed_250824.json with 6847 products
+2025-08-31 04:47:35,341 - INFO - Loaded Refurbed_250504.json with 6743 products
+2025-08-31 04:47:35,390 - INFO - Loaded Refurbed_250525.json with 6801 products
+2025-08-31 04:47:35,438 - INFO - Loaded Refurbed_250629.json with 6849 products
+2025-08-31 04:47:35,486 - INFO - Loaded Refurbed_250810.json with 6846 products
+2025-08-31 04:47:35,533 - INFO - Loaded Refurbed_250727.json with 6847 products
+2025-08-31 04:47:35,581 - INFO - Loaded Refurbed_250601.json with 6799 products
+2025-08-31 04:47:35,629 - INFO - Loaded Refurbed_250706.json with 6849 products
+2025-08-31 04:47:35,798 - INFO - Loaded Refurbed_250720.json with 6846 products
+2025-08-31 04:47:35,846 - INFO - Loaded Refurbed_250413.json with 6685 products
+2025-08-31 04:47:35,846 - INFO - Found 21 data files
+2025-08-31 04:47:35,846 - INFO - Preparing price history...
+2025-08-31 04:47:35,984 - INFO - Prepared price history for 6865 products
+2025-08-31 04:47:35,985 - INFO - Building prediction models...
+2025-08-31 04:47:41,944 - INFO - Built prediction models for 6852 products
+2025-08-31 04:47:41,944 - INFO - Generating predictions...
+2025-08-31 04:47:43,373 - INFO - Generated predictions for 6852 products
+2025-08-31 04:47:43,373 - INFO - Saving predictions...
+2025-08-31 04:47:43,762 - INFO - Saved predictions to /home/runner/work/M3-scraper/M3-scraper/docs/price_predictions.json
+2025-08-31 04:47:43,764 - INFO - Generating summary statistics...
+2025-08-31 04:47:43,771 - INFO - Price prediction process completed successfully
