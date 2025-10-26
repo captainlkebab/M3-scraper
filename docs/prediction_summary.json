@@ -92,17 +92,17 @@
   "trending_down_categories": [
     {
       "name": "Accessories",
-      "trend_pct": -0.21,
+      "trend_pct": -0.22,
       "count": 225
     },
     {
       "name": "Desktop PCs",
-      "trend_pct": -0.52,
+      "trend_pct": -0.53,
       "count": 382
     },
     {
       "name": "Laptops",
-      "trend_pct": -0.8,
+      "trend_pct": -0.81,
       "count": 3574
     },
     {
@@ -112,7 +112,7 @@
     },
     {
       "name": "Phones & Smartphones",
-      "trend_pct": -1.78,
+      "trend_pct": -1.79,
       "count": 1029
     }
   ],
@@ -146,27 +146,27 @@
   "trending_down_brands": [
     {
       "name": "Honor",
-      "trend_pct": -1.94,
+      "trend_pct": -1.95,
       "count": 92
     },
     {
       "name": "Xiaomi",
-      "trend_pct": -2.32,
+      "trend_pct": -2.33,
       "count": 190
     },
     {
       "name": "Vivo",
-      "trend_pct": -2.46,
+      "trend_pct": -2.51,
       "count": 24
     },
     {
       "name": "OnePlus",
-      "trend_pct": -2.53,
+      "trend_pct": -2.56,
       "count": 47
     },
     {
       "name": "Apple",
-      "trend_pct": -2.86,
+      "trend_pct": -2.88,
       "count": 130
     }
   ]
