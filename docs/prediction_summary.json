@@ -97,12 +97,12 @@
     },
     {
       "name": "Desktop PCs",
-      "trend_pct": -0.53,
+      "trend_pct": -0.54,
       "count": 382
     },
     {
       "name": "Laptops",
-      "trend_pct": -0.83,
+      "trend_pct": -0.84,
       "count": 3574
     },
     {
@@ -112,7 +112,7 @@
     },
     {
       "name": "Phones & Smartphones",
-      "trend_pct": -1.82,
+      "trend_pct": -1.83,
       "count": 1029
     }
   ],
@@ -156,17 +156,17 @@
     },
     {
       "name": "OnePlus",
-      "trend_pct": -2.62,
+      "trend_pct": -2.63,
       "count": 47
     },
     {
       "name": "Vivo",
-      "trend_pct": -2.65,
+      "trend_pct": -2.69,
       "count": 24
     },
     {
       "name": "Apple",
-      "trend_pct": -2.93,
+      "trend_pct": -2.94,
       "count": 130
     }
   ]
