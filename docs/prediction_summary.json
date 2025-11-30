@@ -112,7 +112,7 @@
     },
     {
       "name": "Phones & Smartphones",
-      "trend_pct": -1.83,
+      "trend_pct": -1.84,
       "count": 1029
     }
   ],
@@ -139,34 +139,34 @@
     },
     {
       "name": "LG",
-      "trend_pct": 0.16,
+      "trend_pct": 0.17,
       "count": 137
     }
   ],
   "trending_down_brands": [
     {
       "name": "Honor",
-      "trend_pct": -1.99,
+      "trend_pct": -2.0,
       "count": 92
     },
     {
       "name": "Xiaomi",
-      "trend_pct": -2.34,
+      "trend_pct": -2.35,
       "count": 190
     },
     {
       "name": "OnePlus",
-      "trend_pct": -2.63,
+      "trend_pct": -2.64,
       "count": 47
     },
     {
       "name": "Vivo",
-      "trend_pct": -2.69,
+      "trend_pct": -2.73,
       "count": 24
     },
     {
       "name": "Apple",
-      "trend_pct": -2.94,
+      "trend_pct": -2.96,
       "count": 130
     }
   ]
