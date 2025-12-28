@@ -85,7 +85,7 @@
     },
     {
       "name": "Audio",
-      "trend_pct": 0.02,
+      "trend_pct": 0.01,
       "count": 117
     }
   ],
@@ -139,7 +139,7 @@
     },
     {
       "name": "LG",
-      "trend_pct": 0.18,
+      "trend_pct": 0.19,
       "count": 137
     }
   ],
@@ -161,12 +161,12 @@
     },
     {
       "name": "Vivo",
-      "trend_pct": -2.83,
+      "trend_pct": -2.84,
       "count": 24
     },
     {
       "name": "Apple",
-      "trend_pct": -2.99,
+      "trend_pct": -3.0,
       "count": 130
     }
   ]
