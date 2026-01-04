@@ -1,0 +1,52 @@
+2026-01-04 04:52:29,652 - INFO - Starting price prediction process
+2026-01-04 04:52:29,652 - INFO - Loading data files...
+2026-01-04 04:52:29,702 - INFO - Loaded Refurbed_250622.json with 6847 products
+2026-01-04 04:52:29,731 - INFO - Loaded Refurbed_251005.json with 5731 products
+2026-01-04 04:52:29,759 - INFO - Loaded Refurbed_251116.json with 5716 products
+2026-01-04 04:52:29,788 - INFO - Loaded Refurbed_251019.json with 5729 products
+2026-01-04 04:52:29,897 - INFO - Loaded Refurbed_250810.json with 6846 products
+2026-01-04 04:52:29,944 - INFO - Loaded Refurbed_250608.json with 6849 products
+2026-01-04 04:52:29,991 - INFO - Loaded Refurbed_250421.json with 6709 products
+2026-01-04 04:52:30,037 - INFO - Loaded Refurbed_250727.json with 6847 products
+2026-01-04 04:52:30,082 - INFO - Loaded Refurbed_250312.json with 6589 products
+2026-01-04 04:52:30,128 - INFO - Loaded Refurbed_250413.json with 6685 products
+2026-01-04 04:52:30,156 - INFO - Loaded Refurbed_251228.json with 5726 products
+2026-01-04 04:52:30,298 - INFO - Loaded Refurbed_250518.json with 6773 products
+2026-01-04 04:52:30,345 - INFO - Loaded Refurbed_250601.json with 6799 products
+2026-01-04 04:52:30,375 - INFO - Loaded Refurbed_251221.json with 5726 products
+2026-01-04 04:52:30,409 - INFO - Loaded Refurbed_251109.json with 5729 products
+2026-01-04 04:52:30,438 - INFO - Loaded Refurbed_250928.json with 5729 products
+2026-01-04 04:52:30,465 - INFO - Loaded Refurbed_251123.json with 5729 products
+2026-01-04 04:52:30,510 - INFO - Loaded Refurbed_250629.json with 6849 products
+2026-01-04 04:52:30,555 - INFO - Loaded Refurbed_250713.json with 6850 products
+2026-01-04 04:52:30,740 - INFO - Loaded Refurbed_250706.json with 6849 products
+2026-01-04 04:52:30,786 - INFO - Loaded Refurbed_250511.json with 6760 products
+2026-01-04 04:52:30,815 - INFO - Loaded Refurbed_251214.json with 5729 products
+2026-01-04 04:52:30,867 - INFO - Loaded Refurbed_250615.json with 6850 products
+2026-01-04 04:52:30,895 - INFO - Loaded Refurbed_251130.json with 5729 products
+2026-01-04 04:52:30,928 - INFO - Loaded Refurbed_251026.json with 5729 products
+2026-01-04 04:52:30,973 - INFO - Loaded Refurbed_250504.json with 6743 products
+2026-01-04 04:52:31,002 - INFO - Loaded Refurbed_250921.json with 5724 products
+2026-01-04 04:52:31,048 - INFO - Loaded Refurbed_250817.json with 6846 products
+2026-01-04 04:52:31,094 - INFO - Loaded Refurbed_250720.json with 6846 products
+2026-01-04 04:52:31,121 - INFO - Loaded Refurbed_250831.json with 5765 products
+2026-01-04 04:52:31,337 - INFO - Loaded Refurbed_251012.json with 5731 products
+2026-01-04 04:52:31,382 - INFO - Loaded Refurbed_250803.json with 6847 products
+2026-01-04 04:52:31,417 - INFO - Loaded Refurbed_260104.json with 5728 products
+2026-01-04 04:52:31,459 - INFO - Loaded Refurbed_250824.json with 6847 products
+2026-01-04 04:52:31,488 - INFO - Loaded Refurbed_250914.json with 5733 products
+2026-01-04 04:52:31,516 - INFO - Loaded Refurbed_251102.json with 5729 products
+2026-01-04 04:52:31,562 - INFO - Loaded Refurbed_250525.json with 6801 products
+2026-01-04 04:52:31,592 - INFO - Loaded Refurbed_250907.json with 5768 products
+2026-01-04 04:52:31,622 - INFO - Loaded Refurbed_251207.json with 5728 products
+2026-01-04 04:52:31,622 - INFO - Found 39 data files
+2026-01-04 04:52:31,622 - INFO - Preparing price history...
+2026-01-04 04:52:31,806 - INFO - Prepared price history for 6865 products
+2026-01-04 04:52:31,806 - INFO - Building prediction models...
+2026-01-04 04:52:36,683 - INFO - Built prediction models for 6852 products
+2026-01-04 04:52:36,684 - INFO - Generating predictions...
+2026-01-04 04:52:37,892 - INFO - Generated predictions for 6852 products
+2026-01-04 04:52:37,892 - INFO - Saving predictions...
+2026-01-04 04:52:38,305 - INFO - Saved predictions to /home/runner/work/M3-scraper/M3-scraper/docs/price_predictions.json
+2026-01-04 04:52:38,306 - INFO - Generating summary statistics...
+2026-01-04 04:52:38,313 - INFO - Price prediction process completed successfully
