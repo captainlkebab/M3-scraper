@@ -97,7 +97,7 @@
     },
     {
       "name": "Desktop PCs",
-      "trend_pct": -0.55,
+      "trend_pct": -0.56,
       "count": 382
     },
     {
@@ -161,12 +161,12 @@
     },
     {
       "name": "Vivo",
-      "trend_pct": -2.91,
+      "trend_pct": -2.92,
       "count": 24
     },
     {
       "name": "Apple",
-      "trend_pct": -3.05,
+      "trend_pct": -3.06,
       "count": 130
     }
   ]
