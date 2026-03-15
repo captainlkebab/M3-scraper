@@ -1,0 +1,62 @@
+2026-03-15 05:34:28,407 - INFO - Starting price prediction process
+2026-03-15 05:34:28,407 - INFO - Loading data files...
+2026-03-15 05:34:28,438 - INFO - Loaded Refurbed_251228.json with 5726 products
+2026-03-15 05:34:28,468 - INFO - Loaded Refurbed_251005.json with 5731 products
+2026-03-15 05:34:28,498 - INFO - Loaded Refurbed_251019.json with 5729 products
+2026-03-15 05:34:28,527 - INFO - Loaded Refurbed_260315.json with 5728 products
+2026-03-15 05:34:28,616 - INFO - Loaded Refurbed_260208.json with 5729 products
+2026-03-15 05:34:28,665 - INFO - Loaded Refurbed_250810.json with 6846 products
+2026-03-15 05:34:28,695 - INFO - Loaded Refurbed_251214.json with 5729 products
+2026-03-15 05:34:28,724 - INFO - Loaded Refurbed_260222.json with 5730 products
+2026-03-15 05:34:28,773 - INFO - Loaded Refurbed_250608.json with 6849 products
+2026-03-15 05:34:28,820 - INFO - Loaded Refurbed_250421.json with 6709 products
+2026-03-15 05:34:28,869 - INFO - Loaded Refurbed_250720.json with 6846 products
+2026-03-15 05:34:28,988 - INFO - Loaded Refurbed_251123.json with 5729 products
+2026-03-15 05:34:29,017 - INFO - Loaded Refurbed_260125.json with 5729 products
+2026-03-15 05:34:29,045 - INFO - Loaded Refurbed_260301.json with 5731 products
+2026-03-15 05:34:29,093 - INFO - Loaded Refurbed_250525.json with 6801 products
+2026-03-15 05:34:29,123 - INFO - Loaded Refurbed_251026.json with 5729 products
+2026-03-15 05:34:29,153 - INFO - Loaded Refurbed_260118.json with 5728 products
+2026-03-15 05:34:29,182 - INFO - Loaded Refurbed_250831.json with 5765 products
+2026-03-15 05:34:29,211 - INFO - Loaded Refurbed_260201.json with 5723 products
+2026-03-15 05:34:29,240 - INFO - Loaded Refurbed_250921.json with 5724 products
+2026-03-15 05:34:29,393 - INFO - Loaded Refurbed_251109.json with 5729 products
+2026-03-15 05:34:29,421 - INFO - Loaded Refurbed_250907.json with 5768 products
+2026-03-15 05:34:29,450 - INFO - Loaded Refurbed_260111.json with 5727 products
+2026-03-15 05:34:29,497 - INFO - Loaded Refurbed_250518.json with 6773 products
+2026-03-15 05:34:29,544 - INFO - Loaded Refurbed_250504.json with 6743 products
+2026-03-15 05:34:29,593 - INFO - Loaded Refurbed_250706.json with 6849 products
+2026-03-15 05:34:29,641 - INFO - Loaded Refurbed_250622.json with 6847 products
+2026-03-15 05:34:29,671 - INFO - Loaded Refurbed_250928.json with 5729 products
+2026-03-15 05:34:29,719 - INFO - Loaded Refurbed_250713.json with 6850 products
+2026-03-15 05:34:29,747 - INFO - Loaded Refurbed_251102.json with 5729 products
+2026-03-15 05:34:29,775 - INFO - Loaded Refurbed_251130.json with 5729 products
+2026-03-15 05:34:29,991 - INFO - Loaded Refurbed_250601.json with 6799 products
+2026-03-15 05:34:30,022 - INFO - Loaded Refurbed_250914.json with 5733 products
+2026-03-15 05:34:30,069 - INFO - Loaded Refurbed_250629.json with 6849 products
+2026-03-15 05:34:30,097 - INFO - Loaded Refurbed_251221.json with 5726 products
+2026-03-15 05:34:30,144 - INFO - Loaded Refurbed_250511.json with 6760 products
+2026-03-15 05:34:30,192 - INFO - Loaded Refurbed_250413.json with 6685 products
+2026-03-15 05:34:30,221 - INFO - Loaded Refurbed_260215.json with 5728 products
+2026-03-15 05:34:30,251 - INFO - Loaded Refurbed_260104.json with 5728 products
+2026-03-15 05:34:30,299 - INFO - Loaded Refurbed_250817.json with 6846 products
+2026-03-15 05:34:30,346 - INFO - Loaded Refurbed_250803.json with 6847 products
+2026-03-15 05:34:30,392 - INFO - Loaded Refurbed_250727.json with 6847 products
+2026-03-15 05:34:30,443 - INFO - Loaded Refurbed_250615.json with 6850 products
+2026-03-15 05:34:30,471 - INFO - Loaded Refurbed_260308.json with 5731 products
+2026-03-15 05:34:30,732 - INFO - Loaded Refurbed_250824.json with 6847 products
+2026-03-15 05:34:30,762 - INFO - Loaded Refurbed_251012.json with 5731 products
+2026-03-15 05:34:30,808 - INFO - Loaded Refurbed_250312.json with 6589 products
+2026-03-15 05:34:30,836 - INFO - Loaded Refurbed_251207.json with 5728 products
+2026-03-15 05:34:30,864 - INFO - Loaded Refurbed_251116.json with 5716 products
+2026-03-15 05:34:30,864 - INFO - Found 49 data files
+2026-03-15 05:34:30,864 - INFO - Preparing price history...
+2026-03-15 05:34:31,042 - INFO - Prepared price history for 6865 products
+2026-03-15 05:34:31,042 - INFO - Building prediction models...
+2026-03-15 05:34:36,953 - INFO - Built prediction models for 6852 products
+2026-03-15 05:34:36,953 - INFO - Generating predictions...
+2026-03-15 05:34:38,321 - INFO - Generated predictions for 6852 products
+2026-03-15 05:34:38,321 - INFO - Saving predictions...
+2026-03-15 05:34:38,709 - INFO - Saved predictions to /home/runner/work/M3-scraper/M3-scraper/docs/price_predictions.json
+2026-03-15 05:34:38,711 - INFO - Generating summary statistics...
+2026-03-15 05:34:38,718 - INFO - Price prediction process completed successfully
