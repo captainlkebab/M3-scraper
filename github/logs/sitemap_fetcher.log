@@ -2381,3 +2381,5 @@ Exclusion Summary for Refurbed:
 2026-04-05 02:49:12,012 - ERROR - Error fetching sitemap: 403 Client Error: Forbidden for url: https://www.backmarket.de/sitemap_1.xml
 2026-04-12 02:54:41,024 - ERROR - Error fetching sitemap: 404 Client Error: Not Found for url: https://www.refurbed.de/sitemap-marketplace.xml
 2026-04-12 02:54:42,173 - ERROR - Error fetching sitemap: 403 Client Error: Forbidden for url: https://www.backmarket.de/sitemap_1.xml
+2026-04-19 03:17:56,773 - ERROR - Error fetching sitemap: 404 Client Error: Not Found for url: https://www.refurbed.de/sitemap-marketplace.xml
+2026-04-19 03:17:57,797 - ERROR - Error fetching sitemap: 403 Client Error: Forbidden for url: https://www.backmarket.de/sitemap_1.xml
