@@ -82,11 +82,6 @@
       "name": "Printers & Scanner",
       "trend_pct": 0.04,
       "count": 132
-    },
-    {
-      "name": "Audio",
-      "trend_pct": 0.0,
-      "count": 117
     }
   ],
   "trending_down_categories": [
@@ -102,7 +97,7 @@
     },
     {
       "name": "Laptops",
-      "trend_pct": -0.87,
+      "trend_pct": -0.88,
       "count": 3574
     },
     {
@@ -166,7 +161,7 @@
     },
     {
       "name": "Apple",
-      "trend_pct": -3.1,
+      "trend_pct": -3.11,
       "count": 130
     }
   ]
