@@ -134,14 +134,14 @@
     },
     {
       "name": "LG",
-      "trend_pct": 0.25,
+      "trend_pct": 0.26,
       "count": 137
     }
   ],
   "trending_down_brands": [
     {
       "name": "Honor",
-      "trend_pct": -2.0,
+      "trend_pct": -1.99,
       "count": 92
     },
     {
@@ -161,7 +161,7 @@
     },
     {
       "name": "Apple",
-      "trend_pct": -3.13,
+      "trend_pct": -3.14,
       "count": 130
     }
   ]
